@@ -12,6 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / "cartoon_image_manifest.txt"
 COURSE = ROOT / "prim4_course_cards.json"
 ASSETS = ROOT / "uploaded_image_asset_manifest.json"
+IMAGE_MAP = ROOT / "uploaded_cartoon_images.json"
 OUT = ROOT / "final_missing_terms.md"
 
 
@@ -41,13 +42,14 @@ def original_unit_one_terms() -> set[str]:
 def main():
     manifest = read_manifest()
     uploaded = {normalize(item["term"]) for item in json.loads(ASSETS.read_text(encoding="utf-8"))}
+    uploaded.update(normalize(term) for term in json.loads(IMAGE_MAP.read_text(encoding="utf-8")).keys())
     preexisting = {item["id"] <= 10 and normalize(item["term"]) or "" for item in manifest}
     preexisting.update(original_unit_one_terms())
     missing = [item for item in manifest if normalize(item["term"]) not in uploaded and normalize(item["term"]) not in preexisting]
     lines = [
         "# الكلمات التي ما زالت بلا صورة مرتبطة",
         "",
-        f"إجمالي الكلمات الفريدة: **{len(manifest)}**. الصور الجديدة المرتبطة من ملفات المستخدم: **{len(uploaded)}**. الكلمات المتبقية بلا صورة: **{len(missing)}**.",
+        f"إجمالي الكلمات الفريدة: **{len(manifest)}**. الكلمات المرتبطة بصور فردية: **{len(uploaded)}**. الكلمات المتبقية بلا صورة: **{len(missing)}**.",
         "",
         "```text",
         ", ".join(item["term"] for item in missing),
