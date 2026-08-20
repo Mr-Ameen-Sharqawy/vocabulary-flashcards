@@ -13,7 +13,6 @@ import {
   RotateCcw,
   Shuffle,
   Sparkles,
-  Volume2,
   X,
 } from "lucide-react";
 import { useMemo, useState } from "react";
@@ -28,6 +27,7 @@ export default function Home() {
   const [answers, setAnswers] = useState<Record<number, number>>({});
   const [isRailOpen, setIsRailOpen] = useState(false);
   const [isCardFlipped, setIsCardFlipped] = useState(false);
+  const [hasHeardCurrentWord, setHasHeardCurrentWord] = useState(false);
 
   const currentCard = deck[currentIndex];
   const options = useMemo(() => buildOptions(currentCard), [currentCard]);
@@ -51,12 +51,14 @@ export default function Home() {
     const nextIndex = Math.min(Math.max(currentIndex + direction, 0), deck.length - 1);
     setCurrentIndex(nextIndex);
     setIsCardFlipped(false);
+    setHasHeardCurrentWord(false);
   }
 
   function moveToCategory(categoryId: Flashcard["category"]) {
     const target = deck.findIndex((card) => card.category === categoryId);
     if (target >= 0) setCurrentIndex(target);
     setIsCardFlipped(false);
+    setHasHeardCurrentWord(false);
     setIsRailOpen(false);
   }
 
@@ -66,6 +68,7 @@ export default function Home() {
     setCurrentIndex(0);
     setAnswers({});
     setIsCardFlipped(false);
+    setHasHeardCurrentWord(false);
   }
 
   function resetDeck() {
@@ -73,16 +76,26 @@ export default function Home() {
     setCurrentIndex(0);
     setAnswers({});
     setIsCardFlipped(false);
+    setHasHeardCurrentWord(false);
   }
 
   function pronounceWord() {
-    setIsCardFlipped(true);
     if (typeof window === "undefined" || !window.speechSynthesis) return;
     window.speechSynthesis.cancel();
     const utterance = new SpeechSynthesisUtterance(currentCard.term.replace(/[!?.]/g, ""));
     utterance.lang = "en-US";
     utterance.rate = 0.78;
     window.speechSynthesis.speak(utterance);
+  }
+
+  function handleWordPress() {
+    if (!hasHeardCurrentWord) {
+      setHasHeardCurrentWord(true);
+      pronounceWord();
+      return;
+    }
+
+    setIsCardFlipped(true);
   }
 
   return (
@@ -173,8 +186,18 @@ export default function Home() {
                   <section className="sf-flip-face sf-flip-front">
                     <div className="sf-guess-content">
                       <p className="sf-guess-kicker">BEFORE YOU LISTEN</p>
-                      <strong className="sf-guess-word" dir="ltr">{currentCard.term}</strong>
-                      <p className="sf-guess-hint">فكّر في المعنى أولًا، ثم اضغط زر الاستماع لكشف الصورة.</p>
+                      <button
+                        className={`sf-guess-word ${hasHeardCurrentWord ? "is-ready" : ""}`}
+                        onClick={handleWordPress}
+                        aria-label={hasHeardCurrentWord ? `Reveal the picture for ${currentCard.term}` : `Listen to ${currentCard.term}`}
+                      >
+                        <span dir="ltr">{currentCard.term}</span>
+                      </button>
+                      <p className="sf-guess-hint">
+                        {hasHeardCurrentWord
+                          ? "اضغط على الكلمة مرة ثانية لتكشف الصورة."
+                          : "اضغط على الكلمة لتسمع نطقها أولًا."}
+                      </p>
                     </div>
                     <span className="sf-guess-count" dir="ltr">{String(currentIndex + 1).padStart(2, "0")}</span>
                   </section>
@@ -192,7 +215,6 @@ export default function Home() {
             <div className="sf-card-content">
               <div className="sf-card-term-row">
                 <span className="sf-part-badge">{currentCard.part}</span>
-                <button className="sf-sound-button" onClick={pronounceWord} aria-label={`Listen to ${currentCard.term} and flip card`} aria-pressed={isCardFlipped}><Volume2 size={17} /></button>
               </div>
               <p className="sf-question-label">Choose the correct definition</p>
               <p className="sf-question-ar">اختر التعريف الصحيح للكلمة.</p>

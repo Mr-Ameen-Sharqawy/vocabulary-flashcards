@@ -112,7 +112,11 @@ button { -webkit-tap-highlight-color: transparent; }
 .sf-flip-back::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(15,45,76,.18), transparent 36%, rgba(15,45,76,.67)); pointer-events: none; }
 .sf-guess-content { position: relative; z-index: 2; max-width: 320px; text-align: center; }
 .sf-guess-kicker { margin: 0 0 13px; color: var(--coral); font: 800 11px/1 "Nunito Sans", sans-serif; letter-spacing: .12em; }
-.sf-guess-word { display: block; color: var(--ink-deep); font: 800 clamp(54px, 7vw, 84px)/.9 "Baloo 2", sans-serif; letter-spacing: -.07em; }
+.sf-guess-word { display: inline-block; border: 0; padding: 7px 10px 9px; color: var(--ink-deep); background: transparent; font: 800 clamp(54px, 7vw, 84px)/.9 "Baloo 2", sans-serif; letter-spacing: -.07em; cursor: pointer; transition: transform 160ms var(--ease-out), color 160ms var(--ease-out), text-shadow 160ms var(--ease-out); }
+.sf-guess-word:hover { color: var(--blue); transform: translateY(-3px); text-shadow: 0 7px 14px rgba(30,95,168,.14); }
+.sf-guess-word:focus-visible { outline: 3px solid var(--gold); outline-offset: 5px; border-radius: 8px; }
+.sf-guess-word:active { transform: scale(.97); }
+.sf-guess-word.is-ready { color: var(--blue); text-decoration: underline; text-decoration-color: var(--gold); text-decoration-thickness: 5px; text-underline-offset: 8px; }
 .sf-guess-hint { margin: 18px 0 0; color: #4f6e89; font-size: 12px; line-height: 2; }
 .sf-guess-count { position: absolute; z-index: 2; left: 21px; bottom: 18px; color: var(--blue); font: 800 20px/1 "Baloo 2", sans-serif; }
 .sf-flip-back { display: grid; grid-template-rows: minmax(0, 1fr) auto; transform: rotateY(180deg); background: #fffefa; }
@@ -126,8 +130,6 @@ button { -webkit-tap-highlight-color: transparent; }
 .sf-card-content::before { content: ""; position: absolute; top: 0; right: 0; width: 84px; height: 9px; background: var(--gold); }
 .sf-card-term-row { display: flex; align-items: center; justify-content: space-between; }
 .sf-part-badge { display: inline-block; color: #477294; background: var(--blue-light); padding: 7px 10px; border-radius: 5px; font: 800 10px/1 "Nunito Sans", sans-serif; direction: ltr; }
-.sf-sound-button { display: grid; place-items: center; width: 36px; height: 36px; border: 1px solid #d4e1eb; border-radius: 50%; background: #fff; color: var(--blue); transition: transform 160ms var(--ease-out), background-color 160ms var(--ease-out); }
-.sf-sound-button:hover { background: var(--blue-light); transform: translateY(-2px); }
 .sf-question-label { margin: 31px 0 3px; color: var(--coral); font: 800 11px/1 "Nunito Sans", sans-serif; letter-spacing: .05em; direction: ltr; }
 .sf-question-ar { margin: 9px 0 22px; color: var(--muted); font-size: 12px; }
 .sf-options { display: grid; gap: 10px; }
