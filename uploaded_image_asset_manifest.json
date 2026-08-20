@@ -2358,5 +2358,1103 @@
     "source_number": 1000212455,
     "confidence": "manual",
     "has_visible_text": true
+  },
+  {
+    "term": "building",
+    "normalized": "building",
+    "id": 29,
+    "source_number": 71,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Egyptian_Museum_building_illustr…_202608201856.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-029-building.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "built",
+    "normalized": "built",
+    "id": 30,
+    "source_number": 19,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Cartoon_wooden_blocks_illustration_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-030-built.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "by hand",
+    "normalized": "by hand",
+    "id": 34,
+    "source_number": 116,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Illustration_showing_basket_weaving_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-034-by-hand.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "checked",
+    "normalized": "checked",
+    "id": 54,
+    "source_number": 107,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Teacher_checking_student_work_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-054-checked.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "coat",
+    "normalized": "coat",
+    "id": 62,
+    "source_number": 57,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Children's_winter_coat_illustration_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-062-coat.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "coins",
+    "normalized": "coins",
+    "id": 63,
+    "source_number": 79,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Gold_coins_for_children_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-063-coins.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "collect",
+    "normalized": "collect",
+    "id": 65,
+    "source_number": 24,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Child_collecting_seashells_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-065-collect.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "come inside",
+    "normalized": "come inside",
+    "id": 67,
+    "source_number": 27,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_invited_inside_cozy_house_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-067-come-inside.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "competition",
+    "normalized": "competition",
+    "id": 70,
+    "source_number": 62,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Children_participating_in_sack_race_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-070-competition.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "country",
+    "normalized": "country",
+    "id": 72,
+    "source_number": 10,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Cartoon_illustration_representin…_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-072-country.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "covered with",
+    "normalized": "covered with",
+    "id": 73,
+    "source_number": 105,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Table_covered_with_colorful_cloth_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-073-covered-with.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "create",
+    "normalized": "create",
+    "id": 75,
+    "source_number": 49,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_wants_to_create_painting_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-075-create.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "created",
+    "normalized": "created",
+    "id": 76,
+    "source_number": 49,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_wants_to_create_painting_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-076-created.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "crooked",
+    "normalized": "crooked",
+    "id": 77,
+    "source_number": 20,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Cartoonish_crooked_tree_illustra…_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-077-crooked.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "culture",
+    "normalized": "culture",
+    "id": 78,
+    "source_number": 10,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Cartoon_illustration_representin…_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-078-culture.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "dates",
+    "normalized": "dates",
+    "id": 84,
+    "source_number": 70,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Dates_growing_on_palm_tree_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-084-dates.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "daytime",
+    "normalized": "daytime",
+    "id": 85,
+    "source_number": 99,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Smiling_sun_illustration_202608201856.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-085-daytime.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "decorations",
+    "normalized": "decorations",
+    "id": 86,
+    "source_number": 83,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Party_decorations_and_balloons_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-086-decorations.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "designs",
+    "normalized": "designs",
+    "id": 88,
+    "source_number": 67,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Colorful_designs_on_children_T-s…_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-088-designs.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "die",
+    "normalized": "die",
+    "id": 90,
+    "source_number": 75,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Flower_wilting_naturally_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-090-die.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "died",
+    "normalized": "died",
+    "id": 91,
+    "source_number": 14,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Cartoon_plant_died_illustration_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-091-died.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "disappearing",
+    "normalized": "disappearing",
+    "id": 94,
+    "source_number": 123,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Object_disappearing_like_magic_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-094-disappearing.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "during the day",
+    "normalized": "during the day",
+    "id": 107,
+    "source_number": 99,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Smiling_sun_illustration_202608201856.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-107-during-the-day.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "eating habits",
+    "normalized": "eating habits",
+    "id": 108,
+    "source_number": 87,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Plate_of_fruits_and_vegetables_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-108-eating-habits.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "Egyptian Museum",
+    "normalized": "egyptian museum",
+    "id": 109,
+    "source_number": 71,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Egyptian_Museum_building_illustr…_202608201856.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-109-egyptian-museum.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "elephant",
+    "normalized": "elephant",
+    "id": 110,
+    "source_number": 81,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Cartoon_elephant_illustration_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-110-elephant.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "experience",
+    "normalized": "experience",
+    "id": 124,
+    "source_number": 29,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_learning_to_ride_bike_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-124-experience.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "faraway",
+    "normalized": "faraway",
+    "id": 129,
+    "source_number": 122,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Mountains_and_sea_illustration_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-129-faraway.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "furniture",
+    "normalized": "furniture",
+    "id": 157,
+    "source_number": 5,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Cartoon_furniture_for_children_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-157-furniture.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "galabeya",
+    "normalized": "galabeya",
+    "id": 158,
+    "source_number": 56,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Child_wearing_traditional_galabeya_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-158-galabeya.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "getting enough sleep",
+    "normalized": "getting enough sleep",
+    "id": 162,
+    "source_number": 38,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_sleeping_in_bed_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-162-getting-enough-sleep.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "hunt",
+    "normalized": "hunt",
+    "id": 188,
+    "source_number": 108,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Animals_hunting_for_food_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-188-hunt.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "hunted",
+    "normalized": "hunted",
+    "id": 189,
+    "source_number": 109,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Cartoon_animals_hunt_for_food_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-189-hunted.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "look dirty",
+    "normalized": "look dirty",
+    "id": 224,
+    "source_number": 60,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Children_handling_trash_responsibly_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-224-look-dirty.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "nurse",
+    "normalized": "nurse",
+    "id": 258,
+    "source_number": 13,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Cartoon_nurse_for_children_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-258-nurse.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "organization",
+    "normalized": "organization",
+    "id": 265,
+    "source_number": 60,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Children_handling_trash_responsibly_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-265-organization.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "owner",
+    "normalized": "owner",
+    "id": 268,
+    "source_number": 94,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Shop_owner_smiling_for_children_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-268-owner.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "photos",
+    "normalized": "photos",
+    "id": 279,
+    "source_number": 50,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Tourists_taking_photos_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-279-photos.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "pretend",
+    "normalized": "pretend",
+    "id": 291,
+    "source_number": 55,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Child_wearing_funny_costume_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-291-pretend.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "pretended",
+    "normalized": "pretended",
+    "id": 292,
+    "source_number": 55,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Child_wearing_funny_costume_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-292-pretended.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "problems",
+    "normalized": "problems",
+    "id": 294,
+    "source_number": 74,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Fixing_a_broken_toy_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-294-problems.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "proud to",
+    "normalized": "proud to",
+    "id": 298,
+    "source_number": 42,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_speaking_to_a_friend_202608201856.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-298-proud-to.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "put",
+    "normalized": "put",
+    "id": 300,
+    "source_number": 32,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_putting_toys_in_box_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-300-put.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "reach",
+    "normalized": "reach",
+    "id": 304,
+    "source_number": 111,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Hand_reaching_for_star_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-304-reach.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "regret",
+    "normalized": "regret",
+    "id": 311,
+    "source_number": 33,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_regretting_broken_toy_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-311-regret.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "request",
+    "normalized": "request",
+    "id": 312,
+    "source_number": 34,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_requesting_a_snack_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-312-request.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "said",
+    "normalized": "said",
+    "id": 320,
+    "source_number": 42,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_speaking_to_a_friend_202608201856.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-320-said.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "salt lake",
+    "normalized": "salt lake",
+    "id": 321,
+    "source_number": 101,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Sparkling_salt_lake_with_shores_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-321-salt-lake.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "say",
+    "normalized": "say",
+    "id": 324,
+    "source_number": 42,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_speaking_to_a_friend_202608201856.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-324-say.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "sell",
+    "normalized": "sell",
+    "id": 329,
+    "source_number": 36,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_selling_lemonade_at_stand_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-329-sell.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "shake",
+    "normalized": "shake",
+    "id": 330,
+    "source_number": 93,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Shaking_juice_bottle_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-330-shake.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "sharp",
+    "normalized": "sharp",
+    "id": 332,
+    "source_number": 102,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Student_studying_for_children_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-332-sharp.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "shock",
+    "normalized": "shock",
+    "id": 333,
+    "source_number": 104,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Surprised_child_seeing_big_gift_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-333-shock.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "shook",
+    "normalized": "shook",
+    "id": 334,
+    "source_number": 93,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Shaking_juice_bottle_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-334-shook.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "shopping mall",
+    "normalized": "shopping mall",
+    "id": 335,
+    "source_number": 96,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Shopping_mall_illustration_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-335-shopping-mall.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "sign",
+    "normalized": "sign",
+    "id": 340,
+    "source_number": 97,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Sign_pointing_to_park_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-340-sign.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "simple",
+    "normalized": "simple",
+    "id": 341,
+    "source_number": 116,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Illustration_showing_basket_weaving_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-341-simple.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "Siwa Oasis",
+    "normalized": "siwa oasis",
+    "id": 343,
+    "source_number": 113,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Illustration_of_Siwa_Oasis_pool_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-343-siwa-oasis.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "skilled",
+    "normalized": "skilled",
+    "id": 344,
+    "source_number": 130,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Young_artist_painting_landscape_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-344-skilled.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "smart",
+    "normalized": "smart",
+    "id": 347,
+    "source_number": 102,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Student_studying_for_children_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-347-smart.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "smile",
+    "normalized": "smile",
+    "id": 349,
+    "source_number": 39,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_smiling_illustration_202608201856.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-349-smile.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "sold",
+    "normalized": "sold",
+    "id": 353,
+    "source_number": 100,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Sold_item_sticker_illustration_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-353-sold.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "solutions",
+    "normalized": "solutions",
+    "id": 354,
+    "source_number": 74,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Fixing_a_broken_toy_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-354-solutions.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "solve",
+    "normalized": "solve",
+    "id": 355,
+    "source_number": 40,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_solving_puzzle_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-355-solve.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "solved",
+    "normalized": "solved",
+    "id": 356,
+    "source_number": 84,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Person_solving_mystery_with_magn…_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-356-solved.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "soup",
+    "normalized": "soup",
+    "id": 357,
+    "source_number": 4,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Bowl_of_steaming_soup_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-357-soup.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "south",
+    "normalized": "south",
+    "id": 358,
+    "source_number": 115,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Illustration_representing_south_…_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-358-south.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "South Sinai",
+    "normalized": "south sinai",
+    "id": 359,
+    "source_number": 122,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Mountains_and_sea_illustration_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-359-south-sinai.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "spray",
+    "normalized": "spray",
+    "id": 363,
+    "source_number": 73,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Firefighters_holding_water_hoses_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-363-spray.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "sprayed",
+    "normalized": "sprayed",
+    "id": 364,
+    "source_number": 73,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Firefighters_holding_water_hoses_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-364-sprayed.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "stand",
+    "normalized": "stand",
+    "id": 368,
+    "source_number": 103,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Sturdy_wall_standing_strong_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-368-stand.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "stay sharp",
+    "normalized": "stay sharp",
+    "id": 370,
+    "source_number": 102,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Student_studying_for_children_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-370-stay-sharp.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "still stand",
+    "normalized": "still stand",
+    "id": 371,
+    "source_number": 103,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Sturdy_wall_standing_strong_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-371-still-stand.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "stones",
+    "normalized": "stones",
+    "id": 372,
+    "source_number": 68,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Colorful_stones_by_river_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-372-stones.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "strong",
+    "normalized": "strong",
+    "id": 377,
+    "source_number": 103,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Sturdy_wall_standing_strong_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-377-strong.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "sweets",
+    "normalized": "sweets",
+    "id": 386,
+    "source_number": 106,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Table_covered_with_treats_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-386-sweets.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "take",
+    "normalized": "take",
+    "id": 388,
+    "source_number": 44,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_taking_a_shower_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-388-take.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "take a shower",
+    "normalized": "take a shower",
+    "id": 389,
+    "source_number": 44,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_taking_a_shower_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-389-take-a-shower.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "taste better",
+    "normalized": "taste better",
+    "id": 394,
+    "source_number": 87,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Plate_of_fruits_and_vegetables_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-394-taste-better.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "tell",
+    "normalized": "tell",
+    "id": 397,
+    "source_number": 42,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_speaking_to_a_friend_202608201856.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-397-tell.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "tell stories",
+    "normalized": "tell stories",
+    "id": 398,
+    "source_number": 46,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_telling_story_to_friends_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-398-tell-stories.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "That's cool!",
+    "normalized": "that s cool",
+    "id": 400,
+    "source_number": 35,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_seeing_rainbow_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-400-that-s-cool.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "the Arabian Leopard",
+    "normalized": "the arabian leopard",
+    "id": 401,
+    "source_number": 1,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Arabian_Leopard_illustration_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-401-the-arabian-leopard.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "the Delta",
+    "normalized": "the delta",
+    "id": 402,
+    "source_number": 114,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Illustration_representing_Delta_…_202608201856.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-402-the-delta.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "the Middle East",
+    "normalized": "the middle east",
+    "id": 404,
+    "source_number": 10,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Cartoon_illustration_representin…_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-404-the-middle-east.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "the Red Sea Dugong",
+    "normalized": "the red sea dugong",
+    "id": 405,
+    "source_number": 90,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Red_Sea_Dugong_illustration_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-405-the-red-sea-dugong.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "throw",
+    "normalized": "throw",
+    "id": 408,
+    "source_number": 47,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_throwing_ball_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-408-throw.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "threw",
+    "normalized": "threw",
+    "id": 407,
+    "source_number": 47,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_throwing_ball_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-407-threw.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "told",
+    "normalized": "told",
+    "id": 409,
+    "source_number": 46,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_telling_story_to_friends_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-409-told.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "took",
+    "normalized": "took",
+    "id": 411,
+    "source_number": 44,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_taking_a_shower_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-411-took.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "tour guide",
+    "normalized": "tour guide",
+    "id": 415,
+    "source_number": 17,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Cartoon_tour_guide_for_children_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-415-tour-guide.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "tourists",
+    "normalized": "tourists",
+    "id": 416,
+    "source_number": 50,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Tourists_taking_photos_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-416-tourists.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "train station",
+    "normalized": "train station",
+    "id": 420,
+    "source_number": 18,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Cartoon_train_station_illustration_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-420-train-station.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "trash",
+    "normalized": "trash",
+    "id": 421,
+    "source_number": 60,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Children_handling_trash_responsibly_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-421-trash.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "trick",
+    "normalized": "trick",
+    "id": 423,
+    "source_number": 121,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Magic_trick_for_children_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-423-trick.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "truck",
+    "normalized": "truck",
+    "id": 424,
+    "source_number": 69,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Colorful_truck_illustration_for_…_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-424-truck.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "trunk",
+    "normalized": "trunk",
+    "id": 425,
+    "source_number": 72,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Elephant_trunk_illustration_202608201856.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-425-trunk.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "turban",
+    "normalized": "turban",
+    "id": 426,
+    "source_number": 52,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Traditional_turban_illustration_…_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-426-turban.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "TV program",
+    "normalized": "tv program",
+    "id": 427,
+    "source_number": 63,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Children_television_program_illu…_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-427-tv-program.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "uniform",
+    "normalized": "uniform",
+    "id": 430,
+    "source_number": 15,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Cartoon_school_uniform_for_children_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-430-uniform.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "unkindness",
+    "normalized": "unkindness",
+    "id": 431,
+    "source_number": 119,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Illustration_teaching_kindness_t…_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-431-unkindness.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "Upper Egypt",
+    "normalized": "upper egypt",
+    "id": 432,
+    "source_number": 10,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Cartoon_illustration_representin…_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-432-upper-egypt.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "usual",
+    "normalized": "usual",
+    "id": 435,
+    "source_number": 59,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Children_doing_daily_activities_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-435-usual.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "vest",
+    "normalized": "vest",
+    "id": 437,
+    "source_number": 66,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Colorful_children_vest_illustration_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-437-vest.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "vet",
+    "normalized": "vet",
+    "id": 438,
+    "source_number": 54,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Veterinarian_helping_animal_cartoon_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-438-vet.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "visitors",
+    "normalized": "visitors",
+    "id": 439,
+    "source_number": 127,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Visitors_arriving_at_park_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-439-visitors.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "voice",
+    "normalized": "voice",
+    "id": 441,
+    "source_number": 98,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Singing_bird_representing_voice_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-441-voice.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "voice-over actor",
+    "normalized": "voice over actor",
+    "id": 442,
+    "source_number": 128,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Voice-over_actor_using_microphone_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-442-voice-over-actor.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "wake up early",
+    "normalized": "wake up early",
+    "id": 446,
+    "source_number": 48,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/02/Child_waking_early_for_sun_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-446-wake-up-early.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "wash face",
+    "normalized": "wash face",
+    "id": 451,
+    "source_number": 64,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Children_washing_face_illustration_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-451-wash-face.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "water hoses",
+    "normalized": "water hoses",
+    "id": 452,
+    "source_number": 73,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Firefighters_holding_water_hoses_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-452-water-hoses.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "weak",
+    "normalized": "weak",
+    "id": 453,
+    "source_number": 75,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Flower_wilting_naturally_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-453-weak.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "weave",
+    "normalized": "weave",
+    "id": 455,
+    "source_number": 116,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Illustration_showing_basket_weaving_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-455-weave.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "wildlife photographer",
+    "normalized": "wildlife photographer",
+    "id": 459,
+    "source_number": 86,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Photographer_taking_photos_of_an…_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-459-wildlife-photographer.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "wise",
+    "normalized": "wise",
+    "id": 461,
+    "source_number": 124,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Owl_illustration_for_children_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-461-wise.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "wonderful",
+    "normalized": "wonderful",
+    "id": 462,
+    "source_number": 99,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/04/Smiling_sun_illustration_202608201856.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-462-wonderful.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "wooden",
+    "normalized": "wooden",
+    "id": 463,
+    "source_number": 19,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Cartoon_wooden_blocks_illustration_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-463-wooden.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "wore",
+    "normalized": "wore",
+    "id": 464,
+    "source_number": 15,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Cartoon_school_uniform_for_children_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-464-wore.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "work as",
+    "normalized": "work as",
+    "id": 465,
+    "source_number": 2,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/01/Baker_working_for_children_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-465-work-as.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "wove",
+    "normalized": "wove",
+    "id": 466,
+    "source_number": 116,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Illustration_showing_basket_weaving_202608201855.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-466-wove.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "Yours truly",
+    "normalized": "yours truly",
+    "id": 467,
+    "source_number": 131,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/05/Yours_truly_sign_with_heart_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-467-yours-truly.jpeg",
+    "confidence": "manual-high"
+  },
+  {
+    "term": "zebra",
+    "normalized": "zebra",
+    "id": 469,
+    "source_number": 78,
+    "source_path": "/home/ubuntu/webdev-static-assets/primary4-remaining-uploaded/03/Friendly_zebra_illustration_202608201854.jpeg",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-469-zebra.jpeg",
+    "confidence": "manual-high"
   }
 ]

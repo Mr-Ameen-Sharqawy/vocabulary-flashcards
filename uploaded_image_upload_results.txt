@@ -1186,3 +1186,495 @@ Storage Path: /manus-storage/cartoon-468-yummy_5ed44910.jpg
 [SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-468-yummy.jpg -> /manus-storage/cartoon-468-yummy_5ed44910.jpg
 =====================================
 Total: 100, Success: 100, Failed: 0
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-029-building.jpeg (size: 1157985 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-029-building_d7ce275a.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-030-built.jpeg (size: 792523 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-030-built_6188e25c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-034-by-hand.jpeg (size: 914003 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-034-by-hand_79634716.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-054-checked.jpeg (size: 983011 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-054-checked_189b6fbc.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-062-coat.jpeg (size: 895814 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-062-coat_00c538e5.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-063-coins.jpeg (size: 940358 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-063-coins_67c7ef1a.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-065-collect.jpeg (size: 957519 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-065-collect_6d6afa14.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-067-come-inside.jpeg (size: 1110670 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-067-come-inside_1168dcd0.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-070-competition.jpeg (size: 1067624 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-070-competition_410b0609.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-072-country.jpeg (size: 1046690 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-072-country_971e42d5.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-073-covered-with.jpeg (size: 972800 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-073-covered-with_03616b97.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-075-create.jpeg (size: 780200 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-075-create_7147cdf0.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-076-created.jpeg (size: 780200 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-076-created_accd805d.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-077-crooked.jpeg (size: 1135291 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-077-crooked_6b6ca893.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-078-culture.jpeg (size: 1046690 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-078-culture_855cac7c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-084-dates.jpeg (size: 1024303 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-084-dates_2aa80062.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-085-daytime.jpeg (size: 968669 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-085-daytime_34a8a576.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-086-decorations.jpeg (size: 1107467 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-086-decorations_68fbd840.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-088-designs.jpeg (size: 867094 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-088-designs_4ed17184.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-090-die.jpeg (size: 930291 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-090-die_f78dbf6e.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-091-died.jpeg (size: 716239 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-091-died_c19b9525.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-094-disappearing.jpeg (size: 787777 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-094-disappearing_f6f5f714.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-107-during-the-day.jpeg (size: 968669 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-107-during-the-day_6ce6b79c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-108-eating-habits.jpeg (size: 1023605 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-108-eating-habits_90e66f6b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-109-egyptian-museum.jpeg (size: 1157985 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-109-egyptian-museum_75b06d74.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-110-elephant.jpeg (size: 958125 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-110-elephant_4db62aec.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-124-experience.jpeg (size: 1044257 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-124-experience_8ecffc0c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-129-faraway.jpeg (size: 984442 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-129-faraway_0770e76d.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-157-furniture.jpeg (size: 806504 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-157-furniture_494e513f.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-158-galabeya.jpeg (size: 1018036 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-158-galabeya_9ae89680.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-162-getting-enough-sleep.jpeg (size: 897664 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-162-getting-enough-sleep_1233e567.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-188-hunt.jpeg (size: 1259660 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-188-hunt_a1934796.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-189-hunted.jpeg (size: 1152909 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-189-hunted_fbb926b3.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-224-look-dirty.jpeg (size: 1037482 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-224-look-dirty_508f220d.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-258-nurse.jpeg (size: 914045 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-258-nurse_fbfb02b9.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-265-organization.jpeg (size: 1037482 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-265-organization_3ee583c1.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-268-owner.jpeg (size: 921839 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-268-owner_d32e2584.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-279-photos.jpeg (size: 1174905 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-279-photos_d62458ec.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-291-pretend.jpeg (size: 776869 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-291-pretend_26e53cc2.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-292-pretended.jpeg (size: 776869 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-292-pretended_1d147b2e.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-294-problems.jpeg (size: 845432 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-294-problems_013ffb10.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-298-proud-to.jpeg (size: 759202 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-298-proud-to_b5827ba0.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-300-put.jpeg (size: 764901 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-300-put_78c59492.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-304-reach.jpeg (size: 967842 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-304-reach_3fa26b9f.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-311-regret.jpeg (size: 734585 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-311-regret_0fef4da1.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-312-request.jpeg (size: 945399 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-312-request_20fc201c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-320-said.jpeg (size: 759202 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-320-said_cbf85ca9.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-321-salt-lake.jpeg (size: 922982 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-321-salt-lake_a1772ded.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-324-say.jpeg (size: 759202 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-324-say_ffa077f1.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-329-sell.jpeg (size: 979337 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-329-sell_26ca143c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-330-shake.jpeg (size: 763442 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-330-shake_cd1f9efc.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-332-sharp.jpeg (size: 485746 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-332-sharp_040f5e87.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-333-shock.jpeg (size: 987120 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-333-shock_84ddd2db.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-334-shook.jpeg (size: 763442 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-334-shook_d51b9293.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-335-shopping-mall.jpeg (size: 1203660 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-335-shopping-mall_0b8914cd.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-340-sign.jpeg (size: 942738 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-340-sign_fb369aa4.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-341-simple.jpeg (size: 914003 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-341-simple_d37622e0.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-343-siwa-oasis.jpeg (size: 1141255 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-343-siwa-oasis_0c782b4f.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-344-skilled.jpeg (size: 890347 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-344-skilled_7f96644b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-347-smart.jpeg (size: 485746 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-347-smart_4df58f43.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-349-smile.jpeg (size: 744147 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-349-smile_4fe15c5f.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-353-sold.jpeg (size: 776804 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-353-sold_d4b730c1.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-354-solutions.jpeg (size: 845432 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-354-solutions_c152d485.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-355-solve.jpeg (size: 1039410 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-355-solve_21aeac7a.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-356-solved.jpeg (size: 952747 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-356-solved_6848c7fc.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-357-soup.jpeg (size: 743293 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-357-soup_d2ae2e23.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-358-south.jpeg (size: 913097 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-358-south_d12ca1c5.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-359-south-sinai.jpeg (size: 984442 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-359-south-sinai_33f47171.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-363-spray.jpeg (size: 1125659 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-363-spray_07c0c445.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-364-sprayed.jpeg (size: 1125659 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-364-sprayed_ffee587b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-368-stand.jpeg (size: 1110180 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-368-stand_bd3e7c95.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-370-stay-sharp.jpeg (size: 485746 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-370-stay-sharp_418613cc.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-371-still-stand.jpeg (size: 1110180 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-371-still-stand_5c3c3829.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-372-stones.jpeg (size: 1009766 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-372-stones_1c10849e.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-377-strong.jpeg (size: 1110180 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-377-strong_b40a3b4c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-386-sweets.jpeg (size: 914077 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-386-sweets_8d324b44.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-388-take.jpeg (size: 946856 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-388-take_15669102.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-389-take-a-shower.jpeg (size: 946856 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-389-take-a-shower_bb1af7fb.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-394-taste-better.jpeg (size: 1023605 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-394-taste-better_2df27525.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-397-tell.jpeg (size: 759202 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-397-tell_c8134e6f.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-398-tell-stories.jpeg (size: 1035889 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-398-tell-stories_23aec1e9.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-400-that-s-cool.jpeg (size: 918592 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-400-that-s-cool_7b0e0827.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-401-the-arabian-leopard.jpeg (size: 966012 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-401-the-arabian-leopard_ba5076a3.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-402-the-delta.jpeg (size: 1152974 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-402-the-delta_f419ec0b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-404-the-middle-east.jpeg (size: 1046690 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-404-the-middle-east_46c5c9e1.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-405-the-red-sea-dugong.jpeg (size: 1127787 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-405-the-red-sea-dugong_5842cdfb.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-408-throw.jpeg (size: 968128 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-408-throw_e75206db.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-407-threw.jpeg (size: 968128 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-407-threw_5d13cdc8.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-409-told.jpeg (size: 1035889 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-409-told_5d7579b1.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-411-took.jpeg (size: 946856 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-411-took_150c427a.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-415-tour-guide.jpeg (size: 1159872 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-415-tour-guide_e5194e14.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-416-tourists.jpeg (size: 1174905 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-416-tourists_c7c7097b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-420-train-station.jpeg (size: 1161796 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-420-train-station_4ade28a8.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-421-trash.jpeg (size: 1037482 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-421-trash_c9c239b5.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-423-trick.jpeg (size: 986020 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-423-trick_ce18c1b5.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-424-truck.jpeg (size: 1012099 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-424-truck_cddd31f1.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-425-trunk.jpeg (size: 1034348 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-425-trunk_0af98393.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-426-turban.jpeg (size: 863324 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-426-turban_3fe2ba0b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-427-tv-program.jpeg (size: 1051420 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-427-tv-program_499b9e0b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-430-uniform.jpeg (size: 722786 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-430-uniform_89fc8cab.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-431-unkindness.jpeg (size: 868762 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-431-unkindness_00fe412d.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-432-upper-egypt.jpeg (size: 1046690 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-432-upper-egypt_4e0c98fa.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-435-usual.jpeg (size: 1040476 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-435-usual_8157d771.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-437-vest.jpeg (size: 669222 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-437-vest_f6369407.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-438-vet.jpeg (size: 974103 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-438-vet_e6cda6b7.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-439-visitors.jpeg (size: 1084332 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-439-visitors_2c523b13.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-441-voice.jpeg (size: 1015610 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-441-voice_e6b5e73b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-442-voice-over-actor.jpeg (size: 917965 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-442-voice-over-actor_5384d06e.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-446-wake-up-early.jpeg (size: 877784 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-446-wake-up-early_d1a3dbf0.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-451-wash-face.jpeg (size: 953749 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-451-wash-face_19ac4873.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-452-water-hoses.jpeg (size: 1125659 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-452-water-hoses_a1ac90f7.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-453-weak.jpeg (size: 930291 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-453-weak_a43a2887.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-455-weave.jpeg (size: 914003 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-455-weave_69ea9910.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-459-wildlife-photographer.jpeg (size: 1135807 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-459-wildlife-photographer_07eb5209.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-461-wise.jpeg (size: 1024602 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-461-wise_b55e0f54.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-462-wonderful.jpeg (size: 968669 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-462-wonderful_e47a14c1.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-463-wooden.jpeg (size: 792523 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-463-wooden_4eaadded.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-464-wore.jpeg (size: 722786 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-464-wore_da4e3e64.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-465-work-as.jpeg (size: 1063691 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-465-work-as_79557773.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-466-wove.jpeg (size: 914003 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-466-wove_47c1aa44.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-467-yours-truly.jpeg (size: 1030573 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-467-yours-truly_06de5394.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-469-zebra.jpeg (size: 894053 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/cartoon-469-zebra_c1de0181.jpeg
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-029-building.jpeg -> /manus-storage/cartoon-029-building_d7ce275a.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-030-built.jpeg -> /manus-storage/cartoon-030-built_6188e25c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-034-by-hand.jpeg -> /manus-storage/cartoon-034-by-hand_79634716.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-054-checked.jpeg -> /manus-storage/cartoon-054-checked_189b6fbc.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-062-coat.jpeg -> /manus-storage/cartoon-062-coat_00c538e5.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-063-coins.jpeg -> /manus-storage/cartoon-063-coins_67c7ef1a.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-065-collect.jpeg -> /manus-storage/cartoon-065-collect_6d6afa14.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-067-come-inside.jpeg -> /manus-storage/cartoon-067-come-inside_1168dcd0.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-070-competition.jpeg -> /manus-storage/cartoon-070-competition_410b0609.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-072-country.jpeg -> /manus-storage/cartoon-072-country_971e42d5.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-073-covered-with.jpeg -> /manus-storage/cartoon-073-covered-with_03616b97.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-075-create.jpeg -> /manus-storage/cartoon-075-create_7147cdf0.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-076-created.jpeg -> /manus-storage/cartoon-076-created_accd805d.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-077-crooked.jpeg -> /manus-storage/cartoon-077-crooked_6b6ca893.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-078-culture.jpeg -> /manus-storage/cartoon-078-culture_855cac7c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-084-dates.jpeg -> /manus-storage/cartoon-084-dates_2aa80062.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-085-daytime.jpeg -> /manus-storage/cartoon-085-daytime_34a8a576.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-086-decorations.jpeg -> /manus-storage/cartoon-086-decorations_68fbd840.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-088-designs.jpeg -> /manus-storage/cartoon-088-designs_4ed17184.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-090-die.jpeg -> /manus-storage/cartoon-090-die_f78dbf6e.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-091-died.jpeg -> /manus-storage/cartoon-091-died_c19b9525.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-094-disappearing.jpeg -> /manus-storage/cartoon-094-disappearing_f6f5f714.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-107-during-the-day.jpeg -> /manus-storage/cartoon-107-during-the-day_6ce6b79c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-108-eating-habits.jpeg -> /manus-storage/cartoon-108-eating-habits_90e66f6b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-109-egyptian-museum.jpeg -> /manus-storage/cartoon-109-egyptian-museum_75b06d74.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-110-elephant.jpeg -> /manus-storage/cartoon-110-elephant_4db62aec.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-124-experience.jpeg -> /manus-storage/cartoon-124-experience_8ecffc0c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-129-faraway.jpeg -> /manus-storage/cartoon-129-faraway_0770e76d.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-157-furniture.jpeg -> /manus-storage/cartoon-157-furniture_494e513f.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-158-galabeya.jpeg -> /manus-storage/cartoon-158-galabeya_9ae89680.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-162-getting-enough-sleep.jpeg -> /manus-storage/cartoon-162-getting-enough-sleep_1233e567.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-188-hunt.jpeg -> /manus-storage/cartoon-188-hunt_a1934796.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-189-hunted.jpeg -> /manus-storage/cartoon-189-hunted_fbb926b3.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-224-look-dirty.jpeg -> /manus-storage/cartoon-224-look-dirty_508f220d.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-258-nurse.jpeg -> /manus-storage/cartoon-258-nurse_fbfb02b9.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-265-organization.jpeg -> /manus-storage/cartoon-265-organization_3ee583c1.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-268-owner.jpeg -> /manus-storage/cartoon-268-owner_d32e2584.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-279-photos.jpeg -> /manus-storage/cartoon-279-photos_d62458ec.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-291-pretend.jpeg -> /manus-storage/cartoon-291-pretend_26e53cc2.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-292-pretended.jpeg -> /manus-storage/cartoon-292-pretended_1d147b2e.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-294-problems.jpeg -> /manus-storage/cartoon-294-problems_013ffb10.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-298-proud-to.jpeg -> /manus-storage/cartoon-298-proud-to_b5827ba0.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-300-put.jpeg -> /manus-storage/cartoon-300-put_78c59492.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-304-reach.jpeg -> /manus-storage/cartoon-304-reach_3fa26b9f.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-311-regret.jpeg -> /manus-storage/cartoon-311-regret_0fef4da1.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-312-request.jpeg -> /manus-storage/cartoon-312-request_20fc201c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-320-said.jpeg -> /manus-storage/cartoon-320-said_cbf85ca9.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-321-salt-lake.jpeg -> /manus-storage/cartoon-321-salt-lake_a1772ded.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-324-say.jpeg -> /manus-storage/cartoon-324-say_ffa077f1.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-329-sell.jpeg -> /manus-storage/cartoon-329-sell_26ca143c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-330-shake.jpeg -> /manus-storage/cartoon-330-shake_cd1f9efc.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-332-sharp.jpeg -> /manus-storage/cartoon-332-sharp_040f5e87.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-333-shock.jpeg -> /manus-storage/cartoon-333-shock_84ddd2db.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-334-shook.jpeg -> /manus-storage/cartoon-334-shook_d51b9293.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-335-shopping-mall.jpeg -> /manus-storage/cartoon-335-shopping-mall_0b8914cd.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-340-sign.jpeg -> /manus-storage/cartoon-340-sign_fb369aa4.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-341-simple.jpeg -> /manus-storage/cartoon-341-simple_d37622e0.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-343-siwa-oasis.jpeg -> /manus-storage/cartoon-343-siwa-oasis_0c782b4f.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-344-skilled.jpeg -> /manus-storage/cartoon-344-skilled_7f96644b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-347-smart.jpeg -> /manus-storage/cartoon-347-smart_4df58f43.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-349-smile.jpeg -> /manus-storage/cartoon-349-smile_4fe15c5f.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-353-sold.jpeg -> /manus-storage/cartoon-353-sold_d4b730c1.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-354-solutions.jpeg -> /manus-storage/cartoon-354-solutions_c152d485.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-355-solve.jpeg -> /manus-storage/cartoon-355-solve_21aeac7a.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-356-solved.jpeg -> /manus-storage/cartoon-356-solved_6848c7fc.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-357-soup.jpeg -> /manus-storage/cartoon-357-soup_d2ae2e23.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-358-south.jpeg -> /manus-storage/cartoon-358-south_d12ca1c5.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-359-south-sinai.jpeg -> /manus-storage/cartoon-359-south-sinai_33f47171.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-363-spray.jpeg -> /manus-storage/cartoon-363-spray_07c0c445.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-364-sprayed.jpeg -> /manus-storage/cartoon-364-sprayed_ffee587b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-368-stand.jpeg -> /manus-storage/cartoon-368-stand_bd3e7c95.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-370-stay-sharp.jpeg -> /manus-storage/cartoon-370-stay-sharp_418613cc.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-371-still-stand.jpeg -> /manus-storage/cartoon-371-still-stand_5c3c3829.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-372-stones.jpeg -> /manus-storage/cartoon-372-stones_1c10849e.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-377-strong.jpeg -> /manus-storage/cartoon-377-strong_b40a3b4c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-386-sweets.jpeg -> /manus-storage/cartoon-386-sweets_8d324b44.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-388-take.jpeg -> /manus-storage/cartoon-388-take_15669102.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-389-take-a-shower.jpeg -> /manus-storage/cartoon-389-take-a-shower_bb1af7fb.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-394-taste-better.jpeg -> /manus-storage/cartoon-394-taste-better_2df27525.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-397-tell.jpeg -> /manus-storage/cartoon-397-tell_c8134e6f.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-398-tell-stories.jpeg -> /manus-storage/cartoon-398-tell-stories_23aec1e9.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-400-that-s-cool.jpeg -> /manus-storage/cartoon-400-that-s-cool_7b0e0827.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-401-the-arabian-leopard.jpeg -> /manus-storage/cartoon-401-the-arabian-leopard_ba5076a3.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-402-the-delta.jpeg -> /manus-storage/cartoon-402-the-delta_f419ec0b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-404-the-middle-east.jpeg -> /manus-storage/cartoon-404-the-middle-east_46c5c9e1.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-405-the-red-sea-dugong.jpeg -> /manus-storage/cartoon-405-the-red-sea-dugong_5842cdfb.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-408-throw.jpeg -> /manus-storage/cartoon-408-throw_e75206db.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-407-threw.jpeg -> /manus-storage/cartoon-407-threw_5d13cdc8.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-409-told.jpeg -> /manus-storage/cartoon-409-told_5d7579b1.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-411-took.jpeg -> /manus-storage/cartoon-411-took_150c427a.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-415-tour-guide.jpeg -> /manus-storage/cartoon-415-tour-guide_e5194e14.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-416-tourists.jpeg -> /manus-storage/cartoon-416-tourists_c7c7097b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-420-train-station.jpeg -> /manus-storage/cartoon-420-train-station_4ade28a8.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-421-trash.jpeg -> /manus-storage/cartoon-421-trash_c9c239b5.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-423-trick.jpeg -> /manus-storage/cartoon-423-trick_ce18c1b5.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-424-truck.jpeg -> /manus-storage/cartoon-424-truck_cddd31f1.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-425-trunk.jpeg -> /manus-storage/cartoon-425-trunk_0af98393.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-426-turban.jpeg -> /manus-storage/cartoon-426-turban_3fe2ba0b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-427-tv-program.jpeg -> /manus-storage/cartoon-427-tv-program_499b9e0b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-430-uniform.jpeg -> /manus-storage/cartoon-430-uniform_89fc8cab.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-431-unkindness.jpeg -> /manus-storage/cartoon-431-unkindness_00fe412d.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-432-upper-egypt.jpeg -> /manus-storage/cartoon-432-upper-egypt_4e0c98fa.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-435-usual.jpeg -> /manus-storage/cartoon-435-usual_8157d771.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-437-vest.jpeg -> /manus-storage/cartoon-437-vest_f6369407.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-438-vet.jpeg -> /manus-storage/cartoon-438-vet_e6cda6b7.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-439-visitors.jpeg -> /manus-storage/cartoon-439-visitors_2c523b13.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-441-voice.jpeg -> /manus-storage/cartoon-441-voice_e6b5e73b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-442-voice-over-actor.jpeg -> /manus-storage/cartoon-442-voice-over-actor_5384d06e.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-446-wake-up-early.jpeg -> /manus-storage/cartoon-446-wake-up-early_d1a3dbf0.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-451-wash-face.jpeg -> /manus-storage/cartoon-451-wash-face_19ac4873.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-452-water-hoses.jpeg -> /manus-storage/cartoon-452-water-hoses_a1ac90f7.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-453-weak.jpeg -> /manus-storage/cartoon-453-weak_a43a2887.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-455-weave.jpeg -> /manus-storage/cartoon-455-weave_69ea9910.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-459-wildlife-photographer.jpeg -> /manus-storage/cartoon-459-wildlife-photographer_07eb5209.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-461-wise.jpeg -> /manus-storage/cartoon-461-wise_b55e0f54.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-462-wonderful.jpeg -> /manus-storage/cartoon-462-wonderful_e47a14c1.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-463-wooden.jpeg -> /manus-storage/cartoon-463-wooden_4eaadded.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-464-wore.jpeg -> /manus-storage/cartoon-464-wore_da4e3e64.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-465-work-as.jpeg -> /manus-storage/cartoon-465-work-as_79557773.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-466-wove.jpeg -> /manus-storage/cartoon-466-wove_47c1aa44.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-467-yours-truly.jpeg -> /manus-storage/cartoon-467-yours-truly_06de5394.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-469-zebra.jpeg -> /manus-storage/cartoon-469-zebra_c1de0181.jpeg
+=====================================
+Total: 122, Success: 122, Failed: 0
