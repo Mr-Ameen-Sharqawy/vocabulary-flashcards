@@ -121,7 +121,10 @@ button { -webkit-tap-highlight-color: transparent; }
 .sf-guess-count { position: absolute; z-index: 2; left: 21px; bottom: 18px; color: var(--blue); font: 800 20px/1 "Baloo 2", sans-serif; }
 .sf-flip-back { display: grid; grid-template-rows: minmax(0, 1fr) auto; transform: rotateY(180deg); background: #fffefa; }
 .sf-flip-back img { min-height: 0; height: 100%; }
-.sf-word-below-photo { position: relative; z-index: 2; display: flex; align-items: baseline; justify-content: space-between; gap: 12px; min-height: 100px; padding: 17px 21px; color: var(--ink-deep); background: #fffefa; border-top: 7px solid var(--gold); }
+.sf-word-below-photo { position: relative; z-index: 2; display: flex; align-items: baseline; justify-content: space-between; width: 100%; gap: 12px; min-height: 100px; padding: 17px 21px; border: 0; border-top: 7px solid var(--gold); color: var(--ink-deep); background: #fffefa; text-align: left; cursor: pointer; transition: background-color 160ms var(--ease-out), color 160ms var(--ease-out); }
+.sf-word-below-photo:hover { color: var(--blue); background: #f5f9fd; }
+.sf-word-below-photo:focus-visible { outline: 3px solid var(--gold); outline-offset: -7px; }
+.sf-word-below-photo:active { transform: scale(.985); }
 .sf-word-below-photo strong { font: 800 clamp(30px, 4vw, 46px)/.9 "Baloo 2", sans-serif; letter-spacing: -.05em; }
 .sf-word-below-photo span { direction: rtl; color: var(--muted); font: 700 11px/1.8 "Noto Kufi Arabic", sans-serif; text-align: right; }
 .sf-image-caption { position: absolute; z-index: 1; bottom: 20px; right: 20px; left: 20px; display: flex; justify-content: space-between; align-items: center; color: #fff; font: 800 11px/1 "Nunito Sans", sans-serif; letter-spacing: .06em; }

@@ -95,6 +95,7 @@ export default function Home() {
       return;
     }
 
+    pronounceWord();
     setIsCardFlipped(true);
   }
 
@@ -203,10 +204,10 @@ export default function Home() {
                   </section>
                   <section className="sf-flip-face sf-flip-back" aria-label={`${currentCard.term} flipped card`}>
                     <img src={currentCard.image} alt="" aria-hidden="true" />
-                    <div className="sf-word-below-photo" dir="ltr">
+                    <button className="sf-word-below-photo" onClick={pronounceWord} aria-label={`Listen to ${currentCard.term} again`}>
                       <strong>{currentCard.term}</strong>
                       <span>{currentCard.arabic}</span>
-                    </div>
+                    </button>
                   </section>
                 </div>
               </div>
