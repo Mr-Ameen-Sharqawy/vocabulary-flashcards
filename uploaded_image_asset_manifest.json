@@ -1,0 +1,2362 @@
+[
+  {
+    "id": 11,
+    "term": "apologize",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-011-apologize.jpg",
+    "source_number": 1000212233,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 12,
+    "term": "areas",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-012-areas.jpg",
+    "source_number": 1000212247,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 13,
+    "term": "art",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-013-art.jpg",
+    "source_number": 1000212228,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 14,
+    "term": "as well",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-014-as-well.jpg",
+    "source_number": 1000212231,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 15,
+    "term": "at night",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-015-at-night.jpg",
+    "source_number": 1000212225,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 17,
+    "term": "bear",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-017-bear.jpg",
+    "source_number": 1000212269,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 19,
+    "term": "between classes",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-019-between-classes.jpg",
+    "source_number": 1000212275,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 20,
+    "term": "bin",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-020-bin.jpg",
+    "source_number": 1000212263,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 21,
+    "term": "board",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-021-board.jpg",
+    "source_number": 1000212267,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 22,
+    "term": "bottles",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-022-bottles.jpg",
+    "source_number": 1000212279,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 24,
+    "term": "break time",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-024-break-time.jpg",
+    "source_number": 1000212286,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 25,
+    "term": "breakfast",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-025-breakfast.jpg",
+    "source_number": 1000212243,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 26,
+    "term": "brown bread",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-026-brown-bread.jpg",
+    "source_number": 1000212282,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 27,
+    "term": "brush teeth",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-027-brush-teeth.jpg",
+    "source_number": 1000212274,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 28,
+    "term": "build",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-028-build.jpg",
+    "source_number": 1000212268,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 31,
+    "term": "bullying",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-031-bullying.jpg",
+    "source_number": 1000212283,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 32,
+    "term": "busy market",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-032-busy-market.jpg",
+    "source_number": 1000212278,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 33,
+    "term": "butterflies",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-033-butterflies.jpg",
+    "source_number": 1000212238,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 35,
+    "term": "cage",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-035-cage.jpg",
+    "source_number": 1000212254,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 36,
+    "term": "Cairo Tower",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-036-cairo-tower.jpg",
+    "source_number": 1000212281,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 37,
+    "term": "call out",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-037-call-out.jpg",
+    "source_number": 1000212241,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 38,
+    "term": "cap",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-038-cap.jpg",
+    "source_number": 1000212234,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 39,
+    "term": "care",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-039-care.jpg",
+    "source_number": 1000212259,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 40,
+    "term": "care for = take care of",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-040-care-for-take-care-of.jpg",
+    "source_number": 1000212506,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 41,
+    "term": "carelessly",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-041-carelessly.jpg",
+    "source_number": 1000212244,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 42,
+    "term": "carpenter",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-042-carpenter.jpg",
+    "source_number": 1000212249,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 43,
+    "term": "carpets",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-043-carpets.jpg",
+    "source_number": 1000212232,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 44,
+    "term": "cartoons",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-044-cartoons.jpg",
+    "source_number": 1000212222,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 45,
+    "term": "catch",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-045-catch.jpg",
+    "source_number": 1000212227,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 46,
+    "term": "caught",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-046-caught.jpg",
+    "source_number": 1000212227,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 47,
+    "term": "cave",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-047-cave.jpg",
+    "source_number": 1000212230,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 48,
+    "term": "celebrate",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-048-celebrate.jpg",
+    "source_number": 1000212236,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 49,
+    "term": "celebrated",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-049-celebrated.jpg",
+    "source_number": 1000212273,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 50,
+    "term": "celebration",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-050-celebration.jpg",
+    "source_number": 1000212273,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 51,
+    "term": "challenges",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-051-challenges.jpg",
+    "source_number": 1000212272,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 52,
+    "term": "character",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-052-character.jpg",
+    "source_number": 1000212436,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 53,
+    "term": "check",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-053-check.jpg",
+    "source_number": 1000212256,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 55,
+    "term": "city",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-055-city.jpg",
+    "source_number": 1000212226,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 56,
+    "term": "claws",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-056-claws.jpg",
+    "source_number": 1000212248,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 57,
+    "term": "clean",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-057-clean.jpg",
+    "source_number": 1000212229,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 58,
+    "term": "climb",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-058-climb.jpg",
+    "source_number": 1000212224,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 59,
+    "term": "climbed",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-059-climbed.jpg",
+    "source_number": 1000212224,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 60,
+    "term": "closet",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-060-closet.jpg",
+    "source_number": 1000212245,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 61,
+    "term": "clothes",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-061-clothes.jpg",
+    "source_number": 1000212245,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 64,
+    "term": "collage",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-064-collage.jpg",
+    "source_number": 1000212336,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 66,
+    "term": "colorful",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-066-colorful.jpg",
+    "source_number": 1000212253,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 69,
+    "term": "community park",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-069-community-park.jpg",
+    "source_number": 1000212499,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 71,
+    "term": "costume",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-071-costume.jpg",
+    "source_number": 1000212449,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 74,
+    "term": "crafts",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-074-crafts.jpg",
+    "source_number": 1000212370,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 79,
+    "term": "cycle",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-079-cycle.jpg",
+    "source_number": 1000212305,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 80,
+    "term": "cycled",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-080-cycled.jpg",
+    "source_number": 1000212305,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 81,
+    "term": "daily",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-081-daily.jpg",
+    "source_number": 1000212258,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 82,
+    "term": "daily routine",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-082-daily-routine.jpg",
+    "source_number": 1000212258,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 83,
+    "term": "danger",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-083-danger.jpg",
+    "source_number": 1000212352,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 87,
+    "term": "deep breath",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-087-deep-breath.jpg",
+    "source_number": 1000212215,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 89,
+    "term": "diary",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-089-diary.jpg",
+    "source_number": 1000212216,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 92,
+    "term": "dinner",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-092-dinner.jpg",
+    "source_number": 1000212217,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 93,
+    "term": "dirty",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-093-dirty.jpg",
+    "source_number": 1000212221,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 95,
+    "term": "discuss",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-095-discuss.jpg",
+    "source_number": 1000212252,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 96,
+    "term": "discussed",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-096-discussed.jpg",
+    "source_number": 1000212252,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 97,
+    "term": "do a great job",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-097-do-a-great-job.jpg",
+    "source_number": 1000212257,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 98,
+    "term": "do exercises",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-098-do-exercises.jpg",
+    "source_number": 1000212214,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 99,
+    "term": "do well",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-099-do-well.jpg",
+    "source_number": 1000212257,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 100,
+    "term": "doctor",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-100-doctor.jpg",
+    "source_number": 1000212211,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 101,
+    "term": "doctors",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-101-doctors.jpg",
+    "source_number": 1000212211,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 102,
+    "term": "drank",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-102-drank.jpg",
+    "source_number": 1000212210,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 103,
+    "term": "drawings",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-103-drawings.jpg",
+    "source_number": 1000212222,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 104,
+    "term": "dress",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-104-dress.jpg",
+    "source_number": 1000212220,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 105,
+    "term": "drink",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-105-drink.jpg",
+    "source_number": 1000212210,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 106,
+    "term": "drink plenty of water",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-106-drink-plenty-of-water.jpg",
+    "source_number": 1000212212,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 111,
+    "term": "endangered",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-111-endangered.jpg",
+    "source_number": 1000212292,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 112,
+    "term": "energy",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-112-energy.jpg",
+    "source_number": 1000212505,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 113,
+    "term": "engineer",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-113-engineer.jpg",
+    "source_number": 1000212405,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 114,
+    "term": "enjoy",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-114-enjoy.jpg",
+    "source_number": 1000212492,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 115,
+    "term": "enjoyed",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-115-enjoyed.jpg",
+    "source_number": 1000212346,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 116,
+    "term": "enter",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-116-enter.jpg",
+    "source_number": 1000212407,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 117,
+    "term": "entered",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-117-entered.jpg",
+    "source_number": 1000212316,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 118,
+    "term": "equipment",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-118-equipment.jpg",
+    "source_number": 1000212466,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 119,
+    "term": "especially",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-119-especially.jpg",
+    "source_number": 1000212399,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 120,
+    "term": "everywhere",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-120-everywhere.jpg",
+    "source_number": 1000212484,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 121,
+    "term": "excellent",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-121-excellent.jpg",
+    "source_number": 1000212480,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 122,
+    "term": "exciting",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-122-exciting.jpg",
+    "source_number": 1000212406,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 123,
+    "term": "expensive",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-123-expensive.jpg",
+    "source_number": 1000212398,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 127,
+    "term": "facts",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-127-facts.jpg",
+    "source_number": 1000212427,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 128,
+    "term": "faded",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-128-faded.jpg",
+    "source_number": 1000212457,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 130,
+    "term": "feed",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-130-feed.jpg",
+    "source_number": 1000212350,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 131,
+    "term": "feel",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-131-feel.jpg",
+    "source_number": 1000212327,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 132,
+    "term": "felt",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-132-felt.jpg",
+    "source_number": 1000212456,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 133,
+    "term": "fewer",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-133-fewer.jpg",
+    "source_number": 1000212438,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 134,
+    "term": "final",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-134-final.jpg",
+    "source_number": 1000212472,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 135,
+    "term": "fire",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-135-fire.jpg",
+    "source_number": 1000212307,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 136,
+    "term": "fire station",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-136-fire-station.jpg",
+    "source_number": 1000212382,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 137,
+    "term": "firefighter",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-137-firefighter.jpg",
+    "source_number": 1000212328,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 138,
+    "term": "first time",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-138-first-time.jpg",
+    "source_number": 1000212404,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 139,
+    "term": "fishing net",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-139-fishing-net.jpg",
+    "source_number": 1000212237,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 140,
+    "term": "fit",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-140-fit.jpg",
+    "source_number": 1000212349,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 141,
+    "term": "fix",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-141-fix.jpg",
+    "source_number": 1000212378,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 142,
+    "term": "fixed",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-142-fixed.jpg",
+    "source_number": 1000212310,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 143,
+    "term": "fluffy tail",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-143-fluffy-tail.jpg",
+    "source_number": 1000212463,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 144,
+    "term": "follow",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-144-follow.jpg",
+    "source_number": 1000212341,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 145,
+    "term": "followed",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-145-followed.jpg",
+    "source_number": 1000212444,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 146,
+    "term": "footprints",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-146-footprints.jpg",
+    "source_number": 1000212372,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 147,
+    "term": "for breakfast",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-147-for-breakfast.jpg",
+    "source_number": 1000212360,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 148,
+    "term": "for free",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-148-for-free.jpg",
+    "source_number": 1000212397,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 149,
+    "term": "for special events",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-149-for-special-events.jpg",
+    "source_number": 1000212460,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 150,
+    "term": "forest guide",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-150-forest-guide.jpg",
+    "source_number": 1000212488,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 151,
+    "term": "forest officer",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-151-forest-officer.jpg",
+    "source_number": 1000212468,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 152,
+    "term": "forest park",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-152-forest-park.jpg",
+    "source_number": 1000212402,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 153,
+    "term": "forever",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-153-forever.jpg",
+    "source_number": 1000212501,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 154,
+    "term": "fox",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-154-fox.jpg",
+    "source_number": 1000212330,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 155,
+    "term": "fresh",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-155-fresh.jpg",
+    "source_number": 1000212313,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 156,
+    "term": "fur",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-156-fur.jpg",
+    "source_number": 1000212413,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 159,
+    "term": "gave",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-159-gave.jpg",
+    "source_number": 1000212339,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 160,
+    "term": "gentle",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-160-gentle.jpg",
+    "source_number": 1000212441,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 161,
+    "term": "get dressed",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-161-get-dressed.jpg",
+    "source_number": 1000212393,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 163,
+    "term": "gifts",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-163-gifts.jpg",
+    "source_number": 1000212370,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 164,
+    "term": "giraffe",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-164-giraffe.jpg",
+    "source_number": 1000212494,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 165,
+    "term": "give",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-165-give.jpg",
+    "source_number": 1000212380,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 166,
+    "term": "greedy",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-166-greedy.jpg",
+    "source_number": 1000212458,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 167,
+    "term": "grew",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-167-grew.jpg",
+    "source_number": 1000212489,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 168,
+    "term": "ground",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-168-ground.jpg",
+    "source_number": 1000212270,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 169,
+    "term": "grow",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-169-grow.jpg",
+    "source_number": 1000212414,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 170,
+    "term": "habitats",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-170-habitats.jpg",
+    "source_number": 1000212425,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 171,
+    "term": "hard",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-171-hard.jpg",
+    "source_number": 1000212321,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 172,
+    "term": "harvest",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-172-harvest.jpg",
+    "source_number": 1000212366,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 173,
+    "term": "health",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-173-health.jpg",
+    "source_number": 1000212363,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 174,
+    "term": "healthy",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-174-healthy.jpg",
+    "source_number": 1000212408,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 175,
+    "term": "hear",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-175-hear.jpg",
+    "source_number": 1000212357,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 176,
+    "term": "heard",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-176-heard.jpg",
+    "source_number": 1000212311,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 178,
+    "term": "heavy",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-178-heavy.jpg",
+    "source_number": 1000212500,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 179,
+    "term": "helmet",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-179-helmet.jpg",
+    "source_number": 1000212331,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 180,
+    "term": "help",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-180-help.jpg",
+    "source_number": 1000212391,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 181,
+    "term": "helping hands",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-181-helping-hands.jpg",
+    "source_number": 1000212250,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 182,
+    "term": "hero",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-182-hero.jpg",
+    "source_number": 1000212265,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 183,
+    "term": "high",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-183-high.jpg",
+    "source_number": 1000212440,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 184,
+    "term": "history",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-184-history.jpg",
+    "source_number": 1000212474,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 185,
+    "term": "home",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-185-home.jpg",
+    "source_number": 1000212271,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 186,
+    "term": "hospital",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-186-hospital.jpg",
+    "source_number": 1000212368,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 187,
+    "term": "hungry",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-187-hungry.jpg",
+    "source_number": 1000212432,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 190,
+    "term": "impressed by",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-190-impressed-by.jpg",
+    "source_number": 1000212343,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 191,
+    "term": "in bright colors",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-191-in-bright-colors.jpg",
+    "source_number": 1000212418,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 192,
+    "term": "in danger",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-192-in-danger.jpg",
+    "source_number": 1000212352,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 193,
+    "term": "in groups",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-193-in-groups.jpg",
+    "source_number": 1000212342,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 194,
+    "term": "including",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-194-including.jpg",
+    "source_number": 1000212424,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 195,
+    "term": "instead of",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-195-instead-of.jpg",
+    "source_number": 1000212495,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 196,
+    "term": "invite",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-196-invite.jpg",
+    "source_number": 1000212309,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 197,
+    "term": "invited",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-197-invited.jpg",
+    "source_number": 1000212309,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 198,
+    "term": "It's fun to",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-198-it-s-fun-to.jpg",
+    "source_number": 1000212403,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 199,
+    "term": "jingling",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-199-jingling.jpg",
+    "source_number": 1000212334,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 200,
+    "term": "keep",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-200-keep.jpg",
+    "source_number": 1000212358,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 201,
+    "term": "keep a rabbit",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-201-keep-a-rabbit.jpg",
+    "source_number": 1000212347,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 202,
+    "term": "kept",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-202-kept.jpg",
+    "source_number": 1000212485,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 203,
+    "term": "Khan Al-Khalili Bazaar",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-203-khan-al-khalili-bazaar.jpg",
+    "source_number": 1000212426,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 204,
+    "term": "knew",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-204-knew.jpg",
+    "source_number": 1000212381,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 205,
+    "term": "know",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-205-know.jpg",
+    "source_number": 1000212386,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 206,
+    "term": "known for",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-206-known-for.jpg",
+    "source_number": 1000212476,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 207,
+    "term": "ladder",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-207-ladder.jpg",
+    "source_number": 1000212394,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 208,
+    "term": "laugh",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-208-laugh.jpg",
+    "source_number": 1000212319,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 210,
+    "term": "laughs",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-210-laughs.jpg",
+    "source_number": 1000212319,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 211,
+    "term": "learn about",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-211-learn-about.jpg",
+    "source_number": 1000212486,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 212,
+    "term": "leave",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-212-leave.jpg",
+    "source_number": 1000212400,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 213,
+    "term": "leaves",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-213-leaves.jpg",
+    "source_number": 1000212374,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 214,
+    "term": "left",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-214-left.jpg",
+    "source_number": 1000212312,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 215,
+    "term": "let",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-215-let.jpg",
+    "source_number": 1000212470,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 216,
+    "term": "letter",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-216-letter.jpg",
+    "source_number": 1000212419,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 217,
+    "term": "letters",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-217-letters.jpg",
+    "source_number": 1000212481,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 218,
+    "term": "library",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-218-library.jpg",
+    "source_number": 1000212420,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 219,
+    "term": "light",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-219-light.jpg",
+    "source_number": 1000212448,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 220,
+    "term": "lion",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-220-lion.jpg",
+    "source_number": 1000212304,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 221,
+    "term": "lives",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-221-lives.jpg",
+    "source_number": 1000212462,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 222,
+    "term": "local",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-222-local.jpg",
+    "source_number": 1000212455,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 223,
+    "term": "local food",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-223-local-food.jpg",
+    "source_number": 1000212455,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 225,
+    "term": "loud",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-225-loud.jpg",
+    "source_number": 1000212459,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 226,
+    "term": "loud noise",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-226-loud-noise.jpg",
+    "source_number": 1000212471,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 227,
+    "term": "low",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-227-low.jpg",
+    "source_number": 1000212395,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 228,
+    "term": "lunch",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-228-lunch.jpg",
+    "source_number": 1000212298,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 229,
+    "term": "make a difference",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-229-make-a-difference.jpg",
+    "source_number": 1000212364,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 230,
+    "term": "make friends",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-230-make-friends.jpg",
+    "source_number": 1000212409,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 231,
+    "term": "market",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-231-market.jpg",
+    "source_number": 1000212278,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 232,
+    "term": "marks",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-232-marks.jpg",
+    "source_number": 1000212314,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 233,
+    "term": "medal",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-233-medal.jpg",
+    "source_number": 1000212453,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 234,
+    "term": "mentor",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-234-mentor.jpg",
+    "source_number": 1000212478,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 235,
+    "term": "mind",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-235-mind.jpg",
+    "source_number": 1000212300,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 236,
+    "term": "mistakes",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-236-mistakes.jpg",
+    "source_number": 1000212412,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 237,
+    "term": "monastery",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-237-monastery.jpg",
+    "source_number": 1000212365,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 238,
+    "term": "monkey",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-238-monkey.jpg",
+    "source_number": 1000212442,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 239,
+    "term": "mountain",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-239-mountain.jpg",
+    "source_number": 1000212348,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 240,
+    "term": "move",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-240-move.jpg",
+    "source_number": 1000212337,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 241,
+    "term": "move around",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-241-move-around.jpg",
+    "source_number": 1000212354,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 242,
+    "term": "moved",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-242-moved.jpg",
+    "source_number": 1000212337,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 243,
+    "term": "museum",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-243-museum.jpg",
+    "source_number": 1000212467,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 244,
+    "term": "nail",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-244-nail.jpg",
+    "source_number": 1000212302,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 245,
+    "term": "natural",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-245-natural.jpg",
+    "source_number": 1000212355,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 246,
+    "term": "nature",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-246-nature.jpg",
+    "source_number": 1000212322,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 247,
+    "term": "near",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-247-near.jpg",
+    "source_number": 1000212291,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 248,
+    "term": "neck",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-248-neck.jpg",
+    "source_number": 1000212373,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 249,
+    "term": "need",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-249-need.jpg",
+    "source_number": 1000212345,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 250,
+    "term": "needed",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-250-needed.jpg",
+    "source_number": 1000212315,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 251,
+    "term": "neighborhood",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-251-neighborhood.jpg",
+    "source_number": 1000212367,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 252,
+    "term": "neighbors",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-252-neighbors.jpg",
+    "source_number": 1000212415,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 253,
+    "term": "Nile River",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-253-nile-river.jpg",
+    "source_number": 1000212416,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 254,
+    "term": "north",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-254-north.jpg",
+    "source_number": 1000212329,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 255,
+    "term": "notice",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-255-notice.jpg",
+    "source_number": 1000212379,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 256,
+    "term": "noticed",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-256-noticed.jpg",
+    "source_number": 1000212396,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 257,
+    "term": "Nubia",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-257-nubia.jpg",
+    "source_number": 1000212410,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 259,
+    "term": "offer",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-259-offer.jpg",
+    "source_number": 1000212503,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 260,
+    "term": "offered",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-260-offered.jpg",
+    "source_number": 1000212375,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 261,
+    "term": "olive oil",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-261-olive-oil.jpg",
+    "source_number": 1000212417,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 262,
+    "term": "on the road",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-262-on-the-road.jpg",
+    "source_number": 1000212496,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 263,
+    "term": "one by one",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-263-one-by-one.jpg",
+    "source_number": 1000212362,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 264,
+    "term": "orange juice",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-264-orange-juice.jpg",
+    "source_number": 1000212502,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 266,
+    "term": "origami",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-266-origami.jpg",
+    "source_number": 1000212401,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 267,
+    "term": "outfit",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-267-outfit.jpg",
+    "source_number": 1000212220,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 269,
+    "term": "oxygen tank",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-269-oxygen-tank.jpg",
+    "source_number": 1000212490,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 270,
+    "term": "packages",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-270-packages.jpg",
+    "source_number": 1000212361,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 271,
+    "term": "paid for",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-271-paid-for.jpg",
+    "source_number": 1000212326,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 272,
+    "term": "paint",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-272-paint.jpg",
+    "source_number": 1000212437,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 273,
+    "term": "painted",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-273-painted.jpg",
+    "source_number": 1000212437,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 274,
+    "term": "palm trees",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-274-palm-trees.jpg",
+    "source_number": 1000212376,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 275,
+    "term": "pants",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-275-pants.jpg",
+    "source_number": 1000212431,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 276,
+    "term": "patients",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-276-patients.jpg",
+    "source_number": 1000212446,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 278,
+    "term": "pet",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-278-pet.jpg",
+    "source_number": 1000212299,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 280,
+    "term": "plant",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-280-plant.jpg",
+    "source_number": 1000212388,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 281,
+    "term": "play sports",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-281-play-sports.jpg",
+    "source_number": 1000212325,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 282,
+    "term": "playground",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-282-playground.jpg",
+    "source_number": 1000212303,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 283,
+    "term": "pocket",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-283-pocket.jpg",
+    "source_number": 1000212469,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 284,
+    "term": "police officer",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-284-police-officer.jpg",
+    "source_number": 1000212384,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 285,
+    "term": "pollution",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-285-pollution.jpg",
+    "source_number": 1000212385,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 287,
+    "term": "post office",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-287-post-office.jpg",
+    "source_number": 1000212389,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 288,
+    "term": "pottery",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-288-pottery.jpg",
+    "source_number": 1000212260,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 289,
+    "term": "prepare",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-289-prepare.jpg",
+    "source_number": 1000212351,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 290,
+    "term": "prepared",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-290-prepared.jpg",
+    "source_number": 1000212351,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 293,
+    "term": "price",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-293-price.jpg",
+    "source_number": 1000212430,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 295,
+    "term": "protect",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-295-protect.jpg",
+    "source_number": 1000212506,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 296,
+    "term": "protected",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-296-protected.jpg",
+    "source_number": 1000212297,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 297,
+    "term": "protective",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-297-protective.jpg",
+    "source_number": 1000212445,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 299,
+    "term": "puppet",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-299-puppet.jpg",
+    "source_number": 1000212294,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 301,
+    "term": "Pyramids",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-301-pyramids.jpg",
+    "source_number": 1000212428,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 302,
+    "term": "quiet",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-302-quiet.jpg",
+    "source_number": 1000212295,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 303,
+    "term": "ran",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-303-ran.jpg",
+    "source_number": 1000212344,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 305,
+    "term": "reached",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-305-reached.jpg",
+    "source_number": 1000212251,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 306,
+    "term": "real",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-306-real.jpg",
+    "source_number": 1000212335,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 307,
+    "term": "reason",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-307-reason.jpg",
+    "source_number": 1000212377,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 308,
+    "term": "reduce",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-308-reduce.jpg",
+    "source_number": 1000212359,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 309,
+    "term": "reduced",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-309-reduced.jpg",
+    "source_number": 1000212296,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 310,
+    "term": "region",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-310-region.jpg",
+    "source_number": 1000212504,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 313,
+    "term": "restaurant",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-313-restaurant.jpg",
+    "source_number": 1000212210,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 314,
+    "term": "rich",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-314-rich.jpg",
+    "source_number": 1000212398,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 315,
+    "term": "rocks",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-315-rocks.jpg",
+    "source_number": 1000212321,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 316,
+    "term": "run",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-316-run.jpg",
+    "source_number": 1000212344,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 318,
+    "term": "safe",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-318-safe.jpg",
+    "source_number": 1000212445,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 319,
+    "term": "safely",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-319-safely.jpg",
+    "source_number": 1000212505,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 325,
+    "term": "school",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-325-school.jpg",
+    "source_number": 1000212351,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 326,
+    "term": "sea animals",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-326-sea-animals.jpg",
+    "source_number": 1000212490,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 327,
+    "term": "sea grass",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-327-sea-grass.jpg",
+    "source_number": 1000212490,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 331,
+    "term": "share with",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-331-share-with.jpg",
+    "source_number": 1000212387,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 337,
+    "term": "sick",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-337-sick.jpg",
+    "source_number": 1000212233,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 338,
+    "term": "sick people",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-338-sick-people.jpg",
+    "source_number": 1000212446,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 345,
+    "term": "sleep",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-345-sleep.jpg",
+    "source_number": 1000212447,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 346,
+    "term": "slept",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-346-slept.jpg",
+    "source_number": 1000212447,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 351,
+    "term": "snack",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-351-snack.jpg",
+    "source_number": 1000212298,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 360,
+    "term": "spaces",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-360-spaces.jpg",
+    "source_number": 1000212465,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 361,
+    "term": "special",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-361-special.jpg",
+    "source_number": 1000212356,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 362,
+    "term": "species",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-362-species.jpg",
+    "source_number": 1000212372,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 365,
+    "term": "Spring Festival",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-365-spring-festival.jpg",
+    "source_number": 1000212273,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 366,
+    "term": "St. Catherine Mountain",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-366-st-catherine-mountain.jpg",
+    "source_number": 1000212239,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 367,
+    "term": "stalls",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-367-stalls.jpg",
+    "source_number": 1000212477,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 374,
+    "term": "stores",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-374-stores.jpg",
+    "source_number": 1000212390,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 375,
+    "term": "street",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-375-street.jpg",
+    "source_number": 1000212454,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 378,
+    "term": "students",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-378-students.jpg",
+    "source_number": 1000212422,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 379,
+    "term": "studied",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-379-studied.jpg",
+    "source_number": 1000212497,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 380,
+    "term": "study",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-380-study.jpg",
+    "source_number": 1000212497,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 387,
+    "term": "tail",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-387-tail.jpg",
+    "source_number": 1000212463,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 390,
+    "term": "take out .... from",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-390-take-out-from.jpg",
+    "source_number": 1000212338,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 396,
+    "term": "teacher",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-396-teacher.jpg",
+    "source_number": 1000212435,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 403,
+    "term": "the king of the jungle land",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-403-the-king-of-the-jungle-land.jpg",
+    "source_number": 1000212304,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 412,
+    "term": "tools",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-412-tools.jpg",
+    "source_number": 1000212378,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 417,
+    "term": "traditional",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-417-traditional.jpg",
+    "source_number": 1000212452,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 418,
+    "term": "traditions",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-418-traditions.jpg",
+    "source_number": 1000212452,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 419,
+    "term": "traffic",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-419-traffic.jpg",
+    "source_number": 1000212496,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 422,
+    "term": "treasures",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-422-treasures.jpg",
+    "source_number": 1000212358,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 436,
+    "term": "vegetables",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-436-vegetables.jpg",
+    "source_number": 1000212313,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 440,
+    "term": "vitamins",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-440-vitamins.jpg",
+    "source_number": 1000212363,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 444,
+    "term": "volunteer",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-444-volunteer.jpg",
+    "source_number": 1000212483,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 445,
+    "term": "volunteered",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-445-volunteered.jpg",
+    "source_number": 1000212483,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 447,
+    "term": "walk",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-447-walk.jpg",
+    "source_number": 1000212461,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 448,
+    "term": "walk through",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-448-walk-through.jpg",
+    "source_number": 1000212461,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 449,
+    "term": "walked",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-449-walked.jpg",
+    "source_number": 1000212461,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 450,
+    "term": "warm clothes",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-450-warm-clothes.jpg",
+    "source_number": 1000212301,
+    "confidence": "manual",
+    "has_visible_text": true
+  },
+  {
+    "id": 454,
+    "term": "wear",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-454-wear.jpg",
+    "source_number": 1000212393,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 456,
+    "term": "What a beautiful day!",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-456-what-a-beautiful-day.jpg",
+    "source_number": 1000212270,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 457,
+    "term": "wild",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-457-wild.jpg",
+    "source_number": 1000212411,
+    "confidence": "manual",
+    "has_visible_text": false
+  },
+  {
+    "id": 458,
+    "term": "wild animals",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-458-wild-animals.jpg",
+    "source_number": 1000212411,
+    "confidence": "high",
+    "has_visible_text": false
+  },
+  {
+    "id": 460,
+    "term": "winner",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-460-winner.jpg",
+    "source_number": 1000212289,
+    "confidence": "high",
+    "has_visible_text": true
+  },
+  {
+    "id": 468,
+    "term": "yummy",
+    "local_asset": "/home/ubuntu/webdev-static-assets/primary4-uploaded/cartoon-468-yummy.jpg",
+    "source_number": 1000212455,
+    "confidence": "manual",
+    "has_visible_text": true
+  }
+]

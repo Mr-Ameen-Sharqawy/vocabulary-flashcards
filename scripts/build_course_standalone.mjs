@@ -28,6 +28,11 @@ const cartoonImages = {
   annual: "/manus-storage/cartoon-010-annual_c53bc7ed.jpg",
 };
 
+Object.assign(
+  cartoonImages,
+  JSON.parse(fs.readFileSync("/home/ubuntu/vocabulary-flashcards/uploaded_cartoon_images.json", "utf8")),
+);
+
 const originalUnitOneImages = {
   taste: "/manus-storage/Tasting_slice_of_cake_202608192114_501e40d8.jpeg",
   touch: "/manus-storage/Handprint_on_misty_glass_202608192114_c47d90bc.jpeg",

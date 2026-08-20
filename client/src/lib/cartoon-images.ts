@@ -3,6 +3,7 @@
  */
 import type { CourseCard } from "@/lib/course";
 import { flashcards as originalUnitOneCards } from "@/lib/flashcards";
+import { uploadedCartoonImages } from "@/lib/uploaded-cartoon-images";
 
 function normalizeTerm(term: string) {
   return term.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
@@ -23,6 +24,7 @@ const cartoonImages: Record<string, string> = {
   announce: "/manus-storage/cartoon-008-announce_947a2fb4.jpg",
   annoying: "/manus-storage/cartoon-009-annoying_9c6ce672.jpg",
   annual: "/manus-storage/cartoon-010-annual_c53bc7ed.jpg",
+  ...uploadedCartoonImages,
 };
 
 export function cartoonImageFor(card: CourseCard) {
