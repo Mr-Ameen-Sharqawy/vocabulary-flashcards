@@ -1,0 +1,5283 @@
+{
+  "lessons": [
+    {
+      "sourceFile": "Prim 4 U 1 L 1.html",
+      "unit": 1,
+      "lesson": "1",
+      "title": "👀👂👃 Unit One: Our Amazing Senses ✨",
+      "lessonTitle": "Lesson 1: What are the Five Senses?",
+      "mainVocab": [
+        {
+          "en": "taste",
+          "ar": "حاسة التذوق"
+        },
+        {
+          "en": "touch",
+          "ar": "حاسة اللمس"
+        },
+        {
+          "en": "hearing",
+          "ar": "حاسة السمع"
+        },
+        {
+          "en": "sight",
+          "ar": "حاسة الإبصار"
+        },
+        {
+          "en": "smell",
+          "ar": "حاسة الشم"
+        },
+        {
+          "en": "fire",
+          "ar": "حريق / نار"
+        },
+        {
+          "en": "smoke",
+          "ar": "دخان"
+        },
+        {
+          "en": "voices",
+          "ar": "أصوات (بشرية)"
+        },
+        {
+          "en": "tongue",
+          "ar": "لسان"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "soft",
+          "ar": "ناعم / لين"
+        },
+        {
+          "en": "butterflies",
+          "ar": "فراشات"
+        },
+        {
+          "en": "excellent",
+          "ar": "رائع / ممتاز"
+        },
+        {
+          "en": "colorful",
+          "ar": "ملوّن"
+        },
+        {
+          "en": "hard",
+          "ar": "صلب / خشن"
+        },
+        {
+          "en": "loud noise",
+          "ar": "ضوضاء صاخبة"
+        }
+      ],
+      "expressions": [
+        {
+          "en": "learn about",
+          "ar": "يتعلم عن"
+        },
+        {
+          "en": "stay safe",
+          "ar": "يبقى آمنًا"
+        },
+        {
+          "en": "What a beautiful day!",
+          "ar": "يا له من يوم جميل!"
+        },
+        {
+          "en": "talk about",
+          "ar": "يتحدث عن"
+        }
+      ],
+      "verbs": [
+        {
+          "p": "use",
+          "s": "used",
+          "ar": "يستخدم"
+        },
+        {
+          "p": "taste",
+          "s": "tasted",
+          "ar": "يتذوق"
+        },
+        {
+          "p": "touch",
+          "s": "touched",
+          "ar": "يلمس"
+        },
+        {
+          "p": "hear",
+          "s": "heard",
+          "ar": "يسمع"
+        },
+        {
+          "p": "sing",
+          "s": "sang",
+          "ar": "يغني"
+        },
+        {
+          "p": "understand",
+          "s": "understood",
+          "ar": "يفهم"
+        }
+      ],
+      "keySentences": [
+        {
+          "en": "We taste with our tongue.",
+          "ar": "نتذوق بلساننا."
+        },
+        {
+          "en": "We touch with our hands.",
+          "ar": "نلمس بأيدينا."
+        },
+        {
+          "en": "We hear with our ears.",
+          "ar": "نسمع بآذاننا."
+        },
+        {
+          "en": "We see with our eyes.",
+          "ar": "نرى بأعيننا."
+        },
+        {
+          "en": "We smell with our nose.",
+          "ar": "نشم بأنفنا."
+        },
+        {
+          "en": "Senses help us understand the world around us.",
+          "ar": "تساعدنا الحواس على فهم العالم من حولنا."
+        },
+        {
+          "en": "We use our sense of hearing to hear birds singing.",
+          "ar": "نستخدم حاسة السمع لسماع تغريد الطيور."
+        },
+        {
+          "en": "Senses help us stay safe.",
+          "ar": "تساعدنا الحواس على البقاء آمنين."
+        },
+        {
+          "en": "If we smell smoke, we know there's a fire.",
+          "ar": "إذا قمنا بشم رائحة الدخان نعرف أن هناك حريقًا."
+        }
+      ],
+      "story": [
+        {
+          "s": "Ms. Mona",
+          "en": "Good morning, children! What a beautiful day in the school garden.",
+          "ar": "صباح الخير، يا أطفال! يا له من يوم رائع في حديقة المدرسة."
+        },
+        {
+          "s": "Sami",
+          "en": "Good morning, Ms. Mona! What will we learn today?",
+          "ar": "صباح الخير، يا أستاذة مني! ماذا سنتعلم اليوم؟"
+        },
+        {
+          "s": "Ms. Mona",
+          "en": "Today, we'll learn about our amazing senses.",
+          "ar": "اليوم، سنتعلم عن حواسنا الرائعة."
+        },
+        {
+          "s": "Salma",
+          "en": "What are senses, Ms. Mona?",
+          "ar": "ما هي الحواس، يا أستاذة مني؟"
+        },
+        {
+          "s": "Ms. Mona",
+          "en": "Senses help us understand the world around us - like sight, hearing, and smell.",
+          "ar": "تساعدنا الحواس على فهم العالم من حولنا، مثل حاسة الإبصار وحاسة السمع وحاسة الشم."
+        },
+        {
+          "s": "Sami",
+          "en": "I can hear birds singing!",
+          "ar": "أستطيع أن أسمع تغريد الطيور!"
+        },
+        {
+          "s": "Ms. Mona",
+          "en": "Yes! That's your sense of hearing. What else can we use?",
+          "ar": "حسنًا! هذه هي حاسة السمع. ماذا أيضًا يمكننا استخدامه؟"
+        },
+        {
+          "s": "Salma",
+          "en": "I can smell the flowers and see the colorful butterflies!",
+          "ar": "يمكنني شم الزهور ورؤية الفراشات الملوّنة!"
+        },
+        {
+          "s": "Ms. Mona",
+          "en": "Excellent, Salma! Those are your senses of smell and sight. Senses also help us stay safe.",
+          "ar": "رائع، يا سلمى! هذه هي حاسة الشم وحاسة الإبصار. تساعدنا الحواس أيضًا أن نبقى آمنين."
+        },
+        {
+          "s": "Sami",
+          "en": "Ms. Mona, how do our senses help us stay safe?",
+          "ar": "يا أستاذة مني، كيف تساعدنا الحواس أن نبقى آمنين؟"
+        },
+        {
+          "s": "Ms. Mona",
+          "en": "That's a great question, Sami! For example, if we smell smoke, we know there's a fire.",
+          "ar": "هذا سؤال رائع، يا سامي! على سبيل المثال، إذا قمنا بشم رائحة الدخان نعرف أن هناك حريقًا."
+        }
+      ],
+      "vocabulary": [
+        {
+          "en": "taste",
+          "ar": "حاسة التذوق",
+          "kind": "main"
+        },
+        {
+          "en": "touch",
+          "ar": "حاسة اللمس",
+          "kind": "main"
+        },
+        {
+          "en": "hearing",
+          "ar": "حاسة السمع",
+          "kind": "main"
+        },
+        {
+          "en": "sight",
+          "ar": "حاسة الإبصار",
+          "kind": "main"
+        },
+        {
+          "en": "smell",
+          "ar": "حاسة الشم",
+          "kind": "main"
+        },
+        {
+          "en": "fire",
+          "ar": "حريق / نار",
+          "kind": "main"
+        },
+        {
+          "en": "smoke",
+          "ar": "دخان",
+          "kind": "main"
+        },
+        {
+          "en": "voices",
+          "ar": "أصوات (بشرية)",
+          "kind": "main"
+        },
+        {
+          "en": "tongue",
+          "ar": "لسان",
+          "kind": "main"
+        },
+        {
+          "en": "soft",
+          "ar": "ناعم / لين",
+          "kind": "extra"
+        },
+        {
+          "en": "butterflies",
+          "ar": "فراشات",
+          "kind": "extra"
+        },
+        {
+          "en": "excellent",
+          "ar": "رائع / ممتاز",
+          "kind": "extra"
+        },
+        {
+          "en": "colorful",
+          "ar": "ملوّن",
+          "kind": "extra"
+        },
+        {
+          "en": "hard",
+          "ar": "صلب / خشن",
+          "kind": "extra"
+        },
+        {
+          "en": "loud noise",
+          "ar": "ضوضاء صاخبة",
+          "kind": "extra"
+        },
+        {
+          "en": "learn about",
+          "ar": "يتعلم عن",
+          "kind": "expression"
+        },
+        {
+          "en": "stay safe",
+          "ar": "يبقى آمنًا",
+          "kind": "expression"
+        },
+        {
+          "en": "What a beautiful day!",
+          "ar": "يا له من يوم جميل!",
+          "kind": "expression"
+        },
+        {
+          "en": "talk about",
+          "ar": "يتحدث عن",
+          "kind": "expression"
+        },
+        {
+          "en": "use",
+          "ar": "يستخدم",
+          "kind": "verb-present",
+          "pairedWith": "used"
+        },
+        {
+          "en": "used",
+          "ar": "يستخدم",
+          "kind": "verb-past",
+          "pairedWith": "use"
+        },
+        {
+          "en": "taste",
+          "ar": "يتذوق",
+          "kind": "verb-present",
+          "pairedWith": "tasted"
+        },
+        {
+          "en": "tasted",
+          "ar": "يتذوق",
+          "kind": "verb-past",
+          "pairedWith": "taste"
+        },
+        {
+          "en": "touch",
+          "ar": "يلمس",
+          "kind": "verb-present",
+          "pairedWith": "touched"
+        },
+        {
+          "en": "touched",
+          "ar": "يلمس",
+          "kind": "verb-past",
+          "pairedWith": "touch"
+        },
+        {
+          "en": "hear",
+          "ar": "يسمع",
+          "kind": "verb-present",
+          "pairedWith": "heard"
+        },
+        {
+          "en": "heard",
+          "ar": "يسمع",
+          "kind": "verb-past",
+          "pairedWith": "hear"
+        },
+        {
+          "en": "sing",
+          "ar": "يغني",
+          "kind": "verb-present",
+          "pairedWith": "sang"
+        },
+        {
+          "en": "sang",
+          "ar": "يغني",
+          "kind": "verb-past",
+          "pairedWith": "sing"
+        },
+        {
+          "en": "understand",
+          "ar": "يفهم",
+          "kind": "verb-present",
+          "pairedWith": "understood"
+        },
+        {
+          "en": "understood",
+          "ar": "يفهم",
+          "kind": "verb-past",
+          "pairedWith": "understand"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 1 L 2.html",
+      "unit": 1,
+      "lesson": "2",
+      "title": "💪🥗😴 Unit One: Healthy Habits ✨",
+      "lessonTitle": "Lesson 2: Healthy Habits",
+      "mainVocab": [
+        {
+          "en": "brush teeth",
+          "ar": "يغسل الأسنان"
+        },
+        {
+          "en": "wash face",
+          "ar": "يغسل الوجه"
+        },
+        {
+          "en": "wake up early",
+          "ar": "يستيقظ مبكرًا"
+        },
+        {
+          "en": "play sports",
+          "ar": "يلعب رياضة"
+        },
+        {
+          "en": "drink plenty of water",
+          "ar": "يشرب الكثير من المياه"
+        },
+        {
+          "en": "take a shower",
+          "ar": "يستحم"
+        },
+        {
+          "en": "do exercises",
+          "ar": "يتدرب / يتمرن"
+        },
+        {
+          "en": "break time",
+          "ar": "وقت الفسحة"
+        },
+        {
+          "en": "energy",
+          "ar": "طاقة"
+        },
+        {
+          "en": "sharp",
+          "ar": "يقظ / منتبه"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "strong",
+          "ar": "قوي"
+        },
+        {
+          "en": "brown bread",
+          "ar": "خبز القمح (البلدي)"
+        },
+        {
+          "en": "orange juice",
+          "ar": "عصير برتقال"
+        },
+        {
+          "en": "mind",
+          "ar": "عقل"
+        },
+        {
+          "en": "vitamins",
+          "ar": "فيتامينات"
+        },
+        {
+          "en": "vegetables",
+          "ar": "خضروات"
+        },
+        {
+          "en": "fresh",
+          "ar": "طازج"
+        },
+        {
+          "en": "sweets",
+          "ar": "حلوى"
+        },
+        {
+          "en": "simple",
+          "ar": "بسيط"
+        }
+      ],
+      "expressions": [
+        {
+          "en": "a 10-year-old girl",
+          "ar": "فتاة عمرها عشر سنوات"
+        },
+        {
+          "en": "for breakfast",
+          "ar": "في وجبة الإفطار"
+        },
+        {
+          "en": "between classes",
+          "ar": "بين الحصص الدراسية"
+        },
+        {
+          "en": "do well",
+          "ar": "ينجح / يؤدي جيدًا"
+        },
+        {
+          "en": "stay sharp",
+          "ar": "يكون يقظًا / منتبهًا"
+        },
+        {
+          "en": "getting enough sleep",
+          "ar": "الحصول على قدر كافٍ من النوم"
+        },
+        {
+          "en": "make friends",
+          "ar": "يكوّن صداقات"
+        },
+        {
+          "en": "at night",
+          "ar": "ليلاً"
+        }
+      ],
+      "verbs": [
+        {
+          "p": "follow",
+          "s": "followed",
+          "ar": "يتبع"
+        },
+        {
+          "p": "enjoy",
+          "s": "enjoyed",
+          "ar": "يستمتع بـ"
+        },
+        {
+          "p": "drink",
+          "s": "drank",
+          "ar": "يشرب"
+        },
+        {
+          "p": "grow",
+          "s": "grew",
+          "ar": "يزرع"
+        },
+        {
+          "p": "sleep",
+          "s": "slept",
+          "ar": "ينام"
+        },
+        {
+          "p": "take",
+          "s": "took",
+          "ar": "يأخذ"
+        }
+      ],
+      "keySentences": [
+        {
+          "en": "Sarah follows good habits to stay strong and healthy.",
+          "ar": "تتبع سارة عادات جيدة لتبقى قوية وبصحة جيدة."
+        },
+        {
+          "en": "Sarah brushes her teeth and washes her face.",
+          "ar": "تغسل سارة أسنانها ووجهها."
+        },
+        {
+          "en": "Sarah drinks plenty of water between classes.",
+          "ar": "تشرب سارة الكثير من الماء بين الحصص."
+        },
+        {
+          "en": "Sarah eats lots of vegetables and fruits for dinner.",
+          "ar": "تأكل سارة الكثير من الخضروات والفواكه على العشاء."
+        },
+        {
+          "en": "Sarah's healthy habits help her feel good and do well at school.",
+          "ar": "عادات سارة الصحية تساعدها على الشعور بالراحة والتفوق في المدرسة."
+        }
+      ],
+      "story": [],
+      "vocabulary": [
+        {
+          "en": "brush teeth",
+          "ar": "يغسل الأسنان",
+          "kind": "main"
+        },
+        {
+          "en": "wash face",
+          "ar": "يغسل الوجه",
+          "kind": "main"
+        },
+        {
+          "en": "wake up early",
+          "ar": "يستيقظ مبكرًا",
+          "kind": "main"
+        },
+        {
+          "en": "play sports",
+          "ar": "يلعب رياضة",
+          "kind": "main"
+        },
+        {
+          "en": "drink plenty of water",
+          "ar": "يشرب الكثير من المياه",
+          "kind": "main"
+        },
+        {
+          "en": "take a shower",
+          "ar": "يستحم",
+          "kind": "main"
+        },
+        {
+          "en": "do exercises",
+          "ar": "يتدرب / يتمرن",
+          "kind": "main"
+        },
+        {
+          "en": "break time",
+          "ar": "وقت الفسحة",
+          "kind": "main"
+        },
+        {
+          "en": "energy",
+          "ar": "طاقة",
+          "kind": "main"
+        },
+        {
+          "en": "sharp",
+          "ar": "يقظ / منتبه",
+          "kind": "main"
+        },
+        {
+          "en": "strong",
+          "ar": "قوي",
+          "kind": "extra"
+        },
+        {
+          "en": "brown bread",
+          "ar": "خبز القمح (البلدي)",
+          "kind": "extra"
+        },
+        {
+          "en": "orange juice",
+          "ar": "عصير برتقال",
+          "kind": "extra"
+        },
+        {
+          "en": "mind",
+          "ar": "عقل",
+          "kind": "extra"
+        },
+        {
+          "en": "vitamins",
+          "ar": "فيتامينات",
+          "kind": "extra"
+        },
+        {
+          "en": "vegetables",
+          "ar": "خضروات",
+          "kind": "extra"
+        },
+        {
+          "en": "fresh",
+          "ar": "طازج",
+          "kind": "extra"
+        },
+        {
+          "en": "sweets",
+          "ar": "حلوى",
+          "kind": "extra"
+        },
+        {
+          "en": "simple",
+          "ar": "بسيط",
+          "kind": "extra"
+        },
+        {
+          "en": "a 10-year-old girl",
+          "ar": "فتاة عمرها عشر سنوات",
+          "kind": "expression"
+        },
+        {
+          "en": "for breakfast",
+          "ar": "في وجبة الإفطار",
+          "kind": "expression"
+        },
+        {
+          "en": "between classes",
+          "ar": "بين الحصص الدراسية",
+          "kind": "expression"
+        },
+        {
+          "en": "do well",
+          "ar": "ينجح / يؤدي جيدًا",
+          "kind": "expression"
+        },
+        {
+          "en": "stay sharp",
+          "ar": "يكون يقظًا / منتبهًا",
+          "kind": "expression"
+        },
+        {
+          "en": "getting enough sleep",
+          "ar": "الحصول على قدر كافٍ من النوم",
+          "kind": "expression"
+        },
+        {
+          "en": "make friends",
+          "ar": "يكوّن صداقات",
+          "kind": "expression"
+        },
+        {
+          "en": "at night",
+          "ar": "ليلاً",
+          "kind": "expression"
+        },
+        {
+          "en": "follow",
+          "ar": "يتبع",
+          "kind": "verb-present",
+          "pairedWith": "followed"
+        },
+        {
+          "en": "followed",
+          "ar": "يتبع",
+          "kind": "verb-past",
+          "pairedWith": "follow"
+        },
+        {
+          "en": "enjoy",
+          "ar": "يستمتع بـ",
+          "kind": "verb-present",
+          "pairedWith": "enjoyed"
+        },
+        {
+          "en": "enjoyed",
+          "ar": "يستمتع بـ",
+          "kind": "verb-past",
+          "pairedWith": "enjoy"
+        },
+        {
+          "en": "drink",
+          "ar": "يشرب",
+          "kind": "verb-present",
+          "pairedWith": "drank"
+        },
+        {
+          "en": "drank",
+          "ar": "يشرب",
+          "kind": "verb-past",
+          "pairedWith": "drink"
+        },
+        {
+          "en": "grow",
+          "ar": "يزرع",
+          "kind": "verb-present",
+          "pairedWith": "grew"
+        },
+        {
+          "en": "grew",
+          "ar": "يزرع",
+          "kind": "verb-past",
+          "pairedWith": "grow"
+        },
+        {
+          "en": "sleep",
+          "ar": "ينام",
+          "kind": "verb-present",
+          "pairedWith": "slept"
+        },
+        {
+          "en": "slept",
+          "ar": "ينام",
+          "kind": "verb-past",
+          "pairedWith": "sleep"
+        },
+        {
+          "en": "take",
+          "ar": "يأخذ",
+          "kind": "verb-present",
+          "pairedWith": "took"
+        },
+        {
+          "en": "took",
+          "ar": "يأخذ",
+          "kind": "verb-past",
+          "pairedWith": "take"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 1 L 3.html",
+      "unit": 1,
+      "lesson": "3",
+      "title": "🥘👳 Unit One: Story Time ✨",
+      "lessonTitle": "Lesson 3: Goha's Great Meal",
+      "mainVocab": [
+        {
+          "en": "coins",
+          "ar": "عملات معدنية"
+        },
+        {
+          "en": "market",
+          "ar": "السوق"
+        },
+        {
+          "en": "smell",
+          "ar": "رائحة / يشم"
+        },
+        {
+          "en": "owner",
+          "ar": "مالك"
+        },
+        {
+          "en": "hungry",
+          "ar": "جائع"
+        },
+        {
+          "en": "restaurant",
+          "ar": "مطعم"
+        },
+        {
+          "en": "jingling",
+          "ar": "صوت رنين خفيف"
+        },
+        {
+          "en": "greedy",
+          "ar": "طماع / جشع"
+        },
+        {
+          "en": "deep breath",
+          "ar": "نفس عميق"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "soup",
+          "ar": "حساء (شوربة)"
+        },
+        {
+          "en": "light",
+          "ar": "خفيف"
+        },
+        {
+          "en": "suddenly",
+          "ar": "فجأة"
+        },
+        {
+          "en": "yummy",
+          "ar": "لذيذ"
+        },
+        {
+          "en": "wonderful",
+          "ar": "رائع"
+        },
+        {
+          "en": "pocket",
+          "ar": "جيب"
+        }
+      ],
+      "expressions": [
+        {
+          "en": "impressed by",
+          "ar": "منبهر بـ"
+        },
+        {
+          "en": "for free",
+          "ar": "مجانًا"
+        },
+        {
+          "en": "take out .... from",
+          "ar": "يخرج ... من"
+        },
+        {
+          "en": "come inside",
+          "ar": "تفضل بالدخول"
+        },
+        {
+          "en": "walk through",
+          "ar": "يتجول في"
+        },
+        {
+          "en": "laugh at",
+          "ar": "يضحك على"
+        },
+        {
+          "en": "share with",
+          "ar": "يتشارك مع"
+        },
+        {
+          "en": "taste better",
+          "ar": "مذاقه أفضل"
+        }
+      ],
+      "verbs": [
+        {
+          "p": "invite",
+          "s": "invited",
+          "ar": "يدعو"
+        },
+        {
+          "p": "offer",
+          "s": "offered",
+          "ar": "يعرض"
+        },
+        {
+          "p": "say",
+          "s": "said",
+          "ar": "يقول"
+        },
+        {
+          "p": "pay for",
+          "s": "paid for",
+          "ar": "يدفع (ثمن)"
+        },
+        {
+          "p": "shake",
+          "s": "shook",
+          "ar": "يهز / يهتز"
+        }
+      ],
+      "keySentences": [
+        {
+          "en": "Goha was hungry, but he didn't have enough money to buy food.",
+          "ar": "كان جحا جائعًا، لكنه لم يكن يملك مالًا كافيًا لشراء الطعام."
+        },
+        {
+          "en": "He smelled delicious soup from a restaurant.",
+          "ar": "شم جحا رائحة شوربة لذيذة من أحد المطاعم."
+        },
+        {
+          "en": "He sat outside the restaurant, enjoying the smell of the soup.",
+          "ar": "جلس جحا خارج المطعم مستمتعًا برائحة الشوربة."
+        },
+        {
+          "en": "The owner asked Goha to pay for the smell.",
+          "ar": "طلب صاحب المطعم من جحا أن يدفع ثمن الرائحة."
+        },
+        {
+          "en": "Goha offered to pay for the smell with the sound of his coins.",
+          "ar": "عرض جحا أن يدفع ثمن الرائحة بصوت العملات المعدنية."
+        },
+        {
+          "en": "The owner laughed and invited Goha in the restaurant to share the soup.",
+          "ar": "ضحك صاحب المطعم ودعا جحا إلى المطعم ليشاركه الشوربة."
+        }
+      ],
+      "story": [],
+      "vocabulary": [
+        {
+          "en": "coins",
+          "ar": "عملات معدنية",
+          "kind": "main"
+        },
+        {
+          "en": "market",
+          "ar": "السوق",
+          "kind": "main"
+        },
+        {
+          "en": "smell",
+          "ar": "رائحة / يشم",
+          "kind": "main"
+        },
+        {
+          "en": "owner",
+          "ar": "مالك",
+          "kind": "main"
+        },
+        {
+          "en": "hungry",
+          "ar": "جائع",
+          "kind": "main"
+        },
+        {
+          "en": "restaurant",
+          "ar": "مطعم",
+          "kind": "main"
+        },
+        {
+          "en": "jingling",
+          "ar": "صوت رنين خفيف",
+          "kind": "main"
+        },
+        {
+          "en": "greedy",
+          "ar": "طماع / جشع",
+          "kind": "main"
+        },
+        {
+          "en": "deep breath",
+          "ar": "نفس عميق",
+          "kind": "main"
+        },
+        {
+          "en": "soup",
+          "ar": "حساء (شوربة)",
+          "kind": "extra"
+        },
+        {
+          "en": "light",
+          "ar": "خفيف",
+          "kind": "extra"
+        },
+        {
+          "en": "suddenly",
+          "ar": "فجأة",
+          "kind": "extra"
+        },
+        {
+          "en": "yummy",
+          "ar": "لذيذ",
+          "kind": "extra"
+        },
+        {
+          "en": "wonderful",
+          "ar": "رائع",
+          "kind": "extra"
+        },
+        {
+          "en": "pocket",
+          "ar": "جيب",
+          "kind": "extra"
+        },
+        {
+          "en": "impressed by",
+          "ar": "منبهر بـ",
+          "kind": "expression"
+        },
+        {
+          "en": "for free",
+          "ar": "مجانًا",
+          "kind": "expression"
+        },
+        {
+          "en": "take out .... from",
+          "ar": "يخرج ... من",
+          "kind": "expression"
+        },
+        {
+          "en": "come inside",
+          "ar": "تفضل بالدخول",
+          "kind": "expression"
+        },
+        {
+          "en": "walk through",
+          "ar": "يتجول في",
+          "kind": "expression"
+        },
+        {
+          "en": "laugh at",
+          "ar": "يضحك على",
+          "kind": "expression"
+        },
+        {
+          "en": "share with",
+          "ar": "يتشارك مع",
+          "kind": "expression"
+        },
+        {
+          "en": "taste better",
+          "ar": "مذاقه أفضل",
+          "kind": "expression"
+        },
+        {
+          "en": "invite",
+          "ar": "يدعو",
+          "kind": "verb-present",
+          "pairedWith": "invited"
+        },
+        {
+          "en": "invited",
+          "ar": "يدعو",
+          "kind": "verb-past",
+          "pairedWith": "invite"
+        },
+        {
+          "en": "offer",
+          "ar": "يعرض",
+          "kind": "verb-present",
+          "pairedWith": "offered"
+        },
+        {
+          "en": "offered",
+          "ar": "يعرض",
+          "kind": "verb-past",
+          "pairedWith": "offer"
+        },
+        {
+          "en": "say",
+          "ar": "يقول",
+          "kind": "verb-present",
+          "pairedWith": "said"
+        },
+        {
+          "en": "said",
+          "ar": "يقول",
+          "kind": "verb-past",
+          "pairedWith": "say"
+        },
+        {
+          "en": "pay for",
+          "ar": "يدفع (ثمن)",
+          "kind": "verb-present",
+          "pairedWith": "paid for"
+        },
+        {
+          "en": "paid for",
+          "ar": "يدفع (ثمن)",
+          "kind": "verb-past",
+          "pairedWith": "pay for"
+        },
+        {
+          "en": "shake",
+          "ar": "يهز / يهتز",
+          "kind": "verb-present",
+          "pairedWith": "shook"
+        },
+        {
+          "en": "shook",
+          "ar": "يهز / يهتز",
+          "kind": "verb-past",
+          "pairedWith": "shake"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 1 L 4&5.html",
+      "unit": 1,
+      "lesson": "4&5",
+      "title": "🕐📅 Unit One: My Healthy Life ✨",
+      "lessonTitle": "Lessons 4 & 5: Writing / Think and Create",
+      "mainVocab": [
+        {
+          "en": "daily routine",
+          "ar": "روتين يومي"
+        },
+        {
+          "en": "healthy",
+          "ar": "صحي"
+        },
+        {
+          "en": "same",
+          "ar": "متشابه / نفس الشيء"
+        },
+        {
+          "en": "get dressed",
+          "ar": "يرتدي"
+        },
+        {
+          "en": "lunch",
+          "ar": "وجبة الغداء"
+        },
+        {
+          "en": "breakfast",
+          "ar": "وجبة الإفطار"
+        },
+        {
+          "en": "eating habits",
+          "ar": "عادات الأكل (الطعام)"
+        },
+        {
+          "en": "snack",
+          "ar": "وجبة خفيفة"
+        },
+        {
+          "en": "dinner",
+          "ar": "وجبة العشاء"
+        },
+        {
+          "en": "including",
+          "ar": "متضمنًا / مشتملًا على"
+        }
+      ],
+      "extraVocab": [],
+      "expressions": [],
+      "verbs": [
+        {
+          "p": "study",
+          "s": "studied",
+          "ar": "يدرس"
+        },
+        {
+          "p": "prepare",
+          "s": "prepared",
+          "ar": "يعد / يجهز"
+        },
+        {
+          "p": "let",
+          "s": "let",
+          "ar": "يدع / يسمح"
+        },
+        {
+          "p": "tell",
+          "s": "told",
+          "ar": "يخبر"
+        }
+      ],
+      "keySentences": [
+        {
+          "en": "Having a daily routine is important.",
+          "ar": "من المهم أن يكون لديك روتين يومي."
+        },
+        {
+          "en": "I wash my face and get dressed for school.",
+          "ar": "أغسل وجهي وأرتدي ملابسي للذهاب إلى المدرسة."
+        },
+        {
+          "en": "During break time, I eat my healthy snack and drink water.",
+          "ar": "أثناء وقت الاستراحة، أتناول وجبتي الخفيفة الصحية وأشرب الماء."
+        },
+        {
+          "en": "I do my homework and play sports for one hour.",
+          "ar": "أؤدي واجبي المنزلي وأمارس الرياضة لمدة ساعة واحدة."
+        },
+        {
+          "en": "I take a shower and have dinner in the evening.",
+          "ar": "أستحم وأتناول العشاء في المساء."
+        }
+      ],
+      "story": [],
+      "vocabulary": [
+        {
+          "en": "daily routine",
+          "ar": "روتين يومي",
+          "kind": "main"
+        },
+        {
+          "en": "healthy",
+          "ar": "صحي",
+          "kind": "main"
+        },
+        {
+          "en": "same",
+          "ar": "متشابه / نفس الشيء",
+          "kind": "main"
+        },
+        {
+          "en": "get dressed",
+          "ar": "يرتدي",
+          "kind": "main"
+        },
+        {
+          "en": "lunch",
+          "ar": "وجبة الغداء",
+          "kind": "main"
+        },
+        {
+          "en": "breakfast",
+          "ar": "وجبة الإفطار",
+          "kind": "main"
+        },
+        {
+          "en": "eating habits",
+          "ar": "عادات الأكل (الطعام)",
+          "kind": "main"
+        },
+        {
+          "en": "snack",
+          "ar": "وجبة خفيفة",
+          "kind": "main"
+        },
+        {
+          "en": "dinner",
+          "ar": "وجبة العشاء",
+          "kind": "main"
+        },
+        {
+          "en": "including",
+          "ar": "متضمنًا / مشتملًا على",
+          "kind": "main"
+        },
+        {
+          "en": "study",
+          "ar": "يدرس",
+          "kind": "verb-present",
+          "pairedWith": "studied"
+        },
+        {
+          "en": "studied",
+          "ar": "يدرس",
+          "kind": "verb-past",
+          "pairedWith": "study"
+        },
+        {
+          "en": "prepare",
+          "ar": "يعد / يجهز",
+          "kind": "verb-present",
+          "pairedWith": "prepared"
+        },
+        {
+          "en": "prepared",
+          "ar": "يعد / يجهز",
+          "kind": "verb-past",
+          "pairedWith": "prepare"
+        },
+        {
+          "en": "let",
+          "ar": "يدع / يسمح",
+          "kind": "verb-present",
+          "pairedWith": "let"
+        },
+        {
+          "en": "let",
+          "ar": "يدع / يسمح",
+          "kind": "verb-past",
+          "pairedWith": "let"
+        },
+        {
+          "en": "tell",
+          "ar": "يخبر",
+          "kind": "verb-present",
+          "pairedWith": "told"
+        },
+        {
+          "en": "told",
+          "ar": "يخبر",
+          "kind": "verb-past",
+          "pairedWith": "tell"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 2 L 1.html",
+      "unit": 2,
+      "lesson": "1",
+      "title": "🤝🌳🐾 Unit Two: Helping the Community ✨",
+      "lessonTitle": "Lesson 1: Helping the Community",
+      "mainVocab": [
+        {
+          "en": "clean",
+          "ar": "ينظف / نظيف"
+        },
+        {
+          "en": "plant",
+          "ar": "يزرع"
+        },
+        {
+          "en": "collect",
+          "ar": "يجمع"
+        },
+        {
+          "en": "help",
+          "ar": "يساعد"
+        },
+        {
+          "en": "feed",
+          "ar": "يطعم"
+        },
+        {
+          "en": "volunteer",
+          "ar": "يتطوع"
+        },
+        {
+          "en": "trash",
+          "ar": "قمامة"
+        },
+        {
+          "en": "neighbors",
+          "ar": "جيران"
+        },
+        {
+          "en": "community park",
+          "ar": "حديقة مجتمعية"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "bottles",
+          "ar": "زجاجات"
+        },
+        {
+          "en": "clothes",
+          "ar": "ملابس"
+        },
+        {
+          "en": "street",
+          "ar": "شارع"
+        }
+      ],
+      "expressions": [
+        {
+          "en": "It's fun to + inf.",
+          "ar": "إنه من الممتع أن"
+        },
+        {
+          "en": "do a great job",
+          "ar": "يقوم بعمل رائع"
+        },
+        {
+          "en": "That's cool!",
+          "ar": "هذا رائع!"
+        },
+        {
+          "en": "helping hands",
+          "ar": "أيدي المساعدة"
+        }
+      ],
+      "verbs": [
+        {
+          "p": "need",
+          "s": "needed",
+          "ar": "يحتاج"
+        },
+        {
+          "p": "volunteer",
+          "s": "volunteered",
+          "ar": "يتطوع"
+        },
+        {
+          "p": "feel",
+          "s": "felt",
+          "ar": "يشعر"
+        },
+        {
+          "p": "give",
+          "s": "gave",
+          "ar": "يعطي"
+        }
+      ],
+      "keySentences": [
+        {
+          "en": "Amira and Adam are talking about how they help their community.",
+          "ar": "تتحدث أميرة وآدم عن كيف يساعدان مجتمعهم."
+        },
+        {
+          "en": "Adam cleans trash from the streets with his friends.",
+          "ar": "آدم ينظف القمامة من الشوارع مع أصدقائه."
+        },
+        {
+          "en": "Adam plants trees in the park.",
+          "ar": "آدم يزرع الأشجار في الحديقة."
+        },
+        {
+          "en": "Adam feeds the dogs and cats.",
+          "ar": "آدم يطعم الكلاب والقطط."
+        },
+        {
+          "en": "Adam's sister helps her neighbors.",
+          "ar": "أخت آدم تساعد جيرانها."
+        },
+        {
+          "en": "Adam's sister volunteers at the community park.",
+          "ar": "أخت آدم تتطوع في حديقة المجتمع."
+        },
+        {
+          "en": "Amira collects clothes and gives them to people who need them.",
+          "ar": "أميرة تجمع الملابس وتعطيها للناس الذين يحتاجون إليها."
+        }
+      ],
+      "story": [
+        {
+          "s": "Amira",
+          "en": "Hello, Adam! What do you do to help our community?",
+          "ar": "مرحبًا آدم! ماذا تفعل كي تساعد مجتمعنا؟"
+        },
+        {
+          "s": "Adam",
+          "en": "Hello, Amira! I clean trash from the streets with my friends every Saturday.",
+          "ar": "مرحبًا أميرة! أنا أنظف القمامة من الشوارع مع أصدقائي كل يوم سبت."
+        },
+        {
+          "s": "Amira",
+          "en": "That's cool! Do you plant trees?",
+          "ar": "هذا رائع! هل تزرع أشجارًا؟"
+        },
+        {
+          "s": "Adam",
+          "en": "Yes, I do. I plant trees in the park.",
+          "ar": "نعم. أزرع أشجارًا في الحديقة."
+        },
+        {
+          "s": "Amira",
+          "en": "That's nice! Do you do other things to help?",
+          "ar": "هذا لطيف! هل تفعل أشياء أخرى كي تساعد؟"
+        },
+        {
+          "s": "Adam",
+          "en": "Yes! Sometimes, I feed the dogs and cats. I feel so happy when I give them food!",
+          "ar": "نعم! أحيانًا أطعم الكلاب والقطط. أشعر بأنني سعيد للغاية عندما أعطيهم الطعام!"
+        },
+        {
+          "s": "Amira",
+          "en": "Does your sister help too?",
+          "ar": "هل أختك تساعد أيضًا؟"
+        },
+        {
+          "s": "Adam",
+          "en": "Yes, she does! She helps our neighbors, and she volunteers at the community park.",
+          "ar": "نعم، هي تساعد جيراننا وتتطوع في الحديقة المجتمعية."
+        },
+        {
+          "s": "Amira",
+          "en": "Wow! You both do a great job!",
+          "ar": "رائع! أنتما تقومان بعمل رائع!"
+        },
+        {
+          "s": "Adam",
+          "en": "Thanks! What about you? How do you help?",
+          "ar": "شكرًا! وماذا عنك؟ كيف تساعدين؟"
+        },
+        {
+          "s": "Amira",
+          "en": "I collect clothes and give them to people who need them.",
+          "ar": "أنا أقوم بجمع الملابس وأعطيها للأشخاص الذين يحتاجون إليها."
+        },
+        {
+          "s": "Adam",
+          "en": "That's great! When we all help, we make our community great.",
+          "ar": "هذا رائع! عندما نساعد جميعًا، نجعل مجتمعنا عظيمًا."
+        }
+      ],
+      "vocabulary": [
+        {
+          "en": "clean",
+          "ar": "ينظف / نظيف",
+          "kind": "main"
+        },
+        {
+          "en": "plant",
+          "ar": "يزرع",
+          "kind": "main"
+        },
+        {
+          "en": "collect",
+          "ar": "يجمع",
+          "kind": "main"
+        },
+        {
+          "en": "help",
+          "ar": "يساعد",
+          "kind": "main"
+        },
+        {
+          "en": "feed",
+          "ar": "يطعم",
+          "kind": "main"
+        },
+        {
+          "en": "volunteer",
+          "ar": "يتطوع",
+          "kind": "main"
+        },
+        {
+          "en": "trash",
+          "ar": "قمامة",
+          "kind": "main"
+        },
+        {
+          "en": "neighbors",
+          "ar": "جيران",
+          "kind": "main"
+        },
+        {
+          "en": "community park",
+          "ar": "حديقة مجتمعية",
+          "kind": "main"
+        },
+        {
+          "en": "bottles",
+          "ar": "زجاجات",
+          "kind": "extra"
+        },
+        {
+          "en": "clothes",
+          "ar": "ملابس",
+          "kind": "extra"
+        },
+        {
+          "en": "street",
+          "ar": "شارع",
+          "kind": "extra"
+        },
+        {
+          "en": "It's fun to + inf.",
+          "ar": "إنه من الممتع أن",
+          "kind": "expression"
+        },
+        {
+          "en": "do a great job",
+          "ar": "يقوم بعمل رائع",
+          "kind": "expression"
+        },
+        {
+          "en": "That's cool!",
+          "ar": "هذا رائع!",
+          "kind": "expression"
+        },
+        {
+          "en": "helping hands",
+          "ar": "أيدي المساعدة",
+          "kind": "expression"
+        },
+        {
+          "en": "need",
+          "ar": "يحتاج",
+          "kind": "verb-present",
+          "pairedWith": "needed"
+        },
+        {
+          "en": "needed",
+          "ar": "يحتاج",
+          "kind": "verb-past",
+          "pairedWith": "need"
+        },
+        {
+          "en": "volunteer",
+          "ar": "يتطوع",
+          "kind": "verb-present",
+          "pairedWith": "volunteered"
+        },
+        {
+          "en": "volunteered",
+          "ar": "يتطوع",
+          "kind": "verb-past",
+          "pairedWith": "volunteer"
+        },
+        {
+          "en": "feel",
+          "ar": "يشعر",
+          "kind": "verb-present",
+          "pairedWith": "felt"
+        },
+        {
+          "en": "felt",
+          "ar": "يشعر",
+          "kind": "verb-past",
+          "pairedWith": "feel"
+        },
+        {
+          "en": "give",
+          "ar": "يعطي",
+          "kind": "verb-present",
+          "pairedWith": "gave"
+        },
+        {
+          "en": "gave",
+          "ar": "يعطي",
+          "kind": "verb-past",
+          "pairedWith": "give"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 2 L 2.html",
+      "unit": 2,
+      "lesson": "2",
+      "title": "🚦🗑️ Unit Two: Community Problems and Solutions ✨",
+      "lessonTitle": "Lesson 2: Community Problems and Solutions",
+      "mainVocab": [
+        {
+          "en": "problems",
+          "ar": "مشكلات"
+        },
+        {
+          "en": "traffic",
+          "ar": "حركة مرور"
+        },
+        {
+          "en": "bin",
+          "ar": "سلة مهملات"
+        },
+        {
+          "en": "solutions",
+          "ar": "حلول"
+        },
+        {
+          "en": "dirty",
+          "ar": "غير نظيف"
+        },
+        {
+          "en": "ground",
+          "ar": "أرض"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "fewer",
+          "ar": "أقل (عددًا)"
+        },
+        {
+          "en": "especially",
+          "ar": "على وجه الخصوص"
+        },
+        {
+          "en": "everywhere",
+          "ar": "في كل مكان"
+        }
+      ],
+      "expressions": [
+        {
+          "en": "make a difference",
+          "ar": "يحدث فارقًا"
+        },
+        {
+          "en": "look dirty",
+          "ar": "تبدو غير نظيفة"
+        },
+        {
+          "en": "on the road",
+          "ar": "في الطريق"
+        },
+        {
+          "en": "instead of",
+          "ar": "بدلًا من"
+        },
+        {
+          "en": "take the bus",
+          "ar": "يستقل الأتوبيس"
+        }
+      ],
+      "verbs": [
+        {
+          "p": "reduce",
+          "s": "reduced",
+          "ar": "يقلل"
+        },
+        {
+          "p": "fix",
+          "s": "fixed",
+          "ar": "يصلح"
+        },
+        {
+          "p": "move",
+          "s": "moved",
+          "ar": "يتحرك"
+        },
+        {
+          "p": "solve",
+          "s": "solved",
+          "ar": "يحل"
+        },
+        {
+          "p": "discuss",
+          "s": "discussed",
+          "ar": "يناقش"
+        },
+        {
+          "p": "leave",
+          "s": "left",
+          "ar": "يترك"
+        },
+        {
+          "p": "throw",
+          "s": "threw",
+          "ar": "يلقي / يرمي"
+        },
+        {
+          "p": "know",
+          "s": "knew",
+          "ar": "يعرف"
+        },
+        {
+          "p": "put",
+          "s": "put",
+          "ar": "يضع"
+        }
+      ],
+      "keySentences": [
+        {
+          "en": "Mona and Ali have good solutions to some problems in their community.",
+          "ar": "مني وعلي لديهم حلول جيدة لبعض المشكلات في مجتمعهم."
+        },
+        {
+          "en": "Ali suggests using cars less and taking the school bus instead.",
+          "ar": "يقترح علي استخدام السيارات بشكل أقل وركوب حافلة المدرسة بدلًا منها."
+        },
+        {
+          "en": "Mona says that people don't put trash in bins and that is a problem.",
+          "ar": "تقول مني إن الناس لا يضعون القمامة في سلال المهملات وهذه مشكلة."
+        },
+        {
+          "en": "Ali says they can put new bins everywhere for everyone to use.",
+          "ar": "يقول علي إنهم يستطيعون وضع سلال جديدة في كل مكان ليستخدمها الجميع."
+        }
+      ],
+      "story": [
+        {
+          "s": "Ali",
+          "en": "Our community has many problems, so let's talk about them.",
+          "ar": "يوجد بمجتمعنا العديد من المشاكل، لذلك هيا نتحدث عنهم."
+        },
+        {
+          "s": "Mona",
+          "en": "OK! Let's also discuss solutions to fix them.",
+          "ar": "بالطبع! دعنا نناقش أيضًا حلولًا لإصلاحهم."
+        },
+        {
+          "s": "Ali",
+          "en": "The first problem is traffic. Cars don't move quickly in the morning, especially near schools.",
+          "ar": "المشكلة الأولى هي حركة المرور. لا تتحرك السيارات بسرعة في الصباح، خاصة بالقرب من المدارس."
+        },
+        {
+          "s": "Mona",
+          "en": "Do you know how to solve this problem?",
+          "ar": "هل تعلم كيف تُحل هذه المشكلة؟"
+        },
+        {
+          "s": "Ali",
+          "en": "Yes, I think so. We don't need to use cars every day. We can take the school bus instead. There will be fewer cars on the road.",
+          "ar": "نعم، أعتقد ذلك. نحن لا نحتاج لاستخدام سيارات كل يوم. يمكننا أن نستقل أتوبيس المدرسة بدلًا من ذلك. فبذلك سيكون هناك سيارات أقل على الطريق."
+        },
+        {
+          "s": "Mona",
+          "en": "That's right! The second problem is trash. Some people don't put trash in bins, so the streets look dirty.",
+          "ar": "هذا صحيح! المشكلة الثانية هي القمامة. بعض الناس لا يضعون القمامة في سلة المهملات، لذلك تبدو الشوارع غير نظيفة."
+        },
+        {
+          "s": "Mona",
+          "en": "Does your street have this problem?",
+          "ar": "هل توجد مثل هذه المشكلة في شارعك؟"
+        },
+        {
+          "s": "Ali",
+          "en": "Not anymore. Our neighbors don't throw trash on the ground. We put new bins everywhere. Everyone uses them, and now our street is very clean!",
+          "ar": "لم تعد كذلك. فجيراني لا يلقون القمامة على الأرض. نحن نضع سلات مهملات جديدة في كل مكان، ويستخدمها الجميع والآن شارعنا نظيف جدًا!"
+        },
+        {
+          "s": "Mona",
+          "en": "That's great!",
+          "ar": "هذا رائع!"
+        }
+      ],
+      "vocabulary": [
+        {
+          "en": "problems",
+          "ar": "مشكلات",
+          "kind": "main"
+        },
+        {
+          "en": "traffic",
+          "ar": "حركة مرور",
+          "kind": "main"
+        },
+        {
+          "en": "bin",
+          "ar": "سلة مهملات",
+          "kind": "main"
+        },
+        {
+          "en": "solutions",
+          "ar": "حلول",
+          "kind": "main"
+        },
+        {
+          "en": "dirty",
+          "ar": "غير نظيف",
+          "kind": "main"
+        },
+        {
+          "en": "ground",
+          "ar": "أرض",
+          "kind": "main"
+        },
+        {
+          "en": "fewer",
+          "ar": "أقل (عددًا)",
+          "kind": "extra"
+        },
+        {
+          "en": "especially",
+          "ar": "على وجه الخصوص",
+          "kind": "extra"
+        },
+        {
+          "en": "everywhere",
+          "ar": "في كل مكان",
+          "kind": "extra"
+        },
+        {
+          "en": "make a difference",
+          "ar": "يحدث فارقًا",
+          "kind": "expression"
+        },
+        {
+          "en": "look dirty",
+          "ar": "تبدو غير نظيفة",
+          "kind": "expression"
+        },
+        {
+          "en": "on the road",
+          "ar": "في الطريق",
+          "kind": "expression"
+        },
+        {
+          "en": "instead of",
+          "ar": "بدلًا من",
+          "kind": "expression"
+        },
+        {
+          "en": "take the bus",
+          "ar": "يستقل الأتوبيس",
+          "kind": "expression"
+        },
+        {
+          "en": "reduce",
+          "ar": "يقلل",
+          "kind": "verb-present",
+          "pairedWith": "reduced"
+        },
+        {
+          "en": "reduced",
+          "ar": "يقلل",
+          "kind": "verb-past",
+          "pairedWith": "reduce"
+        },
+        {
+          "en": "fix",
+          "ar": "يصلح",
+          "kind": "verb-present",
+          "pairedWith": "fixed"
+        },
+        {
+          "en": "fixed",
+          "ar": "يصلح",
+          "kind": "verb-past",
+          "pairedWith": "fix"
+        },
+        {
+          "en": "move",
+          "ar": "يتحرك",
+          "kind": "verb-present",
+          "pairedWith": "moved"
+        },
+        {
+          "en": "moved",
+          "ar": "يتحرك",
+          "kind": "verb-past",
+          "pairedWith": "move"
+        },
+        {
+          "en": "solve",
+          "ar": "يحل",
+          "kind": "verb-present",
+          "pairedWith": "solved"
+        },
+        {
+          "en": "solved",
+          "ar": "يحل",
+          "kind": "verb-past",
+          "pairedWith": "solve"
+        },
+        {
+          "en": "discuss",
+          "ar": "يناقش",
+          "kind": "verb-present",
+          "pairedWith": "discussed"
+        },
+        {
+          "en": "discussed",
+          "ar": "يناقش",
+          "kind": "verb-past",
+          "pairedWith": "discuss"
+        },
+        {
+          "en": "leave",
+          "ar": "يترك",
+          "kind": "verb-present",
+          "pairedWith": "left"
+        },
+        {
+          "en": "left",
+          "ar": "يترك",
+          "kind": "verb-past",
+          "pairedWith": "leave"
+        },
+        {
+          "en": "throw",
+          "ar": "يلقي / يرمي",
+          "kind": "verb-present",
+          "pairedWith": "threw"
+        },
+        {
+          "en": "threw",
+          "ar": "يلقي / يرمي",
+          "kind": "verb-past",
+          "pairedWith": "throw"
+        },
+        {
+          "en": "know",
+          "ar": "يعرف",
+          "kind": "verb-present",
+          "pairedWith": "knew"
+        },
+        {
+          "en": "knew",
+          "ar": "يعرف",
+          "kind": "verb-past",
+          "pairedWith": "know"
+        },
+        {
+          "en": "put",
+          "ar": "يضع",
+          "kind": "verb-present",
+          "pairedWith": "put"
+        },
+        {
+          "en": "put",
+          "ar": "يضع",
+          "kind": "verb-past",
+          "pairedWith": "put"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 2 L 3.html",
+      "unit": 2,
+      "lesson": "3",
+      "title": "🇪🇬🕌 Unit Two: Egypt, My Culture ✨",
+      "lessonTitle": "Lesson 3: Egypt - My Culture",
+      "mainVocab": [
+        {
+          "en": "the Delta",
+          "ar": "دلتا النيل"
+        },
+        {
+          "en": "Upper Egypt",
+          "ar": "الوجه القبلي"
+        },
+        {
+          "en": "region",
+          "ar": "منطقة / إقليم"
+        },
+        {
+          "en": "culture",
+          "ar": "ثقافة"
+        },
+        {
+          "en": "decorations",
+          "ar": "زينة / زخارف"
+        },
+        {
+          "en": "outfit",
+          "ar": "رداء خاص (ملابس)"
+        },
+        {
+          "en": "Spring Festival",
+          "ar": "مهرجان الربيع"
+        },
+        {
+          "en": "turban",
+          "ar": "عمامة"
+        },
+        {
+          "en": "crafts",
+          "ar": "حرف يدوية"
+        },
+        {
+          "en": "celebration",
+          "ar": "احتفال"
+        },
+        {
+          "en": "traditions",
+          "ar": "تقاليد"
+        },
+        {
+          "en": "designs",
+          "ar": "تصميمات"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "north",
+          "ar": "الشمال"
+        },
+        {
+          "en": "pottery",
+          "ar": "فخار / صناعة الفخار"
+        },
+        {
+          "en": "harvest",
+          "ar": "حصاد"
+        },
+        {
+          "en": "south",
+          "ar": "الجنوب"
+        },
+        {
+          "en": "traditional",
+          "ar": "تقليدي"
+        },
+        {
+          "en": "pants",
+          "ar": "بنطلون"
+        },
+        {
+          "en": "Nubia",
+          "ar": "النوبة"
+        },
+        {
+          "en": "carpets",
+          "ar": "سجاد"
+        },
+        {
+          "en": "stylish",
+          "ar": "أنيق"
+        },
+        {
+          "en": "sugar cane",
+          "ar": "قصب السكر"
+        },
+        {
+          "en": "galabeya",
+          "ar": "جلابية"
+        }
+      ],
+      "expressions": [
+        {
+          "en": "known for",
+          "ar": "مشهور بـ"
+        },
+        {
+          "en": "by hand",
+          "ar": "يدويًا"
+        },
+        {
+          "en": "in bright colors",
+          "ar": "بألوان زاهية"
+        },
+        {
+          "en": "tell stories",
+          "ar": "يحكي قصصًا"
+        },
+        {
+          "en": "for special events",
+          "ar": "للمناسبات الخاصة"
+        }
+      ],
+      "verbs": [
+        {
+          "p": "celebrate",
+          "s": "celebrated",
+          "ar": "يحتفل"
+        },
+        {
+          "p": "paint",
+          "s": "painted",
+          "ar": "يدهن"
+        },
+        {
+          "p": "weave",
+          "s": "wove",
+          "ar": "ينسج"
+        },
+        {
+          "p": "wear",
+          "s": "wore",
+          "ar": "يرتدي"
+        }
+      ],
+      "keySentences": [
+        {
+          "en": "Egypt has two special regions: the Delta and Upper Egypt.",
+          "ar": "مصر بها منطقتان مميزتان: الدلتا وصعيد مصر."
+        },
+        {
+          "en": "In the Delta, they celebrate the Spring Festival.",
+          "ar": "في الدلتا، يحتفل الناس بعيد الربيع."
+        },
+        {
+          "en": "In the Delta, many people work in factories and make beautiful crafts.",
+          "ar": "في الدلتا، يعمل كثير من الناس في المصانع ويصنعون حرفًا جميلة."
+        },
+        {
+          "en": "In Upper Egypt, people celebrate the sugar cane harvest with big festivals.",
+          "ar": "في صعيد مصر، يحتفل الناس بحصاد قصب السكر بمهرجانات كبيرة."
+        },
+        {
+          "en": "In Upper Egypt, they make pottery and weave colorful carpets by hand.",
+          "ar": "في صعيد مصر، يصنعون الفخار وينسجون سجادًا ملونًا يدويًا."
+        },
+        {
+          "en": "In Nubia, houses are painted in bright colors and have special designs.",
+          "ar": "في النوبة، تُطلى المنازل بألوان زاهية ولها تصميمات مميزة."
+        },
+        {
+          "en": "In Upper Egypt, men wear galabeyas and sometimes turbans.",
+          "ar": "في صعيد مصر، يرتدي الرجال الجلاليب وأحيانًا العمائم."
+        },
+        {
+          "en": "In the Delta, men wear modern clothes like pants and shirts.",
+          "ar": "في الدلتا، يرتدي الرجال ملابس عصرية مثل البنطلون والقميص."
+        },
+        {
+          "en": "Upper Egypt and the Delta share many of the same traditions.",
+          "ar": "يشترك صعيد مصر والدلتا في كثير من التقاليد نفسها."
+        }
+      ],
+      "story": [],
+      "vocabulary": [
+        {
+          "en": "the Delta",
+          "ar": "دلتا النيل",
+          "kind": "main"
+        },
+        {
+          "en": "Upper Egypt",
+          "ar": "الوجه القبلي",
+          "kind": "main"
+        },
+        {
+          "en": "region",
+          "ar": "منطقة / إقليم",
+          "kind": "main"
+        },
+        {
+          "en": "culture",
+          "ar": "ثقافة",
+          "kind": "main"
+        },
+        {
+          "en": "decorations",
+          "ar": "زينة / زخارف",
+          "kind": "main"
+        },
+        {
+          "en": "outfit",
+          "ar": "رداء خاص (ملابس)",
+          "kind": "main"
+        },
+        {
+          "en": "Spring Festival",
+          "ar": "مهرجان الربيع",
+          "kind": "main"
+        },
+        {
+          "en": "turban",
+          "ar": "عمامة",
+          "kind": "main"
+        },
+        {
+          "en": "crafts",
+          "ar": "حرف يدوية",
+          "kind": "main"
+        },
+        {
+          "en": "celebration",
+          "ar": "احتفال",
+          "kind": "main"
+        },
+        {
+          "en": "traditions",
+          "ar": "تقاليد",
+          "kind": "main"
+        },
+        {
+          "en": "designs",
+          "ar": "تصميمات",
+          "kind": "main"
+        },
+        {
+          "en": "north",
+          "ar": "الشمال",
+          "kind": "extra"
+        },
+        {
+          "en": "pottery",
+          "ar": "فخار / صناعة الفخار",
+          "kind": "extra"
+        },
+        {
+          "en": "harvest",
+          "ar": "حصاد",
+          "kind": "extra"
+        },
+        {
+          "en": "south",
+          "ar": "الجنوب",
+          "kind": "extra"
+        },
+        {
+          "en": "traditional",
+          "ar": "تقليدي",
+          "kind": "extra"
+        },
+        {
+          "en": "pants",
+          "ar": "بنطلون",
+          "kind": "extra"
+        },
+        {
+          "en": "Nubia",
+          "ar": "النوبة",
+          "kind": "extra"
+        },
+        {
+          "en": "carpets",
+          "ar": "سجاد",
+          "kind": "extra"
+        },
+        {
+          "en": "stylish",
+          "ar": "أنيق",
+          "kind": "extra"
+        },
+        {
+          "en": "sugar cane",
+          "ar": "قصب السكر",
+          "kind": "extra"
+        },
+        {
+          "en": "galabeya",
+          "ar": "جلابية",
+          "kind": "extra"
+        },
+        {
+          "en": "known for",
+          "ar": "مشهور بـ",
+          "kind": "expression"
+        },
+        {
+          "en": "by hand",
+          "ar": "يدويًا",
+          "kind": "expression"
+        },
+        {
+          "en": "in bright colors",
+          "ar": "بألوان زاهية",
+          "kind": "expression"
+        },
+        {
+          "en": "tell stories",
+          "ar": "يحكي قصصًا",
+          "kind": "expression"
+        },
+        {
+          "en": "for special events",
+          "ar": "للمناسبات الخاصة",
+          "kind": "expression"
+        },
+        {
+          "en": "celebrate",
+          "ar": "يحتفل",
+          "kind": "verb-present",
+          "pairedWith": "celebrated"
+        },
+        {
+          "en": "celebrated",
+          "ar": "يحتفل",
+          "kind": "verb-past",
+          "pairedWith": "celebrate"
+        },
+        {
+          "en": "paint",
+          "ar": "يدهن",
+          "kind": "verb-present",
+          "pairedWith": "painted"
+        },
+        {
+          "en": "painted",
+          "ar": "يدهن",
+          "kind": "verb-past",
+          "pairedWith": "paint"
+        },
+        {
+          "en": "weave",
+          "ar": "ينسج",
+          "kind": "verb-present",
+          "pairedWith": "wove"
+        },
+        {
+          "en": "wove",
+          "ar": "ينسج",
+          "kind": "verb-past",
+          "pairedWith": "weave"
+        },
+        {
+          "en": "wear",
+          "ar": "يرتدي",
+          "kind": "verb-present",
+          "pairedWith": "wore"
+        },
+        {
+          "en": "wore",
+          "ar": "يرتدي",
+          "kind": "verb-past",
+          "pairedWith": "wear"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 2 L 4&5.html",
+      "unit": 2,
+      "lesson": "4&5",
+      "title": "🏘️📖 Unit Two: My Community ✨",
+      "lessonTitle": "Lessons 4 & 5: Our Community's History",
+      "mainVocab": [
+        {
+          "en": "diary",
+          "ar": "مفكرة"
+        },
+        {
+          "en": "wooden",
+          "ar": "خشبي"
+        },
+        {
+          "en": "air pollution",
+          "ar": "تلوث الهواء"
+        },
+        {
+          "en": "neighborhood",
+          "ar": "حي"
+        },
+        {
+          "en": "stalls",
+          "ar": "أكشاك"
+        },
+        {
+          "en": "safely",
+          "ar": "بأمان"
+        },
+        {
+          "en": "history",
+          "ar": "تاريخ"
+        },
+        {
+          "en": "train station",
+          "ar": "محطة قطار"
+        },
+        {
+          "en": "rich",
+          "ar": "غني"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "amazing",
+          "ar": "مدهش"
+        },
+        {
+          "en": "market",
+          "ar": "سوق"
+        },
+        {
+          "en": "fresh",
+          "ar": "طازج"
+        },
+        {
+          "en": "supermarket",
+          "ar": "متجر"
+        },
+        {
+          "en": "building",
+          "ar": "مبنى"
+        },
+        {
+          "en": "photos",
+          "ar": "صور (فوتوغرافية)"
+        }
+      ],
+      "expressions": [
+        {
+          "en": "still stand",
+          "ar": "ما زالت قائمة"
+        },
+        {
+          "en": "proud to + inf.",
+          "ar": "فخور أن"
+        },
+        {
+          "en": "Yours truly",
+          "ar": "مع خالص تحياتي"
+        }
+      ],
+      "verbs": [
+        {
+          "p": "walk",
+          "s": "walked",
+          "ar": "يمشي"
+        },
+        {
+          "p": "cycle",
+          "s": "cycled",
+          "ar": "يركب دراجة"
+        },
+        {
+          "p": "sell",
+          "s": "sold",
+          "ar": "يبيع"
+        },
+        {
+          "p": "keep",
+          "s": "kept",
+          "ar": "يحفظ"
+        },
+        {
+          "p": "build",
+          "s": "built",
+          "ar": "يبني"
+        }
+      ],
+      "keySentences": [
+        {
+          "en": "Grandpa told Hana amazing stories about their community's history.",
+          "ar": "حكى الجد لهنا قصصًا رائعة عن تاريخ مجتمعهم."
+        },
+        {
+          "en": "Their neighborhood had an old market with wooden stalls.",
+          "ar": "كان حيهم يحتوي على سوق قديم به أكشاك خشبية."
+        },
+        {
+          "en": "People sold fresh fruits and vegetables every morning.",
+          "ar": "كان الناس يبيعون الفواكه والخضروات الطازجة كل صباح."
+        },
+        {
+          "en": "In their neighborhood, there were small houses with beautiful gardens.",
+          "ar": "كان يوجد في حيهم بيوت صغيرة بها حدائق جميلة."
+        },
+        {
+          "en": "Children played safely in the streets.",
+          "ar": "كان الأطفال يلعبون بأمان في الشوارع."
+        },
+        {
+          "en": "People helped to build the school that still stands today.",
+          "ar": "ساعد الناس في بناء المدرسة التي ما زالت قائمة حتى اليوم."
+        },
+        {
+          "en": "There are many ways to stop air pollution.",
+          "ar": "يوجد العديد من الطرق للحد من تلوث الهواء."
+        },
+        {
+          "en": "Walk or cycle to school and plant trees in your community.",
+          "ar": "اذهب إلى المدرسة سيرًا على الأقدام أو بالدراجة وازرع الأشجار في مجتمعك."
+        },
+        {
+          "en": "Use less plastic and keep your community clean.",
+          "ar": "استخدم كمية أقل من البلاستيك وحافظ على نظافة مجتمعك."
+        }
+      ],
+      "story": [
+        {
+          "s": "Hana",
+          "en": "March 15, 2025. Dear diary,",
+          "ar": "١٥ مارس ٢٠٢٥. يومياتي العزيزة،"
+        },
+        {
+          "s": "Hana",
+          "en": "Today, Grandpa told me amazing stories about our community's history.",
+          "ar": "اليوم أخبرني جدي قصصًا رائعة عن تاريخ مجتمعنا."
+        },
+        {
+          "s": "Hana",
+          "en": "Fifty years ago, our neighborhood was very different!",
+          "ar": "منذ خمسين عامًا كان الحي الخاص بنا مختلفًا جدًا!"
+        },
+        {
+          "s": "Hana",
+          "en": "Where our big supermarket stands now, there was a beautiful old market with wooden stalls.",
+          "ar": "حيث يوجد المتجر الكبير الآن، كان هناك سوق جميل فيه أكشاك خشبية."
+        },
+        {
+          "s": "Hana",
+          "en": "People sold fresh fruits and vegetables every morning.",
+          "ar": "كان الناس يبيعون فيه الفواكه والخضروات الطازجة كل صباح."
+        },
+        {
+          "s": "Hana",
+          "en": "The tall buildings weren't here then. Instead, there were small houses with beautiful gardens.",
+          "ar": "لم تكن هناك مباني شاهقة في ذلك الوقت. بدلًا من ذلك، كانت هناك منازل صغيرة بها حدائق جميلة."
+        },
+        {
+          "s": "Hana",
+          "en": "Everyone knew their neighbors, and children played safely in the streets.",
+          "ar": "كان الجميع يعرف جيرانهم، وكان الأطفال يلعبون بأمان في الشوارع."
+        },
+        {
+          "s": "Hana",
+          "en": "There was even a small train station where our park is now!",
+          "ar": "كان هناك أيضًا محطة قطار صغيرة، حيث يوجد المتنزه الخاص بنا الآن!"
+        },
+        {
+          "s": "Hana",
+          "en": "Grandpa showed me old photos. I saw the old school that still stands today.",
+          "ar": "عرض لي جدي صورًا قديمة. رأيت المدرسة القديمة التي لا تزال قائمة اليوم."
+        },
+        {
+          "s": "Hana",
+          "en": "He said people helped to build it together many years ago.",
+          "ar": "وقال إن الناس ساعدوا في بنائها معًا منذ سنوات عديدة."
+        },
+        {
+          "s": "Hana",
+          "en": "It makes me proud to know our community has such a rich history.",
+          "ar": "فذلك يجعلني فخورة بأن مجتمعنا له تاريخ ثري."
+        },
+        {
+          "s": "Hana",
+          "en": "Yours truly, Hana.",
+          "ar": "مع خالص تحياتي، هنا."
+        }
+      ],
+      "vocabulary": [
+        {
+          "en": "diary",
+          "ar": "مفكرة",
+          "kind": "main"
+        },
+        {
+          "en": "wooden",
+          "ar": "خشبي",
+          "kind": "main"
+        },
+        {
+          "en": "air pollution",
+          "ar": "تلوث الهواء",
+          "kind": "main"
+        },
+        {
+          "en": "neighborhood",
+          "ar": "حي",
+          "kind": "main"
+        },
+        {
+          "en": "stalls",
+          "ar": "أكشاك",
+          "kind": "main"
+        },
+        {
+          "en": "safely",
+          "ar": "بأمان",
+          "kind": "main"
+        },
+        {
+          "en": "history",
+          "ar": "تاريخ",
+          "kind": "main"
+        },
+        {
+          "en": "train station",
+          "ar": "محطة قطار",
+          "kind": "main"
+        },
+        {
+          "en": "rich",
+          "ar": "غني",
+          "kind": "main"
+        },
+        {
+          "en": "amazing",
+          "ar": "مدهش",
+          "kind": "extra"
+        },
+        {
+          "en": "market",
+          "ar": "سوق",
+          "kind": "extra"
+        },
+        {
+          "en": "fresh",
+          "ar": "طازج",
+          "kind": "extra"
+        },
+        {
+          "en": "supermarket",
+          "ar": "متجر",
+          "kind": "extra"
+        },
+        {
+          "en": "building",
+          "ar": "مبنى",
+          "kind": "extra"
+        },
+        {
+          "en": "photos",
+          "ar": "صور (فوتوغرافية)",
+          "kind": "extra"
+        },
+        {
+          "en": "still stand",
+          "ar": "ما زالت قائمة",
+          "kind": "expression"
+        },
+        {
+          "en": "proud to + inf.",
+          "ar": "فخور أن",
+          "kind": "expression"
+        },
+        {
+          "en": "Yours truly",
+          "ar": "مع خالص تحياتي",
+          "kind": "expression"
+        },
+        {
+          "en": "walk",
+          "ar": "يمشي",
+          "kind": "verb-present",
+          "pairedWith": "walked"
+        },
+        {
+          "en": "walked",
+          "ar": "يمشي",
+          "kind": "verb-past",
+          "pairedWith": "walk"
+        },
+        {
+          "en": "cycle",
+          "ar": "يركب دراجة",
+          "kind": "verb-present",
+          "pairedWith": "cycled"
+        },
+        {
+          "en": "cycled",
+          "ar": "يركب دراجة",
+          "kind": "verb-past",
+          "pairedWith": "cycle"
+        },
+        {
+          "en": "sell",
+          "ar": "يبيع",
+          "kind": "verb-present",
+          "pairedWith": "sold"
+        },
+        {
+          "en": "sold",
+          "ar": "يبيع",
+          "kind": "verb-past",
+          "pairedWith": "sell"
+        },
+        {
+          "en": "keep",
+          "ar": "يحفظ",
+          "kind": "verb-present",
+          "pairedWith": "kept"
+        },
+        {
+          "en": "kept",
+          "ar": "يحفظ",
+          "kind": "verb-past",
+          "pairedWith": "keep"
+        },
+        {
+          "en": "build",
+          "ar": "يبني",
+          "kind": "verb-present",
+          "pairedWith": "built"
+        },
+        {
+          "en": "built",
+          "ar": "يبني",
+          "kind": "verb-past",
+          "pairedWith": "build"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 3 L 1.html",
+      "unit": 3,
+      "lesson": "1",
+      "title": "🦁🐒 Unit Three: Animals in Our World 🐘🦒",
+      "lessonTitle": "Lesson 1: Let's Meet the Animals!",
+      "mainVocab": [
+        {
+          "en": "lion",
+          "ar": "أسد"
+        },
+        {
+          "en": "monkey",
+          "ar": "قرد"
+        },
+        {
+          "en": "elephant",
+          "ar": "فيل"
+        },
+        {
+          "en": "giraffe",
+          "ar": "زرافة"
+        },
+        {
+          "en": "zebra",
+          "ar": "حمار وحشي"
+        },
+        {
+          "en": "bear",
+          "ar": "دب"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "forest park",
+          "ar": "منتزه الغابة/غابة مخصصة للتنزه"
+        },
+        {
+          "en": "fur",
+          "ar": "فراء (شعر كثيف)"
+        },
+        {
+          "en": "claws",
+          "ar": "مخالب (الحيوانات)"
+        },
+        {
+          "en": "forest guide",
+          "ar": "مرشد في الغابة"
+        },
+        {
+          "en": "coat",
+          "ar": "الغطاء الخارجي (للجسم الحيوان)"
+        },
+        {
+          "en": "trunk",
+          "ar": "خرطوم الفيل"
+        },
+        {
+          "en": "visitors",
+          "ar": "زوار"
+        },
+        {
+          "en": "TV program",
+          "ar": "برنامج تلفزيوني"
+        },
+        {
+          "en": "tail",
+          "ar": "ذيل"
+        },
+        {
+          "en": "leaves",
+          "ar": "أوراق الشجر"
+        },
+        {
+          "en": "neck",
+          "ar": "رقبة"
+        }
+      ],
+      "expressions": [
+        {
+          "en": "the king of the jungle land",
+          "ar": "ملك الغابة"
+        },
+        {
+          "en": "in groups",
+          "ar": "في مجموعات"
+        },
+        {
+          "en": "as well",
+          "ar": "أيضًا"
+        },
+        {
+          "en": "work as",
+          "ar": "يعمل كـ"
+        },
+        {
+          "en": "see ... up close",
+          "ar": "يرى ... عن قرب"
+        },
+        {
+          "en": "during the day",
+          "ar": "أثناء النهار"
+        }
+      ],
+      "verbs": [
+        {
+          "p": "hunt",
+          "s": "hunted",
+          "ar": "يصطاد (حيوانات)"
+        },
+        {
+          "p": "climb",
+          "s": "climbed",
+          "ar": "يتسلق"
+        },
+        {
+          "p": "spray",
+          "s": "sprayed",
+          "ar": "يرش"
+        },
+        {
+          "p": "catch",
+          "s": "caught",
+          "ar": "يصطاد"
+        },
+        {
+          "p": "run",
+          "s": "ran",
+          "ar": "يجري"
+        },
+        {
+          "p": "drink",
+          "s": "drank",
+          "ar": "يشرب"
+        }
+      ],
+      "keySentences": [
+        {
+          "en": "The forest guide shows the visitors the animals at the forest park.",
+          "ar": "مرشد الغابة يعرف الزوار على الحيوانات في حديقة الغابة."
+        },
+        {
+          "en": "The visitors see monkeys climbing trees.",
+          "ar": "يرى الزوار القرود تتسلق الأشجار."
+        },
+        {
+          "en": "Lions often hunt at night.",
+          "ar": "غالبًا ما تصطاد الأسود ليلًا."
+        },
+        {
+          "en": "Giraffes eat leaves from tall trees.",
+          "ar": "تأكل الزرافات الأوراق من الأشجار الطويلة."
+        }
+      ],
+      "story": [],
+      "vocabulary": [
+        {
+          "en": "lion",
+          "ar": "أسد",
+          "kind": "main"
+        },
+        {
+          "en": "monkey",
+          "ar": "قرد",
+          "kind": "main"
+        },
+        {
+          "en": "elephant",
+          "ar": "فيل",
+          "kind": "main"
+        },
+        {
+          "en": "giraffe",
+          "ar": "زرافة",
+          "kind": "main"
+        },
+        {
+          "en": "zebra",
+          "ar": "حمار وحشي",
+          "kind": "main"
+        },
+        {
+          "en": "bear",
+          "ar": "دب",
+          "kind": "main"
+        },
+        {
+          "en": "forest park",
+          "ar": "منتزه الغابة/غابة مخصصة للتنزه",
+          "kind": "extra"
+        },
+        {
+          "en": "fur",
+          "ar": "فراء (شعر كثيف)",
+          "kind": "extra"
+        },
+        {
+          "en": "claws",
+          "ar": "مخالب (الحيوانات)",
+          "kind": "extra"
+        },
+        {
+          "en": "forest guide",
+          "ar": "مرشد في الغابة",
+          "kind": "extra"
+        },
+        {
+          "en": "coat",
+          "ar": "الغطاء الخارجي (للجسم الحيوان)",
+          "kind": "extra"
+        },
+        {
+          "en": "trunk",
+          "ar": "خرطوم الفيل",
+          "kind": "extra"
+        },
+        {
+          "en": "visitors",
+          "ar": "زوار",
+          "kind": "extra"
+        },
+        {
+          "en": "TV program",
+          "ar": "برنامج تلفزيوني",
+          "kind": "extra"
+        },
+        {
+          "en": "tail",
+          "ar": "ذيل",
+          "kind": "extra"
+        },
+        {
+          "en": "leaves",
+          "ar": "أوراق الشجر",
+          "kind": "extra"
+        },
+        {
+          "en": "neck",
+          "ar": "رقبة",
+          "kind": "extra"
+        },
+        {
+          "en": "the king of the jungle land",
+          "ar": "ملك الغابة",
+          "kind": "expression"
+        },
+        {
+          "en": "in groups",
+          "ar": "في مجموعات",
+          "kind": "expression"
+        },
+        {
+          "en": "as well",
+          "ar": "أيضًا",
+          "kind": "expression"
+        },
+        {
+          "en": "work as",
+          "ar": "يعمل كـ",
+          "kind": "expression"
+        },
+        {
+          "en": "see ... up close",
+          "ar": "يرى ... عن قرب",
+          "kind": "expression"
+        },
+        {
+          "en": "during the day",
+          "ar": "أثناء النهار",
+          "kind": "expression"
+        },
+        {
+          "en": "hunt",
+          "ar": "يصطاد (حيوانات)",
+          "kind": "verb-present",
+          "pairedWith": "hunted"
+        },
+        {
+          "en": "hunted",
+          "ar": "يصطاد (حيوانات)",
+          "kind": "verb-past",
+          "pairedWith": "hunt"
+        },
+        {
+          "en": "climb",
+          "ar": "يتسلق",
+          "kind": "verb-present",
+          "pairedWith": "climbed"
+        },
+        {
+          "en": "climbed",
+          "ar": "يتسلق",
+          "kind": "verb-past",
+          "pairedWith": "climb"
+        },
+        {
+          "en": "spray",
+          "ar": "يرش",
+          "kind": "verb-present",
+          "pairedWith": "sprayed"
+        },
+        {
+          "en": "sprayed",
+          "ar": "يرش",
+          "kind": "verb-past",
+          "pairedWith": "spray"
+        },
+        {
+          "en": "catch",
+          "ar": "يصطاد",
+          "kind": "verb-present",
+          "pairedWith": "caught"
+        },
+        {
+          "en": "caught",
+          "ar": "يصطاد",
+          "kind": "verb-past",
+          "pairedWith": "catch"
+        },
+        {
+          "en": "run",
+          "ar": "يجري",
+          "kind": "verb-present",
+          "pairedWith": "ran"
+        },
+        {
+          "en": "ran",
+          "ar": "يجري",
+          "kind": "verb-past",
+          "pairedWith": "run"
+        },
+        {
+          "en": "drink",
+          "ar": "يشرب",
+          "kind": "verb-present",
+          "pairedWith": "drank"
+        },
+        {
+          "en": "drank",
+          "ar": "يشرب",
+          "kind": "verb-past",
+          "pairedWith": "drink"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 3 L 2.html",
+      "unit": 3,
+      "lesson": "2",
+      "title": "🐕🐾 Unit Three: Animals in Our World 💚",
+      "lessonTitle": "Lesson 2: Taking Care of Animals",
+      "mainVocab": [
+        {
+          "en": "pet",
+          "ar": "حيوان أليف"
+        },
+        {
+          "en": "attention",
+          "ar": "اهتمام/عناية"
+        },
+        {
+          "en": "challenges",
+          "ar": "تحديات/صعوبات"
+        },
+        {
+          "en": "vet",
+          "ar": "طبيب بيطري"
+        },
+        {
+          "en": "owner",
+          "ar": "مالك"
+        },
+        {
+          "en": "wild",
+          "ar": "البرية"
+        },
+        {
+          "en": "forest officer",
+          "ar": "حارس الغابة"
+        },
+        {
+          "en": "cage",
+          "ar": "قفص"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "care",
+          "ar": "رعاية"
+        },
+        {
+          "en": "health",
+          "ar": "صحة"
+        },
+        {
+          "en": "spaces",
+          "ar": "مساحات"
+        },
+        {
+          "en": "wild animals",
+          "ar": "الحيوانات البرية"
+        },
+        {
+          "en": "home",
+          "ar": "موطن"
+        },
+        {
+          "en": "fresh",
+          "ar": "طازج"
+        },
+        {
+          "en": "safe",
+          "ar": "آمن"
+        },
+        {
+          "en": "simple",
+          "ar": "بسيط"
+        },
+        {
+          "en": "clean",
+          "ar": "نظيف"
+        },
+        {
+          "en": "special",
+          "ar": "خاص/مميز"
+        },
+        {
+          "en": "daily",
+          "ar": "يومي"
+        }
+      ],
+      "expressions": [
+        {
+          "en": "acts of kindness",
+          "ar": "أعمال طيبة/مواقف إنسانية"
+        },
+        {
+          "en": "move around",
+          "ar": "يتجول/يتحرك"
+        },
+        {
+          "en": "keep a rabbit",
+          "ar": "يربي أرنب"
+        },
+        {
+          "en": "care for = take care of",
+          "ar": "يعتني بـ"
+        }
+      ],
+      "verbs": [
+        {
+          "p": "reach",
+          "s": "reached",
+          "ar": "يصل إلى"
+        },
+        {
+          "p": "check",
+          "s": "checked",
+          "ar": "يفحص"
+        },
+        {
+          "p": "face",
+          "s": "faced",
+          "ar": "يواجه"
+        },
+        {
+          "p": "protect",
+          "s": "protected",
+          "ar": "يحمي"
+        },
+        {
+          "p": "create",
+          "s": "created",
+          "ar": "ينشئ"
+        }
+      ],
+      "keySentences": [
+        {
+          "en": "Animals need our help to stay healthy and safe.",
+          "ar": "تحتاج الحيوانات إلى مساعدتنا للحفاظ على صحتها وسلامتها."
+        },
+        {
+          "en": "Each animal needs special care to live well.",
+          "ar": "يحتاج كل حيوان إلى رعاية خاصة ليعيش بشكل جيد."
+        },
+        {
+          "en": "Wild animals' homes are getting smaller because of new cities.",
+          "ar": "أصبحت مواطن الحيوانات البرية أصغر بسبب المدن الجديدة."
+        },
+        {
+          "en": "Pets need daily care from their owners.",
+          "ar": "تحتاج الحيوانات الأليفة إلى رعاية يومية من أصحابها."
+        },
+        {
+          "en": "Everyone can help protect animals by showing kindness for them.",
+          "ar": "يمكن للجميع المساعدة في حماية الحيوانات عن طريق معاملتها بلطف."
+        }
+      ],
+      "story": [],
+      "vocabulary": [
+        {
+          "en": "pet",
+          "ar": "حيوان أليف",
+          "kind": "main"
+        },
+        {
+          "en": "attention",
+          "ar": "اهتمام/عناية",
+          "kind": "main"
+        },
+        {
+          "en": "challenges",
+          "ar": "تحديات/صعوبات",
+          "kind": "main"
+        },
+        {
+          "en": "vet",
+          "ar": "طبيب بيطري",
+          "kind": "main"
+        },
+        {
+          "en": "owner",
+          "ar": "مالك",
+          "kind": "main"
+        },
+        {
+          "en": "wild",
+          "ar": "البرية",
+          "kind": "main"
+        },
+        {
+          "en": "forest officer",
+          "ar": "حارس الغابة",
+          "kind": "main"
+        },
+        {
+          "en": "cage",
+          "ar": "قفص",
+          "kind": "main"
+        },
+        {
+          "en": "care",
+          "ar": "رعاية",
+          "kind": "extra"
+        },
+        {
+          "en": "health",
+          "ar": "صحة",
+          "kind": "extra"
+        },
+        {
+          "en": "spaces",
+          "ar": "مساحات",
+          "kind": "extra"
+        },
+        {
+          "en": "wild animals",
+          "ar": "الحيوانات البرية",
+          "kind": "extra"
+        },
+        {
+          "en": "home",
+          "ar": "موطن",
+          "kind": "extra"
+        },
+        {
+          "en": "fresh",
+          "ar": "طازج",
+          "kind": "extra"
+        },
+        {
+          "en": "safe",
+          "ar": "آمن",
+          "kind": "extra"
+        },
+        {
+          "en": "simple",
+          "ar": "بسيط",
+          "kind": "extra"
+        },
+        {
+          "en": "clean",
+          "ar": "نظيف",
+          "kind": "extra"
+        },
+        {
+          "en": "special",
+          "ar": "خاص/مميز",
+          "kind": "extra"
+        },
+        {
+          "en": "daily",
+          "ar": "يومي",
+          "kind": "extra"
+        },
+        {
+          "en": "acts of kindness",
+          "ar": "أعمال طيبة/مواقف إنسانية",
+          "kind": "expression"
+        },
+        {
+          "en": "move around",
+          "ar": "يتجول/يتحرك",
+          "kind": "expression"
+        },
+        {
+          "en": "keep a rabbit",
+          "ar": "يربي أرنب",
+          "kind": "expression"
+        },
+        {
+          "en": "care for = take care of",
+          "ar": "يعتني بـ",
+          "kind": "expression"
+        },
+        {
+          "en": "reach",
+          "ar": "يصل إلى",
+          "kind": "verb-present",
+          "pairedWith": "reached"
+        },
+        {
+          "en": "reached",
+          "ar": "يصل إلى",
+          "kind": "verb-past",
+          "pairedWith": "reach"
+        },
+        {
+          "en": "check",
+          "ar": "يفحص",
+          "kind": "verb-present",
+          "pairedWith": "checked"
+        },
+        {
+          "en": "checked",
+          "ar": "يفحص",
+          "kind": "verb-past",
+          "pairedWith": "check"
+        },
+        {
+          "en": "face",
+          "ar": "يواجه",
+          "kind": "verb-present",
+          "pairedWith": "faced"
+        },
+        {
+          "en": "faced",
+          "ar": "يواجه",
+          "kind": "verb-past",
+          "pairedWith": "face"
+        },
+        {
+          "en": "protect",
+          "ar": "يحمي",
+          "kind": "verb-present",
+          "pairedWith": "protected"
+        },
+        {
+          "en": "protected",
+          "ar": "يحمي",
+          "kind": "verb-past",
+          "pairedWith": "protect"
+        },
+        {
+          "en": "create",
+          "ar": "ينشئ",
+          "kind": "verb-present",
+          "pairedWith": "created"
+        },
+        {
+          "en": "created",
+          "ar": "ينشئ",
+          "kind": "verb-past",
+          "pairedWith": "create"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 3 L 3.html",
+      "unit": 3,
+      "lesson": "3",
+      "title": "🦁🦊 Unit Three: Animals in Our World 📖",
+      "lessonTitle": "Lesson 3: Story Time - The Old Lion and The Fox",
+      "mainVocab": [
+        {
+          "en": "footprints",
+          "ar": "آثار الأقدام"
+        },
+        {
+          "en": "fluffy tail",
+          "ar": "ذيل كثيف"
+        },
+        {
+          "en": "cave",
+          "ar": "كهف"
+        },
+        {
+          "en": "trick",
+          "ar": "خدعة/يخدع"
+        },
+        {
+          "en": "fox",
+          "ar": "ثعلب"
+        },
+        {
+          "en": "mistakes",
+          "ar": "أخطاء"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "mountain",
+          "ar": "جبل"
+        },
+        {
+          "en": "marks",
+          "ar": "علامات"
+        },
+        {
+          "en": "sick",
+          "ar": "مريض"
+        },
+        {
+          "en": "surface",
+          "ar": "سطح"
+        },
+        {
+          "en": "weak",
+          "ar": "ضعيف"
+        },
+        {
+          "en": "wise",
+          "ar": "حكيم"
+        }
+      ],
+      "expressions": [
+        {
+          "en": "call out",
+          "ar": "يصيح/ينادي بصوت عالٍ"
+        },
+        {
+          "en": "one by one",
+          "ar": "واحد بعد الآخر/واحد تلو الآخر"
+        },
+        {
+          "en": "come out",
+          "ar": "يخرج من"
+        },
+        {
+          "en": "run away",
+          "ar": "يهرب"
+        },
+        {
+          "en": "in danger",
+          "ar": "في خطر"
+        }
+      ],
+      "verbs": [
+        {
+          "p": "pretend",
+          "s": "pretended",
+          "ar": "يتظاهر"
+        },
+        {
+          "p": "die",
+          "s": "died",
+          "ar": "يموت"
+        },
+        {
+          "p": "enter",
+          "s": "entered",
+          "ar": "يدخل"
+        },
+        {
+          "p": "notice",
+          "s": "noticed",
+          "ar": "يلاحظ"
+        },
+        {
+          "p": "stand",
+          "s": "stood",
+          "ar": "يقف"
+        },
+        {
+          "p": "understand",
+          "s": "understood",
+          "ar": "يفهم"
+        },
+        {
+          "p": "catch",
+          "s": "caught",
+          "ar": "يصطاد"
+        }
+      ],
+      "keySentences": [
+        {
+          "en": "The old lion couldn't hunt anymore.",
+          "ar": "لم يستطع الأسد العجوز الصيد بعد الآن."
+        },
+        {
+          "en": "The old lion pretended to be sick in his cave.",
+          "ar": "تظاهر الأسد العجوز بأنه مريض داخل كهفه."
+        },
+        {
+          "en": "Many animals entered the lion's cave and never returned.",
+          "ar": "دخلت حيوانات كثيرة إلى كهف الأسد ولم تعد أبدًا."
+        },
+        {
+          "en": "A wise fox noticed the one-way footprints.",
+          "ar": "لاحظ ثعلب حكيم آثار الأقدام التي تسير في اتجاه واحد."
+        },
+        {
+          "en": "The wise fox didn't go into the cave and it ran away safely.",
+          "ar": "لم يدخل الثعلب الحكيم إلى الكهف وهرب بأمان."
+        }
+      ],
+      "story": [],
+      "vocabulary": [
+        {
+          "en": "footprints",
+          "ar": "آثار الأقدام",
+          "kind": "main"
+        },
+        {
+          "en": "fluffy tail",
+          "ar": "ذيل كثيف",
+          "kind": "main"
+        },
+        {
+          "en": "cave",
+          "ar": "كهف",
+          "kind": "main"
+        },
+        {
+          "en": "trick",
+          "ar": "خدعة/يخدع",
+          "kind": "main"
+        },
+        {
+          "en": "fox",
+          "ar": "ثعلب",
+          "kind": "main"
+        },
+        {
+          "en": "mistakes",
+          "ar": "أخطاء",
+          "kind": "main"
+        },
+        {
+          "en": "mountain",
+          "ar": "جبل",
+          "kind": "extra"
+        },
+        {
+          "en": "marks",
+          "ar": "علامات",
+          "kind": "extra"
+        },
+        {
+          "en": "sick",
+          "ar": "مريض",
+          "kind": "extra"
+        },
+        {
+          "en": "surface",
+          "ar": "سطح",
+          "kind": "extra"
+        },
+        {
+          "en": "weak",
+          "ar": "ضعيف",
+          "kind": "extra"
+        },
+        {
+          "en": "wise",
+          "ar": "حكيم",
+          "kind": "extra"
+        },
+        {
+          "en": "call out",
+          "ar": "يصيح/ينادي بصوت عالٍ",
+          "kind": "expression"
+        },
+        {
+          "en": "one by one",
+          "ar": "واحد بعد الآخر/واحد تلو الآخر",
+          "kind": "expression"
+        },
+        {
+          "en": "come out",
+          "ar": "يخرج من",
+          "kind": "expression"
+        },
+        {
+          "en": "run away",
+          "ar": "يهرب",
+          "kind": "expression"
+        },
+        {
+          "en": "in danger",
+          "ar": "في خطر",
+          "kind": "expression"
+        },
+        {
+          "en": "pretend",
+          "ar": "يتظاهر",
+          "kind": "verb-present",
+          "pairedWith": "pretended"
+        },
+        {
+          "en": "pretended",
+          "ar": "يتظاهر",
+          "kind": "verb-past",
+          "pairedWith": "pretend"
+        },
+        {
+          "en": "die",
+          "ar": "يموت",
+          "kind": "verb-present",
+          "pairedWith": "died"
+        },
+        {
+          "en": "died",
+          "ar": "يموت",
+          "kind": "verb-past",
+          "pairedWith": "die"
+        },
+        {
+          "en": "enter",
+          "ar": "يدخل",
+          "kind": "verb-present",
+          "pairedWith": "entered"
+        },
+        {
+          "en": "entered",
+          "ar": "يدخل",
+          "kind": "verb-past",
+          "pairedWith": "enter"
+        },
+        {
+          "en": "notice",
+          "ar": "يلاحظ",
+          "kind": "verb-present",
+          "pairedWith": "noticed"
+        },
+        {
+          "en": "noticed",
+          "ar": "يلاحظ",
+          "kind": "verb-past",
+          "pairedWith": "notice"
+        },
+        {
+          "en": "stand",
+          "ar": "يقف",
+          "kind": "verb-present",
+          "pairedWith": "stood"
+        },
+        {
+          "en": "stood",
+          "ar": "يقف",
+          "kind": "verb-past",
+          "pairedWith": "stand"
+        },
+        {
+          "en": "understand",
+          "ar": "يفهم",
+          "kind": "verb-present",
+          "pairedWith": "understood"
+        },
+        {
+          "en": "understood",
+          "ar": "يفهم",
+          "kind": "verb-past",
+          "pairedWith": "understand"
+        },
+        {
+          "en": "catch",
+          "ar": "يصطاد",
+          "kind": "verb-present",
+          "pairedWith": "caught"
+        },
+        {
+          "en": "caught",
+          "ar": "يصطاد",
+          "kind": "verb-past",
+          "pairedWith": "catch"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 3 L 4&5.html",
+      "unit": 3,
+      "lesson": "4&5",
+      "title": "🐆🌊 Unit Three: Animals in Our World 🌍",
+      "lessonTitle": "Lessons 4 & 5: Writing - Think and Create",
+      "mainVocab": [
+        {
+          "en": "endangered",
+          "ar": "مهدد بالانقراض"
+        },
+        {
+          "en": "disappearing",
+          "ar": "الاختفاء"
+        },
+        {
+          "en": "sea grass",
+          "ar": "عشب البحر"
+        },
+        {
+          "en": "the Arabian Leopard",
+          "ar": "الفهد العربي"
+        },
+        {
+          "en": "the Red Sea Dugong",
+          "ar": "أطوم البحر الأحمر"
+        },
+        {
+          "en": "species",
+          "ar": "فصائل/أنواع"
+        },
+        {
+          "en": "habitats",
+          "ar": "مواطن/بيئات"
+        },
+        {
+          "en": "fishing net",
+          "ar": "شبكة صيد"
+        },
+        {
+          "en": "sea animals",
+          "ar": "حيوانات بحرية"
+        },
+        {
+          "en": "danger",
+          "ar": "خطر"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "forever",
+          "ar": "إلى الأبد"
+        },
+        {
+          "en": "reason",
+          "ar": "سبب"
+        },
+        {
+          "en": "areas",
+          "ar": "مناطق"
+        },
+        {
+          "en": "the Middle East",
+          "ar": "الشرق الأوسط"
+        },
+        {
+          "en": "pollution",
+          "ar": "تلوث"
+        },
+        {
+          "en": "organization",
+          "ar": "منظمة"
+        },
+        {
+          "en": "facts",
+          "ar": "حقائق"
+        },
+        {
+          "en": "collage",
+          "ar": "فن اللصق"
+        },
+        {
+          "en": "gentle",
+          "ar": "لطيف"
+        }
+      ],
+      "expressions": [],
+      "verbs": [],
+      "keySentences": [],
+      "story": [],
+      "vocabulary": [
+        {
+          "en": "endangered",
+          "ar": "مهدد بالانقراض",
+          "kind": "main"
+        },
+        {
+          "en": "disappearing",
+          "ar": "الاختفاء",
+          "kind": "main"
+        },
+        {
+          "en": "sea grass",
+          "ar": "عشب البحر",
+          "kind": "main"
+        },
+        {
+          "en": "the Arabian Leopard",
+          "ar": "الفهد العربي",
+          "kind": "main"
+        },
+        {
+          "en": "the Red Sea Dugong",
+          "ar": "أطوم البحر الأحمر",
+          "kind": "main"
+        },
+        {
+          "en": "species",
+          "ar": "فصائل/أنواع",
+          "kind": "main"
+        },
+        {
+          "en": "habitats",
+          "ar": "مواطن/بيئات",
+          "kind": "main"
+        },
+        {
+          "en": "fishing net",
+          "ar": "شبكة صيد",
+          "kind": "main"
+        },
+        {
+          "en": "sea animals",
+          "ar": "حيوانات بحرية",
+          "kind": "main"
+        },
+        {
+          "en": "danger",
+          "ar": "خطر",
+          "kind": "main"
+        },
+        {
+          "en": "forever",
+          "ar": "إلى الأبد",
+          "kind": "extra"
+        },
+        {
+          "en": "reason",
+          "ar": "سبب",
+          "kind": "extra"
+        },
+        {
+          "en": "areas",
+          "ar": "مناطق",
+          "kind": "extra"
+        },
+        {
+          "en": "the Middle East",
+          "ar": "الشرق الأوسط",
+          "kind": "extra"
+        },
+        {
+          "en": "pollution",
+          "ar": "تلوث",
+          "kind": "extra"
+        },
+        {
+          "en": "organization",
+          "ar": "منظمة",
+          "kind": "extra"
+        },
+        {
+          "en": "facts",
+          "ar": "حقائق",
+          "kind": "extra"
+        },
+        {
+          "en": "collage",
+          "ar": "فن اللصق",
+          "kind": "extra"
+        },
+        {
+          "en": "gentle",
+          "ar": "لطيف",
+          "kind": "extra"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 4 L 1.html",
+      "unit": 4,
+      "lesson": "1",
+      "title": "🇪🇬🐪 Unit Four: Places in Egypt",
+      "lessonTitle": "Lesson 1: Exploring Egypt with Ali!",
+      "mainVocab": [
+        {
+          "en": "Pyramids",
+          "ar": "الأهرامات"
+        },
+        {
+          "en": "Nile River",
+          "ar": "نهر النيل"
+        },
+        {
+          "en": "Cairo Tower",
+          "ar": "برج القاهرة"
+        },
+        {
+          "en": "Siwa Oasis",
+          "ar": "واحة سيوة"
+        },
+        {
+          "en": "Egyptian Museum",
+          "ar": "المتحف المصري"
+        },
+        {
+          "en": "Khan Al-Khalili Bazaar",
+          "ar": "سوق خان الخليلي"
+        },
+        {
+          "en": "tour guide",
+          "ar": "مرشد سياحي"
+        },
+        {
+          "en": "treasures",
+          "ar": "كنوز"
+        },
+        {
+          "en": "gifts",
+          "ar": "هدايا"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "stones",
+          "ar": "الأحجار"
+        },
+        {
+          "en": "country",
+          "ar": "دولة / بلد"
+        },
+        {
+          "en": "tourists",
+          "ar": "سياح"
+        },
+        {
+          "en": "busy market",
+          "ar": "سوق مزدحم"
+        },
+        {
+          "en": "near",
+          "ar": "بالقرب من"
+        },
+        {
+          "en": "first time",
+          "ar": "أول مرة"
+        }
+      ],
+      "expressions": [],
+      "verbs": [],
+      "keySentences": [],
+      "story": [],
+      "vocabulary": [
+        {
+          "en": "Pyramids",
+          "ar": "الأهرامات",
+          "kind": "main"
+        },
+        {
+          "en": "Nile River",
+          "ar": "نهر النيل",
+          "kind": "main"
+        },
+        {
+          "en": "Cairo Tower",
+          "ar": "برج القاهرة",
+          "kind": "main"
+        },
+        {
+          "en": "Siwa Oasis",
+          "ar": "واحة سيوة",
+          "kind": "main"
+        },
+        {
+          "en": "Egyptian Museum",
+          "ar": "المتحف المصري",
+          "kind": "main"
+        },
+        {
+          "en": "Khan Al-Khalili Bazaar",
+          "ar": "سوق خان الخليلي",
+          "kind": "main"
+        },
+        {
+          "en": "tour guide",
+          "ar": "مرشد سياحي",
+          "kind": "main"
+        },
+        {
+          "en": "treasures",
+          "ar": "كنوز",
+          "kind": "main"
+        },
+        {
+          "en": "gifts",
+          "ar": "هدايا",
+          "kind": "main"
+        },
+        {
+          "en": "stones",
+          "ar": "الأحجار",
+          "kind": "extra"
+        },
+        {
+          "en": "country",
+          "ar": "دولة / بلد",
+          "kind": "extra"
+        },
+        {
+          "en": "tourists",
+          "ar": "سياح",
+          "kind": "extra"
+        },
+        {
+          "en": "busy market",
+          "ar": "سوق مزدحم",
+          "kind": "extra"
+        },
+        {
+          "en": "near",
+          "ar": "بالقرب من",
+          "kind": "extra"
+        },
+        {
+          "en": "first time",
+          "ar": "أول مرة",
+          "kind": "extra"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 4 L 2.html",
+      "unit": 4,
+      "lesson": "2",
+      "title": "🏙️ Unit Four: My City",
+      "lessonTitle": "Lesson 2: The Places We Go in Our City",
+      "mainVocab": [
+        {
+          "en": "library",
+          "ar": "مكتبة"
+        },
+        {
+          "en": "school",
+          "ar": "مدرسة"
+        },
+        {
+          "en": "hospital",
+          "ar": "مستشفى"
+        },
+        {
+          "en": "post office",
+          "ar": "مكتب البريد"
+        },
+        {
+          "en": "museum",
+          "ar": "متحف"
+        },
+        {
+          "en": "shopping mall",
+          "ar": "مركز تجاري"
+        },
+        {
+          "en": "packages",
+          "ar": "طرود بريدية"
+        },
+        {
+          "en": "stores",
+          "ar": "متاجر"
+        },
+        {
+          "en": "students",
+          "ar": "طلاب"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "city",
+          "ar": "مدينة (كبيرة)"
+        },
+        {
+          "en": "doctors",
+          "ar": "أطباء"
+        },
+        {
+          "en": "teacher",
+          "ar": "معلم / معلمة"
+        },
+        {
+          "en": "restaurant",
+          "ar": "مطعم"
+        },
+        {
+          "en": "nurse",
+          "ar": "ممرضة"
+        },
+        {
+          "en": "letters",
+          "ar": "خطابات"
+        }
+      ],
+      "expressions": [],
+      "verbs": [],
+      "keySentences": [],
+      "story": [],
+      "vocabulary": [
+        {
+          "en": "library",
+          "ar": "مكتبة",
+          "kind": "main"
+        },
+        {
+          "en": "school",
+          "ar": "مدرسة",
+          "kind": "main"
+        },
+        {
+          "en": "hospital",
+          "ar": "مستشفى",
+          "kind": "main"
+        },
+        {
+          "en": "post office",
+          "ar": "مكتب البريد",
+          "kind": "main"
+        },
+        {
+          "en": "museum",
+          "ar": "متحف",
+          "kind": "main"
+        },
+        {
+          "en": "shopping mall",
+          "ar": "مركز تجاري",
+          "kind": "main"
+        },
+        {
+          "en": "packages",
+          "ar": "طرود بريدية",
+          "kind": "main"
+        },
+        {
+          "en": "stores",
+          "ar": "متاجر",
+          "kind": "main"
+        },
+        {
+          "en": "students",
+          "ar": "طلاب",
+          "kind": "main"
+        },
+        {
+          "en": "city",
+          "ar": "مدينة (كبيرة)",
+          "kind": "extra"
+        },
+        {
+          "en": "doctors",
+          "ar": "أطباء",
+          "kind": "extra"
+        },
+        {
+          "en": "teacher",
+          "ar": "معلم / معلمة",
+          "kind": "extra"
+        },
+        {
+          "en": "restaurant",
+          "ar": "مطعم",
+          "kind": "extra"
+        },
+        {
+          "en": "nurse",
+          "ar": "ممرضة",
+          "kind": "extra"
+        },
+        {
+          "en": "letters",
+          "ar": "خطابات",
+          "kind": "extra"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 4 L 4&5.html",
+      "unit": 4,
+      "lesson": "4&5",
+      "title": "⛰️ Unit Four: Egypt My Homeland",
+      "lessonTitle": "Lessons 4 & 5: Writing - Think and Create",
+      "mainVocab": [
+        {
+          "en": "St. Catherine Mountain",
+          "ar": "جبل سانت كاترين"
+        },
+        {
+          "en": "rocks",
+          "ar": "صخور"
+        },
+        {
+          "en": "salt lake",
+          "ar": "البحيرة المالحة"
+        },
+        {
+          "en": "monastery",
+          "ar": "دير"
+        },
+        {
+          "en": "adventure",
+          "ar": "مغامرة"
+        },
+        {
+          "en": "nature",
+          "ar": "الطبيعة"
+        },
+        {
+          "en": "olive oil",
+          "ar": "زيت زيتون"
+        },
+        {
+          "en": "warm clothes",
+          "ar": "ملابس ثقيلة"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "South Sinai",
+          "ar": "جنوب سيناء"
+        },
+        {
+          "en": "price",
+          "ar": "ثمن"
+        },
+        {
+          "en": "local food",
+          "ar": "طعام محلي"
+        },
+        {
+          "en": "popular",
+          "ar": "مشهور"
+        },
+        {
+          "en": "natural",
+          "ar": "طبيعي"
+        },
+        {
+          "en": "colorful",
+          "ar": "ملون"
+        },
+        {
+          "en": "dates",
+          "ar": "تمر"
+        },
+        {
+          "en": "palm trees",
+          "ar": "أشجار النخيل"
+        },
+        {
+          "en": "daytime",
+          "ar": "النهار"
+        }
+      ],
+      "expressions": [],
+      "verbs": [],
+      "keySentences": [],
+      "story": [],
+      "vocabulary": [
+        {
+          "en": "St. Catherine Mountain",
+          "ar": "جبل سانت كاترين",
+          "kind": "main"
+        },
+        {
+          "en": "rocks",
+          "ar": "صخور",
+          "kind": "main"
+        },
+        {
+          "en": "salt lake",
+          "ar": "البحيرة المالحة",
+          "kind": "main"
+        },
+        {
+          "en": "monastery",
+          "ar": "دير",
+          "kind": "main"
+        },
+        {
+          "en": "adventure",
+          "ar": "مغامرة",
+          "kind": "main"
+        },
+        {
+          "en": "nature",
+          "ar": "الطبيعة",
+          "kind": "main"
+        },
+        {
+          "en": "olive oil",
+          "ar": "زيت زيتون",
+          "kind": "main"
+        },
+        {
+          "en": "warm clothes",
+          "ar": "ملابس ثقيلة",
+          "kind": "main"
+        },
+        {
+          "en": "South Sinai",
+          "ar": "جنوب سيناء",
+          "kind": "extra"
+        },
+        {
+          "en": "price",
+          "ar": "ثمن",
+          "kind": "extra"
+        },
+        {
+          "en": "local food",
+          "ar": "طعام محلي",
+          "kind": "extra"
+        },
+        {
+          "en": "popular",
+          "ar": "مشهور",
+          "kind": "extra"
+        },
+        {
+          "en": "natural",
+          "ar": "طبيعي",
+          "kind": "extra"
+        },
+        {
+          "en": "colorful",
+          "ar": "ملون",
+          "kind": "extra"
+        },
+        {
+          "en": "dates",
+          "ar": "تمر",
+          "kind": "extra"
+        },
+        {
+          "en": "palm trees",
+          "ar": "أشجار النخيل",
+          "kind": "extra"
+        },
+        {
+          "en": "daytime",
+          "ar": "النهار",
+          "kind": "extra"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 5 L 1.html",
+      "unit": 5,
+      "lesson": "1",
+      "title": "👷‍♂️👩‍⚕️ Unit Five: A Day at Work",
+      "lessonTitle": "Lesson 1: Different Jobs",
+      "mainVocab": [
+        {
+          "en": "doctor",
+          "ar": "طبيب"
+        },
+        {
+          "en": "nurse",
+          "ar": "ممرضة"
+        },
+        {
+          "en": "teacher",
+          "ar": "معلمة"
+        },
+        {
+          "en": "engineer",
+          "ar": "مهندس"
+        },
+        {
+          "en": "firefighter",
+          "ar": "رجل إطفاء"
+        },
+        {
+          "en": "police officer",
+          "ar": "ضابط شرطة"
+        },
+        {
+          "en": "vest",
+          "ar": "سترة/قميص (بدون أكمام)"
+        },
+        {
+          "en": "costume",
+          "ar": "زي خاص"
+        },
+        {
+          "en": "helmet",
+          "ar": "خوذة"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "coat",
+          "ar": "معطف"
+        },
+        {
+          "en": "sick people",
+          "ar": "المرضى"
+        },
+        {
+          "en": "patients",
+          "ar": "مرضى"
+        },
+        {
+          "en": "cap",
+          "ar": "قبعة"
+        },
+        {
+          "en": "health",
+          "ar": "صحة"
+        },
+        {
+          "en": "uniform",
+          "ar": "زي موحد"
+        }
+      ],
+      "expressions": [],
+      "verbs": [],
+      "keySentences": [],
+      "story": [],
+      "vocabulary": [
+        {
+          "en": "doctor",
+          "ar": "طبيب",
+          "kind": "main"
+        },
+        {
+          "en": "nurse",
+          "ar": "ممرضة",
+          "kind": "main"
+        },
+        {
+          "en": "teacher",
+          "ar": "معلمة",
+          "kind": "main"
+        },
+        {
+          "en": "engineer",
+          "ar": "مهندس",
+          "kind": "main"
+        },
+        {
+          "en": "firefighter",
+          "ar": "رجل إطفاء",
+          "kind": "main"
+        },
+        {
+          "en": "police officer",
+          "ar": "ضابط شرطة",
+          "kind": "main"
+        },
+        {
+          "en": "vest",
+          "ar": "سترة/قميص (بدون أكمام)",
+          "kind": "main"
+        },
+        {
+          "en": "costume",
+          "ar": "زي خاص",
+          "kind": "main"
+        },
+        {
+          "en": "helmet",
+          "ar": "خوذة",
+          "kind": "main"
+        },
+        {
+          "en": "coat",
+          "ar": "معطف",
+          "kind": "extra"
+        },
+        {
+          "en": "sick people",
+          "ar": "المرضى",
+          "kind": "extra"
+        },
+        {
+          "en": "patients",
+          "ar": "مرضى",
+          "kind": "extra"
+        },
+        {
+          "en": "cap",
+          "ar": "قبعة",
+          "kind": "extra"
+        },
+        {
+          "en": "health",
+          "ar": "صحة",
+          "kind": "extra"
+        },
+        {
+          "en": "uniform",
+          "ar": "زي موحد",
+          "kind": "extra"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 5 L 2.html",
+      "unit": 5,
+      "lesson": "2",
+      "title": "🎭📸 Unit Five: A Day at Work",
+      "lessonTitle": "Lesson 2: Jobs I Love!",
+      "mainVocab": [
+        {
+          "en": "mentor",
+          "ar": "مرشد تعليمي"
+        },
+        {
+          "en": "voice-over actor",
+          "ar": "مؤدي صوتي"
+        },
+        {
+          "en": "wildlife photographer",
+          "ar": "مصور الحياة البرية"
+        },
+        {
+          "en": "shy",
+          "ar": "خجول"
+        },
+        {
+          "en": "puppet",
+          "ar": "دمية"
+        },
+        {
+          "en": "laughs",
+          "ar": "ضحكات"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "smart",
+          "ar": "ذكي"
+        },
+        {
+          "en": "cartoons",
+          "ar": "رسوم متحركة"
+        },
+        {
+          "en": "character",
+          "ar": "شخصية"
+        },
+        {
+          "en": "faraway",
+          "ar": "بعيد"
+        },
+        {
+          "en": "loud",
+          "ar": "عالي (الصوت)"
+        },
+        {
+          "en": "brave",
+          "ar": "شجاع"
+        },
+        {
+          "en": "high",
+          "ar": "مرتفع"
+        },
+        {
+          "en": "low",
+          "ar": "منخفض"
+        },
+        {
+          "en": "voice",
+          "ar": "صوت (بشري)"
+        },
+        {
+          "en": "smile",
+          "ar": "ابتسامة"
+        },
+        {
+          "en": "exciting",
+          "ar": "ممتع"
+        },
+        {
+          "en": "real",
+          "ar": "حقيقي - واقعي"
+        }
+      ],
+      "expressions": [],
+      "verbs": [],
+      "keySentences": [],
+      "story": [],
+      "vocabulary": [
+        {
+          "en": "mentor",
+          "ar": "مرشد تعليمي",
+          "kind": "main"
+        },
+        {
+          "en": "voice-over actor",
+          "ar": "مؤدي صوتي",
+          "kind": "main"
+        },
+        {
+          "en": "wildlife photographer",
+          "ar": "مصور الحياة البرية",
+          "kind": "main"
+        },
+        {
+          "en": "shy",
+          "ar": "خجول",
+          "kind": "main"
+        },
+        {
+          "en": "puppet",
+          "ar": "دمية",
+          "kind": "main"
+        },
+        {
+          "en": "laughs",
+          "ar": "ضحكات",
+          "kind": "main"
+        },
+        {
+          "en": "smart",
+          "ar": "ذكي",
+          "kind": "extra"
+        },
+        {
+          "en": "cartoons",
+          "ar": "رسوم متحركة",
+          "kind": "extra"
+        },
+        {
+          "en": "character",
+          "ar": "شخصية",
+          "kind": "extra"
+        },
+        {
+          "en": "faraway",
+          "ar": "بعيد",
+          "kind": "extra"
+        },
+        {
+          "en": "loud",
+          "ar": "عالي (الصوت)",
+          "kind": "extra"
+        },
+        {
+          "en": "brave",
+          "ar": "شجاع",
+          "kind": "extra"
+        },
+        {
+          "en": "high",
+          "ar": "مرتفع",
+          "kind": "extra"
+        },
+        {
+          "en": "low",
+          "ar": "منخفض",
+          "kind": "extra"
+        },
+        {
+          "en": "voice",
+          "ar": "صوت (بشري)",
+          "kind": "extra"
+        },
+        {
+          "en": "smile",
+          "ar": "ابتسامة",
+          "kind": "extra"
+        },
+        {
+          "en": "exciting",
+          "ar": "ممتع",
+          "kind": "extra"
+        },
+        {
+          "en": "real",
+          "ar": "حقيقي - واقعي",
+          "kind": "extra"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 5 L 3.html",
+      "unit": 5,
+      "lesson": "3",
+      "title": "🏠🔨 Unit Five: A Day at Work",
+      "lessonTitle": "Lesson 3: Story Time - \"The Last House\"",
+      "mainVocab": [
+        {
+          "en": "carpenter",
+          "ar": "نجار"
+        },
+        {
+          "en": "fit",
+          "ar": "يناسب / يلائم"
+        },
+        {
+          "en": "skilled",
+          "ar": "ماهر / ذو مهارة"
+        },
+        {
+          "en": "shock",
+          "ar": "صدمة"
+        },
+        {
+          "en": "furniture",
+          "ar": "أثاث"
+        },
+        {
+          "en": "board",
+          "ar": "لوح (خشبي)"
+        },
+        {
+          "en": "crooked",
+          "ar": "مائل / منحني / معوج"
+        },
+        {
+          "en": "regret",
+          "ar": "ندم"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "wooden",
+          "ar": "خشبي"
+        },
+        {
+          "en": "carelessly",
+          "ar": "بإهمال"
+        },
+        {
+          "en": "nail",
+          "ar": "مسامر"
+        },
+        {
+          "en": "usual",
+          "ar": "عادي / تقليدي"
+        },
+        {
+          "en": "final",
+          "ar": "نهائي"
+        },
+        {
+          "en": "request",
+          "ar": "طلب"
+        }
+      ],
+      "expressions": [],
+      "verbs": [],
+      "keySentences": [],
+      "story": [],
+      "vocabulary": [
+        {
+          "en": "carpenter",
+          "ar": "نجار",
+          "kind": "main"
+        },
+        {
+          "en": "fit",
+          "ar": "يناسب / يلائم",
+          "kind": "main"
+        },
+        {
+          "en": "skilled",
+          "ar": "ماهر / ذو مهارة",
+          "kind": "main"
+        },
+        {
+          "en": "shock",
+          "ar": "صدمة",
+          "kind": "main"
+        },
+        {
+          "en": "furniture",
+          "ar": "أثاث",
+          "kind": "main"
+        },
+        {
+          "en": "board",
+          "ar": "لوح (خشبي)",
+          "kind": "main"
+        },
+        {
+          "en": "crooked",
+          "ar": "مائل / منحني / معوج",
+          "kind": "main"
+        },
+        {
+          "en": "regret",
+          "ar": "ندم",
+          "kind": "main"
+        },
+        {
+          "en": "wooden",
+          "ar": "خشبي",
+          "kind": "extra"
+        },
+        {
+          "en": "carelessly",
+          "ar": "بإهمال",
+          "kind": "extra"
+        },
+        {
+          "en": "nail",
+          "ar": "مسامر",
+          "kind": "extra"
+        },
+        {
+          "en": "usual",
+          "ar": "عادي / تقليدي",
+          "kind": "extra"
+        },
+        {
+          "en": "final",
+          "ar": "نهائي",
+          "kind": "extra"
+        },
+        {
+          "en": "request",
+          "ar": "طلب",
+          "kind": "extra"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 5 L 4&5.html",
+      "unit": 5,
+      "lesson": "4&5",
+      "title": "🚒🔥 Unit Five: A Day at Work",
+      "lessonTitle": "Lessons 4 & 5: Writing - Think and Create",
+      "mainVocab": [
+        {
+          "en": "fire station",
+          "ar": "محطة إطفاء"
+        },
+        {
+          "en": "water hoses",
+          "ar": "خراطيم المياه"
+        },
+        {
+          "en": "alarm",
+          "ar": "جهاز إنذار"
+        },
+        {
+          "en": "thick",
+          "ar": "سميك"
+        },
+        {
+          "en": "protective",
+          "ar": "واقي"
+        },
+        {
+          "en": "firefighter",
+          "ar": "رجل إطفاء"
+        },
+        {
+          "en": "stripes",
+          "ar": "خطوط (عريضة)"
+        },
+        {
+          "en": "equipment",
+          "ar": "معدات"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "heavy",
+          "ar": "ثقيل"
+        },
+        {
+          "en": "lives",
+          "ar": "الحيوات (جمع حياة)"
+        },
+        {
+          "en": "hero",
+          "ar": "بطل"
+        },
+        {
+          "en": "truck",
+          "ar": "شاحنة"
+        },
+        {
+          "en": "tools",
+          "ar": "أدوات"
+        },
+        {
+          "en": "local",
+          "ar": "محلي"
+        },
+        {
+          "en": "ladder",
+          "ar": "سلم / درج متنقل"
+        },
+        {
+          "en": "origami",
+          "ar": "فن تشكيل الورق"
+        },
+        {
+          "en": "oxygen tank",
+          "ar": "أسطوانة الأكسجين"
+        },
+        {
+          "en": "art",
+          "ar": "فن"
+        }
+      ],
+      "expressions": [],
+      "verbs": [],
+      "keySentences": [],
+      "story": [],
+      "vocabulary": [
+        {
+          "en": "fire station",
+          "ar": "محطة إطفاء",
+          "kind": "main"
+        },
+        {
+          "en": "water hoses",
+          "ar": "خراطيم المياه",
+          "kind": "main"
+        },
+        {
+          "en": "alarm",
+          "ar": "جهاز إنذار",
+          "kind": "main"
+        },
+        {
+          "en": "thick",
+          "ar": "سميك",
+          "kind": "main"
+        },
+        {
+          "en": "protective",
+          "ar": "واقي",
+          "kind": "main"
+        },
+        {
+          "en": "firefighter",
+          "ar": "رجل إطفاء",
+          "kind": "main"
+        },
+        {
+          "en": "stripes",
+          "ar": "خطوط (عريضة)",
+          "kind": "main"
+        },
+        {
+          "en": "equipment",
+          "ar": "معدات",
+          "kind": "main"
+        },
+        {
+          "en": "heavy",
+          "ar": "ثقيل",
+          "kind": "extra"
+        },
+        {
+          "en": "lives",
+          "ar": "الحيوات (جمع حياة)",
+          "kind": "extra"
+        },
+        {
+          "en": "hero",
+          "ar": "بطل",
+          "kind": "extra"
+        },
+        {
+          "en": "truck",
+          "ar": "شاحنة",
+          "kind": "extra"
+        },
+        {
+          "en": "tools",
+          "ar": "أدوات",
+          "kind": "extra"
+        },
+        {
+          "en": "local",
+          "ar": "محلي",
+          "kind": "extra"
+        },
+        {
+          "en": "ladder",
+          "ar": "سلم / درج متنقل",
+          "kind": "extra"
+        },
+        {
+          "en": "origami",
+          "ar": "فن تشكيل الورق",
+          "kind": "extra"
+        },
+        {
+          "en": "oxygen tank",
+          "ar": "أسطوانة الأكسجين",
+          "kind": "extra"
+        },
+        {
+          "en": "art",
+          "ar": "فن",
+          "kind": "extra"
+        }
+      ]
+    },
+    {
+      "sourceFile": "Prim 4 U 6 Story.html",
+      "unit": 6,
+      "lesson": "Story",
+      "title": "👗📖 Stories from Life 📖",
+      "lessonTitle": "Story Time - The Hundred Dresses",
+      "mainVocab": [
+        {
+          "en": "dress",
+          "ar": "فستان"
+        },
+        {
+          "en": "closet",
+          "ar": "خزانة (دولاب) ملابس"
+        },
+        {
+          "en": "playground",
+          "ar": "ملعب"
+        },
+        {
+          "en": "competition",
+          "ar": "مسابقة"
+        },
+        {
+          "en": "announce",
+          "ar": "يعلن"
+        },
+        {
+          "en": "drawings",
+          "ar": "رسومات"
+        },
+        {
+          "en": "sign",
+          "ar": "توقيع / يوقع"
+        },
+        {
+          "en": "letter",
+          "ar": "خطاب"
+        },
+        {
+          "en": "winner",
+          "ar": "فائز"
+        },
+        {
+          "en": "medal",
+          "ar": "ميدالية"
+        },
+        {
+          "en": "laugh",
+          "ar": "يضحك"
+        }
+      ],
+      "extraVocab": [
+        {
+          "en": "quiet",
+          "ar": "هادئ"
+        },
+        {
+          "en": "faded",
+          "ar": "باهت"
+        },
+        {
+          "en": "popular",
+          "ar": "مشهور / محبوب"
+        },
+        {
+          "en": "annoying",
+          "ar": "يزعج"
+        },
+        {
+          "en": "absent",
+          "ar": "غائب"
+        },
+        {
+          "en": "notice",
+          "ar": "يلاحظ"
+        },
+        {
+          "en": "behavior",
+          "ar": "سلوك"
+        },
+        {
+          "en": "expensive",
+          "ar": "غالي الثمن"
+        },
+        {
+          "en": "bullying",
+          "ar": "تنمر"
+        },
+        {
+          "en": "apologize",
+          "ar": "يعتذر"
+        },
+        {
+          "en": "annual",
+          "ar": "سنوي"
+        },
+        {
+          "en": "covered with",
+          "ar": "مغطى بـ"
+        },
+        {
+          "en": "terrible",
+          "ar": "فظيع / بالأسى"
+        },
+        {
+          "en": "unkindness",
+          "ar": "قسوة"
+        },
+        {
+          "en": "experience",
+          "ar": "تجربة"
+        }
+      ],
+      "expressions": [],
+      "verbs": [],
+      "keySentences": [],
+      "story": [],
+      "vocabulary": [
+        {
+          "en": "dress",
+          "ar": "فستان",
+          "kind": "main"
+        },
+        {
+          "en": "closet",
+          "ar": "خزانة (دولاب) ملابس",
+          "kind": "main"
+        },
+        {
+          "en": "playground",
+          "ar": "ملعب",
+          "kind": "main"
+        },
+        {
+          "en": "competition",
+          "ar": "مسابقة",
+          "kind": "main"
+        },
+        {
+          "en": "announce",
+          "ar": "يعلن",
+          "kind": "main"
+        },
+        {
+          "en": "drawings",
+          "ar": "رسومات",
+          "kind": "main"
+        },
+        {
+          "en": "sign",
+          "ar": "توقيع / يوقع",
+          "kind": "main"
+        },
+        {
+          "en": "letter",
+          "ar": "خطاب",
+          "kind": "main"
+        },
+        {
+          "en": "winner",
+          "ar": "فائز",
+          "kind": "main"
+        },
+        {
+          "en": "medal",
+          "ar": "ميدالية",
+          "kind": "main"
+        },
+        {
+          "en": "laugh",
+          "ar": "يضحك",
+          "kind": "main"
+        },
+        {
+          "en": "quiet",
+          "ar": "هادئ",
+          "kind": "extra"
+        },
+        {
+          "en": "faded",
+          "ar": "باهت",
+          "kind": "extra"
+        },
+        {
+          "en": "popular",
+          "ar": "مشهور / محبوب",
+          "kind": "extra"
+        },
+        {
+          "en": "annoying",
+          "ar": "يزعج",
+          "kind": "extra"
+        },
+        {
+          "en": "absent",
+          "ar": "غائب",
+          "kind": "extra"
+        },
+        {
+          "en": "notice",
+          "ar": "يلاحظ",
+          "kind": "extra"
+        },
+        {
+          "en": "behavior",
+          "ar": "سلوك",
+          "kind": "extra"
+        },
+        {
+          "en": "expensive",
+          "ar": "غالي الثمن",
+          "kind": "extra"
+        },
+        {
+          "en": "bullying",
+          "ar": "تنمر",
+          "kind": "extra"
+        },
+        {
+          "en": "apologize",
+          "ar": "يعتذر",
+          "kind": "extra"
+        },
+        {
+          "en": "annual",
+          "ar": "سنوي",
+          "kind": "extra"
+        },
+        {
+          "en": "covered with",
+          "ar": "مغطى بـ",
+          "kind": "extra"
+        },
+        {
+          "en": "terrible",
+          "ar": "فظيع / بالأسى",
+          "kind": "extra"
+        },
+        {
+          "en": "unkindness",
+          "ar": "قسوة",
+          "kind": "extra"
+        },
+        {
+          "en": "experience",
+          "ar": "تجربة",
+          "kind": "extra"
+        }
+      ]
+    }
+  ]
+}
