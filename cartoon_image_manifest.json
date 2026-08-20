@@ -1,0 +1,3757 @@
+{
+  "total": 469,
+  "items": [
+    {
+      "term": "a 10-year-old girl",
+      "arabic": "فتاة عمرها عشر سنوات",
+      "kind": "expression",
+      "sentence": "A 10-year-old girl takes a shower every night.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "absent",
+      "arabic": "غائب",
+      "kind": "extra",
+      "sentence": "Sara was absent from school last Tuesday.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "acts of kindness",
+      "arabic": "أعمال طيبة/مواقف إنسانية",
+      "kind": "expression",
+      "sentence": "Acts of kindness help animals feel safe.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "adventure",
+      "arabic": "مغامرة",
+      "kind": "main",
+      "sentence": "Our school trip was a fun adventure in Sinai.",
+      "unit": 4,
+      "lesson": "4&5"
+    },
+    {
+      "term": "air pollution",
+      "arabic": "تلوث الهواء",
+      "kind": "main",
+      "sentence": "There are many ways to stop air pollution.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "alarm",
+      "arabic": "جهاز إنذار",
+      "kind": "main",
+      "sentence": "The loud alarm woke everyone in the building.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "amazing",
+      "arabic": "مدهش",
+      "kind": "extra",
+      "sentence": "Grandpa told Hana amazing stories about their community's history.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "announce",
+      "arabic": "يعلن",
+      "kind": "main",
+      "sentence": "The teacher will announce the winner after recess.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "annoying",
+      "arabic": "يزعج",
+      "kind": "extra",
+      "sentence": "The buzzing fly was annoying to everyone.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "annual",
+      "arabic": "سنوي",
+      "kind": "extra",
+      "sentence": "We enjoy the annual book fair at school.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "apologize",
+      "arabic": "يعتذر",
+      "kind": "extra",
+      "sentence": "He will apologize to her after school.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "areas",
+      "arabic": "مناطق",
+      "kind": "extra",
+      "sentence": "Some coastal areas need cleaning by volunteers.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "art",
+      "arabic": "فن",
+      "kind": "extra",
+      "sentence": "We made fire-safe posters in art class today.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "as well",
+      "arabic": "أيضًا",
+      "kind": "expression",
+      "sentence": "Monkeys eat bananas as well as fruit.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "at night",
+      "arabic": "ليلاً",
+      "kind": "expression",
+      "sentence": "Turn off the lights at night before sleeping.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "attention",
+      "arabic": "اهتمام/عناية",
+      "kind": "main",
+      "sentence": "The dog needs attention every morning from Ali.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "bear",
+      "arabic": "دب",
+      "kind": "main",
+      "sentence": "A bear likes to eat honey and fruit.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "behavior",
+      "arabic": "سلوك",
+      "kind": "extra",
+      "sentence": "His behavior in class made the teacher smile.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "between classes",
+      "arabic": "بين الحصص الدراسية",
+      "kind": "expression",
+      "sentence": "Sarah drinks plenty of water between classes.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "bin",
+      "arabic": "سلة مهملات",
+      "kind": "main",
+      "sentence": "Drop your snack wrapper in the bin now.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "board",
+      "arabic": "لوح (خشبي)",
+      "kind": "main",
+      "sentence": "He placed a long board across the small gap.",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "bottles",
+      "arabic": "زجاجات",
+      "kind": "extra",
+      "sentence": "We collect bottles and put them in the bin.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "brave",
+      "arabic": "شجاع",
+      "kind": "extra",
+      "sentence": "The brave boy helped his friend cross the street.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "break time",
+      "arabic": "وقت الفسحة",
+      "kind": "main",
+      "sentence": "Students eat snacks during break time at school.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "breakfast",
+      "arabic": "وجبة الإفطار",
+      "kind": "main",
+      "sentence": "I eat breakfast before I go to school.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "brown bread",
+      "arabic": "خبز القمح (البلدي)",
+      "kind": "extra",
+      "sentence": "I like brown bread with cheese for breakfast.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "brush teeth",
+      "arabic": "يغسل الأسنان",
+      "kind": "main",
+      "sentence": "I brush teeth every morning after breakfast.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "build",
+      "arabic": "يبني",
+      "kind": "verb-present",
+      "sentence": "People helped to build the school that still stands today.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "building",
+      "arabic": "مبنى",
+      "kind": "extra",
+      "sentence": "A new building stands near the old school.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "built",
+      "arabic": "يبني",
+      "kind": "verb-past",
+      "sentence": "They built the school many years ago.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "bullying",
+      "arabic": "تنمر",
+      "kind": "extra",
+      "sentence": "Our school has rules to stop bullying every day.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "busy market",
+      "arabic": "سوق مزدحم",
+      "kind": "extra",
+      "sentence": "A busy market smells of spices and bread.",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "butterflies",
+      "arabic": "فراشات",
+      "kind": "extra",
+      "sentence": "I can smell the flowers and see the colorful butterflies!",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "by hand",
+      "arabic": "يدويًا",
+      "kind": "expression",
+      "sentence": "In Upper Egypt, they make pottery and weave colorful carpets by hand.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "cage",
+      "arabic": "قفص",
+      "kind": "main",
+      "sentence": "The bird stayed in a clean small cage.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "Cairo Tower",
+      "arabic": "برج القاهرة",
+      "kind": "main",
+      "sentence": "We saw the Cairo Tower from our hotel.",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "call out",
+      "arabic": "يصيح/ينادي بصوت عالٍ",
+      "kind": "expression",
+      "sentence": "When he was lost, he had to call out for help.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "cap",
+      "arabic": "قبعة",
+      "kind": "extra",
+      "sentence": "He wears a white cap while working outside.",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "care",
+      "arabic": "رعاية",
+      "kind": "extra",
+      "sentence": "Each animal needs special care to live well.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "care for = take care of",
+      "arabic": "يعتني بـ",
+      "kind": "expression",
+      "sentence": "Please care for = take care of your pet every day.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "carelessly",
+      "arabic": "بإهمال",
+      "kind": "extra",
+      "sentence": "He opened the paint can carelessly and spilled some.",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "carpenter",
+      "arabic": "نجار",
+      "kind": "main",
+      "sentence": "The carpenter fixed the last house roof today.",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "carpets",
+      "arabic": "سجاد",
+      "kind": "extra",
+      "sentence": "In Upper Egypt, they make pottery and weave colorful carpets by hand.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "cartoons",
+      "arabic": "رسوم متحركة",
+      "kind": "extra",
+      "sentence": "The children watch cartoons after dinner together.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "catch",
+      "arabic": "يصطاد",
+      "kind": "verb-present",
+      "sentence": "The bear can catch fish from the river.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "caught",
+      "arabic": "يصطاد",
+      "kind": "verb-past",
+      "sentence": "He caught a small fish for his lunch.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "cave",
+      "arabic": "كهف",
+      "kind": "main",
+      "sentence": "The old lion pretended to be sick in his cave.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "celebrate",
+      "arabic": "يحتفل",
+      "kind": "verb-present",
+      "sentence": "In the Delta, they celebrate the Spring Festival.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "celebrated",
+      "arabic": "يحتفل",
+      "kind": "verb-past",
+      "sentence": "They celebrated the harvest with dancing.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "celebration",
+      "arabic": "احتفال",
+      "kind": "main",
+      "sentence": "The whole village joined the big celebration.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "challenges",
+      "arabic": "تحديات/صعوبات",
+      "kind": "main",
+      "sentence": "Taking care of animals brings small challenges sometimes.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "character",
+      "arabic": "شخصية",
+      "kind": "extra",
+      "sentence": "She drew a funny character for the play.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "check",
+      "arabic": "يفحص",
+      "kind": "verb-present",
+      "sentence": "Please check the bird's water every day.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "checked",
+      "arabic": "يفحص",
+      "kind": "verb-past",
+      "sentence": "Mona checked the dog's paw after it hurt.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "city",
+      "arabic": "مدينة (كبيرة)",
+      "kind": "extra",
+      "sentence": "Our city has parks and tall buildings.",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "claws",
+      "arabic": "مخالب (الحيوانات)",
+      "kind": "extra",
+      "sentence": "The cat uses its claws to climb.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "clean",
+      "arabic": "ينظف / نظيف",
+      "kind": "main",
+      "sentence": "I clean trash from the streets with my friends.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "climb",
+      "arabic": "يتسلق",
+      "kind": "verb-present",
+      "sentence": "Monkeys climb trees to find ripe fruit.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "climbed",
+      "arabic": "يتسلق",
+      "kind": "verb-past",
+      "sentence": "Yesterday the monkey climbed up the tall tree.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "closet",
+      "arabic": "خزانة (دولاب) ملابس",
+      "kind": "main",
+      "sentence": "Her shoes are in the closet by the door.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "clothes",
+      "arabic": "ملابس",
+      "kind": "extra",
+      "sentence": "Amira collects clothes and gives them to people.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "coat",
+      "arabic": "الغطاء الخارجي (للجسم الحيوان)",
+      "kind": "extra",
+      "sentence": "The animal's coat helps it stay warm.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "coins",
+      "arabic": "عملات معدنية",
+      "kind": "main",
+      "sentence": "Goha offered to pay for the smell with the sound of his coins.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "collage",
+      "arabic": "فن اللصق",
+      "kind": "extra",
+      "sentence": "Students made a colorful collage of ocean animals.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "collect",
+      "arabic": "يجمع",
+      "kind": "main",
+      "sentence": "I collect clothes and give them to people.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "colorful",
+      "arabic": "ملوّن",
+      "kind": "extra",
+      "sentence": "I can smell the flowers and see the colorful butterflies!",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "come inside",
+      "arabic": "تفضل بالدخول",
+      "kind": "expression",
+      "sentence": "The owner asked Goha to come inside and eat.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "come out",
+      "arabic": "يخرج من",
+      "kind": "expression",
+      "sentence": "The small bird will come out when it is safe.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "community park",
+      "arabic": "حديقة مجتمعية",
+      "kind": "main",
+      "sentence": "Adam's sister volunteers at the community park.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "competition",
+      "arabic": "مسابقة",
+      "kind": "main",
+      "sentence": "The drawing competition starts after lunch today.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "costume",
+      "arabic": "زي خاص",
+      "kind": "main",
+      "sentence": "She wears a colorful costume for the school play.",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "country",
+      "arabic": "دولة / بلد",
+      "kind": "extra",
+      "sentence": "Egypt is my favorite country to study.",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "covered with",
+      "arabic": "مغطى بـ",
+      "kind": "extra",
+      "sentence": "The old painting was covered with dust.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "crafts",
+      "arabic": "حرف يدوية",
+      "kind": "main",
+      "sentence": "In the Delta, many people work in factories and make beautiful crafts.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "create",
+      "arabic": "ينشئ",
+      "kind": "verb-present",
+      "sentence": "We create small homes for lost animals.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "created",
+      "arabic": "ينشئ",
+      "kind": "verb-past",
+      "sentence": "Students created a poster to help stray cats.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "crooked",
+      "arabic": "مائل / منحني / معوج",
+      "kind": "main",
+      "sentence": "The picture hung crooked on the old wall.",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "culture",
+      "arabic": "ثقافة",
+      "kind": "main",
+      "sentence": "Our school learns about Egypt's culture and music.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "cycle",
+      "arabic": "يركب دراجة",
+      "kind": "verb-present",
+      "sentence": "Walk or cycle to school and plant trees in your community.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "cycled",
+      "arabic": "يركب دراجة",
+      "kind": "verb-past",
+      "sentence": "My brother cycled around the neighborhood on Sunday.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "daily",
+      "arabic": "يومي",
+      "kind": "extra",
+      "sentence": "Pets need daily care from their owners.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "daily routine",
+      "arabic": "روتين يومي",
+      "kind": "main",
+      "sentence": "Having a daily routine is important.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "danger",
+      "arabic": "خطر",
+      "kind": "main",
+      "sentence": "We must learn to avoid danger in the sea.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "dates",
+      "arabic": "تمر",
+      "kind": "extra",
+      "sentence": "The children shared sweet dates after the hike.",
+      "unit": 4,
+      "lesson": "4&5"
+    },
+    {
+      "term": "daytime",
+      "arabic": "النهار",
+      "kind": "extra",
+      "sentence": "We explored during daytime when it was warm.",
+      "unit": 4,
+      "lesson": "4&5"
+    },
+    {
+      "term": "decorations",
+      "arabic": "زينة / زخارف",
+      "kind": "main",
+      "sentence": "They hang bright decorations for the festival.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "deep breath",
+      "arabic": "نفس عميق",
+      "kind": "main",
+      "sentence": "She took a deep breath before eating the soup.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "designs",
+      "arabic": "تصميمات",
+      "kind": "main",
+      "sentence": "In Nubia, houses are painted in bright colors and have special designs.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "diary",
+      "arabic": "مفكرة",
+      "kind": "main",
+      "sentence": "March 15, 2025. Dear diary,",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "die",
+      "arabic": "يموت",
+      "kind": "verb-present",
+      "sentence": "If the plant has no water, it may die soon.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "died",
+      "arabic": "يموت",
+      "kind": "verb-past",
+      "sentence": "The brave bird died after the long, cold winter.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "dinner",
+      "arabic": "وجبة العشاء",
+      "kind": "main",
+      "sentence": "I take a shower and have dinner in the evening.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "dirty",
+      "arabic": "غير نظيف",
+      "kind": "main",
+      "sentence": "Some people don't put trash in bins, so the streets look dirty.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "disappearing",
+      "arabic": "الاختفاء",
+      "kind": "main",
+      "sentence": "The sea grass is disappearing near our beach.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "discuss",
+      "arabic": "يناقش",
+      "kind": "verb-present",
+      "sentence": "OK! Let's also discuss solutions to fix them.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "discussed",
+      "arabic": "يناقش",
+      "kind": "verb-past",
+      "sentence": "We discussed community problems in our class today.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "do a great job",
+      "arabic": "يقوم بعمل رائع",
+      "kind": "expression",
+      "sentence": "You both do a great job!",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "do exercises",
+      "arabic": "يتدرب / يتمرن",
+      "kind": "main",
+      "sentence": "They do exercises in the school playground.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "do well",
+      "arabic": "ينجح / يؤدي جيدًا",
+      "kind": "expression",
+      "sentence": "Sarah's healthy habits help her feel good and do well at school.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "doctor",
+      "arabic": "طبيب",
+      "kind": "main",
+      "sentence": "The doctor helps people feel better at school.",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "doctors",
+      "arabic": "أطباء",
+      "kind": "extra",
+      "sentence": "Doctors help sick people feel better.",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "drank",
+      "arabic": "يشرب",
+      "kind": "verb-past",
+      "sentence": "She drank warm milk before she slept.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "drawings",
+      "arabic": "رسومات",
+      "kind": "main",
+      "sentence": "Her colorful drawings are on the classroom wall.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "dress",
+      "arabic": "فستان",
+      "kind": "main",
+      "sentence": "She wore a blue dress to school today.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "drink",
+      "arabic": "يشرب",
+      "kind": "verb-present",
+      "sentence": "I drink water after I play football.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "drink plenty of water",
+      "arabic": "يشرب الكثير من المياه",
+      "kind": "main",
+      "sentence": "We drink plenty of water to stay hydrated.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "during the day",
+      "arabic": "أثناء النهار",
+      "kind": "expression",
+      "sentence": "Many animals are active during the day.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "eating habits",
+      "arabic": "عادات الأكل (الطعام)",
+      "kind": "main",
+      "sentence": "Good eating habits help me grow healthy and strong.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "Egyptian Museum",
+      "arabic": "المتحف المصري",
+      "kind": "main",
+      "sentence": "The Egyptian Museum has old mummies and statues.",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "elephant",
+      "arabic": "فيل",
+      "kind": "main",
+      "sentence": "The elephant drinks water with its trunk.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "endangered",
+      "arabic": "مهدد بالانقراض",
+      "kind": "main",
+      "sentence": "The turtle is endangered because people harm its home.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "energy",
+      "arabic": "طاقة",
+      "kind": "main",
+      "sentence": "Healthy food gives me energy for class.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "engineer",
+      "arabic": "مهندس",
+      "kind": "main",
+      "sentence": "An engineer designs strong bridges for our city.",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "enjoy",
+      "arabic": "يستمتع بـ",
+      "kind": "verb-present",
+      "sentence": "We enjoy playing games during break time.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "enjoyed",
+      "arabic": "يستمتع بـ",
+      "kind": "verb-past",
+      "sentence": "They enjoyed the fresh orange juice yesterday.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "enter",
+      "arabic": "يدخل",
+      "kind": "verb-present",
+      "sentence": "Do not enter the cave without your family.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "entered",
+      "arabic": "يدخل",
+      "kind": "verb-past",
+      "sentence": "Many animals entered the lion's cave and never returned.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "equipment",
+      "arabic": "معدات",
+      "kind": "main",
+      "sentence": "They check each piece of equipment before the shift.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "especially",
+      "arabic": "على وجه الخصوص",
+      "kind": "extra",
+      "sentence": "Cars don't move quickly in the morning, especially near schools.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "everywhere",
+      "arabic": "في كل مكان",
+      "kind": "extra",
+      "sentence": "We put new bins everywhere.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "excellent",
+      "arabic": "رائع / ممتاز",
+      "kind": "extra",
+      "sentence": "Excellent work, you learned about the five senses.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "exciting",
+      "arabic": "ممتع",
+      "kind": "extra",
+      "sentence": "The school trip was very exciting for everyone.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "expensive",
+      "arabic": "غالي الثمن",
+      "kind": "extra",
+      "sentence": "The shiny doll looked expensive in the shop.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "experience",
+      "arabic": "تجربة",
+      "kind": "extra",
+      "sentence": "She had a happy experience at the school play.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "face",
+      "arabic": "يواجه",
+      "kind": "verb-present",
+      "sentence": "Animals sometimes face problems with no food.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "faced",
+      "arabic": "يواجه",
+      "kind": "verb-past",
+      "sentence": "The farmer faced many challenges when saving chicks.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "facts",
+      "arabic": "حقائق",
+      "kind": "extra",
+      "sentence": "Write three fun facts about sea animals.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "faded",
+      "arabic": "باهت",
+      "kind": "extra",
+      "sentence": "The red shirt looked faded after many washes.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "faraway",
+      "arabic": "بعيد",
+      "kind": "extra",
+      "sentence": "They dream of visiting a faraway island.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "feed",
+      "arabic": "يطعم",
+      "kind": "main",
+      "sentence": "Sometimes, I feed the dogs and cats.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "feel",
+      "arabic": "يشعر",
+      "kind": "verb-present",
+      "sentence": "I feel so happy when I help animals.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "felt",
+      "arabic": "يشعر",
+      "kind": "verb-past",
+      "sentence": "I felt proud after we finished cleaning.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "fewer",
+      "arabic": "أقل (عددًا)",
+      "kind": "extra",
+      "sentence": "There will be fewer cars on the road.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "final",
+      "arabic": "نهائي",
+      "kind": "extra",
+      "sentence": "This is the final page of the story.",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "fire",
+      "arabic": "حريق / نار",
+      "kind": "main",
+      "sentence": "If we smell smoke, we know there's a fire.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "fire station",
+      "arabic": "محطة إطفاء",
+      "kind": "main",
+      "sentence": "The fire station is near our school.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "firefighter",
+      "arabic": "رجل إطفاء",
+      "kind": "main",
+      "sentence": "A firefighter wears a yellow coat and helmet.",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "first time",
+      "arabic": "أول مرة",
+      "kind": "extra",
+      "sentence": "This is my first time visiting the museum.",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "fishing net",
+      "arabic": "شبكة صيد",
+      "kind": "main",
+      "sentence": "A lost fishing net can trap a small turtle.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "fit",
+      "arabic": "يناسب / يلائم",
+      "kind": "main",
+      "sentence": "The new door did not fit the frame.",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "fix",
+      "arabic": "يصلح",
+      "kind": "verb-present",
+      "sentence": "Volunteers can fix broken playground fences this week.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "fixed",
+      "arabic": "يصلح",
+      "kind": "verb-past",
+      "sentence": "The school fixed the broken bench yesterday.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "fluffy tail",
+      "arabic": "ذيل كثيف",
+      "kind": "main",
+      "sentence": "The rabbit wiggled its fluffy tail in the sun.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "follow",
+      "arabic": "يتبع",
+      "kind": "verb-present",
+      "sentence": "Students follow the teacher's healthy routine every day.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "followed",
+      "arabic": "يتبع",
+      "kind": "verb-past",
+      "sentence": "He followed a good sleep schedule last week.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "footprints",
+      "arabic": "آثار الأقدام",
+      "kind": "main",
+      "sentence": "A wise fox noticed the one-way footprints.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "for breakfast",
+      "arabic": "في وجبة الإفطار",
+      "kind": "expression",
+      "sentence": "She eats eggs and cheese for breakfast every day.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "for free",
+      "arabic": "مجانًا",
+      "kind": "expression",
+      "sentence": "The owner gave him soup for free that day.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "for special events",
+      "arabic": "للمناسبات الخاصة",
+      "kind": "expression",
+      "sentence": "We keep the best clothes for special events.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "forest guide",
+      "arabic": "مرشد في الغابة",
+      "kind": "extra",
+      "sentence": "The forest guide shows the visitors the animals at the forest park.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "forest officer",
+      "arabic": "حارس الغابة",
+      "kind": "main",
+      "sentence": "The forest officer helps protect animals in the park.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "forest park",
+      "arabic": "منتزه الغابة/غابة مخصصة للتنزه",
+      "kind": "extra",
+      "sentence": "The forest guide shows the visitors the animals at the forest park.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "forever",
+      "arabic": "إلى الأبد",
+      "kind": "extra",
+      "sentence": "We want to protect the ocean forever and always.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "fox",
+      "arabic": "ثعلب",
+      "kind": "main",
+      "sentence": "A wise fox noticed the one-way footprints.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "fresh",
+      "arabic": "طازج",
+      "kind": "extra",
+      "sentence": "I eat fresh fruit as a healthy snack.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "fur",
+      "arabic": "فراء (شعر كثيف)",
+      "kind": "extra",
+      "sentence": "The bear's fur is thick in winter.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "furniture",
+      "arabic": "أثاث",
+      "kind": "main",
+      "sentence": "They moved the furniture into the empty room.",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "galabeya",
+      "arabic": "جلابية",
+      "kind": "extra",
+      "sentence": "My uncle wears a white galabeya at home.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "gave",
+      "arabic": "يعطي",
+      "kind": "verb-past",
+      "sentence": "Yesterday, I gave food to a hungry dog.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "gentle",
+      "arabic": "لطيف",
+      "kind": "extra",
+      "sentence": "Be gentle when you touch a small fish.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "get dressed",
+      "arabic": "يرتدي",
+      "kind": "main",
+      "sentence": "I wash my face and get dressed for school.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "getting enough sleep",
+      "arabic": "الحصول على قدر كافٍ من النوم",
+      "kind": "expression",
+      "sentence": "Getting enough sleep helps children focus at school.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "gifts",
+      "arabic": "هدايا",
+      "kind": "main",
+      "sentence": "She gave small gifts to her new friends.",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "giraffe",
+      "arabic": "زرافة",
+      "kind": "main",
+      "sentence": "A giraffe eats leaves from tall trees.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "give",
+      "arabic": "يعطي",
+      "kind": "verb-present",
+      "sentence": "I give clothes to people who need them.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "greedy",
+      "arabic": "طماع / جشع",
+      "kind": "main",
+      "sentence": "The greedy boy wanted all the food for himself.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "grew",
+      "arabic": "يزرع",
+      "kind": "verb-past",
+      "sentence": "The little seed grew into a big plant.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "ground",
+      "arabic": "أرض",
+      "kind": "main",
+      "sentence": "Our neighbors don't throw trash on the ground.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "grow",
+      "arabic": "يزرع",
+      "kind": "verb-present",
+      "sentence": "We grow plants in the school garden each year.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "habitats",
+      "arabic": "مواطن/بيئات",
+      "kind": "main",
+      "sentence": "Polluted water destroys many fish habitats along coasts.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "hard",
+      "arabic": "صلب / خشن",
+      "kind": "extra",
+      "sentence": "The rock is hard when I touch it.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "harvest",
+      "arabic": "حصاد",
+      "kind": "extra",
+      "sentence": "In Upper Egypt, people celebrate the sugar cane harvest with big festivals.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "health",
+      "arabic": "صحة",
+      "kind": "extra",
+      "sentence": "We check the rabbit's health every week.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "healthy",
+      "arabic": "صحي",
+      "kind": "main",
+      "sentence": "During break time, I eat my healthy snack and drink water.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "hear",
+      "arabic": "يسمع",
+      "kind": "verb-present",
+      "sentence": "We hear with our ears.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "heard",
+      "arabic": "يسمع",
+      "kind": "verb-past",
+      "sentence": "I heard a loud noise near the school.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "hearing",
+      "arabic": "حاسة السمع",
+      "kind": "main",
+      "sentence": "Our hearing helps us hear the birds.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "heavy",
+      "arabic": "ثقيل",
+      "kind": "extra",
+      "sentence": "The heavy doors were hard to open quickly.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "helmet",
+      "arabic": "خوذة",
+      "kind": "main",
+      "sentence": "The helmet keeps the rider's head safe.",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "help",
+      "arabic": "يساعد",
+      "kind": "main",
+      "sentence": "Amira and Adam help their community together.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "helping hands",
+      "arabic": "أيدي المساعدة",
+      "kind": "expression",
+      "sentence": "Helping hands make our community stronger every day.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "hero",
+      "arabic": "بطل",
+      "kind": "extra",
+      "sentence": "The little boy called the firefighter a hero.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "high",
+      "arabic": "مرتفع",
+      "kind": "extra",
+      "sentence": "The kite flew high above the trees.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "history",
+      "arabic": "تاريخ",
+      "kind": "main",
+      "sentence": "Today, Grandpa told me amazing stories about our community's history.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "home",
+      "arabic": "موطن",
+      "kind": "extra",
+      "sentence": "The turtle found a new home near the pond.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "hospital",
+      "arabic": "مستشفى",
+      "kind": "main",
+      "sentence": "The ambulance took him to the hospital.",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "hungry",
+      "arabic": "جائع",
+      "kind": "main",
+      "sentence": "Goha was hungry, but he didn't have enough money to buy food.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "hunt",
+      "arabic": "يصطاد (حيوانات)",
+      "kind": "verb-present",
+      "sentence": "Lions often hunt at night.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "hunted",
+      "arabic": "يصطاد (حيوانات)",
+      "kind": "verb-past",
+      "sentence": "The tiger hunted quietly in the tall grass.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "impressed by",
+      "arabic": "منبهر بـ",
+      "kind": "expression",
+      "sentence": "The owner was impressed by Goha's kindness.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "in bright colors",
+      "arabic": "بألوان زاهية",
+      "kind": "expression",
+      "sentence": "In Nubia, houses are painted in bright colors and have special designs.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "in danger",
+      "arabic": "في خطر",
+      "kind": "expression",
+      "sentence": "The fox warned that the animals were in danger.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "in groups",
+      "arabic": "في مجموعات",
+      "kind": "expression",
+      "sentence": "The zebras walk in groups across the plain.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "including",
+      "arabic": "متضمنًا / مشتملًا على",
+      "kind": "main",
+      "sentence": "The box has toys including a ball and a kite.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "instead of",
+      "arabic": "بدلًا من",
+      "kind": "expression",
+      "sentence": "Use the bike instead of the car today.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "invite",
+      "arabic": "يدعو",
+      "kind": "verb-present",
+      "sentence": "They invite friends to eat on special days.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "invited",
+      "arabic": "يدعو",
+      "kind": "verb-past",
+      "sentence": "The owner laughed and invited Goha in the restaurant to share the soup.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "It's fun to",
+      "arabic": "إنه من الممتع أن",
+      "kind": "expression",
+      "sentence": "It's fun to plant trees with my friends.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "jingling",
+      "arabic": "صوت رنين خفيف",
+      "kind": "main",
+      "sentence": "The small bell made a soft jingling sound.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "keep",
+      "arabic": "يحفظ",
+      "kind": "verb-present",
+      "sentence": "Use less plastic and keep your community clean.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "keep a rabbit",
+      "arabic": "يربي أرنب",
+      "kind": "expression",
+      "sentence": "My cousin wants to keep a rabbit this summer.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "kept",
+      "arabic": "يحفظ",
+      "kind": "verb-past",
+      "sentence": "They kept the old photos in a box.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "Khan Al-Khalili Bazaar",
+      "arabic": "سوق خان الخليلي",
+      "kind": "main",
+      "sentence": "We bought small souvenirs at Khan Al-Khalili Bazaar.",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "knew",
+      "arabic": "يعرف",
+      "kind": "verb-past",
+      "sentence": "I knew a good solution for traffic.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "know",
+      "arabic": "يعرف",
+      "kind": "verb-present",
+      "sentence": "Do you know how to solve this problem?",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "known for",
+      "arabic": "مشهور بـ",
+      "kind": "expression",
+      "sentence": "The Nile is known for its long river.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "ladder",
+      "arabic": "سلم / درج متنقل",
+      "kind": "extra",
+      "sentence": "The tall ladder reached the third floor window.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "laugh",
+      "arabic": "يضحك",
+      "kind": "main",
+      "sentence": "They laugh together during the funny story.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "laugh at",
+      "arabic": "يضحك على",
+      "kind": "expression",
+      "sentence": "The owner did not laugh at Goha's idea.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "laughs",
+      "arabic": "ضحكات",
+      "kind": "main",
+      "sentence": "He always laughs when the clown dances.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "learn about",
+      "arabic": "يتعلم عن",
+      "kind": "expression",
+      "sentence": "Today, we'll learn about our amazing senses.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "leave",
+      "arabic": "يترك",
+      "kind": "verb-present",
+      "sentence": "Please do not leave trash on the street.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "leaves",
+      "arabic": "أوراق الشجر",
+      "kind": "extra",
+      "sentence": "Giraffes eat leaves from tall trees.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "left",
+      "arabic": "يترك",
+      "kind": "verb-past",
+      "sentence": "He left his bag near the new bin.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "let",
+      "arabic": "يدع / يسمح",
+      "kind": "verb-present",
+      "sentence": "My parents let me read before bed.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "letter",
+      "arabic": "خطاب",
+      "kind": "main",
+      "sentence": "He wrote a kind letter to his friend.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "letters",
+      "arabic": "خطابات",
+      "kind": "extra",
+      "sentence": "I found three old letters in the drawer.",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "library",
+      "arabic": "مكتبة",
+      "kind": "main",
+      "sentence": "I read books at the library.",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "light",
+      "arabic": "خفيف",
+      "kind": "extra",
+      "sentence": "The bag was light and easy to carry.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "lion",
+      "arabic": "أسد",
+      "kind": "main",
+      "sentence": "The lion sleeps under a warm tree.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "lives",
+      "arabic": "الحيوات (جمع حياة)",
+      "kind": "extra",
+      "sentence": "Brave teams save many lives during city fires.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "local",
+      "arabic": "محلي",
+      "kind": "extra",
+      "sentence": "Our local team trains together every Saturday morning.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "local food",
+      "arabic": "طعام محلي",
+      "kind": "extra",
+      "sentence": "We tried tasty local food at the market.",
+      "unit": 4,
+      "lesson": "4&5"
+    },
+    {
+      "term": "look dirty",
+      "arabic": "تبدو غير نظيفة",
+      "kind": "expression",
+      "sentence": "Some people don't put trash in bins, so the streets look dirty.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "loud",
+      "arabic": "عالي (الصوت)",
+      "kind": "extra",
+      "sentence": "The loud drum woke me up early.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "loud noise",
+      "arabic": "ضوضاء صاخبة",
+      "kind": "extra",
+      "sentence": "A loud noise made everyone cover their ears.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "low",
+      "arabic": "منخفض",
+      "kind": "extra",
+      "sentence": "The low bell rang three times today.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "lunch",
+      "arabic": "وجبة الغداء",
+      "kind": "main",
+      "sentence": "We eat lunch together at school every day.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "make a difference",
+      "arabic": "يحدث فارقًا",
+      "kind": "expression",
+      "sentence": "Small acts can make a difference in town.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "make friends",
+      "arabic": "يكوّن صداقات",
+      "kind": "expression",
+      "sentence": "Children make friends when they play together.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "market",
+      "arabic": "السوق",
+      "kind": "main",
+      "sentence": "We walk to the market every Saturday morning.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "marks",
+      "arabic": "علامات",
+      "kind": "extra",
+      "sentence": "The rain left tiny marks on the ground.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "medal",
+      "arabic": "ميدالية",
+      "kind": "main",
+      "sentence": "She received a shiny medal for her painting.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "mentor",
+      "arabic": "مرشد تعليمي",
+      "kind": "main",
+      "sentence": "My mentor helps me with my school projects.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "mind",
+      "arabic": "عقل",
+      "kind": "extra",
+      "sentence": "Playing puzzles helps keep your mind active.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "mistakes",
+      "arabic": "أخطاء",
+      "kind": "main",
+      "sentence": "We learn from our mistakes every single day.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "monastery",
+      "arabic": "دير",
+      "kind": "main",
+      "sentence": "The small monastery is beside the old trail.",
+      "unit": 4,
+      "lesson": "4&5"
+    },
+    {
+      "term": "monkey",
+      "arabic": "قرد",
+      "kind": "main",
+      "sentence": "A monkey swings from the tall branch.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "mountain",
+      "arabic": "جبل",
+      "kind": "extra",
+      "sentence": "We climbed the small mountain near our village today.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "move",
+      "arabic": "يتحرك",
+      "kind": "verb-present",
+      "sentence": "Cars don't move quickly in the morning, especially near schools.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "move around",
+      "arabic": "يتجول/يتحرك",
+      "kind": "expression",
+      "sentence": "Free puppies need space to move around happily.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "moved",
+      "arabic": "يتحرك",
+      "kind": "verb-past",
+      "sentence": "The cars moved slowly because of the rain.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "museum",
+      "arabic": "متحف",
+      "kind": "main",
+      "sentence": "The class visited the old museum today.",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "nail",
+      "arabic": "مسامر",
+      "kind": "extra",
+      "sentence": "The nail held the small shelf to the wall.",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "natural",
+      "arabic": "طبيعي",
+      "kind": "extra",
+      "sentence": "The guide showed us a natural salt pool.",
+      "unit": 4,
+      "lesson": "4&5"
+    },
+    {
+      "term": "nature",
+      "arabic": "الطبيعة",
+      "kind": "main",
+      "sentence": "I like to draw pictures of nature and animals.",
+      "unit": 4,
+      "lesson": "4&5"
+    },
+    {
+      "term": "near",
+      "arabic": "بالقرب من",
+      "kind": "extra",
+      "sentence": "We sat near the river and fed ducks.",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "neck",
+      "arabic": "رقبة",
+      "kind": "extra",
+      "sentence": "The giraffe's neck is very long and strong.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "need",
+      "arabic": "يحتاج",
+      "kind": "verb-present",
+      "sentence": "People need clean water and safe food.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "needed",
+      "arabic": "يحتاج",
+      "kind": "verb-past",
+      "sentence": "The park needed more flowers last spring.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "neighborhood",
+      "arabic": "حي",
+      "kind": "main",
+      "sentence": "Fifty years ago, our neighborhood was very different!",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "neighbors",
+      "arabic": "جيران",
+      "kind": "main",
+      "sentence": "Adam's sister helps her neighbors.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "Nile River",
+      "arabic": "نهر النيل",
+      "kind": "main",
+      "sentence": "The Nile River flows past many green farms.",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "north",
+      "arabic": "الشمال",
+      "kind": "extra",
+      "sentence": "The Delta is in the north of Egypt.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "notice",
+      "arabic": "يلاحظ",
+      "kind": "verb-present",
+      "sentence": "Please notice the wet marks near the door.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "noticed",
+      "arabic": "يلاحظ",
+      "kind": "verb-past",
+      "sentence": "A wise fox noticed the one-way footprints.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "Nubia",
+      "arabic": "النوبة",
+      "kind": "extra",
+      "sentence": "In Nubia, houses are painted in bright colors and have special designs.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "nurse",
+      "arabic": "ممرضة",
+      "kind": "extra",
+      "sentence": "A nurse gave medicine to the patient.",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "offer",
+      "arabic": "يعرض",
+      "kind": "verb-present",
+      "sentence": "I offer my sandwich to my friend.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "offered",
+      "arabic": "يعرض",
+      "kind": "verb-past",
+      "sentence": "Goha offered to pay for the smell with the sound of his coins.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "olive oil",
+      "arabic": "زيت زيتون",
+      "kind": "main",
+      "sentence": "My grandmother cooks with olive oil every day.",
+      "unit": 4,
+      "lesson": "4&5"
+    },
+    {
+      "term": "on the road",
+      "arabic": "في الطريق",
+      "kind": "expression",
+      "sentence": "There will be fewer cars on the road.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "one by one",
+      "arabic": "واحد بعد الآخر/واحد تلو الآخر",
+      "kind": "expression",
+      "sentence": "The mice left the cave one by one quietly.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "orange juice",
+      "arabic": "عصير برتقال",
+      "kind": "extra",
+      "sentence": "She drinks orange juice with her breakfast.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "organization",
+      "arabic": "منظمة",
+      "kind": "extra",
+      "sentence": "A local organization planted trees near the shore.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "origami",
+      "arabic": "فن تشكيل الورق",
+      "kind": "extra",
+      "sentence": "She folded bright paper to make origami birds.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "outfit",
+      "arabic": "رداء خاص (ملابس)",
+      "kind": "main",
+      "sentence": "My friend wore a colorful outfit yesterday.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "owner",
+      "arabic": "مالك",
+      "kind": "main",
+      "sentence": "The owner asked Goha to pay for the smell.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "oxygen tank",
+      "arabic": "أسطوانة الأكسجين",
+      "kind": "extra",
+      "sentence": "The paramedic carried an oxygen tank for the patient.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "packages",
+      "arabic": "طرود بريدية",
+      "kind": "main",
+      "sentence": "The mail carrier delivered three packages today.",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "paid for",
+      "arabic": "يدفع (ثمن)",
+      "kind": "verb-past",
+      "sentence": "She paid for the ice cream with a smile.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "paint",
+      "arabic": "يدهن",
+      "kind": "verb-present",
+      "sentence": "Artists paint bright houses in Nubia every year.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "painted",
+      "arabic": "يدهن",
+      "kind": "verb-past",
+      "sentence": "In Nubia, houses are painted in bright colors and have special designs.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "palm trees",
+      "arabic": "أشجار النخيل",
+      "kind": "extra",
+      "sentence": "Tall palm trees lined the road to the village.",
+      "unit": 4,
+      "lesson": "4&5"
+    },
+    {
+      "term": "pants",
+      "arabic": "بنطلون",
+      "kind": "extra",
+      "sentence": "In the Delta, men wear modern clothes like pants and shirts.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "patients",
+      "arabic": "مرضى",
+      "kind": "extra",
+      "sentence": "The patients waited quietly for their turn.",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "pay for",
+      "arabic": "يدفع (ثمن)",
+      "kind": "verb-present",
+      "sentence": "I will pay for the lunch today.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "pet",
+      "arabic": "حيوان أليف",
+      "kind": "main",
+      "sentence": "My pet likes to play in the yard.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "photos",
+      "arabic": "صور (فوتوغرافية)",
+      "kind": "extra",
+      "sentence": "Grandpa showed me old photos.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "plant",
+      "arabic": "يزرع",
+      "kind": "main",
+      "sentence": "Do you plant trees in the park?",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "play sports",
+      "arabic": "يلعب رياضة",
+      "kind": "main",
+      "sentence": "My friends and I play sports after school.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "playground",
+      "arabic": "ملعب",
+      "kind": "main",
+      "sentence": "We play games at the playground every day.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "pocket",
+      "arabic": "جيب",
+      "kind": "extra",
+      "sentence": "He put his hand in his pocket.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "police officer",
+      "arabic": "ضابط شرطة",
+      "kind": "main",
+      "sentence": "The police officer helps children cross the street.",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "pollution",
+      "arabic": "تلوث",
+      "kind": "extra",
+      "sentence": "Oil and trash cause pollution in our bay.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "popular",
+      "arabic": "مشهور",
+      "kind": "extra",
+      "sentence": "That popular path leads to a small waterfall.",
+      "unit": 4,
+      "lesson": "4&5"
+    },
+    {
+      "term": "post office",
+      "arabic": "مكتب البريد",
+      "kind": "main",
+      "sentence": "We sent packages from the post office.",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "pottery",
+      "arabic": "فخار / صناعة الفخار",
+      "kind": "extra",
+      "sentence": "In Upper Egypt, they make pottery and weave colorful carpets by hand.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "prepare",
+      "arabic": "يعد / يجهز",
+      "kind": "verb-present",
+      "sentence": "I prepare my bag before I leave home.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "prepared",
+      "arabic": "يعد / يجهز",
+      "kind": "verb-past",
+      "sentence": "My mother prepared a healthy lunch for me.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "pretend",
+      "arabic": "يتظاهر",
+      "kind": "verb-present",
+      "sentence": "He will pretend to be sick at home.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "pretended",
+      "arabic": "يتظاهر",
+      "kind": "verb-past",
+      "sentence": "The old lion pretended to be sick in his cave.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "price",
+      "arabic": "ثمن",
+      "kind": "extra",
+      "sentence": "Please check the price before you buy souvenirs.",
+      "unit": 4,
+      "lesson": "4&5"
+    },
+    {
+      "term": "problems",
+      "arabic": "مشكلات",
+      "kind": "main",
+      "sentence": "Mona and Ali have good solutions to some problems in their community.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "protect",
+      "arabic": "يحمي",
+      "kind": "verb-present",
+      "sentence": "Everyone can help protect animals by showing kindness for them.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "protected",
+      "arabic": "يحمي",
+      "kind": "verb-past",
+      "sentence": "The trees were protected by the forest officer.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "protective",
+      "arabic": "واقي",
+      "kind": "main",
+      "sentence": "They wear protective clothes when they fight fires.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "proud to",
+      "arabic": "فخور أن",
+      "kind": "expression",
+      "sentence": "I am proud to help my community.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "puppet",
+      "arabic": "دمية",
+      "kind": "main",
+      "sentence": "We made a puppet and gave it a name.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "put",
+      "arabic": "يضع",
+      "kind": "verb-present",
+      "sentence": "Mona says that people don't put trash in bins and that is a problem.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "Pyramids",
+      "arabic": "الأهرامات",
+      "kind": "main",
+      "sentence": "We climbed near the Pyramids on the sand.",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "quiet",
+      "arabic": "هادئ",
+      "kind": "extra",
+      "sentence": "Please be quiet while the teacher reads.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "ran",
+      "arabic": "يجري",
+      "kind": "verb-past",
+      "sentence": "The lion ran fast after the antelope.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "reach",
+      "arabic": "يصل إلى",
+      "kind": "verb-present",
+      "sentence": "I reach the shelter before school every morning.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "reached",
+      "arabic": "يصل إلى",
+      "kind": "verb-past",
+      "sentence": "We reached the field to rescue the lamb.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "real",
+      "arabic": "حقيقي - واقعي",
+      "kind": "extra",
+      "sentence": "The dog looks like a real friend.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "reason",
+      "arabic": "سبب",
+      "kind": "extra",
+      "sentence": "Can you give one good reason for saving coral?",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "reduce",
+      "arabic": "يقلل",
+      "kind": "verb-present",
+      "sentence": "We reduce plastic use to help our community.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "reduced",
+      "arabic": "يقلل",
+      "kind": "verb-past",
+      "sentence": "Traffic was reduced after more students took buses.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "region",
+      "arabic": "منطقة / إقليم",
+      "kind": "main",
+      "sentence": "This region grows many green plants.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "regret",
+      "arabic": "ندم",
+      "kind": "main",
+      "sentence": "I will regret breaking my promise to you.",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "request",
+      "arabic": "طلب",
+      "kind": "extra",
+      "sentence": "The neighbor made a kind request for help.",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "restaurant",
+      "arabic": "مطعم",
+      "kind": "main",
+      "sentence": "He smelled delicious soup from a restaurant.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "rich",
+      "arabic": "غني",
+      "kind": "main",
+      "sentence": "It makes me proud to know our community has such a rich history.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "rocks",
+      "arabic": "صخور",
+      "kind": "main",
+      "sentence": "The children climbed the big rocks near the path.",
+      "unit": 4,
+      "lesson": "4&5"
+    },
+    {
+      "term": "run",
+      "arabic": "يجري",
+      "kind": "verb-present",
+      "sentence": "Zebras run quickly when they are scared.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "run away",
+      "arabic": "يهرب",
+      "kind": "expression",
+      "sentence": "The rabbit had to run away from the barking dog.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "safe",
+      "arabic": "آمن",
+      "kind": "extra",
+      "sentence": "Animals need our help to stay healthy and safe.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "safely",
+      "arabic": "بأمان",
+      "kind": "main",
+      "sentence": "Children played safely in the streets.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "said",
+      "arabic": "يقول",
+      "kind": "verb-past",
+      "sentence": "Goha said he had no money for the meal.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "salt lake",
+      "arabic": "البحيرة المالحة",
+      "kind": "main",
+      "sentence": "We walked around the salt lake at noon.",
+      "unit": 4,
+      "lesson": "4&5"
+    },
+    {
+      "term": "same",
+      "arabic": "متشابه / نفس الشيء",
+      "kind": "main",
+      "sentence": "My sister and I wear the same shoes.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "sang",
+      "arabic": "يغني",
+      "kind": "verb-past",
+      "sentence": "Yesterday the class sang a song together.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "say",
+      "arabic": "يقول",
+      "kind": "verb-present",
+      "sentence": "They say the soup smells very good today.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "school",
+      "arabic": "مدرسة",
+      "kind": "main",
+      "sentence": "My friends and I walk to school.",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "sea animals",
+      "arabic": "حيوانات بحرية",
+      "kind": "main",
+      "sentence": "Children painted posters of happy sea animals today.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "sea grass",
+      "arabic": "عشب البحر",
+      "kind": "main",
+      "sentence": "Sea grass grows where water is clean.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "see ... up close",
+      "arabic": "يرى ... عن قرب",
+      "kind": "expression",
+      "sentence": "Students come to see ... up close the animals.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "sell",
+      "arabic": "يبيع",
+      "kind": "verb-present",
+      "sentence": "People sell fruits at the old market every morning.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "shake",
+      "arabic": "يهز / يهتز",
+      "kind": "verb-present",
+      "sentence": "Please do not shake the bowl, it is hot.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "share with",
+      "arabic": "يتشارك مع",
+      "kind": "expression",
+      "sentence": "Goha agreed to share with the owner.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "sharp",
+      "arabic": "يقظ / منتبه",
+      "kind": "main",
+      "sentence": "Good sleep helps me stay sharp in lessons.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "shock",
+      "arabic": "صدمة",
+      "kind": "main",
+      "sentence": "His sudden shout gave everyone a big shock.",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "shook",
+      "arabic": "يهز / يهتز",
+      "kind": "verb-past",
+      "sentence": "He shook the bottle before drinking.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "shopping mall",
+      "arabic": "مركز تجاري",
+      "kind": "main",
+      "sentence": "My family goes to the shopping mall.",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "shy",
+      "arabic": "خجول",
+      "kind": "main",
+      "sentence": "The shy girl raised her hand slowly.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "sick",
+      "arabic": "مريض",
+      "kind": "extra",
+      "sentence": "The old lion pretended to be sick in his cave.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "sick people",
+      "arabic": "المرضى",
+      "kind": "extra",
+      "sentence": "The hospital cares for many sick people every day.",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "sight",
+      "arabic": "حاسة الإبصار",
+      "kind": "main",
+      "sentence": "My sight lets me see the colorful butterflies.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "sign",
+      "arabic": "توقيع / يوقع",
+      "kind": "main",
+      "sentence": "Please sign your name at the top.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "simple",
+      "arabic": "بسيط",
+      "kind": "extra",
+      "sentence": "A simple meal can be healthy and tasty.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "sing",
+      "arabic": "يغني",
+      "kind": "verb-present",
+      "sentence": "We sing a happy song in music class.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "Siwa Oasis",
+      "arabic": "واحة سيوة",
+      "kind": "main",
+      "sentence": "Our family visited the Siwa Oasis last weekend.",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "skilled",
+      "arabic": "ماهر / ذو مهارة",
+      "kind": "main",
+      "sentence": "She is a skilled helper in the workshop.",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "sleep",
+      "arabic": "ينام",
+      "kind": "verb-present",
+      "sentence": "Children need eight hours of sleep every night.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "slept",
+      "arabic": "ينام",
+      "kind": "verb-past",
+      "sentence": "He slept early and woke up full of energy.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "smart",
+      "arabic": "ذكي",
+      "kind": "extra",
+      "sentence": "My smart brother reads books every night.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "smell",
+      "arabic": "حاسة الشم",
+      "kind": "main",
+      "sentence": "We smell with our nose.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "smile",
+      "arabic": "ابتسامة",
+      "kind": "extra",
+      "sentence": "Please give me a big warm smile.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "smoke",
+      "arabic": "دخان",
+      "kind": "main",
+      "sentence": "If we smell smoke, we know there's a fire.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "snack",
+      "arabic": "وجبة خفيفة",
+      "kind": "main",
+      "sentence": "During break time, I eat my healthy snack and drink water.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "soft",
+      "arabic": "ناعم / لين",
+      "kind": "extra",
+      "sentence": "The kitten's fur is very soft and warm.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "sold",
+      "arabic": "يبيع",
+      "kind": "verb-past",
+      "sentence": "People sold fresh fruits and vegetables every morning.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "solutions",
+      "arabic": "حلول",
+      "kind": "main",
+      "sentence": "Mona and Ali have good solutions to some problems in their community.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "solve",
+      "arabic": "يحل",
+      "kind": "verb-present",
+      "sentence": "Do you know how to solve this problem?",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "solved",
+      "arabic": "يحل",
+      "kind": "verb-past",
+      "sentence": "The students solved the trash problem with new bins.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "soup",
+      "arabic": "حساء (شوربة)",
+      "kind": "extra",
+      "sentence": "He sat outside the restaurant, enjoying the smell of the soup.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "south",
+      "arabic": "الجنوب",
+      "kind": "extra",
+      "sentence": "Nubia is in the south of Egypt.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "South Sinai",
+      "arabic": "جنوب سيناء",
+      "kind": "extra",
+      "sentence": "Many families visit South Sinai during the holidays.",
+      "unit": 4,
+      "lesson": "4&5"
+    },
+    {
+      "term": "spaces",
+      "arabic": "مساحات",
+      "kind": "extra",
+      "sentence": "Parks give animals safe spaces to live.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "special",
+      "arabic": "خاص/مميز",
+      "kind": "extra",
+      "sentence": "Each animal needs special care to live well.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "species",
+      "arabic": "فصائل/أنواع",
+      "kind": "main",
+      "sentence": "Many species live in the warm coral reef.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "spray",
+      "arabic": "يرش",
+      "kind": "verb-present",
+      "sentence": "The elephant can spray water with force.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "sprayed",
+      "arabic": "يرش",
+      "kind": "verb-past",
+      "sentence": "The elephant sprayed water on the hot day.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "Spring Festival",
+      "arabic": "مهرجان الربيع",
+      "kind": "main",
+      "sentence": "In the Delta, they celebrate the Spring Festival.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "St. Catherine Mountain",
+      "arabic": "جبل سانت كاترين",
+      "kind": "main",
+      "sentence": "We hiked up St. Catherine Mountain last week.",
+      "unit": 4,
+      "lesson": "4&5"
+    },
+    {
+      "term": "stalls",
+      "arabic": "أكشاك",
+      "kind": "main",
+      "sentence": "Their neighborhood had an old market with wooden stalls.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "stand",
+      "arabic": "يقف",
+      "kind": "verb-present",
+      "sentence": "Please stand next to your friend in a line.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "stay safe",
+      "arabic": "يبقى آمنًا",
+      "kind": "expression",
+      "sentence": "Senses help us stay safe.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "stay sharp",
+      "arabic": "يكون يقظًا / منتبهًا",
+      "kind": "expression",
+      "sentence": "Eat breakfast to stay sharp in morning lessons.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "still stand",
+      "arabic": "ما زالت قائمة",
+      "kind": "expression",
+      "sentence": "Many old houses still stand near the school.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "stones",
+      "arabic": "الأحجار",
+      "kind": "extra",
+      "sentence": "The children collected colorful stones by the river.",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "stood",
+      "arabic": "يقف",
+      "kind": "verb-past",
+      "sentence": "He stood very still when the lion roared.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "stores",
+      "arabic": "متاجر",
+      "kind": "main",
+      "sentence": "We buy school supplies from small stores.",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "street",
+      "arabic": "شارع",
+      "kind": "extra",
+      "sentence": "They walk to school down our street.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "stripes",
+      "arabic": "خطوط (عريضة)",
+      "kind": "main",
+      "sentence": "The bright stripes make the jacket easy to see.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "strong",
+      "arabic": "قوي",
+      "kind": "extra",
+      "sentence": "Vitamins and fruits help children become strong.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "students",
+      "arabic": "طلاب",
+      "kind": "main",
+      "sentence": "The students studied quietly in the classroom.",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "studied",
+      "arabic": "يدرس",
+      "kind": "verb-past",
+      "sentence": "Yesterday I studied for the math test.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "study",
+      "arabic": "يدرس",
+      "kind": "verb-present",
+      "sentence": "I study English after school every day.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "stylish",
+      "arabic": "أنيق",
+      "kind": "extra",
+      "sentence": "Her new dress looks very stylish and bright.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "suddenly",
+      "arabic": "فجأة",
+      "kind": "extra",
+      "sentence": "Suddenly the cat jumped onto the table.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "sugar cane",
+      "arabic": "قصب السكر",
+      "kind": "extra",
+      "sentence": "In Upper Egypt, people celebrate the sugar cane harvest with big festivals.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "supermarket",
+      "arabic": "متجر",
+      "kind": "extra",
+      "sentence": "Where our big supermarket stands now, there was a beautiful old market with wooden stalls.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "surface",
+      "arabic": "سطح",
+      "kind": "extra",
+      "sentence": "The lake surface looked calm under the blue sky.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "sweets",
+      "arabic": "حلوى",
+      "kind": "extra",
+      "sentence": "Too many sweets can make your teeth hurt.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "tail",
+      "arabic": "ذيل",
+      "kind": "extra",
+      "sentence": "The monkey waved its long tail happily.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "take",
+      "arabic": "يأخذ",
+      "kind": "verb-present",
+      "sentence": "I take my vitamins with breakfast each morning.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "take a shower",
+      "arabic": "يستحم",
+      "kind": "main",
+      "sentence": "He likes to take a shower in the morning.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "take out .... from",
+      "arabic": "يخرج ... من",
+      "kind": "expression",
+      "sentence": "Please take out .... from the bag.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "take the bus",
+      "arabic": "يستقل الأتوبيس",
+      "kind": "expression",
+      "sentence": "Many students take the bus to school.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "talk about",
+      "arabic": "يتحدث عن",
+      "kind": "expression",
+      "sentence": "Let's talk about our five senses today.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "taste",
+      "arabic": "حاسة التذوق",
+      "kind": "main",
+      "sentence": "We taste with our tongue.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "taste better",
+      "arabic": "مذاقه أفضل",
+      "kind": "expression",
+      "sentence": "The soup will taste better with salt.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "tasted",
+      "arabic": "يتذوق",
+      "kind": "verb-past",
+      "sentence": "She tasted the soup and smiled because it was good.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "teacher",
+      "arabic": "معلم / معلمة",
+      "kind": "extra",
+      "sentence": "Our teacher explains the new lesson clearly.",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "tell",
+      "arabic": "يخبر",
+      "kind": "verb-present",
+      "sentence": "Please tell me the homework for today.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "tell stories",
+      "arabic": "يحكي قصصًا",
+      "kind": "expression",
+      "sentence": "Elders tell stories about old family adventures.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "terrible",
+      "arabic": "فظيع / بالأسى",
+      "kind": "extra",
+      "sentence": "He felt terrible when he saw the mess.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "That's cool!",
+      "arabic": "هذا رائع!",
+      "kind": "expression",
+      "sentence": "That's cool! Do you plant trees?",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "the Arabian Leopard",
+      "arabic": "الفهد العربي",
+      "kind": "main",
+      "sentence": "The school learned about the Arabian Leopard yesterday.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "the Delta",
+      "arabic": "دلتا النيل",
+      "kind": "main",
+      "sentence": "Egypt has two special regions: the Delta and Upper Egypt.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "the king of the jungle land",
+      "arabic": "ملك الغابة",
+      "kind": "expression",
+      "sentence": "The lion is the king of the jungle land.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "the Middle East",
+      "arabic": "الشرق الأوسط",
+      "kind": "extra",
+      "sentence": "Maps show the Middle East and its many countries.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "the Red Sea Dugong",
+      "arabic": "أطوم البحر الأحمر",
+      "kind": "main",
+      "sentence": "We saw a picture of the Red Sea Dugong.",
+      "unit": 3,
+      "lesson": "4&5"
+    },
+    {
+      "term": "thick",
+      "arabic": "سميك",
+      "kind": "main",
+      "sentence": "The thick smoke made the room hard to see.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "threw",
+      "arabic": "يلقي / يرمي",
+      "kind": "verb-past",
+      "sentence": "Yesterday, someone threw plastic into the bin.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "throw",
+      "arabic": "يلقي / يرمي",
+      "kind": "verb-present",
+      "sentence": "Our neighbors don't throw trash on the ground.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "told",
+      "arabic": "يخبر",
+      "kind": "verb-past",
+      "sentence": "My father told me to finish my homework.",
+      "unit": 1,
+      "lesson": "4&5"
+    },
+    {
+      "term": "tongue",
+      "arabic": "لسان",
+      "kind": "main",
+      "sentence": "We taste with our tongue.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "took",
+      "arabic": "يأخذ",
+      "kind": "verb-past",
+      "sentence": "Yesterday she took a short walk after school.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "tools",
+      "arabic": "أدوات",
+      "kind": "extra",
+      "sentence": "He carried heavy tools to fix the broken pipe.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "touch",
+      "arabic": "حاسة اللمس",
+      "kind": "main",
+      "sentence": "We touch with our hands.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "touched",
+      "arabic": "يلمس",
+      "kind": "verb-past",
+      "sentence": "He touched the cool water with his hand.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "tour guide",
+      "arabic": "مرشد سياحي",
+      "kind": "main",
+      "sentence": "Our tour guide told us many stories.",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "tourists",
+      "arabic": "سياح",
+      "kind": "extra",
+      "sentence": "Many tourists took photos near the museum.",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "traditional",
+      "arabic": "تقليدي",
+      "kind": "extra",
+      "sentence": "They wore traditional clothes at the festival.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "traditions",
+      "arabic": "تقاليد",
+      "kind": "main",
+      "sentence": "Upper Egypt and the Delta share many of the same traditions.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "traffic",
+      "arabic": "حركة مرور",
+      "kind": "main",
+      "sentence": "The first problem is traffic.",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "train station",
+      "arabic": "محطة قطار",
+      "kind": "main",
+      "sentence": "There was even a small train station where our park is now!",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "trash",
+      "arabic": "قمامة",
+      "kind": "main",
+      "sentence": "Adam and friends pick up trash on Saturdays.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "treasures",
+      "arabic": "كنوز",
+      "kind": "main",
+      "sentence": "The old chest held bright treasures for us.",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "trick",
+      "arabic": "خدعة/يخدع",
+      "kind": "main",
+      "sentence": "The fox used a clever trick to save himself.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "truck",
+      "arabic": "شاحنة",
+      "kind": "extra",
+      "sentence": "A red truck raced to the burning building.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "trunk",
+      "arabic": "خرطوم الفيل",
+      "kind": "extra",
+      "sentence": "The elephant sprays water from its long trunk.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "turban",
+      "arabic": "عمامة",
+      "kind": "main",
+      "sentence": "The man tied his white turban carefully.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "TV program",
+      "arabic": "برنامج تلفزيوني",
+      "kind": "extra",
+      "sentence": "We watch a TV program about friendly animals.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "understand",
+      "arabic": "يفهم",
+      "kind": "verb-present",
+      "sentence": "Senses help us understand the world around us.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "understood",
+      "arabic": "يفهم",
+      "kind": "verb-past",
+      "sentence": "After the lesson, the students understood the idea.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "uniform",
+      "arabic": "زي موحد",
+      "kind": "extra",
+      "sentence": "Students wear a neat uniform to the school.",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "unkindness",
+      "arabic": "قسوة",
+      "kind": "extra",
+      "sentence": "The students learned about unkindness and kindness.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "Upper Egypt",
+      "arabic": "الوجه القبلي",
+      "kind": "main",
+      "sentence": "Egypt has two special regions: the Delta and Upper Egypt.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "use",
+      "arabic": "يستخدم",
+      "kind": "verb-present",
+      "sentence": "We use our sense of hearing to hear birds singing.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "used",
+      "arabic": "يستخدم",
+      "kind": "verb-past",
+      "sentence": "Last week we used our senses on a walk.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "usual",
+      "arabic": "عادي / تقليدي",
+      "kind": "extra",
+      "sentence": "It was not our usual quiet afternoon at home.",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "vegetables",
+      "arabic": "خضروات",
+      "kind": "extra",
+      "sentence": "Sarah eats lots of vegetables and fruits for dinner.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "vest",
+      "arabic": "سترة/قميص (بدون أكمام)",
+      "kind": "main",
+      "sentence": "He puts on a bright safety vest before work.",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "vet",
+      "arabic": "طبيب بيطري",
+      "kind": "main",
+      "sentence": "We visited the vet when the cat was sick.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "visitors",
+      "arabic": "زوار",
+      "kind": "extra",
+      "sentence": "The forest guide shows the visitors the animals at the forest park.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "vitamins",
+      "arabic": "فيتامينات",
+      "kind": "extra",
+      "sentence": "Fruits and vegetables give us natural vitamins daily.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "voice",
+      "arabic": "صوت (بشري)",
+      "kind": "extra",
+      "sentence": "I heard a kind voice from the doorway.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "voice-over actor",
+      "arabic": "مؤدي صوتي",
+      "kind": "main",
+      "sentence": "The voice-over actor practices funny lines in the studio.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "voices",
+      "arabic": "أصوات (بشرية)",
+      "kind": "main",
+      "sentence": "I can hear my friends' voices at recess.",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "volunteer",
+      "arabic": "يتطوع",
+      "kind": "main",
+      "sentence": "I volunteer at the community park on Sundays.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "volunteered",
+      "arabic": "يتطوع",
+      "kind": "verb-past",
+      "sentence": "She volunteered at the shelter last weekend.",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "wake up early",
+      "arabic": "يستيقظ مبكرًا",
+      "kind": "main",
+      "sentence": "We wake up early for school on weekdays.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "walk",
+      "arabic": "يمشي",
+      "kind": "verb-present",
+      "sentence": "Walk or cycle to school and plant trees in your community.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "walk through",
+      "arabic": "يتجول في",
+      "kind": "expression",
+      "sentence": "We walk through the small market every day.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "walked",
+      "arabic": "يمشي",
+      "kind": "verb-past",
+      "sentence": "Last year, I walked to school with friends.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "warm clothes",
+      "arabic": "ملابس ثقيلة",
+      "kind": "main",
+      "sentence": "We packed warm clothes for the cold night.",
+      "unit": 4,
+      "lesson": "4&5"
+    },
+    {
+      "term": "wash face",
+      "arabic": "يغسل الوجه",
+      "kind": "main",
+      "sentence": "I wash face with cool water every morning.",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "water hoses",
+      "arabic": "خراطيم المياه",
+      "kind": "main",
+      "sentence": "Firefighters pull long water hoses during a fire.",
+      "unit": 5,
+      "lesson": "4&5"
+    },
+    {
+      "term": "weak",
+      "arabic": "ضعيف",
+      "kind": "extra",
+      "sentence": "After the long run the kitten felt weak and sleepy.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "wear",
+      "arabic": "يرتدي",
+      "kind": "verb-present",
+      "sentence": "In the Delta, men wear modern clothes like pants and shirts.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "weave",
+      "arabic": "ينسج",
+      "kind": "verb-present",
+      "sentence": "In Upper Egypt, they make pottery and weave colorful carpets by hand.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "What a beautiful day!",
+      "arabic": "يا له من يوم جميل!",
+      "kind": "expression",
+      "sentence": "Good morning, children! What a beautiful day!",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "wild",
+      "arabic": "البرية",
+      "kind": "main",
+      "sentence": "Wild animals' homes are getting smaller because of new cities.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "wild animals",
+      "arabic": "الحيوانات البرية",
+      "kind": "extra",
+      "sentence": "Wild animals need big spaces to live safely.",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "wildlife photographer",
+      "arabic": "مصور الحياة البرية",
+      "kind": "main",
+      "sentence": "A wildlife photographer waits quietly to take photos.",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "winner",
+      "arabic": "فائز",
+      "kind": "main",
+      "sentence": "The winner smiled and waved to the class.",
+      "unit": 6,
+      "lesson": "Story"
+    },
+    {
+      "term": "wise",
+      "arabic": "حكيم",
+      "kind": "extra",
+      "sentence": "A wise fox noticed the one-way footprints.",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "wonderful",
+      "arabic": "رائع",
+      "kind": "extra",
+      "sentence": "The meal looked wonderful on the clean table.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "wooden",
+      "arabic": "خشبي",
+      "kind": "main",
+      "sentence": "Their neighborhood had an old market with wooden stalls.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "wore",
+      "arabic": "يرتدي",
+      "kind": "verb-past",
+      "sentence": "He wore his galabeya to the celebration.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "work as",
+      "arabic": "يعمل كـ",
+      "kind": "expression",
+      "sentence": "My aunt may work as a forest guide.",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "wove",
+      "arabic": "ينسج",
+      "kind": "verb-past",
+      "sentence": "She wove a small red carpet last summer.",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "Yours truly",
+      "arabic": "مع خالص تحياتي",
+      "kind": "expression",
+      "sentence": "Yours truly, Hana.",
+      "unit": 2,
+      "lesson": "4&5"
+    },
+    {
+      "term": "yummy",
+      "arabic": "لذيذ",
+      "kind": "extra",
+      "sentence": "The soup tasted yummy and made Goha smile.",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "zebra",
+      "arabic": "حمار وحشي",
+      "kind": "main",
+      "sentence": "The zebra runs fast across the field.",
+      "unit": 3,
+      "lesson": "1"
+    }
+  ]
+}

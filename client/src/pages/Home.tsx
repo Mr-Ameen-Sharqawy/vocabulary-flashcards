@@ -3,6 +3,7 @@
  */
 import { Button } from "@/components/ui/button";
 import {
+  Award,
   BadgeCheck,
   BookOpen,
   ChevronLeft,
@@ -17,23 +18,55 @@ import {
 } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 import { buildWordOptions, courseLessons, courseUnits, sentenceWithBlank, type CourseCard } from "@/lib/course";
+import { cartoonImageFor } from "@/lib/cartoon-images";
 
 const logoImage = "/manus-storage/vocabulary-logo_5f3f4915.png";
+const progressStorageKey = "sense-lab-primary-4-progress-v1";
+
+type SavedProgress = {
+  selectedLessonId?: string;
+  lessonAnswers: Record<string, Record<string, string>>;
+  quizScores: Record<number, number>;
+};
 
 export default function Home() {
   const [selectedLessonId, setSelectedLessonId] = useState(courseLessons[0].id);
   const selectedLesson = courseLessons.find((lesson) => lesson.id === selectedLessonId) ?? courseLessons[0];
   const [deck, setDeck] = useState<CourseCard[]>(selectedLesson.cards);
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [answers, setAnswers] = useState<Record<string, number>>({});
+  const [lessonAnswers, setLessonAnswers] = useState<SavedProgress["lessonAnswers"]>({});
+  const [quizScores, setQuizScores] = useState<SavedProgress["quizScores"]>({});
   const [isRailOpen, setIsRailOpen] = useState(false);
   const [isCardFlipped, setIsCardFlipped] = useState(false);
   const [hasHeardCurrentWord, setHasHeardCurrentWord] = useState(false);
+  const [storageReady, setStorageReady] = useState(false);
+  const [celebration, setCelebration] = useState<string | null>(null);
+  const [quizUnit, setQuizUnit] = useState<number | null>(null);
+  const [quizIndex, setQuizIndex] = useState(0);
+  const [quizAnswers, setQuizAnswers] = useState<Record<string, string>>({});
+
+  useEffect(() => {
+    try {
+      const saved = JSON.parse(window.localStorage.getItem(progressStorageKey) ?? "{}") as Partial<SavedProgress>;
+      if (saved.selectedLessonId && courseLessons.some((lesson) => lesson.id === saved.selectedLessonId)) setSelectedLessonId(saved.selectedLessonId);
+      if (saved.lessonAnswers) setLessonAnswers(saved.lessonAnswers);
+      if (saved.quizScores) setQuizScores(saved.quizScores);
+    } catch {
+      // Ignore malformed local data and start a fresh learning journey.
+    } finally {
+      setStorageReady(true);
+    }
+  }, []);
+
+  useEffect(() => {
+    if (!storageReady) return;
+    const payload: SavedProgress = { selectedLessonId, lessonAnswers, quizScores };
+    window.localStorage.setItem(progressStorageKey, JSON.stringify(payload));
+  }, [lessonAnswers, quizScores, selectedLessonId, storageReady]);
 
   useEffect(() => {
     setDeck(selectedLesson.cards);
     setCurrentIndex(0);
-    setAnswers({});
     setIsCardFlipped(false);
     setHasHeardCurrentWord(false);
   }, [selectedLesson]);
@@ -41,23 +74,81 @@ export default function Home() {
   const currentCard = deck[currentIndex] ?? selectedLesson.cards[0];
   const options = useMemo(() => buildWordOptions(deck, currentCard), [deck, currentCard]);
   const sentence = useMemo(() => sentenceWithBlank(currentCard), [currentCard]);
-  const selectedOption = answers[currentCard.id];
-  const hasAnswered = selectedOption !== undefined;
-  const isCurrentCorrect = hasAnswered && options[selectedOption] === currentCard.term;
+  const answers = lessonAnswers[selectedLessonId] ?? {};
+  const selectedAnswer = answers[currentCard.id];
+  const selectedOption = selectedAnswer === undefined ? undefined : options.findIndex((option) => option === selectedAnswer);
+  const hasAnswered = selectedAnswer !== undefined;
+  const isCurrentCorrect = selectedAnswer === currentCard.term;
   const reviewedCount = Object.keys(answers).length;
-  const score = Object.entries(answers).filter(([cardId, optionIndex]) => {
+  const score = Object.entries(answers).filter(([cardId, selectedWord]) => {
     const card = deck.find((item) => item.id === cardId);
-    return card ? buildWordOptions(deck, card)[optionIndex] === card.term : false;
+    return card ? selectedWord === card.term : false;
   }).length;
+  const totalReviewed = Object.values(lessonAnswers).reduce((sum, result) => sum + Object.keys(result).length, 0);
+  const totalCorrect = Object.entries(lessonAnswers).reduce((sum, [lessonId, result]) => {
+    const lesson = courseLessons.find((item) => item.id === lessonId);
+    return sum + Object.entries(result).filter(([cardId, selectedWord]) => lesson?.cards.find((card) => card.id === cardId)?.term === selectedWord).length;
+  }, 0);
+
+  const activeQuizCards = useMemo(() => {
+    if (quizUnit === null) return [];
+    const seen = new Set<string>();
+    return courseLessons
+      .filter((lesson) => lesson.unit === quizUnit)
+      .flatMap((lesson) => lesson.cards)
+      .filter((card) => {
+        const key = card.term.toLowerCase();
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      })
+      .slice(0, 5);
+  }, [quizUnit]);
+  const activeQuizCard = activeQuizCards[quizIndex];
+  const activeQuizOptions = useMemo(
+    () => (activeQuizCard ? buildWordOptions(activeQuizCards, activeQuizCard) : []),
+    [activeQuizCard, activeQuizCards],
+  );
+  const activeQuizAnswer = activeQuizCard ? quizAnswers[activeQuizCard.id] : undefined;
+  const quizCompleted = activeQuizCards.length > 0 && Object.keys(quizAnswers).length === activeQuizCards.length;
+  const quizCorrect = Object.entries(quizAnswers).filter(([cardId, answer]) => activeQuizCards.find((card) => card.id === cardId)?.term === answer).length;
 
   function resetCardState() {
     setIsCardFlipped(false);
     setHasHeardCurrentWord(false);
   }
 
+  function playSuccessSound() {
+    const AudioContext = window.AudioContext;
+    if (!AudioContext) return;
+    const context = new AudioContext();
+    const notes = [523.25, 659.25, 783.99];
+    notes.forEach((frequency, index) => {
+      const oscillator = context.createOscillator();
+      const gain = context.createGain();
+      oscillator.type = "sine";
+      oscillator.frequency.value = frequency;
+      gain.gain.setValueAtTime(0.0001, context.currentTime + index * 0.11);
+      gain.gain.exponentialRampToValueAtTime(0.16, context.currentTime + index * 0.11 + 0.02);
+      gain.gain.exponentialRampToValueAtTime(0.0001, context.currentTime + index * 0.11 + 0.16);
+      oscillator.connect(gain).connect(context.destination);
+      oscillator.start(context.currentTime + index * 0.11);
+      oscillator.stop(context.currentTime + index * 0.11 + 0.18);
+    });
+  }
+
   function chooseAnswer(optionIndex: number) {
     if (hasAnswered) return;
-    setAnswers((previous) => ({ ...previous, [currentCard.id]: optionIndex }));
+    const selectedWord = options[optionIndex];
+    setLessonAnswers((previous) => ({
+      ...previous,
+      [selectedLessonId]: { ...(previous[selectedLessonId] ?? {}), [currentCard.id]: selectedWord },
+    }));
+    if (selectedWord === currentCard.term) {
+      playSuccessSound();
+      setCelebration("أحسنت! إجابة صحيحة");
+      window.setTimeout(() => setCelebration(null), 1600);
+    }
   }
 
   function moveCard(direction: -1 | 1) {
@@ -73,14 +164,17 @@ export default function Home() {
   function shuffleDeck() {
     setDeck((previous) => [...previous].sort(() => Math.random() - 0.5));
     setCurrentIndex(0);
-    setAnswers({});
     resetCardState();
   }
 
   function resetDeck() {
     setDeck(selectedLesson.cards);
     setCurrentIndex(0);
-    setAnswers({});
+    setLessonAnswers((previous) => {
+      const next = { ...previous };
+      delete next[selectedLessonId];
+      return next;
+    });
     resetCardState();
   }
 
@@ -103,6 +197,25 @@ export default function Home() {
     setIsCardFlipped(true);
   }
 
+  function openQuiz(unit: number) {
+    setQuizUnit(unit);
+    setQuizIndex(0);
+    setQuizAnswers({});
+    setIsRailOpen(false);
+  }
+
+  function chooseQuizAnswer(optionIndex: number) {
+    if (!activeQuizCard || activeQuizAnswer !== undefined) return;
+    const selectedWord = activeQuizOptions[optionIndex];
+    setQuizAnswers((previous) => ({ ...previous, [activeQuizCard.id]: selectedWord }));
+    if (selectedWord === activeQuizCard.term) playSuccessSound();
+  }
+
+  function closeQuiz(saveScore = false) {
+    if (saveScore && quizUnit !== null) setQuizScores((previous) => ({ ...previous, [quizUnit]: Math.max(previous[quizUnit] ?? 0, quizCorrect) }));
+    setQuizUnit(null);
+  }
+
   return (
     <main className="sf-app" dir="rtl">
       <header className="sf-topbar">
@@ -114,8 +227,8 @@ export default function Home() {
           </div>
         </div>
         <div className="sf-top-actions">
-          <div className="sf-score-chip" aria-label={`Score ${score} out of ${reviewedCount}`} dir="ltr">
-            <BadgeCheck size={17} /> <span>{score}</span><small> / {reviewedCount} right</small>
+          <div className="sf-score-chip" aria-label={`Score ${totalCorrect} out of ${totalReviewed}`} dir="ltr">
+            <BadgeCheck size={17} /> <span>{totalCorrect}</span><small> / {totalReviewed} right</small>
           </div>
           <button className="sf-menu-button" onClick={() => setIsRailOpen(true)} aria-label="Open course navigation">
             <Menu size={22} />
@@ -150,7 +263,8 @@ export default function Home() {
                   <div className="sf-unit-heading">
                     <span className="sf-section-dot" style={{ backgroundColor: unit.color }} />
                     <span dir="ltr">UNIT {String(unit.unit).padStart(2, "0")}</span>
-                    <small>{unitLessons.length} lessons</small>
+                    <small>{quizScores[unit.unit] ? `quiz ${quizScores[unit.unit]}/5` : `${unitLessons.length} lessons`}</small>
+                    <button className="sf-unit-quiz-button" onClick={() => openQuiz(unit.unit)} aria-label={`Start Unit ${unit.unit} quiz`}><Award size={14} /></button>
                   </div>
                   <div className="sf-lesson-links">
                     {unitLessons.map((lesson) => {
@@ -216,7 +330,7 @@ export default function Home() {
                     <span className="sf-guess-count" dir="ltr">{String(currentIndex + 1).padStart(2, "0")}</span>
                   </section>
                   <section className="sf-flip-face sf-flip-back" aria-label={`${currentCard.term} flipped card`}>
-                    <img src={currentCard.image} alt="" aria-hidden="true" />
+                    <img src={cartoonImageFor(currentCard)} alt={`Cartoon illustration for ${currentCard.term}`} />
                     <button className="sf-word-below-photo" onClick={pronounceWord} aria-label={`Listen to ${currentCard.term} again`}>
                       <strong dir="ltr">{currentCard.term}</strong>
                       <span>{currentCard.arabic}</span>
@@ -271,6 +385,38 @@ export default function Home() {
           </div>
         </section>
       </div>
+      {celebration && <div className="sf-celebration" role="status">{celebration}</div>}
+      {quizUnit !== null && activeQuizCard && (
+        <div className="sf-quiz-overlay" role="dialog" aria-modal="true" aria-label={`Unit ${quizUnit} quiz`}>
+          <section className="sf-quiz-card" dir="rtl">
+            <button className="sf-quiz-close" onClick={() => closeQuiz(false)} aria-label="Close quiz"><X size={20} /></button>
+            <p className="sf-quiz-eyebrow" dir="ltr">UNIT {quizUnit} · QUICK CHECK</p>
+            {quizCompleted ? (
+              <div className="sf-quiz-result">
+                <Award size={48} />
+                <h3>أحسنت يا بطل!</h3>
+                <p>نتيجتك في اختبار الوحدة: <strong dir="ltr">{quizCorrect} / {activeQuizCards.length}</strong></p>
+                <Button className="sf-next-button" onClick={() => closeQuiz(true)}>حفظ النتيجة</Button>
+              </div>
+            ) : (
+              <>
+                <div className="sf-quiz-progress"><span style={{ width: `${((quizIndex + 1) / activeQuizCards.length) * 100}%` }} /></div>
+                <p className="sf-quiz-count" dir="ltr">Question {quizIndex + 1} of {activeQuizCards.length}</p>
+                <p className="sf-quiz-sentence" dir="ltr">{sentenceWithBlank(activeQuizCard)}</p>
+                <div className="sf-options">
+                  {activeQuizOptions.map((option, index) => {
+                    const selected = activeQuizAnswer === option;
+                    const correct = option === activeQuizCard.term;
+                    const resultClass = activeQuizAnswer === undefined ? "" : correct ? "is-correct" : selected ? "is-wrong" : "is-muted";
+                    return <button key={option} className={`sf-option ${resultClass}`} onClick={() => chooseQuizAnswer(index)} disabled={activeQuizAnswer !== undefined}><span className="sf-option-letter">{String.fromCharCode(65 + index)}</span><span className="sf-option-word" dir="ltr">{option}</span></button>;
+                  })}
+                </div>
+                {activeQuizAnswer !== undefined && <Button className="sf-next-button sf-quiz-next" onClick={() => setQuizIndex((index) => Math.min(index + 1, activeQuizCards.length - 1))}>السؤال التالي <ChevronLeft size={18} /></Button>}
+              </>
+            )}
+          </section>
+        </div>
+      )}
     </main>
   );
 }

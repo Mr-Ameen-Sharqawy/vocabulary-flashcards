@@ -1,0 +1,469 @@
+001. a 10-year-old girl | فتاة عمرها عشر سنوات | U1 L2
+002. absent | غائب | U6 LStory
+003. acts of kindness | أعمال طيبة/مواقف إنسانية | U3 L2
+004. adventure | مغامرة | U4 L4&5
+005. air pollution | تلوث الهواء | U2 L4&5
+006. alarm | جهاز إنذار | U5 L4&5
+007. amazing | مدهش | U2 L4&5
+008. announce | يعلن | U6 LStory
+009. annoying | يزعج | U6 LStory
+010. annual | سنوي | U6 LStory
+011. apologize | يعتذر | U6 LStory
+012. areas | مناطق | U3 L4&5
+013. art | فن | U5 L4&5
+014. as well | أيضًا | U3 L1
+015. at night | ليلاً | U1 L2
+016. attention | اهتمام/عناية | U3 L2
+017. bear | دب | U3 L1
+018. behavior | سلوك | U6 LStory
+019. between classes | بين الحصص الدراسية | U1 L2
+020. bin | سلة مهملات | U2 L2
+021. board | لوح (خشبي) | U5 L3
+022. bottles | زجاجات | U2 L1
+023. brave | شجاع | U5 L2
+024. break time | وقت الفسحة | U1 L2
+025. breakfast | وجبة الإفطار | U1 L4&5
+026. brown bread | خبز القمح (البلدي) | U1 L2
+027. brush teeth | يغسل الأسنان | U1 L2
+028. build | يبني | U2 L4&5
+029. building | مبنى | U2 L4&5
+030. built | يبني | U2 L4&5
+031. bullying | تنمر | U6 LStory
+032. busy market | سوق مزدحم | U4 L1
+033. butterflies | فراشات | U1 L1
+034. by hand | يدويًا | U2 L3
+035. cage | قفص | U3 L2
+036. Cairo Tower | برج القاهرة | U4 L1
+037. call out | يصيح/ينادي بصوت عالٍ | U3 L3
+038. cap | قبعة | U5 L1
+039. care | رعاية | U3 L2
+040. care for = take care of | يعتني بـ | U3 L2
+041. carelessly | بإهمال | U5 L3
+042. carpenter | نجار | U5 L3
+043. carpets | سجاد | U2 L3
+044. cartoons | رسوم متحركة | U5 L2
+045. catch | يصطاد | U3 L1
+046. caught | يصطاد | U3 L1
+047. cave | كهف | U3 L3
+048. celebrate | يحتفل | U2 L3
+049. celebrated | يحتفل | U2 L3
+050. celebration | احتفال | U2 L3
+051. challenges | تحديات/صعوبات | U3 L2
+052. character | شخصية | U5 L2
+053. check | يفحص | U3 L2
+054. checked | يفحص | U3 L2
+055. city | مدينة (كبيرة) | U4 L2
+056. claws | مخالب (الحيوانات) | U3 L1
+057. clean | ينظف / نظيف | U2 L1
+058. climb | يتسلق | U3 L1
+059. climbed | يتسلق | U3 L1
+060. closet | خزانة (دولاب) ملابس | U6 LStory
+061. clothes | ملابس | U2 L1
+062. coat | الغطاء الخارجي (للجسم الحيوان) | U3 L1
+063. coins | عملات معدنية | U1 L3
+064. collage | فن اللصق | U3 L4&5
+065. collect | يجمع | U2 L1
+066. colorful | ملوّن | U1 L1
+067. come inside | تفضل بالدخول | U1 L3
+068. come out | يخرج من | U3 L3
+069. community park | حديقة مجتمعية | U2 L1
+070. competition | مسابقة | U6 LStory
+071. costume | زي خاص | U5 L1
+072. country | دولة / بلد | U4 L1
+073. covered with | مغطى بـ | U6 LStory
+074. crafts | حرف يدوية | U2 L3
+075. create | ينشئ | U3 L2
+076. created | ينشئ | U3 L2
+077. crooked | مائل / منحني / معوج | U5 L3
+078. culture | ثقافة | U2 L3
+079. cycle | يركب دراجة | U2 L4&5
+080. cycled | يركب دراجة | U2 L4&5
+081. daily | يومي | U3 L2
+082. daily routine | روتين يومي | U1 L4&5
+083. danger | خطر | U3 L4&5
+084. dates | تمر | U4 L4&5
+085. daytime | النهار | U4 L4&5
+086. decorations | زينة / زخارف | U2 L3
+087. deep breath | نفس عميق | U1 L3
+088. designs | تصميمات | U2 L3
+089. diary | مفكرة | U2 L4&5
+090. die | يموت | U3 L3
+091. died | يموت | U3 L3
+092. dinner | وجبة العشاء | U1 L4&5
+093. dirty | غير نظيف | U2 L2
+094. disappearing | الاختفاء | U3 L4&5
+095. discuss | يناقش | U2 L2
+096. discussed | يناقش | U2 L2
+097. do a great job | يقوم بعمل رائع | U2 L1
+098. do exercises | يتدرب / يتمرن | U1 L2
+099. do well | ينجح / يؤدي جيدًا | U1 L2
+100. doctor | طبيب | U5 L1
+101. doctors | أطباء | U4 L2
+102. drank | يشرب | U1 L2
+103. drawings | رسومات | U6 LStory
+104. dress | فستان | U6 LStory
+105. drink | يشرب | U1 L2
+106. drink plenty of water | يشرب الكثير من المياه | U1 L2
+107. during the day | أثناء النهار | U3 L1
+108. eating habits | عادات الأكل (الطعام) | U1 L4&5
+109. Egyptian Museum | المتحف المصري | U4 L1
+110. elephant | فيل | U3 L1
+111. endangered | مهدد بالانقراض | U3 L4&5
+112. energy | طاقة | U1 L2
+113. engineer | مهندس | U5 L1
+114. enjoy | يستمتع بـ | U1 L2
+115. enjoyed | يستمتع بـ | U1 L2
+116. enter | يدخل | U3 L3
+117. entered | يدخل | U3 L3
+118. equipment | معدات | U5 L4&5
+119. especially | على وجه الخصوص | U2 L2
+120. everywhere | في كل مكان | U2 L2
+121. excellent | رائع / ممتاز | U1 L1
+122. exciting | ممتع | U5 L2
+123. expensive | غالي الثمن | U6 LStory
+124. experience | تجربة | U6 LStory
+125. face | يواجه | U3 L2
+126. faced | يواجه | U3 L2
+127. facts | حقائق | U3 L4&5
+128. faded | باهت | U6 LStory
+129. faraway | بعيد | U5 L2
+130. feed | يطعم | U2 L1
+131. feel | يشعر | U2 L1
+132. felt | يشعر | U2 L1
+133. fewer | أقل (عددًا) | U2 L2
+134. final | نهائي | U5 L3
+135. fire | حريق / نار | U1 L1
+136. fire station | محطة إطفاء | U5 L4&5
+137. firefighter | رجل إطفاء | U5 L1
+138. first time | أول مرة | U4 L1
+139. fishing net | شبكة صيد | U3 L4&5
+140. fit | يناسب / يلائم | U5 L3
+141. fix | يصلح | U2 L2
+142. fixed | يصلح | U2 L2
+143. fluffy tail | ذيل كثيف | U3 L3
+144. follow | يتبع | U1 L2
+145. followed | يتبع | U1 L2
+146. footprints | آثار الأقدام | U3 L3
+147. for breakfast | في وجبة الإفطار | U1 L2
+148. for free | مجانًا | U1 L3
+149. for special events | للمناسبات الخاصة | U2 L3
+150. forest guide | مرشد في الغابة | U3 L1
+151. forest officer | حارس الغابة | U3 L2
+152. forest park | منتزه الغابة/غابة مخصصة للتنزه | U3 L1
+153. forever | إلى الأبد | U3 L4&5
+154. fox | ثعلب | U3 L3
+155. fresh | طازج | U1 L2
+156. fur | فراء (شعر كثيف) | U3 L1
+157. furniture | أثاث | U5 L3
+158. galabeya | جلابية | U2 L3
+159. gave | يعطي | U2 L1
+160. gentle | لطيف | U3 L4&5
+161. get dressed | يرتدي | U1 L4&5
+162. getting enough sleep | الحصول على قدر كافٍ من النوم | U1 L2
+163. gifts | هدايا | U4 L1
+164. giraffe | زرافة | U3 L1
+165. give | يعطي | U2 L1
+166. greedy | طماع / جشع | U1 L3
+167. grew | يزرع | U1 L2
+168. ground | أرض | U2 L2
+169. grow | يزرع | U1 L2
+170. habitats | مواطن/بيئات | U3 L4&5
+171. hard | صلب / خشن | U1 L1
+172. harvest | حصاد | U2 L3
+173. health | صحة | U3 L2
+174. healthy | صحي | U1 L4&5
+175. hear | يسمع | U1 L1
+176. heard | يسمع | U1 L1
+177. hearing | حاسة السمع | U1 L1
+178. heavy | ثقيل | U5 L4&5
+179. helmet | خوذة | U5 L1
+180. help | يساعد | U2 L1
+181. helping hands | أيدي المساعدة | U2 L1
+182. hero | بطل | U5 L4&5
+183. high | مرتفع | U5 L2
+184. history | تاريخ | U2 L4&5
+185. home | موطن | U3 L2
+186. hospital | مستشفى | U4 L2
+187. hungry | جائع | U1 L3
+188. hunt | يصطاد (حيوانات) | U3 L1
+189. hunted | يصطاد (حيوانات) | U3 L1
+190. impressed by | منبهر بـ | U1 L3
+191. in bright colors | بألوان زاهية | U2 L3
+192. in danger | في خطر | U3 L3
+193. in groups | في مجموعات | U3 L1
+194. including | متضمنًا / مشتملًا على | U1 L4&5
+195. instead of | بدلًا من | U2 L2
+196. invite | يدعو | U1 L3
+197. invited | يدعو | U1 L3
+198. It's fun to | إنه من الممتع أن | U2 L1
+199. jingling | صوت رنين خفيف | U1 L3
+200. keep | يحفظ | U2 L4&5
+201. keep a rabbit | يربي أرنب | U3 L2
+202. kept | يحفظ | U2 L4&5
+203. Khan Al-Khalili Bazaar | سوق خان الخليلي | U4 L1
+204. knew | يعرف | U2 L2
+205. know | يعرف | U2 L2
+206. known for | مشهور بـ | U2 L3
+207. ladder | سلم / درج متنقل | U5 L4&5
+208. laugh | يضحك | U6 LStory
+209. laugh at | يضحك على | U1 L3
+210. laughs | ضحكات | U5 L2
+211. learn about | يتعلم عن | U1 L1
+212. leave | يترك | U2 L2
+213. leaves | أوراق الشجر | U3 L1
+214. left | يترك | U2 L2
+215. let | يدع / يسمح | U1 L4&5
+216. letter | خطاب | U6 LStory
+217. letters | خطابات | U4 L2
+218. library | مكتبة | U4 L2
+219. light | خفيف | U1 L3
+220. lion | أسد | U3 L1
+221. lives | الحيوات (جمع حياة) | U5 L4&5
+222. local | محلي | U5 L4&5
+223. local food | طعام محلي | U4 L4&5
+224. look dirty | تبدو غير نظيفة | U2 L2
+225. loud | عالي (الصوت) | U5 L2
+226. loud noise | ضوضاء صاخبة | U1 L1
+227. low | منخفض | U5 L2
+228. lunch | وجبة الغداء | U1 L4&5
+229. make a difference | يحدث فارقًا | U2 L2
+230. make friends | يكوّن صداقات | U1 L2
+231. market | السوق | U1 L3
+232. marks | علامات | U3 L3
+233. medal | ميدالية | U6 LStory
+234. mentor | مرشد تعليمي | U5 L2
+235. mind | عقل | U1 L2
+236. mistakes | أخطاء | U3 L3
+237. monastery | دير | U4 L4&5
+238. monkey | قرد | U3 L1
+239. mountain | جبل | U3 L3
+240. move | يتحرك | U2 L2
+241. move around | يتجول/يتحرك | U3 L2
+242. moved | يتحرك | U2 L2
+243. museum | متحف | U4 L2
+244. nail | مسامر | U5 L3
+245. natural | طبيعي | U4 L4&5
+246. nature | الطبيعة | U4 L4&5
+247. near | بالقرب من | U4 L1
+248. neck | رقبة | U3 L1
+249. need | يحتاج | U2 L1
+250. needed | يحتاج | U2 L1
+251. neighborhood | حي | U2 L4&5
+252. neighbors | جيران | U2 L1
+253. Nile River | نهر النيل | U4 L1
+254. north | الشمال | U2 L3
+255. notice | يلاحظ | U3 L3
+256. noticed | يلاحظ | U3 L3
+257. Nubia | النوبة | U2 L3
+258. nurse | ممرضة | U4 L2
+259. offer | يعرض | U1 L3
+260. offered | يعرض | U1 L3
+261. olive oil | زيت زيتون | U4 L4&5
+262. on the road | في الطريق | U2 L2
+263. one by one | واحد بعد الآخر/واحد تلو الآخر | U3 L3
+264. orange juice | عصير برتقال | U1 L2
+265. organization | منظمة | U3 L4&5
+266. origami | فن تشكيل الورق | U5 L4&5
+267. outfit | رداء خاص (ملابس) | U2 L3
+268. owner | مالك | U1 L3
+269. oxygen tank | أسطوانة الأكسجين | U5 L4&5
+270. packages | طرود بريدية | U4 L2
+271. paid for | يدفع (ثمن) | U1 L3
+272. paint | يدهن | U2 L3
+273. painted | يدهن | U2 L3
+274. palm trees | أشجار النخيل | U4 L4&5
+275. pants | بنطلون | U2 L3
+276. patients | مرضى | U5 L1
+277. pay for | يدفع (ثمن) | U1 L3
+278. pet | حيوان أليف | U3 L2
+279. photos | صور (فوتوغرافية) | U2 L4&5
+280. plant | يزرع | U2 L1
+281. play sports | يلعب رياضة | U1 L2
+282. playground | ملعب | U6 LStory
+283. pocket | جيب | U1 L3
+284. police officer | ضابط شرطة | U5 L1
+285. pollution | تلوث | U3 L4&5
+286. popular | مشهور | U4 L4&5
+287. post office | مكتب البريد | U4 L2
+288. pottery | فخار / صناعة الفخار | U2 L3
+289. prepare | يعد / يجهز | U1 L4&5
+290. prepared | يعد / يجهز | U1 L4&5
+291. pretend | يتظاهر | U3 L3
+292. pretended | يتظاهر | U3 L3
+293. price | ثمن | U4 L4&5
+294. problems | مشكلات | U2 L2
+295. protect | يحمي | U3 L2
+296. protected | يحمي | U3 L2
+297. protective | واقي | U5 L4&5
+298. proud to | فخور أن | U2 L4&5
+299. puppet | دمية | U5 L2
+300. put | يضع | U2 L2
+301. Pyramids | الأهرامات | U4 L1
+302. quiet | هادئ | U6 LStory
+303. ran | يجري | U3 L1
+304. reach | يصل إلى | U3 L2
+305. reached | يصل إلى | U3 L2
+306. real | حقيقي - واقعي | U5 L2
+307. reason | سبب | U3 L4&5
+308. reduce | يقلل | U2 L2
+309. reduced | يقلل | U2 L2
+310. region | منطقة / إقليم | U2 L3
+311. regret | ندم | U5 L3
+312. request | طلب | U5 L3
+313. restaurant | مطعم | U1 L3
+314. rich | غني | U2 L4&5
+315. rocks | صخور | U4 L4&5
+316. run | يجري | U3 L1
+317. run away | يهرب | U3 L3
+318. safe | آمن | U3 L2
+319. safely | بأمان | U2 L4&5
+320. said | يقول | U1 L3
+321. salt lake | البحيرة المالحة | U4 L4&5
+322. same | متشابه / نفس الشيء | U1 L4&5
+323. sang | يغني | U1 L1
+324. say | يقول | U1 L3
+325. school | مدرسة | U4 L2
+326. sea animals | حيوانات بحرية | U3 L4&5
+327. sea grass | عشب البحر | U3 L4&5
+328. see ... up close | يرى ... عن قرب | U3 L1
+329. sell | يبيع | U2 L4&5
+330. shake | يهز / يهتز | U1 L3
+331. share with | يتشارك مع | U1 L3
+332. sharp | يقظ / منتبه | U1 L2
+333. shock | صدمة | U5 L3
+334. shook | يهز / يهتز | U1 L3
+335. shopping mall | مركز تجاري | U4 L2
+336. shy | خجول | U5 L2
+337. sick | مريض | U3 L3
+338. sick people | المرضى | U5 L1
+339. sight | حاسة الإبصار | U1 L1
+340. sign | توقيع / يوقع | U6 LStory
+341. simple | بسيط | U1 L2
+342. sing | يغني | U1 L1
+343. Siwa Oasis | واحة سيوة | U4 L1
+344. skilled | ماهر / ذو مهارة | U5 L3
+345. sleep | ينام | U1 L2
+346. slept | ينام | U1 L2
+347. smart | ذكي | U5 L2
+348. smell | حاسة الشم | U1 L1
+349. smile | ابتسامة | U5 L2
+350. smoke | دخان | U1 L1
+351. snack | وجبة خفيفة | U1 L4&5
+352. soft | ناعم / لين | U1 L1
+353. sold | يبيع | U2 L4&5
+354. solutions | حلول | U2 L2
+355. solve | يحل | U2 L2
+356. solved | يحل | U2 L2
+357. soup | حساء (شوربة) | U1 L3
+358. south | الجنوب | U2 L3
+359. South Sinai | جنوب سيناء | U4 L4&5
+360. spaces | مساحات | U3 L2
+361. special | خاص/مميز | U3 L2
+362. species | فصائل/أنواع | U3 L4&5
+363. spray | يرش | U3 L1
+364. sprayed | يرش | U3 L1
+365. Spring Festival | مهرجان الربيع | U2 L3
+366. St. Catherine Mountain | جبل سانت كاترين | U4 L4&5
+367. stalls | أكشاك | U2 L4&5
+368. stand | يقف | U3 L3
+369. stay safe | يبقى آمنًا | U1 L1
+370. stay sharp | يكون يقظًا / منتبهًا | U1 L2
+371. still stand | ما زالت قائمة | U2 L4&5
+372. stones | الأحجار | U4 L1
+373. stood | يقف | U3 L3
+374. stores | متاجر | U4 L2
+375. street | شارع | U2 L1
+376. stripes | خطوط (عريضة) | U5 L4&5
+377. strong | قوي | U1 L2
+378. students | طلاب | U4 L2
+379. studied | يدرس | U1 L4&5
+380. study | يدرس | U1 L4&5
+381. stylish | أنيق | U2 L3
+382. suddenly | فجأة | U1 L3
+383. sugar cane | قصب السكر | U2 L3
+384. supermarket | متجر | U2 L4&5
+385. surface | سطح | U3 L3
+386. sweets | حلوى | U1 L2
+387. tail | ذيل | U3 L1
+388. take | يأخذ | U1 L2
+389. take a shower | يستحم | U1 L2
+390. take out .... from | يخرج ... من | U1 L3
+391. take the bus | يستقل الأتوبيس | U2 L2
+392. talk about | يتحدث عن | U1 L1
+393. taste | حاسة التذوق | U1 L1
+394. taste better | مذاقه أفضل | U1 L3
+395. tasted | يتذوق | U1 L1
+396. teacher | معلم / معلمة | U4 L2
+397. tell | يخبر | U1 L4&5
+398. tell stories | يحكي قصصًا | U2 L3
+399. terrible | فظيع / بالأسى | U6 LStory
+400. That's cool! | هذا رائع! | U2 L1
+401. the Arabian Leopard | الفهد العربي | U3 L4&5
+402. the Delta | دلتا النيل | U2 L3
+403. the king of the jungle land | ملك الغابة | U3 L1
+404. the Middle East | الشرق الأوسط | U3 L4&5
+405. the Red Sea Dugong | أطوم البحر الأحمر | U3 L4&5
+406. thick | سميك | U5 L4&5
+407. threw | يلقي / يرمي | U2 L2
+408. throw | يلقي / يرمي | U2 L2
+409. told | يخبر | U1 L4&5
+410. tongue | لسان | U1 L1
+411. took | يأخذ | U1 L2
+412. tools | أدوات | U5 L4&5
+413. touch | حاسة اللمس | U1 L1
+414. touched | يلمس | U1 L1
+415. tour guide | مرشد سياحي | U4 L1
+416. tourists | سياح | U4 L1
+417. traditional | تقليدي | U2 L3
+418. traditions | تقاليد | U2 L3
+419. traffic | حركة مرور | U2 L2
+420. train station | محطة قطار | U2 L4&5
+421. trash | قمامة | U2 L1
+422. treasures | كنوز | U4 L1
+423. trick | خدعة/يخدع | U3 L3
+424. truck | شاحنة | U5 L4&5
+425. trunk | خرطوم الفيل | U3 L1
+426. turban | عمامة | U2 L3
+427. TV program | برنامج تلفزيوني | U3 L1
+428. understand | يفهم | U1 L1
+429. understood | يفهم | U1 L1
+430. uniform | زي موحد | U5 L1
+431. unkindness | قسوة | U6 LStory
+432. Upper Egypt | الوجه القبلي | U2 L3
+433. use | يستخدم | U1 L1
+434. used | يستخدم | U1 L1
+435. usual | عادي / تقليدي | U5 L3
+436. vegetables | خضروات | U1 L2
+437. vest | سترة/قميص (بدون أكمام) | U5 L1
+438. vet | طبيب بيطري | U3 L2
+439. visitors | زوار | U3 L1
+440. vitamins | فيتامينات | U1 L2
+441. voice | صوت (بشري) | U5 L2
+442. voice-over actor | مؤدي صوتي | U5 L2
+443. voices | أصوات (بشرية) | U1 L1
+444. volunteer | يتطوع | U2 L1
+445. volunteered | يتطوع | U2 L1
+446. wake up early | يستيقظ مبكرًا | U1 L2
+447. walk | يمشي | U2 L4&5
+448. walk through | يتجول في | U1 L3
+449. walked | يمشي | U2 L4&5
+450. warm clothes | ملابس ثقيلة | U4 L4&5
+451. wash face | يغسل الوجه | U1 L2
+452. water hoses | خراطيم المياه | U5 L4&5
+453. weak | ضعيف | U3 L3
+454. wear | يرتدي | U2 L3
+455. weave | ينسج | U2 L3
+456. What a beautiful day! | يا له من يوم جميل! | U1 L1
+457. wild | البرية | U3 L2
+458. wild animals | الحيوانات البرية | U3 L2
+459. wildlife photographer | مصور الحياة البرية | U5 L2
+460. winner | فائز | U6 LStory
+461. wise | حكيم | U3 L3
+462. wonderful | رائع | U1 L3
+463. wooden | خشبي | U2 L4&5
+464. wore | يرتدي | U2 L3
+465. work as | يعمل كـ | U3 L1
+466. wove | ينسج | U2 L3
+467. Yours truly | مع خالص تحياتي | U2 L4&5
+468. yummy | لذيذ | U1 L3
+469. zebra | حمار وحشي | U3 L1

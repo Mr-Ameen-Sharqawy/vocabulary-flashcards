@@ -15,6 +15,19 @@ const unitMeta = {
   6: { title: "Story Time", arabic: "وقت القصة", image: "/manus-storage/unit-6-hundred-dresses_054b709c.jpg", color: "#f0a24b" },
 };
 
+const cartoonImages = {
+  "a 10-year-old girl": "/manus-storage/cartoon-001-a-10-year-old-girl_95c6f15b.jpg",
+  absent: "/manus-storage/cartoon-002-absent_daeeb2c1.jpg",
+  "acts of kindness": "/manus-storage/cartoon-003-acts-of-kindness_5381a778.jpg",
+  adventure: "/manus-storage/cartoon-004-adventure_d89f1ec0.jpg",
+  "air pollution": "/manus-storage/cartoon-005-air-pollution_87f66d22.jpg",
+  alarm: "/manus-storage/cartoon-006-alarm_bbe16d5e.jpg",
+  amazing: "/manus-storage/cartoon-007-amazing_57c0b649.jpg",
+  announce: "/manus-storage/cartoon-008-announce_947a2fb4.jpg",
+  annoying: "/manus-storage/cartoon-009-annoying_9c6ce672.jpg",
+  annual: "/manus-storage/cartoon-010-annual_c53bc7ed.jpg",
+};
+
 const lessons = course.lessons.map((lesson) => {
   const meta = unitMeta[lesson.unit];
   return {
@@ -26,7 +39,7 @@ const lessons = course.lessons.map((lesson) => {
     color: meta.color,
     title: lesson.lessonTitle.replace(/^Lesson\s*\d+\s*:\s*/i, "").replace(/^Lessons\s*\d+\s*&\s*\d+\s*:\s*/i, ""),
     image: meta.image,
-    cards: lesson.cards.map((card) => ({ ...card, image: meta.image })),
+    cards: lesson.cards.map((card) => ({ ...card, image: cartoonImages[card.term.toLowerCase()] ?? meta.image })),
   };
 });
 
