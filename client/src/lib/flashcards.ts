@@ -58,11 +58,16 @@ export function buildOptions(card: Flashcard) {
   const cardIndex = flashcards.findIndex((item) => item.id === card.id);
   const offsets = [5, 12, 19];
   const choices = [
-    card.definition,
-    ...offsets.map((offset) => flashcards[(cardIndex + offset) % flashcards.length].definition),
+    card.term,
+    ...offsets.map((offset) => flashcards[(cardIndex + offset) % flashcards.length].term),
   ];
   const correctIndex = card.id % 4;
   const [correct] = choices.splice(0, 1);
   choices.splice(correctIndex, 0, correct);
   return choices;
+}
+
+export function sentenceWithBlank(card: Flashcard) {
+  const escapedTerm = card.term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  return card.example.replace(new RegExp(escapedTerm, "i"), "_____");
 }

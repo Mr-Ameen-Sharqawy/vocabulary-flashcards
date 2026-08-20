@@ -134,12 +134,14 @@ button { -webkit-tap-highlight-color: transparent; }
 .sf-card-term-row { display: flex; align-items: center; justify-content: space-between; }
 .sf-part-badge { display: inline-block; color: #477294; background: var(--blue-light); padding: 7px 10px; border-radius: 5px; font: 800 10px/1 "Nunito Sans", sans-serif; direction: ltr; }
 .sf-question-label { margin: 31px 0 3px; color: var(--coral); font: 800 11px/1 "Nunito Sans", sans-serif; letter-spacing: .05em; direction: ltr; }
+.sf-sentence { margin: 7px 0 5px; color: var(--ink-deep); font: 800 clamp(20px, 2.5vw, 28px)/1.35 "Nunito Sans", sans-serif; letter-spacing: -.03em; }
 .sf-question-ar { margin: 9px 0 22px; color: var(--muted); font-size: 12px; }
 .sf-options { display: grid; gap: 10px; }
 .sf-option { min-height: 52px; display: grid; grid-template-columns: 30px 1fr 20px; gap: 10px; align-items: center; padding: 11px 13px; border: 1px solid #d9e1e8; border-radius: 9px; background: #fff; color: #254864; text-align: left; font: 700 13px/1.35 "Nunito Sans", sans-serif; transition: transform 160ms var(--ease-out), border-color 160ms var(--ease-out), box-shadow 160ms var(--ease-out), background-color 160ms var(--ease-out); }
 .sf-option:not(:disabled):hover { transform: translateX(-3px); border-color: var(--blue); box-shadow: 0 6px 15px rgba(30,95,168,.12); }
 .sf-option:active, .sf-control-button:active, .sf-next-button:active, .sf-arrow-button:active { transform: scale(.97); }
 .sf-option-letter { display: grid; place-items: center; width: 27px; height: 27px; border-radius: 50%; color: var(--blue); background: var(--blue-light); font-weight: 900; }
+.sf-option-word { font-weight: 900; letter-spacing: .01em; }
 .sf-option.is-correct { color: #0c624b; border-color: #65c6ab; background: #edfbf5; }
 .sf-option.is-correct .sf-option-letter { color: #fff; background: var(--success); }
 .sf-option.is-wrong { color: #944137; border-color: #ecab9d; background: #fff0ed; }

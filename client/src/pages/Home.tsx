@@ -16,7 +16,7 @@ import {
   X,
 } from "lucide-react";
 import { useMemo, useState } from "react";
-import { buildOptions, categories, flashcards, type Flashcard } from "@/lib/flashcards";
+import { buildOptions, categories, flashcards, sentenceWithBlank, type Flashcard } from "@/lib/flashcards";
 
 const heroImage = "/manus-storage/senses-safety-hero_e652dfff.jpg";
 const logoImage = "/manus-storage/vocabulary-logo_5f3f4915.png";
@@ -31,13 +31,14 @@ export default function Home() {
 
   const currentCard = deck[currentIndex];
   const options = useMemo(() => buildOptions(currentCard), [currentCard]);
+  const sentence = useMemo(() => sentenceWithBlank(currentCard), [currentCard]);
   const selectedOption = answers[currentCard.id];
   const hasAnswered = selectedOption !== undefined;
-  const isCurrentCorrect = hasAnswered && options[selectedOption] === currentCard.definition;
+  const isCurrentCorrect = hasAnswered && options[selectedOption] === currentCard.term;
   const reviewedCount = Object.keys(answers).length;
   const score = Object.entries(answers).filter(([cardId, optionIndex]) => {
     const card = flashcards.find((item) => item.id === Number(cardId));
-    return card ? buildOptions(card)[optionIndex] === card.definition : false;
+    return card ? buildOptions(card)[optionIndex] === card.term : false;
   }).length;
 
   const currentCategory = categories.find((category) => category.id === currentCard.category);
@@ -217,12 +218,13 @@ export default function Home() {
               <div className="sf-card-term-row">
                 <span className="sf-part-badge">{currentCard.part}</span>
               </div>
-              <p className="sf-question-label">Choose the correct definition</p>
-              <p className="sf-question-ar">اختر التعريف الصحيح للكلمة.</p>
+              <p className="sf-question-label">Complete the sentence</p>
+              <p className="sf-sentence" dir="ltr">{sentence}</p>
+              <p className="sf-question-ar">اختر الكلمة التي تُكمل الجملة.</p>
 
               <div className="sf-options" role="list">
                 {options.map((option, optionIndex) => {
-                  const isCorrectOption = option === currentCard.definition;
+                  const isCorrectOption = option === currentCard.term;
                   const isSelected = selectedOption === optionIndex;
                   const resultClass = hasAnswered
                     ? isCorrectOption
@@ -240,7 +242,7 @@ export default function Home() {
                       aria-pressed={isSelected}
                     >
                       <span className="sf-option-letter" dir="ltr">{String.fromCharCode(65 + optionIndex)}</span>
-                      <span dir="ltr">{option}</span>
+                      <span className="sf-option-word" dir="ltr">{option}</span>
                       {hasAnswered && isCorrectOption && <CircleCheck className="sf-option-icon" size={19} />}
                       {hasAnswered && isSelected && !isCorrectOption && <CircleX className="sf-option-icon" size={19} />}
                     </button>
