@@ -28,6 +28,42 @@ const cartoonImages = {
   annual: "/manus-storage/cartoon-010-annual_c53bc7ed.jpg",
 };
 
+const originalUnitOneImages = {
+  taste: "/manus-storage/Tasting_slice_of_cake_202608192114_501e40d8.jpeg",
+  touch: "/manus-storage/Handprint_on_misty_glass_202608192114_c47d90bc.jpeg",
+  hearing: "/manus-storage/Sound_waves_entering_human_ear_202608192114_11c39631.jpeg",
+  sight: "/manus-storage/Human_eye_reflecting_landscape_202608192114_bc6013a8.jpeg",
+  smell: "/manus-storage/Person_smelling_rose_202608192114_7a6d8a2a.jpeg",
+  fire: "/manus-storage/Campfire_glowing_at_night_202608192114_d1e1ce48.jpeg",
+  smoke: "/manus-storage/White_smoke_swirling_on_dark_202608192114_5fef98e7.jpeg",
+  voices: "/manus-storage/Abstract_visualization_of_voices_202608192114_d957662e.jpeg",
+  tongue: "/manus-storage/Pink_tongue_showing_202608192114_df781eb6.jpeg",
+  soft: "/manus-storage/Hands_feeling_soft_velvet_fabric_202608192114_878332f8.jpeg",
+  butterflies: "/manus-storage/Butterflies_fluttering_in_meadow_202608192114_f2470ef1.jpeg",
+  excellent: "/manus-storage/Gold_medal_rating_symbol_202608192114_730125a0.jpeg",
+  colorful: "/manus-storage/Multicolored_paints_splashing_202608192114_8d02a10f.jpeg",
+  hard: "/manus-storage/Close-up_of_granite_rock_202608192114_0a756bdf.jpeg",
+  "loud noise": "/manus-storage/Person_covering_ears_near_speaker_202608192114_5fd77868.jpeg",
+  "learn about": "/manus-storage/learn-about_166096c8.jpeg",
+  "stay safe": "/manus-storage/Protective_shield_or_home_shelter_202608192114_0e6599e8.jpeg",
+  "what a beautiful day": "/manus-storage/Sunlit_landscape_with_green_hills_202608192114_119f5e97.jpeg",
+  "talk about": "/manus-storage/Two_silhouettes_in_conversation_202608192114_7b8c01c6.jpeg",
+  use: "/manus-storage/Hand_holding_and_using_pencil_202608192114_050a0ab2.jpeg",
+  used: "/manus-storage/Vintage_record_player_playing_music_202608192114_be6002f0.jpeg",
+  tasted: "/manus-storage/Tasting_slice_of_cake_202608192114_501e40d8.jpeg",
+  touched: "/manus-storage/Handprint_on_misty_glass_202608192114_c47d90bc.jpeg",
+  hear: "/manus-storage/Child_listening_to_seashell_202608192114_4fe86a6b.jpeg",
+  heard: "/manus-storage/Old_radio_transmitting_sound_waves_202608192114_a4178750.jpeg",
+  sing: "/manus-storage/sing_058de30d.jpeg",
+  sang: "/manus-storage/sing_058de30d.jpeg",
+  understand: "/manus-storage/Lightbulb_appearing_above_head_202608192114_37cadbb5.jpeg",
+  understood: "/manus-storage/checkmark_fe1b2568.jpeg",
+};
+
+function imageKey(term) {
+  return term.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+}
+
 const lessons = course.lessons.map((lesson) => {
   const meta = unitMeta[lesson.unit];
   return {
@@ -39,7 +75,11 @@ const lessons = course.lessons.map((lesson) => {
     color: meta.color,
     title: lesson.lessonTitle.replace(/^Lesson\s*\d+\s*:\s*/i, "").replace(/^Lessons\s*\d+\s*&\s*\d+\s*:\s*/i, ""),
     image: meta.image,
-    cards: lesson.cards.map((card) => ({ ...card, image: cartoonImages[card.term.toLowerCase()] ?? meta.image })),
+    cards: lesson.cards.map((card) => {
+      const key = imageKey(card.term);
+      const originalImage = lesson.unit === 1 && String(lesson.lesson) === "1" ? originalUnitOneImages[key] : undefined;
+      return { ...card, image: originalImage ?? cartoonImages[key] ?? meta.image };
+    }),
   };
 });
 

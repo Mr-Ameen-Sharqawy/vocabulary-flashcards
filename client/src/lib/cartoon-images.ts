@@ -2,6 +2,15 @@
  * Design context: Sense Lab uses an individual cartoon picture as the hidden reward for each vocabulary word. This map grows as the curriculum image library is generated.
  */
 import type { CourseCard } from "@/lib/course";
+import { flashcards as originalUnitOneCards } from "@/lib/flashcards";
+
+function normalizeTerm(term: string) {
+  return term.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+}
+
+const originalUnitOneImages = new Map(
+  originalUnitOneCards.map((card) => [normalizeTerm(card.term), card.image]),
+);
 
 const cartoonImages: Record<string, string> = {
   "a 10-year-old girl": "/manus-storage/cartoon-001-a-10-year-old-girl_95c6f15b.jpg",
@@ -17,5 +26,7 @@ const cartoonImages: Record<string, string> = {
 };
 
 export function cartoonImageFor(card: CourseCard) {
-  return cartoonImages[card.term.trim().toLowerCase()] ?? card.image;
+  const term = normalizeTerm(card.term);
+  if (card.id.startsWith("1-1-")) return originalUnitOneImages.get(term) ?? card.image;
+  return cartoonImages[term] ?? card.image;
 }
