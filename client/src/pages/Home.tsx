@@ -27,6 +27,7 @@ export default function Home() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState<Record<number, number>>({});
   const [isRailOpen, setIsRailOpen] = useState(false);
+  const [isCardFlipped, setIsCardFlipped] = useState(false);
 
   const currentCard = deck[currentIndex];
   const options = useMemo(() => buildOptions(currentCard), [currentCard]);
@@ -49,11 +50,13 @@ export default function Home() {
   function moveCard(direction: -1 | 1) {
     const nextIndex = Math.min(Math.max(currentIndex + direction, 0), deck.length - 1);
     setCurrentIndex(nextIndex);
+    setIsCardFlipped(false);
   }
 
   function moveToCategory(categoryId: Flashcard["category"]) {
     const target = deck.findIndex((card) => card.category === categoryId);
     if (target >= 0) setCurrentIndex(target);
+    setIsCardFlipped(false);
     setIsRailOpen(false);
   }
 
@@ -62,15 +65,18 @@ export default function Home() {
     setDeck(shuffled);
     setCurrentIndex(0);
     setAnswers({});
+    setIsCardFlipped(false);
   }
 
   function resetDeck() {
     setDeck(flashcards);
     setCurrentIndex(0);
     setAnswers({});
+    setIsCardFlipped(false);
   }
 
   function pronounceWord() {
+    setIsCardFlipped(true);
     if (typeof window === "undefined" || !window.speechSynthesis) return;
     window.speechSynthesis.cancel();
     const utterance = new SpeechSynthesisUtterance(currentCard.term.replace(/[!?.]/g, ""));
@@ -162,17 +168,30 @@ export default function Home() {
 
           <article className="sf-flashcard" key={currentCard.id}>
             <div className="sf-card-visual">
-              <img src={currentCard.image} alt={`Illustration for ${currentCard.term}`} />
-              <div className="sf-image-caption"><span>Picture clue</span><span>01</span></div>
+              <div className={`sf-flip-stage ${isCardFlipped ? "is-flipped" : ""}`}>
+                <div className="sf-flip-inner">
+                  <section className="sf-flip-face sf-flip-front">
+                    <img src={currentCard.image} alt={`Illustration for ${currentCard.term}`} />
+                    <p className="sf-word-on-photo" dir="ltr">{currentCard.term}</p>
+                    <div className="sf-image-caption"><span>Picture clue</span><span>{String(currentIndex + 1).padStart(2, "0")}</span></div>
+                  </section>
+                  <section className="sf-flip-face sf-flip-back" aria-label={`${currentCard.term} flipped card`}>
+                    <img src={currentCard.image} alt="" aria-hidden="true" />
+                    <div className="sf-word-below-photo" dir="ltr">
+                      <strong>{currentCard.term}</strong>
+                      <span>{currentCard.arabic}</span>
+                    </div>
+                  </section>
+                </div>
+              </div>
             </div>
 
             <div className="sf-card-content">
               <div className="sf-card-term-row">
                 <span className="sf-part-badge">{currentCard.part}</span>
-                <button className="sf-sound-button" onClick={pronounceWord} aria-label={`Listen to ${currentCard.term}`}><Volume2 size={17} /></button>
+                <button className="sf-sound-button" onClick={pronounceWord} aria-label={`Listen to ${currentCard.term} and flip card`} aria-pressed={isCardFlipped}><Volume2 size={17} /></button>
               </div>
               <p className="sf-question-label">Choose the correct definition</p>
-              <h3 dir="ltr">{currentCard.term}</h3>
               <p className="sf-question-ar">اختر التعريف الصحيح للكلمة.</p>
 
               <div className="sf-options" role="list">

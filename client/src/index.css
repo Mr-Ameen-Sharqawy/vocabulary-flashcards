@@ -18,6 +18,7 @@
   --danger: #c95f55;
   --shadow: 0 16px 32px rgba(23, 58, 99, 0.12);
   --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
 }
 
 * { box-sizing: border-box; }
@@ -99,9 +100,19 @@ button { -webkit-tap-highlight-color: transparent; }
 .sf-progress-track span { display: block; height: 100%; background: var(--gold); border-radius: 10px; transition: width 250ms var(--ease-out); }
 
 .sf-flashcard { display: grid; grid-template-columns: minmax(260px, .85fr) minmax(0, 1.2fr); overflow: hidden; background: #fffefa; border: 1px solid #e0e6ea; border-radius: 8px 24px 24px 24px; box-shadow: var(--shadow); direction: ltr; animation: sf-card-in 230ms var(--ease-out); }
-.sf-card-visual { position: relative; min-height: 535px; background: #dce9f2; overflow: hidden; }
-.sf-card-visual::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, transparent 56%, rgba(15,45,76,.6)); pointer-events: none; }
-.sf-card-visual img { width: 100%; height: 100%; min-height: 535px; object-fit: cover; display: block; }
+.sf-card-visual { position: relative; min-height: 535px; background: #dce9f2; perspective: 1500px; }
+.sf-flip-stage, .sf-flip-inner { width: 100%; min-height: 535px; height: 100%; }
+.sf-flip-inner { position: relative; transform-style: preserve-3d; transition: transform 560ms var(--ease-in-out); }
+.sf-flip-stage.is-flipped .sf-flip-inner { transform: rotateY(180deg); }
+.sf-flip-face { position: absolute; inset: 0; overflow: hidden; backface-visibility: hidden; -webkit-backface-visibility: hidden; background: #dce9f2; }
+.sf-flip-face img { width: 100%; height: 100%; min-height: 535px; object-fit: cover; display: block; }
+.sf-flip-front::after, .sf-flip-back::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(15,45,76,.18), transparent 36%, rgba(15,45,76,.67)); pointer-events: none; }
+.sf-flip-back { display: grid; grid-template-rows: minmax(0, 1fr) auto; transform: rotateY(180deg); background: #fffefa; }
+.sf-flip-back img { min-height: 0; height: 100%; }
+.sf-word-on-photo { position: absolute; z-index: 2; top: 25px; left: 22px; right: 22px; margin: 0; color: #fff; text-align: center; text-shadow: 0 3px 18px rgba(15,45,76,.68); font: 800 clamp(39px, 5vw, 59px)/.9 "Baloo 2", sans-serif; letter-spacing: -.06em; }
+.sf-word-below-photo { position: relative; z-index: 2; display: flex; align-items: baseline; justify-content: space-between; gap: 12px; min-height: 100px; padding: 17px 21px; color: var(--ink-deep); background: #fffefa; border-top: 7px solid var(--gold); }
+.sf-word-below-photo strong { font: 800 clamp(30px, 4vw, 46px)/.9 "Baloo 2", sans-serif; letter-spacing: -.05em; }
+.sf-word-below-photo span { direction: rtl; color: var(--muted); font: 700 11px/1.8 "Noto Kufi Arabic", sans-serif; text-align: right; }
 .sf-image-caption { position: absolute; z-index: 1; bottom: 20px; right: 20px; left: 20px; display: flex; justify-content: space-between; align-items: center; color: #fff; font: 800 11px/1 "Nunito Sans", sans-serif; letter-spacing: .06em; }
 .sf-image-caption span:last-child { color: var(--gold); font-size: 20px; }
 .sf-card-content { position: relative; padding: clamp(25px, 4vw, 48px); direction: rtl; }
@@ -111,7 +122,6 @@ button { -webkit-tap-highlight-color: transparent; }
 .sf-sound-button { display: grid; place-items: center; width: 36px; height: 36px; border: 1px solid #d4e1eb; border-radius: 50%; background: #fff; color: var(--blue); transition: transform 160ms var(--ease-out), background-color 160ms var(--ease-out); }
 .sf-sound-button:hover { background: var(--blue-light); transform: translateY(-2px); }
 .sf-question-label { margin: 31px 0 3px; color: var(--coral); font: 800 11px/1 "Nunito Sans", sans-serif; letter-spacing: .05em; direction: ltr; }
-.sf-card-content h3 { margin: 0; color: var(--ink-deep); font: 800 clamp(42px, 6vw, 64px)/.93 "Baloo 2", sans-serif; letter-spacing: -.06em; }
 .sf-question-ar { margin: 9px 0 22px; color: var(--muted); font-size: 12px; }
 .sf-options { display: grid; gap: 10px; }
 .sf-option { min-height: 52px; display: grid; grid-template-columns: 30px 1fr 20px; gap: 10px; align-items: center; padding: 11px 13px; border: 1px solid #d9e1e8; border-radius: 9px; background: #fff; color: #254864; text-align: left; font: 700 13px/1.35 "Nunito Sans", sans-serif; transition: transform 160ms var(--ease-out), border-color 160ms var(--ease-out), box-shadow 160ms var(--ease-out), background-color 160ms var(--ease-out); }
@@ -155,7 +165,7 @@ button { -webkit-tap-highlight-color: transparent; }
   .sf-rail-mobile-head { grid-template-columns: 1fr auto; align-items: center; margin: -6px 0 18px; padding-bottom: 12px; border-bottom: 1px solid rgba(255,255,255,.16); color: var(--gold); font: 800 12px/1 "Nunito Sans", sans-serif; direction: ltr; }
   .sf-rail-mobile-head button { display: grid; color: #fff; }
   .sf-flashcard { grid-template-columns: minmax(205px, .72fr) minmax(0, 1.2fr); }
-  .sf-card-visual, .sf-card-visual img { min-height: 500px; }
+  .sf-card-visual, .sf-flip-stage, .sf-flip-inner, .sf-flip-face img { min-height: 500px; }
 }
 @media (max-width: 650px) {
   .sf-topbar { min-height: 66px; padding: 9px 15px; }
@@ -172,7 +182,13 @@ button { -webkit-tap-highlight-color: transparent; }
   .sf-progress-row { grid-template-columns: 150px 1fr; gap: 12px; margin: 21px 0 14px; }
   .sf-progress-title { font-size: 17px; }
   .sf-flashcard { grid-template-columns: 1fr; border-radius: 8px 18px 18px 18px; }
-  .sf-card-visual, .sf-card-visual img { min-height: 205px; height: 205px; }
+  .sf-card-visual, .sf-flip-stage, .sf-flip-inner { min-height: 205px; height: 205px; }
+  .sf-flip-face img { min-height: 205px; height: 205px; }
+  .sf-flip-back { grid-template-rows: minmax(0, 1fr) 52px; }
+  .sf-word-on-photo { top: 13px; font-size: 33px; }
+  .sf-word-below-photo { min-height: 52px; padding: 9px 13px; border-top-width: 4px; }
+  .sf-word-below-photo strong { font-size: 29px; }
+  .sf-word-below-photo span { font-size: 9px; }
   .sf-card-content { padding: 26px 19px 23px; }
   .sf-question-label { margin-top: 24px; }
   .sf-card-content h3 { font-size: 49px; }
