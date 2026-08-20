@@ -106,10 +106,17 @@ button { -webkit-tap-highlight-color: transparent; }
 .sf-flip-stage.is-flipped .sf-flip-inner { transform: rotateY(180deg); }
 .sf-flip-face { position: absolute; inset: 0; overflow: hidden; backface-visibility: hidden; -webkit-backface-visibility: hidden; background: #dce9f2; }
 .sf-flip-face img { width: 100%; height: 100%; min-height: 535px; object-fit: cover; display: block; }
-.sf-flip-front::after, .sf-flip-back::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(15,45,76,.18), transparent 36%, rgba(15,45,76,.67)); pointer-events: none; }
+.sf-flip-front { display: grid; place-items: center; padding: 34px; background: linear-gradient(135deg, #f8f0cf 0%, #fffefa 56%, #e6f0fb 100%); }
+.sf-flip-front::before { content: ""; position: absolute; width: 140%; height: 54%; top: -28%; right: -38%; border: 28px solid rgba(30,95,168,.08); border-radius: 50%; transform: rotate(-18deg); }
+.sf-flip-front::after { content: ""; position: absolute; inset: 0; background: radial-gradient(circle at 15% 84%, rgba(244,200,74,.33) 0 10px, transparent 11px) 0 0/38px 38px; pointer-events: none; }
+.sf-flip-back::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(15,45,76,.18), transparent 36%, rgba(15,45,76,.67)); pointer-events: none; }
+.sf-guess-content { position: relative; z-index: 2; max-width: 320px; text-align: center; }
+.sf-guess-kicker { margin: 0 0 13px; color: var(--coral); font: 800 11px/1 "Nunito Sans", sans-serif; letter-spacing: .12em; }
+.sf-guess-word { display: block; color: var(--ink-deep); font: 800 clamp(54px, 7vw, 84px)/.9 "Baloo 2", sans-serif; letter-spacing: -.07em; }
+.sf-guess-hint { margin: 18px 0 0; color: #4f6e89; font-size: 12px; line-height: 2; }
+.sf-guess-count { position: absolute; z-index: 2; left: 21px; bottom: 18px; color: var(--blue); font: 800 20px/1 "Baloo 2", sans-serif; }
 .sf-flip-back { display: grid; grid-template-rows: minmax(0, 1fr) auto; transform: rotateY(180deg); background: #fffefa; }
 .sf-flip-back img { min-height: 0; height: 100%; }
-.sf-word-on-photo { position: absolute; z-index: 2; top: 25px; left: 22px; right: 22px; margin: 0; color: #fff; text-align: center; text-shadow: 0 3px 18px rgba(15,45,76,.68); font: 800 clamp(39px, 5vw, 59px)/.9 "Baloo 2", sans-serif; letter-spacing: -.06em; }
 .sf-word-below-photo { position: relative; z-index: 2; display: flex; align-items: baseline; justify-content: space-between; gap: 12px; min-height: 100px; padding: 17px 21px; color: var(--ink-deep); background: #fffefa; border-top: 7px solid var(--gold); }
 .sf-word-below-photo strong { font: 800 clamp(30px, 4vw, 46px)/.9 "Baloo 2", sans-serif; letter-spacing: -.05em; }
 .sf-word-below-photo span { direction: rtl; color: var(--muted); font: 700 11px/1.8 "Noto Kufi Arabic", sans-serif; text-align: right; }
@@ -185,7 +192,11 @@ button { -webkit-tap-highlight-color: transparent; }
   .sf-card-visual, .sf-flip-stage, .sf-flip-inner { min-height: 205px; height: 205px; }
   .sf-flip-face img { min-height: 205px; height: 205px; }
   .sf-flip-back { grid-template-rows: minmax(0, 1fr) 52px; }
-  .sf-word-on-photo { top: 13px; font-size: 33px; }
+  .sf-flip-front { padding: 19px; }
+  .sf-guess-kicker { margin-bottom: 7px; font-size: 9px; }
+  .sf-guess-word { font-size: 52px; }
+  .sf-guess-hint { margin-top: 10px; font-size: 9px; line-height: 1.9; }
+  .sf-guess-count { left: 13px; bottom: 10px; font-size: 16px; }
   .sf-word-below-photo { min-height: 52px; padding: 9px 13px; border-top-width: 4px; }
   .sf-word-below-photo strong { font-size: 29px; }
   .sf-word-below-photo span { font-size: 9px; }

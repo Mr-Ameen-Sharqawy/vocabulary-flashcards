@@ -171,9 +171,12 @@ export default function Home() {
               <div className={`sf-flip-stage ${isCardFlipped ? "is-flipped" : ""}`}>
                 <div className="sf-flip-inner">
                   <section className="sf-flip-face sf-flip-front">
-                    <img src={currentCard.image} alt={`Illustration for ${currentCard.term}`} />
-                    <p className="sf-word-on-photo" dir="ltr">{currentCard.term}</p>
-                    <div className="sf-image-caption"><span>Picture clue</span><span>{String(currentIndex + 1).padStart(2, "0")}</span></div>
+                    <div className="sf-guess-content">
+                      <p className="sf-guess-kicker">BEFORE YOU LISTEN</p>
+                      <strong className="sf-guess-word" dir="ltr">{currentCard.term}</strong>
+                      <p className="sf-guess-hint">فكّر في المعنى أولًا، ثم اضغط زر الاستماع لكشف الصورة.</p>
+                    </div>
+                    <span className="sf-guess-count" dir="ltr">{String(currentIndex + 1).padStart(2, "0")}</span>
                   </section>
                   <section className="sf-flip-face sf-flip-back" aria-label={`${currentCard.term} flipped card`}>
                     <img src={currentCard.image} alt="" aria-hidden="true" />
