@@ -190,6 +190,42 @@ button { -webkit-tap-highlight-color: transparent; }
 .sf-word-below-photo:hover { color: var(--blue); background: #f5f9fd; }
 .sf-word-below-photo:focus-visible { outline: 3px solid var(--gold); outline-offset: -7px; }
 .sf-word-below-photo:active { transform: scale(.985); }
+.sf-student-chip { display: inline-flex; align-items: center; gap: 7px; min-height: 34px; padding: 7px 10px; border: 1px solid rgba(23,58,99,.14); border-radius: 9px; background: #ffffff; color: var(--ink-deep); font: 800 11px/1 "Nunito Sans", sans-serif; }
+.sf-student-chip small { color: var(--coral); font-weight: 900; }
+.sf-access-shell { min-height: 100vh; display: grid; place-items: center; padding: 28px 18px; background: radial-gradient(circle at 16% 12%, rgba(244,200,74,.22) 0 110px, transparent 112px), radial-gradient(circle at 86% 82%, rgba(112,198,181,.2) 0 150px, transparent 152px), var(--paper); }
+.sf-access-card { width: min(100%, 470px); padding: 42px; border: 1px solid rgba(23,58,99,.12); border-top: 6px solid var(--gold); border-radius: 12px 28px 28px 28px; background: rgba(255,255,255,.96); box-shadow: 0 28px 60px rgba(23,58,99,.17); text-align: center; }
+.sf-access-loading { display: flex; align-items: center; justify-content: center; gap: 10px; color: var(--ink-deep); font-weight: 800; }
+.sf-access-mark { display: grid; place-items: center; width: 62px; height: 62px; margin: 0 auto 15px; border-radius: 17px 8px 17px 8px; background: var(--gold); color: var(--ink-deep); }
+.sf-access-overline { margin: 0 0 8px; color: var(--coral); font: 900 11px/1 "Nunito Sans", sans-serif; letter-spacing: .13em; direction: ltr; }
+.sf-access-card h1, .sf-teacher-header h1 { margin: 0; color: var(--ink-deep); font: 800 clamp(28px, 5vw, 38px)/1.1 "Baloo 2", sans-serif; }
+.sf-access-copy { margin: 13px auto 25px; color: #52718c; font-size: 13px; line-height: 2; }
+.sf-access-form, .sf-teacher-panel { display: grid; gap: 14px; text-align: right; }
+.sf-access-form label, .sf-teacher-panel label { display: grid; gap: 6px; color: var(--ink-deep); font: 800 12px/1.3 "Noto Kufi Arabic", sans-serif; }
+.sf-access-form input, .sf-teacher-panel input, .sf-reset-panel input { width: 100%; min-height: 45px; padding: 10px 12px; border: 1px solid #cbd9e6; border-radius: 8px; background: #fff; color: var(--ink-deep); font: 700 14px/1 "Nunito Sans", sans-serif; outline: none; }
+.sf-access-form input:focus, .sf-teacher-panel input:focus, .sf-reset-panel input:focus { border-color: var(--blue); box-shadow: 0 0 0 3px rgba(30,95,168,.12); }
+.sf-access-submit { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 47px; border: 0; border-radius: 9px; background: var(--ink-deep); color: #fff; font: 900 13px/1 "Noto Kufi Arabic", sans-serif; transition: transform 160ms var(--ease-out), background 160ms var(--ease-out); }
+.sf-access-submit:hover:not(:disabled) { background: var(--blue); transform: translateY(-2px); }
+.sf-access-submit:disabled { opacity: .62; cursor: not-allowed; }
+.sf-teacher-link { display: inline-flex; align-items: center; justify-content: center; gap: 7px; margin-top: 17px; border: 0; background: transparent; color: var(--blue); font: 800 12px/1.5 "Noto Kufi Arabic", sans-serif; }
+.sf-access-error { margin: 0; padding: 9px 11px; border-radius: 8px; background: #fff0ed; color: #9d463b; font-size: 12px; line-height: 1.65; }
+.sf-teacher-shell { min-height: 100vh; padding: clamp(22px, 5vw, 60px); background: var(--paper); }
+.sf-teacher-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 18px; max-width: 1080px; margin: 0 auto 28px; }
+.sf-teacher-header p { margin: 9px 0 0; color: #52718c; font-size: 13px; }
+.sf-teacher-grid { display: grid; grid-template-columns: minmax(280px,.8fr) minmax(0,1.2fr); gap: 22px; max-width: 1080px; margin: 0 auto; }
+.sf-teacher-panel { padding: 25px; border: 1px solid rgba(23,58,99,.12); border-radius: 12px 22px 22px 22px; background: #fff; box-shadow: 0 14px 34px rgba(23,58,99,.08); }
+.sf-teacher-panel h2 { display: flex; align-items: center; gap: 9px; margin: 0 0 18px; color: var(--ink-deep); font: 800 24px/1 "Baloo 2", sans-serif; }
+.sf-student-list { align-content: start; }
+.sf-student-row { display: flex; align-items: center; justify-content: space-between; gap: 14px; padding: 13px 0; border-bottom: 1px dashed #d4e0ea; }
+.sf-student-row strong, .sf-student-row span { display: block; }
+.sf-student-row strong { color: var(--ink-deep); font: 800 16px/1.2 "Baloo 2", sans-serif; }
+.sf-student-row span, .sf-muted-copy { margin-top: 4px; color: #6d859c; font: 700 12px/1 "Nunito Sans", sans-serif; }
+.sf-student-row button { display: inline-flex; align-items: center; gap: 6px; border: 1px solid #cbd9e6; border-radius: 7px; padding: 8px 10px; background: #fff; color: var(--blue); font: 800 11px/1 "Noto Kufi Arabic", sans-serif; }
+.sf-reset-panel { position: fixed; inset: 0; z-index: 50; display: grid; place-content: center; gap: 15px; padding: 28px; background: rgba(15,45,76,.5); }
+.sf-reset-panel > * { width: min(100%, 360px); }
+.sf-reset-panel h2 { margin: 0; color: #fff; font: 800 28px/1 "Baloo 2", sans-serif; }
+.sf-reset-panel > div { display: flex; gap: 11px; align-items: center; justify-content: space-between; }
+.sf-reset-panel .sf-teacher-link { margin: 0; color: #fff; }
+@media (max-width: 720px) { .sf-access-card { padding: 30px 22px; } .sf-teacher-header, .sf-teacher-grid { grid-template-columns: 1fr; display: grid; } .sf-teacher-header .sf-teacher-link { margin: 0; justify-self: start; } .sf-student-chip span { max-width: 90px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; } }
 .sf-word-below-photo strong { font: 800 clamp(30px, 4vw, 46px)/.9 "Baloo 2", sans-serif; letter-spacing: -.05em; }
 .sf-word-below-photo span { direction: rtl; color: var(--muted); font: 700 11px/1.8 "Noto Kufi Arabic", sans-serif; text-align: right; }
 .sf-image-caption { position: absolute; z-index: 1; bottom: 20px; right: 20px; left: 20px; display: flex; justify-content: space-between; align-items: center; color: #fff; font: 800 11px/1 "Nunito Sans", sans-serif; letter-spacing: .06em; }

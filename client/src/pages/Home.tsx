@@ -29,7 +29,14 @@ type SavedProgress = {
   quizScores: Record<number, number>;
 };
 
-export default function Home() {
+type HomeProps = {
+  initialProgress?: SavedProgress;
+  onProgressChange?: (progress: SavedProgress) => void;
+  studentName?: string;
+  onStudentLogout?: () => void;
+};
+
+export default function Home({ initialProgress, onProgressChange, studentName, onStudentLogout }: HomeProps) {
   const [selectedLessonId, setSelectedLessonId] = useState(courseLessons[0].id);
   const selectedLesson = courseLessons.find((lesson) => lesson.id === selectedLessonId) ?? courseLessons[0];
   const [deck, setDeck] = useState<CourseCard[]>(selectedLesson.cards);
@@ -47,7 +54,7 @@ export default function Home() {
 
   useEffect(() => {
     try {
-      const saved = JSON.parse(window.localStorage.getItem(progressStorageKey) ?? "{}") as Partial<SavedProgress>;
+      const saved = initialProgress ?? JSON.parse(window.localStorage.getItem(progressStorageKey) ?? "{}") as Partial<SavedProgress>;
       if (saved.selectedLessonId && courseLessons.some((lesson) => lesson.id === saved.selectedLessonId)) setSelectedLessonId(saved.selectedLessonId);
       if (saved.lessonAnswers) setLessonAnswers(saved.lessonAnswers);
       if (saved.quizScores) setQuizScores(saved.quizScores);
@@ -56,13 +63,14 @@ export default function Home() {
     } finally {
       setStorageReady(true);
     }
-  }, []);
+  }, [initialProgress]);
 
   useEffect(() => {
     if (!storageReady) return;
     const payload: SavedProgress = { selectedLessonId, lessonAnswers, quizScores };
     window.localStorage.setItem(progressStorageKey, JSON.stringify(payload));
-  }, [lessonAnswers, quizScores, selectedLessonId, storageReady]);
+    onProgressChange?.(payload);
+  }, [lessonAnswers, quizScores, selectedLessonId, storageReady, onProgressChange]);
 
   useEffect(() => {
     setDeck(selectedLesson.cards);
@@ -226,8 +234,9 @@ export default function Home() {
             <p className="sf-brand-name">Vocabulary Flashcards <span>Workbook</span></p>
           </div>
         </div>
-        <div className="sf-top-actions">
-          <div className="sf-score-chip" aria-label={`Score ${totalCorrect} out of ${totalReviewed}`} dir="ltr">
+          <div className="sf-top-actions">
+            {studentName && <button className="sf-student-chip" onClick={onStudentLogout} title="تسجيل الخروج"><span>{studentName}</span><small>خروج</small></button>}
+            <div className="sf-score-chip" aria-label={`Score ${totalCorrect} out of ${totalReviewed}`} dir="ltr">
             <BadgeCheck size={17} /> <span>{totalCorrect}</span><small> / {totalReviewed} right</small>
           </div>
           <button className="sf-menu-button" onClick={() => setIsRailOpen(true)} aria-label="Open course navigation">

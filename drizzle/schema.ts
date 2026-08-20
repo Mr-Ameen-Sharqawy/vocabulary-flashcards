@@ -1,4 +1,4 @@
-import { int, mysqlEnum, mysqlTable, text, timestamp, varchar } from "drizzle-orm/mysql-core";
+import { boolean, int, json, mysqlEnum, mysqlTable, text, timestamp, varchar } from "drizzle-orm/mysql-core";
 
 /**
  * Core user table backing auth flow.
@@ -25,4 +25,25 @@ export const users = mysqlTable("users", {
 export type User = typeof users.$inferSelect;
 export type InsertUser = typeof users.$inferInsert;
 
-// TODO: Add your tables here
+/** Student records use teacher-issued usernames and never store plaintext passwords. */
+export const studentAccounts = mysqlTable("student_accounts", {
+  id: int("id").autoincrement().primaryKey(),
+  displayName: varchar("display_name", { length: 120 }).notNull(),
+  username: varchar("username", { length: 48 }).notNull().unique(),
+  passwordHash: varchar("password_hash", { length: 255 }).notNull(),
+  sessionVersion: int("session_version").default(1).notNull(),
+  enabled: boolean("enabled").default(true).notNull(),
+  createdAt: timestamp("created_at").defaultNow().notNull(),
+  updatedAt: timestamp("updated_at").defaultNow().onUpdateNow().notNull(),
+});
+
+export const studentProgress = mysqlTable("student_progress", {
+  studentId: int("student_id").primaryKey(),
+  selectedLessonId: varchar("selected_lesson_id", { length: 48 }),
+  lessonAnswers: json("lesson_answers").$type<Record<string, Record<string, string>>>().notNull(),
+  quizScores: json("quiz_scores").$type<Record<string, number>>().notNull(),
+  updatedAt: timestamp("updated_at").defaultNow().onUpdateNow().notNull(),
+});
+
+export type StudentAccount = typeof studentAccounts.$inferSelect;
+export type StudentProgress = typeof studentProgress.$inferSelect;

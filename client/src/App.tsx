@@ -2,15 +2,20 @@ import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import NotFound from "@/pages/NotFound";
 import { Route, Switch } from "wouter";
+import { useLocation } from "wouter";
 import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
+import StudentPortal from "./pages/StudentPortal";
+import TeacherPortal from "./pages/TeacherPortal";
 
 function Router() {
+  const [, setLocation] = useLocation();
   // make sure to consider if you need authentication for certain routes
   return (
     <Switch>
-      <Route path={"/"} component={Home} />
+      <Route path={"/teacher"}>{() => <TeacherPortal onBack={() => setLocation("/")} />}</Route>
+      <Route path={"/"}>{() => <StudentPortal onTeacherAccess={() => setLocation("/teacher")} />}</Route>
       <Route path={"/404"} component={NotFound} />
       {/* Final fallback route */}
       <Route component={NotFound} />

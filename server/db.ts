@@ -1,6 +1,6 @@
-import { eq } from "drizzle-orm";
+import { eq, sql } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
-import { InsertUser, users } from "../drizzle/schema";
+import { InsertUser, studentAccounts, studentProgress, users } from "../drizzle/schema";
 import { ENV } from './_core/env';
 
 let _db: ReturnType<typeof drizzle> | null = null;
@@ -89,4 +89,83 @@ export async function getUserByOpenId(openId: string) {
   return result.length > 0 ? result[0] : undefined;
 }
 
-// TODO: add feature queries here as your schema grows.
+export type StudentProgressPayload = {
+  selectedLessonId?: string;
+  lessonAnswers: Record<string, Record<string, string>>;
+  quizScores: Record<string, number>;
+};
+
+const emptyProgress = (): StudentProgressPayload => ({ lessonAnswers: {}, quizScores: {} });
+
+export async function getStudentByUsername(username: string) {
+  const db = await getDb();
+  if (!db) throw new Error("Database is unavailable");
+  const result = await db.select().from(studentAccounts).where(eq(studentAccounts.username, username)).limit(1);
+  return result[0] ?? null;
+}
+
+export async function getStudentById(id: number) {
+  const db = await getDb();
+  if (!db) throw new Error("Database is unavailable");
+  const result = await db.select().from(studentAccounts).where(eq(studentAccounts.id, id)).limit(1);
+  return result[0] ?? null;
+}
+
+export async function createStudentAccount(input: { displayName: string; username: string; passwordHash: string }) {
+  const db = await getDb();
+  if (!db) throw new Error("Database is unavailable");
+  await db.insert(studentAccounts).values(input);
+  const created = await getStudentByUsername(input.username);
+  if (!created) throw new Error("Student account was not created");
+  return created;
+}
+
+export async function listStudentAccounts() {
+  const db = await getDb();
+  if (!db) throw new Error("Database is unavailable");
+  return db.select({
+    id: studentAccounts.id,
+    displayName: studentAccounts.displayName,
+    username: studentAccounts.username,
+    enabled: studentAccounts.enabled,
+    createdAt: studentAccounts.createdAt,
+    progressUpdatedAt: studentProgress.updatedAt,
+  }).from(studentAccounts).leftJoin(studentProgress, eq(studentProgress.studentId, studentAccounts.id));
+}
+
+export async function updateStudentPassword(id: number, passwordHash: string) {
+  const db = await getDb();
+  if (!db) throw new Error("Database is unavailable");
+  await db.update(studentAccounts).set({ passwordHash, sessionVersion: sql`${studentAccounts.sessionVersion} + 1` }).where(eq(studentAccounts.id, id));
+}
+
+export async function getStudentProgress(studentId: number): Promise<StudentProgressPayload> {
+  const db = await getDb();
+  if (!db) throw new Error("Database is unavailable");
+  const result = await db.select().from(studentProgress).where(eq(studentProgress.studentId, studentId)).limit(1);
+  const progress = result[0];
+  if (!progress) return emptyProgress();
+  return {
+    selectedLessonId: progress.selectedLessonId ?? undefined,
+    lessonAnswers: progress.lessonAnswers ?? {},
+    quizScores: progress.quizScores ?? {},
+  };
+}
+
+export async function saveStudentProgress(studentId: number, progress: StudentProgressPayload) {
+  const db = await getDb();
+  if (!db) throw new Error("Database is unavailable");
+  await db.insert(studentProgress).values({
+    studentId,
+    selectedLessonId: progress.selectedLessonId ?? null,
+    lessonAnswers: progress.lessonAnswers,
+    quizScores: progress.quizScores,
+  }).onDuplicateKeyUpdate({
+    set: {
+      selectedLessonId: progress.selectedLessonId ?? null,
+      lessonAnswers: progress.lessonAnswers,
+      quizScores: progress.quizScores,
+      updatedAt: new Date(),
+    },
+  });
+}
