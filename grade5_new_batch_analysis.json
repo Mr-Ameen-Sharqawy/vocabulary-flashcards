@@ -1,0 +1,4796 @@
+{
+  "inventory": [
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cactus_blooming_with_pink_flower_202608212034.jpeg",
+      "relative_path": "New folder/Cactus_blooming_with_pink_flower_202608212034.jpeg",
+      "image_name": "Cactus_blooming_with_pink_flower_202608212034.jpeg",
+      "normalized_filename": "cactus blooming with pink flower",
+      "sha1": "10d79ba9c9dcde6b12d524bb1400ffa6decaac0e",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cars_driving_on_winding_roads_202608212032.jpeg",
+      "relative_path": "New folder/Cars_driving_on_winding_roads_202608212032.jpeg",
+      "image_name": "Cars_driving_on_winding_roads_202608212032.jpeg",
+      "normalized_filename": "cars driving on winding roads",
+      "sha1": "db06d1e52931cbeae2dc72429ec45ac510212a86",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_amusement_park_rides_202608212034.jpeg",
+      "relative_path": "New folder/Cartoon_amusement_park_rides_202608212034.jpeg",
+      "image_name": "Cartoon_amusement_park_rides_202608212034.jpeg",
+      "normalized_filename": "cartoon amusement park rides",
+      "sha1": "0e75d99bde2a5e3d3d1fa758ece6c13269d9c6b2",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_anchor_in_ocean_202608212032.jpeg",
+      "relative_path": "New folder/Cartoon_anchor_in_ocean_202608212032.jpeg",
+      "image_name": "Cartoon_anchor_in_ocean_202608212032.jpeg",
+      "normalized_filename": "cartoon anchor in ocean",
+      "sha1": "5eafd1bc043f313d8e12a25429a68af2aa97caab",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_architect_drawing_house_…_202608212032.jpeg",
+      "relative_path": "New folder/Cartoon_architect_drawing_house_…_202608212032.jpeg",
+      "image_name": "Cartoon_architect_drawing_house_…_202608212032.jpeg",
+      "normalized_filename": "cartoon architect drawing house",
+      "sha1": "4b2b599f30f60a500141060d99cc7c3f868c68e5",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_ball_hitting_wall_202608212034.jpeg",
+      "relative_path": "New folder/Cartoon_ball_hitting_wall_202608212034.jpeg",
+      "image_name": "Cartoon_ball_hitting_wall_202608212034.jpeg",
+      "normalized_filename": "cartoon ball hitting wall",
+      "sha1": "b56a1e70b1439bd51d238b214f28c828cc28e7f5",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_bat_hanging_from_branch_202608212032.jpeg",
+      "relative_path": "New folder/Cartoon_bat_hanging_from_branch_202608212032.jpeg",
+      "image_name": "Cartoon_bat_hanging_from_branch_202608212032.jpeg",
+      "normalized_filename": "cartoon bat hanging from branch",
+      "sha1": "4e88b909a0dbdd1e174bef4b56c0cd2609b4db51",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_battery_with_glowing_energy_202608212032.jpeg",
+      "relative_path": "New folder/Cartoon_battery_with_glowing_energy_202608212032.jpeg",
+      "image_name": "Cartoon_battery_with_glowing_energy_202608212032.jpeg",
+      "normalized_filename": "cartoon battery with glowing energy",
+      "sha1": "98b87d649bd1df24b51e3807823ed8449b4e6888",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_bird_flying_over_crops_202608212034.jpeg",
+      "relative_path": "New folder/Cartoon_bird_flying_over_crops_202608212034.jpeg",
+      "image_name": "Cartoon_bird_flying_over_crops_202608212034.jpeg",
+      "normalized_filename": "cartoon bird flying over crops",
+      "sha1": "fd303738329b5f985eb751c1c6925a73e4ccab49",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_bread_loaves_count_compa…_202608212034.jpeg",
+      "relative_path": "New folder/Cartoon_bread_loaves_count_compa…_202608212034.jpeg",
+      "image_name": "Cartoon_bread_loaves_count_compa…_202608212034.jpeg",
+      "normalized_filename": "cartoon bread loaves count compa",
+      "sha1": "4556d4bc27badc511250a1f2b070e2f5349865a8",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_cat_looking_at_square_202608212034.jpeg",
+      "relative_path": "New folder/Cartoon_cat_looking_at_square_202608212034.jpeg",
+      "image_name": "Cartoon_cat_looking_at_square_202608212034.jpeg",
+      "normalized_filename": "cartoon cat looking at square",
+      "sha1": "c96cf3a003948f67e64c8e3bc11b79ce52f2e1d4",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_cat_sleeping_on_pillow_202608212033.jpeg",
+      "relative_path": "New folder/Cartoon_cat_sleeping_on_pillow_202608212033.jpeg",
+      "image_name": "Cartoon_cat_sleeping_on_pillow_202608212033.jpeg",
+      "normalized_filename": "cartoon cat sleeping on pillow",
+      "sha1": "7b9114d68a448f9004e59802192a543a936898b3",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_character_pushing_boulder_202608212034.jpeg",
+      "relative_path": "New folder/Cartoon_character_pushing_boulder_202608212034.jpeg",
+      "image_name": "Cartoon_character_pushing_boulder_202608212034.jpeg",
+      "normalized_filename": "cartoon character pushing boulder",
+      "sha1": "21811e2fc50ae23811747769d1e8ed6627771ff3",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_character_relaxing_in_ha…_202608212034.jpeg",
+      "relative_path": "New folder/Cartoon_character_relaxing_in_ha…_202608212034.jpeg",
+      "image_name": "Cartoon_character_relaxing_in_ha…_202608212034.jpeg",
+      "normalized_filename": "cartoon character relaxing in ha",
+      "sha1": "d800156d79d56e6c3c0da49ea6c387a6b570aea2",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_character_tasting_awful_…_202608212034.jpeg",
+      "relative_path": "New folder/Cartoon_character_tasting_awful_…_202608212034.jpeg",
+      "image_name": "Cartoon_character_tasting_awful_…_202608212034.jpeg",
+      "normalized_filename": "cartoon character tasting awful",
+      "sha1": "bd851c22b3492b3defb1118d695fee18dd4d3a50",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_character_thinking_hard_202608212032.jpeg",
+      "relative_path": "New folder/Cartoon_character_thinking_hard_202608212032.jpeg",
+      "image_name": "Cartoon_character_thinking_hard_202608212032.jpeg",
+      "normalized_filename": "cartoon character thinking hard",
+      "sha1": "7328833512292b9d0ba030ea5c68b1d61f00483a",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_character_wiping_sweat_202608212033.jpeg",
+      "relative_path": "New folder/Cartoon_character_wiping_sweat_202608212033.jpeg",
+      "image_name": "Cartoon_character_wiping_sweat_202608212033.jpeg",
+      "normalized_filename": "cartoon character wiping sweat",
+      "sha1": "5e310400b22bc2924d120d0b24070606a2e48368",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Doctor_and_nurse_standing_outside_202608212033.jpeg",
+      "relative_path": "New folder/Doctor_and_nurse_standing_outside_202608212033.jpeg",
+      "image_name": "Doctor_and_nurse_standing_outside_202608212033.jpeg",
+      "normalized_filename": "doctor and nurse standing outside",
+      "sha1": "e7d8e782fcc9e8f6d9fcab6882ad78a6b1ebf06a",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Doctor_bandaging_child_arm_202608212034.jpeg",
+      "relative_path": "New folder/Doctor_bandaging_child_arm_202608212034.jpeg",
+      "image_name": "Doctor_bandaging_child_arm_202608212034.jpeg",
+      "normalized_filename": "doctor bandaging child arm",
+      "sha1": "c07103afde9070c963f4c63e3919e32081d786ce",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Doctor_checking_child_heartbeat_202608212033.jpeg",
+      "relative_path": "New folder/Doctor_checking_child_heartbeat_202608212033.jpeg",
+      "image_name": "Doctor_checking_child_heartbeat_202608212033.jpeg",
+      "normalized_filename": "doctor checking child heartbeat",
+      "sha1": "bff2e0dd6d02955f0d7055a4f5be4e5c3d232341",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Doctor_explaining_X-ray_results_202608212034.jpeg",
+      "relative_path": "New folder/Doctor_explaining_X-ray_results_202608212034.jpeg",
+      "image_name": "Doctor_explaining_X-ray_results_202608212034.jpeg",
+      "normalized_filename": "doctor explaining x ray results",
+      "sha1": "56151e2366a8366aa79e6dfb783508c077ed7fe9",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Doctor_working_day_and_night_202608212033.jpeg",
+      "relative_path": "New folder/Doctor_working_day_and_night_202608212033.jpeg",
+      "image_name": "Doctor_working_day_and_night_202608212033.jpeg",
+      "normalized_filename": "doctor working day and night",
+      "sha1": "29373937981a7b04d7e01221f9ca19ce0f3b3bc6",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Dolphin_leaping_from_ocean_water_202608212032.jpeg",
+      "relative_path": "New folder/Dolphin_leaping_from_ocean_water_202608212032.jpeg",
+      "image_name": "Dolphin_leaping_from_ocean_water_202608212032.jpeg",
+      "normalized_filename": "dolphin leaping from ocean water",
+      "sha1": "f51179239e20c60982f904f04953b0b607fc1aa9",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Droopy_plant_affected_by_heat_202608212033.jpeg",
+      "relative_path": "New folder/Droopy_plant_affected_by_heat_202608212033.jpeg",
+      "image_name": "Droopy_plant_affected_by_heat_202608212033.jpeg",
+      "normalized_filename": "droopy plant affected by heat",
+      "sha1": "dd53ac47b6c5be717da7948569ee0620892cd0c6",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Ducklings_following_their_mother_202608212033.jpeg",
+      "relative_path": "New folder/Ducklings_following_their_mother_202608212033.jpeg",
+      "image_name": "Ducklings_following_their_mother_202608212033.jpeg",
+      "normalized_filename": "ducklings following their mother",
+      "sha1": "ce34adc79938757ede742f4673b441742d9ad9e7",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Farmer_driving_red_tractor_202608212034.jpeg",
+      "relative_path": "New folder/Farmer_driving_red_tractor_202608212034.jpeg",
+      "image_name": "Farmer_driving_red_tractor_202608212034.jpeg",
+      "normalized_filename": "farmer driving red tractor",
+      "sha1": "f2ad1b2e0ff9acf0200639ec89ba8d5a4806f157",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Farmer_keeping_farm_animals_202608212032.jpeg",
+      "relative_path": "New folder/Farmer_keeping_farm_animals_202608212032.jpeg",
+      "image_name": "Farmer_keeping_farm_animals_202608212032.jpeg",
+      "normalized_filename": "farmer keeping farm animals",
+      "sha1": "1f369486856cb071506b7bcb111ca409afc446a7",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Farmer_planting_seeds_202608212034.jpeg",
+      "relative_path": "New folder/Farmer_planting_seeds_202608212034.jpeg",
+      "image_name": "Farmer_planting_seeds_202608212034.jpeg",
+      "normalized_filename": "farmer planting seeds",
+      "sha1": "3b868b821949121d6062595952363575832e519f",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Runner_starting_race_202608212033.jpeg",
+      "relative_path": "New folder/Runner_starting_race_202608212033.jpeg",
+      "image_name": "Runner_starting_race_202608212033.jpeg",
+      "normalized_filename": "runner starting race",
+      "sha1": "cefe0b00475fdb60608798d6ffee577f696ba907",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Sad_child_losing_marbles_game_202608212033.jpeg",
+      "relative_path": "New folder/Sad_child_losing_marbles_game_202608212033.jpeg",
+      "image_name": "Sad_child_losing_marbles_game_202608212033.jpeg",
+      "normalized_filename": "sad child losing marbles game",
+      "sha1": "cd58048e7828ee82f98d90ce557b5787462fa395",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Safety_fence_around_swimming_pool_202608212034.jpeg",
+      "relative_path": "New folder/Safety_fence_around_swimming_pool_202608212034.jpeg",
+      "image_name": "Safety_fence_around_swimming_pool_202608212034.jpeg",
+      "normalized_filename": "safety fence around swimming pool",
+      "sha1": "1b271f616d41f6fd43e22a422e0abcb237b404cd",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Sand_blowing_across_desert_202608212034.jpeg",
+      "relative_path": "New folder/Sand_blowing_across_desert_202608212034.jpeg",
+      "image_name": "Sand_blowing_across_desert_202608212034.jpeg",
+      "normalized_filename": "sand blowing across desert",
+      "sha1": "62bb3e9772b9ec17694165e1ee42da579be67d82",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Sandstorm_in_desert_202608212034.jpeg",
+      "relative_path": "New folder/Sandstorm_in_desert_202608212034.jpeg",
+      "image_name": "Sandstorm_in_desert_202608212034.jpeg",
+      "normalized_filename": "sandstorm in desert",
+      "sha1": "ef7e8da0b1436f05f3c1d2af3183c02ff5a05af3",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Silver_star_illustration_smiling_202608212033.jpeg",
+      "relative_path": "New folder/Silver_star_illustration_smiling_202608212033.jpeg",
+      "image_name": "Silver_star_illustration_smiling_202608212033.jpeg",
+      "normalized_filename": "silver star illustration smiling",
+      "sha1": "7bbeba1537cce7067724247f2f700294339ec914",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Sleepy_child_yawning_at_night_202608212032.jpeg",
+      "relative_path": "New folder/Sleepy_child_yawning_at_night_202608212032.jpeg",
+      "image_name": "Sleepy_child_yawning_at_night_202608212032.jpeg",
+      "normalized_filename": "sleepy child yawning at night",
+      "sha1": "14bd6fc8353784ba9abeda745103f14d06a0d241",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Small_boat_on_deep_ocean_202608212034.jpeg",
+      "relative_path": "New folder/Small_boat_on_deep_ocean_202608212034.jpeg",
+      "image_name": "Small_boat_on_deep_ocean_202608212034.jpeg",
+      "normalized_filename": "small boat on deep ocean",
+      "sha1": "5f97bf1a7b862b6c4b1b34857f9b530159b87983",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Spatula_turning_cartoon_pancake_202608212032.jpeg",
+      "relative_path": "New folder/Spatula_turning_cartoon_pancake_202608212032.jpeg",
+      "image_name": "Spatula_turning_cartoon_pancake_202608212032.jpeg",
+      "normalized_filename": "spatula turning cartoon pancake",
+      "sha1": "708acef637ec236e506a4f9b1a5d7479d7939029",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Sprout_growing_from_soil_202608212034.jpeg",
+      "relative_path": "New folder/Sprout_growing_from_soil_202608212034.jpeg",
+      "image_name": "Sprout_growing_from_soil_202608212034.jpeg",
+      "normalized_filename": "sprout growing from soil",
+      "sha1": "91d03dc379b4966689309834db40a2960cd35df9",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Squirrel_burying_a_nut_202608212033.jpeg",
+      "relative_path": "New folder/Squirrel_burying_a_nut_202608212033.jpeg",
+      "image_name": "Squirrel_burying_a_nut_202608212033.jpeg",
+      "normalized_filename": "squirrel burying a nut",
+      "sha1": "96605190a2f54e1cf91691de858e8311fc6e897c",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_character_with_thermometer_202608212033.jpeg",
+      "relative_path": "New folder (2)/Cartoon_character_with_thermometer_202608212033.jpeg",
+      "image_name": "Cartoon_character_with_thermometer_202608212033.jpeg",
+      "normalized_filename": "cartoon character with thermometer",
+      "sha1": "1c4b9524bacdbb2ac2bf8617739c9ec02677fd16",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_child_beckoning_playground_202608212032.jpeg",
+      "relative_path": "New folder (2)/Cartoon_child_beckoning_playground_202608212032.jpeg",
+      "image_name": "Cartoon_child_beckoning_playground_202608212032.jpeg",
+      "normalized_filename": "cartoon child beckoning playground",
+      "sha1": "c5e0d807fcacf3959caa9e28da55639759e0a5b4",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_child_pointing_to_themse…_202608212033.jpeg",
+      "relative_path": "New folder (2)/Cartoon_child_pointing_to_themse…_202608212033.jpeg",
+      "image_name": "Cartoon_child_pointing_to_themse…_202608212033.jpeg",
+      "normalized_filename": "cartoon child pointing to themse",
+      "sha1": "254f9c772cc6d38b70461ef27739018f21aa18ac",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_child_reading_calmly_202608212032.jpeg",
+      "relative_path": "New folder (2)/Cartoon_child_reading_calmly_202608212032.jpeg",
+      "image_name": "Cartoon_child_reading_calmly_202608212032.jpeg",
+      "normalized_filename": "cartoon child reading calmly",
+      "sha1": "7d25a4e7f6bd85cfac3916714bae3a48b686c6fe",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_cloud_shaped_like_bird_202608212032.jpeg",
+      "relative_path": "New folder (2)/Cartoon_cloud_shaped_like_bird_202608212032.jpeg",
+      "image_name": "Cartoon_cloud_shaped_like_bird_202608212032.jpeg",
+      "normalized_filename": "cartoon cloud shaped like bird",
+      "sha1": "7dc57f936137d6229f57f6c7f563857e5711ce42",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_coal_and_empty_hourglass_202608212032.jpeg",
+      "relative_path": "New folder (2)/Cartoon_coal_and_empty_hourglass_202608212032.jpeg",
+      "image_name": "Cartoon_coal_and_empty_hourglass_202608212032.jpeg",
+      "normalized_filename": "cartoon coal and empty hourglass",
+      "sha1": "2906e3daee7618edbe2abc808c858de7740f609f",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_coffee_shop_with_outdoor…_202608212032.jpeg",
+      "relative_path": "New folder (2)/Cartoon_coffee_shop_with_outdoor…_202608212032.jpeg",
+      "image_name": "Cartoon_coffee_shop_with_outdoor…_202608212032.jpeg",
+      "normalized_filename": "cartoon coffee shop with outdoor",
+      "sha1": "9cfb67b05f1dbe7ea34b1242d0a147608f5ef5d2",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_cube_with_red_side_202608212032.jpeg",
+      "relative_path": "New folder (2)/Cartoon_cube_with_red_side_202608212032.jpeg",
+      "image_name": "Cartoon_cube_with_red_side_202608212032.jpeg",
+      "normalized_filename": "cartoon cube with red side",
+      "sha1": "5559bd67c2c9fe63ca20321aa4c3f7e45542de12",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_dog_bringing_ball_202608212032.jpeg",
+      "relative_path": "New folder (2)/Cartoon_dog_bringing_ball_202608212032.jpeg",
+      "image_name": "Cartoon_dog_bringing_ball_202608212032.jpeg",
+      "normalized_filename": "cartoon dog bringing ball",
+      "sha1": "6ede8bd8696be25d7f3825981ab30b57b3eb7f6c",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_fish_swimming_in_water_202608212034.jpeg",
+      "relative_path": "New folder (2)/Cartoon_fish_swimming_in_water_202608212034.jpeg",
+      "image_name": "Cartoon_fish_swimming_in_water_202608212034.jpeg",
+      "normalized_filename": "cartoon fish swimming in water",
+      "sha1": "409e35b30b58a8e0bf19b9725bdc388cf878be5d",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_germs_under_magnifying_g…_202608212033.jpeg",
+      "relative_path": "New folder (2)/Cartoon_germs_under_magnifying_g…_202608212033.jpeg",
+      "image_name": "Cartoon_germs_under_magnifying_g…_202608212033.jpeg",
+      "normalized_filename": "cartoon germs under magnifying g",
+      "sha1": "4aa6a5968add07da71f128fae18dd40928fcf844",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_girl_choosing_fruit_202608212032.jpeg",
+      "relative_path": "New folder (2)/Cartoon_girl_choosing_fruit_202608212032.jpeg",
+      "image_name": "Cartoon_girl_choosing_fruit_202608212032.jpeg",
+      "normalized_filename": "cartoon girl choosing fruit",
+      "sha1": "6c7ac1e55560116f035a445aafb104e3a1ec4af9",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_gold_coin_flipping_202608212032.jpeg",
+      "relative_path": "New folder (2)/Cartoon_gold_coin_flipping_202608212032.jpeg",
+      "image_name": "Cartoon_gold_coin_flipping_202608212032.jpeg",
+      "normalized_filename": "cartoon gold coin flipping",
+      "sha1": "58e9cae5afea82eb105ba454e897956232d458fd",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_hands_clapping_together_202608212032.jpeg",
+      "relative_path": "New folder (2)/Cartoon_hands_clapping_together_202608212032.jpeg",
+      "image_name": "Cartoon_hands_clapping_together_202608212032.jpeg",
+      "normalized_filename": "cartoon hands clapping together",
+      "sha1": "56ddcec7cff4dbaefa8bb07f5147af1cf8d0b748",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_house_with_robot_and_202608212034.jpeg",
+      "relative_path": "New folder (2)/Cartoon_house_with_robot_and_202608212034.jpeg",
+      "image_name": "Cartoon_house_with_robot_and_202608212034.jpeg",
+      "normalized_filename": "cartoon house with robot and",
+      "sha1": "0e7c524e1bf0c3afbf6b1c5171954129c011b67d",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_kitchen_stove_burning_flame_202608212034.jpeg",
+      "relative_path": "New folder (2)/Cartoon_kitchen_stove_burning_flame_202608212034.jpeg",
+      "image_name": "Cartoon_kitchen_stove_burning_flame_202608212034.jpeg",
+      "normalized_filename": "cartoon kitchen stove burning flame",
+      "sha1": "3c73cf9bec05893d94f3f59948bf6f8b69d83252",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_kitten_sitting_on_table_202608212032.jpeg",
+      "relative_path": "New folder (2)/Cartoon_kitten_sitting_on_table_202608212032.jpeg",
+      "image_name": "Cartoon_kitten_sitting_on_table_202608212032.jpeg",
+      "normalized_filename": "cartoon kitten sitting on table",
+      "sha1": "0d3fdf6feb3329334ac62bd5dd85a8509cd959d7",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Flexible_straw_bending_curve_202608212033.jpeg",
+      "relative_path": "New folder (2)/Flexible_straw_bending_curve_202608212033.jpeg",
+      "image_name": "Flexible_straw_bending_curve_202608212033.jpeg",
+      "normalized_filename": "flexible straw bending curve",
+      "sha1": "1e21590528838919dc1775340468472e22aabfc6",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Flood_covering_street_and_houses_202608212034.jpeg",
+      "relative_path": "New folder (2)/Flood_covering_street_and_houses_202608212034.jpeg",
+      "image_name": "Flood_covering_street_and_houses_202608212034.jpeg",
+      "normalized_filename": "flood covering street and houses",
+      "sha1": "ebf78cb04753194fd53ad423d9c1ca599d40f6d0",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Flower_blooming_in_dry_desert_202608212034.jpeg",
+      "relative_path": "New folder (2)/Flower_blooming_in_dry_desert_202608212034.jpeg",
+      "image_name": "Flower_blooming_in_dry_desert_202608212034.jpeg",
+      "normalized_filename": "flower blooming in dry desert",
+      "sha1": "7243b8c548e4b7ab1c163e1686c5bb21821110fe",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Four_seasons_changing_around_tree_202608212033.jpeg",
+      "relative_path": "New folder (2)/Four_seasons_changing_around_tree_202608212033.jpeg",
+      "image_name": "Four_seasons_changing_around_tree_202608212033.jpeg",
+      "normalized_filename": "four seasons changing around tree",
+      "sha1": "024b6a52a38682051d758db9750268351f2b749a",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Friends_sitting_and_talking_202608212033.jpeg",
+      "relative_path": "New folder (2)/Friends_sitting_and_talking_202608212033.jpeg",
+      "image_name": "Friends_sitting_and_talking_202608212033.jpeg",
+      "normalized_filename": "friends sitting and talking",
+      "sha1": "79a5737bad1756e0416be72e63e5593f7cc63b0e",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Frog_leaping_between_lily_pads_202608212034.jpeg",
+      "relative_path": "New folder (2)/Frog_leaping_between_lily_pads_202608212034.jpeg",
+      "image_name": "Frog_leaping_between_lily_pads_202608212034.jpeg",
+      "normalized_filename": "frog leaping between lily pads",
+      "sha1": "a91ec728a0a7f36eb5ac7544907375f0d745f8fb",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Girl_examining_map_with_magnifier_202608212033.jpeg",
+      "relative_path": "New folder (2)/Girl_examining_map_with_magnifier_202608212033.jpeg",
+      "image_name": "Girl_examining_map_with_magnifier_202608212033.jpeg",
+      "normalized_filename": "girl examining map with magnifier",
+      "sha1": "62b0632e4079e815f7c575c75a5dc9582d9b20c5",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Glass_being_filled_with_water_202608212033.jpeg",
+      "relative_path": "New folder (2)/Glass_being_filled_with_water_202608212033.jpeg",
+      "image_name": "Glass_being_filled_with_water_202608212033.jpeg",
+      "normalized_filename": "glass being filled with water",
+      "sha1": "14b6565f323c58628c5f38ca5d48b8810c778a8d",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Glass_jar_containing_colorful_ma…_202608212032.jpeg",
+      "relative_path": "New folder (2)/Glass_jar_containing_colorful_ma…_202608212032.jpeg",
+      "image_name": "Glass_jar_containing_colorful_ma…_202608212032.jpeg",
+      "normalized_filename": "glass jar containing colorful ma",
+      "sha1": "e6c6c567e7c0a2579b31b1e09ca1480e4c953475",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Glowing_cartoon_diamond_on_cushion_202608212032.jpeg",
+      "relative_path": "New folder (2)/Glowing_cartoon_diamond_on_cushion_202608212032.jpeg",
+      "image_name": "Glowing_cartoon_diamond_on_cushion_202608212032.jpeg",
+      "normalized_filename": "glowing cartoon diamond on cushion",
+      "sha1": "ea412fd4f45d790968067257746379afef1b41c4",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Gold_rings_and_necklaces_in_202608212034.jpeg",
+      "relative_path": "New folder (2)/Gold_rings_and_necklaces_in_202608212034.jpeg",
+      "image_name": "Gold_rings_and_necklaces_in_202608212034.jpeg",
+      "normalized_filename": "gold rings and necklaces in",
+      "sha1": "e9677247c49d08a88d904ec83638d1d065674a6f",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_miners_holding_picks_in_202608212032.jpeg",
+      "relative_path": "New folder (3)/Cartoon_miners_holding_picks_in_202608212032.jpeg",
+      "image_name": "Cartoon_miners_holding_picks_in_202608212032.jpeg",
+      "normalized_filename": "cartoon miners holding picks in",
+      "sha1": "bc115acbc863ca3a71f665f4b5a99932d10bd669",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_monster_making_silly_face_202608212033.jpeg",
+      "relative_path": "New folder (3)/Cartoon_monster_making_silly_face_202608212033.jpeg",
+      "image_name": "Cartoon_monster_making_silly_face_202608212033.jpeg",
+      "normalized_filename": "cartoon monster making silly face",
+      "sha1": "671a54acdd38ce8564c90d4107a8d4de974e9aad",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_moon_shining_over_house_202608212032.jpeg",
+      "relative_path": "New folder (3)/Cartoon_moon_shining_over_house_202608212032.jpeg",
+      "image_name": "Cartoon_moon_shining_over_house_202608212032.jpeg",
+      "normalized_filename": "cartoon moon shining over house",
+      "sha1": "7f580bf7eb9a4c4e16a82c1c14ace7a9b5284998",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_park_with_green_trees_202608212032.jpeg",
+      "relative_path": "New folder (3)/Cartoon_park_with_green_trees_202608212032.jpeg",
+      "image_name": "Cartoon_park_with_green_trees_202608212032.jpeg",
+      "normalized_filename": "cartoon park with green trees",
+      "sha1": "3c83a1a01b91a555b67767d59bf8b11b23e8d147",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_puppy_wearing_red_collar_202608212032.jpeg",
+      "relative_path": "New folder (3)/Cartoon_puppy_wearing_red_collar_202608212032.jpeg",
+      "image_name": "Cartoon_puppy_wearing_red_collar_202608212032.jpeg",
+      "normalized_filename": "cartoon puppy wearing red collar",
+      "sha1": "e318a8cf5a05c1dd00b940b764aefe2fb21b9f46",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_sun_shining_over_hill_202608212032.jpeg",
+      "relative_path": "New folder (3)/Cartoon_sun_shining_over_hill_202608212032.jpeg",
+      "image_name": "Cartoon_sun_shining_over_hill_202608212032.jpeg",
+      "normalized_filename": "cartoon sun shining over hill",
+      "sha1": "17fa4b3ce7df673dac459370b75c4fc9e5295e28",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_supermarket_with_fruits_…_202608212032.jpeg",
+      "relative_path": "New folder (3)/Cartoon_supermarket_with_fruits_…_202608212032.jpeg",
+      "image_name": "Cartoon_supermarket_with_fruits_…_202608212032.jpeg",
+      "normalized_filename": "cartoon supermarket with fruits",
+      "sha1": "9186d9bd0ec6b3014edcc80f4e36f96e40e6d2e2",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_toy_car_with_solar_202608212032.jpeg",
+      "relative_path": "New folder (3)/Cartoon_toy_car_with_solar_202608212032.jpeg",
+      "image_name": "Cartoon_toy_car_with_solar_202608212032.jpeg",
+      "normalized_filename": "cartoon toy car with solar",
+      "sha1": "3d66f58ac0ba9a17e1de3e85ca0774b05c445bf9",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_treasure_chest_on_ocean_202608212032.jpeg",
+      "relative_path": "New folder (3)/Cartoon_treasure_chest_on_ocean_202608212032.jpeg",
+      "image_name": "Cartoon_treasure_chest_on_ocean_202608212032.jpeg",
+      "normalized_filename": "cartoon treasure chest on ocean",
+      "sha1": "3bac411ea6ef1c10776bb0509e4fe91c0dd74528",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_waiter_carrying_juice_tray_202608212034.jpeg",
+      "relative_path": "New folder (3)/Cartoon_waiter_carrying_juice_tray_202608212034.jpeg",
+      "image_name": "Cartoon_waiter_carrying_juice_tray_202608212034.jpeg",
+      "normalized_filename": "cartoon waiter carrying juice tray",
+      "sha1": "32ad94bc77d9893644ee742f1593f9b39e8ee705",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_water_watering_plants_202608212034.jpeg",
+      "relative_path": "New folder (3)/Cartoon_water_watering_plants_202608212034.jpeg",
+      "image_name": "Cartoon_water_watering_plants_202608212034.jpeg",
+      "normalized_filename": "cartoon water watering plants",
+      "sha1": "47780b5ef9188fbfd81e318323bbfd356913547c",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_weather_icons_showing_co…_202608212034.jpeg",
+      "relative_path": "New folder (3)/Cartoon_weather_icons_showing_co…_202608212034.jpeg",
+      "image_name": "Cartoon_weather_icons_showing_co…_202608212034.jpeg",
+      "normalized_filename": "cartoon weather icons showing co",
+      "sha1": "18428c7c9aee5df0b06dcde6a7c6e829571097b3",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_wind_blowing_sand_202608212034.jpeg",
+      "relative_path": "New folder (3)/Cartoon_wind_blowing_sand_202608212034.jpeg",
+      "image_name": "Cartoon_wind_blowing_sand_202608212034.jpeg",
+      "normalized_filename": "cartoon wind blowing sand",
+      "sha1": "966c3bb7a2b2ac07c0fc0a5cc28296cb8800df3b",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Caterpillar_transforming_into_bu…_202608212033.jpeg",
+      "relative_path": "New folder (3)/Caterpillar_transforming_into_bu…_202608212033.jpeg",
+      "image_name": "Caterpillar_transforming_into_bu…_202608212033.jpeg",
+      "normalized_filename": "caterpillar transforming into bu",
+      "sha1": "badaa9ac3dc3027cb156404e118a0795d9e668b1",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Characters_building_wall_near_river_202608212034.jpeg",
+      "relative_path": "New folder (3)/Characters_building_wall_near_river_202608212034.jpeg",
+      "image_name": "Characters_building_wall_near_river_202608212034.jpeg",
+      "normalized_filename": "characters building wall near river",
+      "sha1": "178bcb8ffe1377638dc4f12d1082a573caeb27a2",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Chef_spreading_jam_on_bread_202608212034.jpeg",
+      "relative_path": "New folder (3)/Chef_spreading_jam_on_bread_202608212034.jpeg",
+      "image_name": "Chef_spreading_jam_on_bread_202608212034.jpeg",
+      "normalized_filename": "chef spreading jam on bread",
+      "sha1": "d8cf47c8c25232cba1b5204dd41142a59ce6fea9",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Child_bowing_to_elder_202608212033.jpeg",
+      "relative_path": "New folder (3)/Child_bowing_to_elder_202608212033.jpeg",
+      "image_name": "Child_bowing_to_elder_202608212033.jpeg",
+      "normalized_filename": "child bowing to elder",
+      "sha1": "0ae2cca751e654596e01a0646454d88153b26a5a",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Green_plant_growing_in_soil_202608212034.jpeg",
+      "relative_path": "New folder (3)/Green_plant_growing_in_soil_202608212034.jpeg",
+      "image_name": "Green_plant_growing_in_soil_202608212034.jpeg",
+      "normalized_filename": "green plant growing in soil",
+      "sha1": "447ed63dcccca1c371623e8152a897491b12b5d0",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Green_plant_growing_towards_sun_202608212033.jpeg",
+      "relative_path": "New folder (3)/Green_plant_growing_towards_sun_202608212033.jpeg",
+      "image_name": "Green_plant_growing_towards_sun_202608212033.jpeg",
+      "normalized_filename": "green plant growing towards sun",
+      "sha1": "da6df776a78c290392d4f72670580fc571b683d1",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Green_plants_growing_in_soil_202608212034.jpeg",
+      "relative_path": "New folder (3)/Green_plants_growing_in_soil_202608212034.jpeg",
+      "image_name": "Green_plants_growing_in_soil_202608212034.jpeg",
+      "normalized_filename": "green plants growing in soil",
+      "sha1": "612d5a476ae537dee97639104974be5296e92595",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Grilled_corn_and_vegetables_202608212033.jpeg",
+      "relative_path": "New folder (3)/Grilled_corn_and_vegetables_202608212033.jpeg",
+      "image_name": "Grilled_corn_and_vegetables_202608212033.jpeg",
+      "normalized_filename": "grilled corn and vegetables",
+      "sha1": "c183b3d2cfef79b00b8b957fe15dbb37a5c1dbaa",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Hammer_striking_golden_bell_202608212034.jpeg",
+      "relative_path": "New folder (3)/Hammer_striking_golden_bell_202608212034.jpeg",
+      "image_name": "Hammer_striking_golden_bell_202608212034.jpeg",
+      "normalized_filename": "hammer striking golden bell",
+      "sha1": "22362caabce32f7dc4c620ec35aad983e3f13408",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Hammer_striking_metal_bell_202608212034.jpeg",
+      "relative_path": "New folder (3)/Hammer_striking_metal_bell_202608212034.jpeg",
+      "image_name": "Hammer_striking_metal_bell_202608212034.jpeg",
+      "normalized_filename": "hammer striking metal bell",
+      "sha1": "b48aade8a32ab699ce735dbce388adee6e583096",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Hand_adding_salt_to_salad_202608212033.jpeg",
+      "relative_path": "New folder (3)/Hand_adding_salt_to_salad_202608212033.jpeg",
+      "image_name": "Hand_adding_salt_to_salad_202608212033.jpeg",
+      "normalized_filename": "hand adding salt to salad",
+      "sha1": "8d93aaf4ab547e8667384037512d267178401c4b",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Hand_cutting_yellow_bell_pepper_202608212033.jpeg",
+      "relative_path": "New folder (3)/Hand_cutting_yellow_bell_pepper_202608212033.jpeg",
+      "image_name": "Hand_cutting_yellow_bell_pepper_202608212033.jpeg",
+      "normalized_filename": "hand cutting yellow bell pepper",
+      "sha1": "d4143b3b92e21542c127933f28940fcaaa446985",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Hand_pushing_domino_piece_202608212033.jpeg",
+      "relative_path": "New folder (3)/Hand_pushing_domino_piece_202608212033.jpeg",
+      "image_name": "Hand_pushing_domino_piece_202608212033.jpeg",
+      "normalized_filename": "hand pushing domino piece",
+      "sha1": "6377a53e2c0f3f20276c9fb89b3ab6780ace4bee",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Hand_replacing_broken_toy_202608212033.jpeg",
+      "relative_path": "New folder (3)/Hand_replacing_broken_toy_202608212033.jpeg",
+      "image_name": "Hand_replacing_broken_toy_202608212033.jpeg",
+      "normalized_filename": "hand replacing broken toy",
+      "sha1": "514a2601472779f2f1be4d17515404dbe8c29024",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Hand_showing_fist_shape_202608212033.jpeg",
+      "relative_path": "New folder (3)/Hand_showing_fist_shape_202608212033.jpeg",
+      "image_name": "Hand_showing_fist_shape_202608212033.jpeg",
+      "normalized_filename": "hand showing fist shape",
+      "sha1": "94f8d368b157c4a4cc92a3094867e58287c08600",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Steel_beams_building_tall_structure_202608212032.jpeg",
+      "relative_path": "New folder (3)/Steel_beams_building_tall_structure_202608212032.jpeg",
+      "image_name": "Steel_beams_building_tall_structure_202608212032.jpeg",
+      "normalized_filename": "steel beams building tall structure",
+      "sha1": "680360e40e9a40faa8bf2238e4d6c33f20a1a416",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Stethoscope_illustration_202608212033.jpeg",
+      "relative_path": "New folder (3)/Stethoscope_illustration_202608212033.jpeg",
+      "image_name": "Stethoscope_illustration_202608212033.jpeg",
+      "normalized_filename": "stethoscope illustration",
+      "sha1": "4e8fca29d4719e98244f95d77ee5f236c8f93346",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Stone_basin_filled_with_water_202608212034.jpeg",
+      "relative_path": "New folder (3)/Stone_basin_filled_with_water_202608212034.jpeg",
+      "image_name": "Stone_basin_filled_with_water_202608212034.jpeg",
+      "normalized_filename": "stone basin filled with water",
+      "sha1": "af435cc9f66311b1f139611f51709dfca7bf0beb",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Stone_basin_with_water_202608212034.jpeg",
+      "relative_path": "New folder (3)/Stone_basin_with_water_202608212034.jpeg",
+      "image_name": "Stone_basin_with_water_202608212034.jpeg",
+      "normalized_filename": "stone basin with water",
+      "sha1": "77fa136d424e5d6cee31d8a476830a410fec0916",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Stressed_cartoon_character_among…_202608212033.jpeg",
+      "relative_path": "New folder (3)/Stressed_cartoon_character_among…_202608212033.jpeg",
+      "image_name": "Stressed_cartoon_character_among…_202608212033.jpeg",
+      "normalized_filename": "stressed cartoon character among",
+      "sha1": "7908a806074212713675cfe15b596cda7e9919ba",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Sun_moving_across_sky_202608212033.jpeg",
+      "relative_path": "New folder (3)/Sun_moving_across_sky_202608212033.jpeg",
+      "image_name": "Sun_moving_across_sky_202608212033.jpeg",
+      "normalized_filename": "sun moving across sky",
+      "sha1": "e7a572273f3868628dcf42a5e9d4dfd470bf2af5",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Sun_shining_over_meadow_202608212032.jpeg",
+      "relative_path": "New folder (3)/Sun_shining_over_meadow_202608212032.jpeg",
+      "image_name": "Sun_shining_over_meadow_202608212032.jpeg",
+      "normalized_filename": "sun shining over meadow",
+      "sha1": "c5f3999a17fac9fd706fb62ced06f7e49392e3e8",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Supermarket_shelf_with_products_202608212034.jpeg",
+      "relative_path": "New folder (3)/Supermarket_shelf_with_products_202608212034.jpeg",
+      "image_name": "Supermarket_shelf_with_products_202608212034.jpeg",
+      "normalized_filename": "supermarket shelf with products",
+      "sha1": "5276316306d61935164a952cd437e3623d56d5f2",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Teacher_giving_advice_to_student_202608212034.jpeg",
+      "relative_path": "New folder (3)/Teacher_giving_advice_to_student_202608212034.jpeg",
+      "image_name": "Teacher_giving_advice_to_student_202608212034.jpeg",
+      "normalized_filename": "teacher giving advice to student",
+      "sha1": "fd625224f822bc1609628df4d67d7a86146fb1bd",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Teacher_grading_student_homework…_202608212032.jpeg",
+      "relative_path": "New folder (3)/Teacher_grading_student_homework…_202608212032.jpeg",
+      "image_name": "Teacher_grading_student_homework…_202608212032.jpeg",
+      "normalized_filename": "teacher grading student homework",
+      "sha1": "d8b4df3da4de82b1f1759d752c4f6ebf2633b742",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Thick_book_and_thin_pencil_202608212034.jpeg",
+      "relative_path": "New folder (3)/Thick_book_and_thin_pencil_202608212034.jpeg",
+      "image_name": "Thick_book_and_thin_pencil_202608212034.jpeg",
+      "normalized_filename": "thick book and thin pencil",
+      "sha1": "0603c04857f09de0014bcaa61f469ed3d778c3ad",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Thick_cartoon_book_and_pencil_202608212034.jpeg",
+      "relative_path": "New folder (3)/Thick_cartoon_book_and_pencil_202608212034.jpeg",
+      "image_name": "Thick_cartoon_book_and_pencil_202608212034.jpeg",
+      "normalized_filename": "thick cartoon book and pencil",
+      "sha1": "e85459f53999039300310e5b9b39be4357f49f01",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Thunderstorm_over_forest_202608212034.jpeg",
+      "relative_path": "New folder (3)/Thunderstorm_over_forest_202608212034.jpeg",
+      "image_name": "Thunderstorm_over_forest_202608212034.jpeg",
+      "normalized_filename": "thunderstorm over forest",
+      "sha1": "6ed14442c7b54843b13e5d75e6314b499ce33c27",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Tomato_slices_arranged_on_plate_202608212033.jpeg",
+      "relative_path": "New folder (3)/Tomato_slices_arranged_on_plate_202608212033.jpeg",
+      "image_name": "Tomato_slices_arranged_on_plate_202608212033.jpeg",
+      "normalized_filename": "tomato slices arranged on plate",
+      "sha1": "ff2d29caa506650cbc3396f3a2803e6c10eed5e4",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Toothpaste_and_toothbrush_illust…_202608212033.jpeg",
+      "relative_path": "New folder (3)/Toothpaste_and_toothbrush_illust…_202608212033.jpeg",
+      "image_name": "Toothpaste_and_toothbrush_illust…_202608212033.jpeg",
+      "normalized_filename": "toothpaste and toothbrush illust",
+      "sha1": "8ccb3c0e9f6d3f1cedf107ca7dfe600da16c5ea8",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Toy_car_track_with_cars_202608212032.jpeg",
+      "relative_path": "New folder (3)/Toy_car_track_with_cars_202608212032.jpeg",
+      "image_name": "Toy_car_track_with_cars_202608212032.jpeg",
+      "normalized_filename": "toy car track with cars",
+      "sha1": "efc0ba5a4e6b929434b823d7dead989951eea3f4",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Tray_with_water_and_medicine_202608212033.jpeg",
+      "relative_path": "New folder (3)/Tray_with_water_and_medicine_202608212033.jpeg",
+      "image_name": "Tray_with_water_and_medicine_202608212033.jpeg",
+      "normalized_filename": "tray with water and medicine",
+      "sha1": "dab97c5a3fe81e04faf240e88c3ae0721f1e9a3c",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Treasure_chest_with_gold_coins_202608212032.jpeg",
+      "relative_path": "New folder (3)/Treasure_chest_with_gold_coins_202608212032.jpeg",
+      "image_name": "Treasure_chest_with_gold_coins_202608212032.jpeg",
+      "normalized_filename": "treasure chest with gold coins",
+      "sha1": "abee16599b24f4029b7be48b901340a86642b4d9",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Tree_shading_park_bench_202608212034.jpeg",
+      "relative_path": "New folder (3)/Tree_shading_park_bench_202608212034.jpeg",
+      "image_name": "Tree_shading_park_bench_202608212034.jpeg",
+      "normalized_filename": "tree shading park bench",
+      "sha1": "711344e5f715859a314d3dc75d04c20ad7131b8e",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Trees_burning_in_forest_wildfire_202608212034.jpeg",
+      "relative_path": "New folder (3)/Trees_burning_in_forest_wildfire_202608212034.jpeg",
+      "image_name": "Trees_burning_in_forest_wildfire_202608212034.jpeg",
+      "normalized_filename": "trees burning in forest wildfire",
+      "sha1": "bed2dcf5ae14cd24f986c07207609a91867c7ce7",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Two_cartoon_children_waving_202608212032.jpeg",
+      "relative_path": "New folder (3)/Two_cartoon_children_waving_202608212032.jpeg",
+      "image_name": "Two_cartoon_children_waving_202608212032.jpeg",
+      "normalized_filename": "two cartoon children waving",
+      "sha1": "080b9e2e198b7fbd7b499cb3ff4dc42cef69c366",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Umbrella_protecting_children_fro…_202608212033.jpeg",
+      "relative_path": "New folder (3)/Umbrella_protecting_children_fro…_202608212033.jpeg",
+      "image_name": "Umbrella_protecting_children_fro…_202608212033.jpeg",
+      "normalized_filename": "umbrella protecting children fro",
+      "sha1": "7d699cb1773776e5bce9027b75502118c0e96d1c",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_bringing_apples_inside_202608212034.jpeg",
+      "relative_path": "New folder (4)/Child_bringing_apples_inside_202608212034.jpeg",
+      "image_name": "Child_bringing_apples_inside_202608212034.jpeg",
+      "normalized_filename": "child bringing apples inside",
+      "sha1": "ffd371b8a1b0855afd7efe4d763adc7f9c7bb1ad",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_carrying_box_up_stairs_202608212034.jpeg",
+      "relative_path": "New folder (4)/Child_carrying_box_up_stairs_202608212034.jpeg",
+      "image_name": "Child_carrying_box_up_stairs_202608212034.jpeg",
+      "normalized_filename": "child carrying box up stairs",
+      "sha1": "10b1155874ee9c5c13908183fdff11258e509c04",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_carrying_fruit_basket_202608212032.jpeg",
+      "relative_path": "New folder (4)/Child_carrying_fruit_basket_202608212032.jpeg",
+      "image_name": "Child_carrying_fruit_basket_202608212032.jpeg",
+      "normalized_filename": "child carrying fruit basket",
+      "sha1": "7c5c34bae5deb8517d6bb3cd9fe2750c170b7ae3",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_choosing_between_paths_202608212032.jpeg",
+      "relative_path": "New folder (4)/Child_choosing_between_paths_202608212032.jpeg",
+      "image_name": "Child_choosing_between_paths_202608212032.jpeg",
+      "normalized_filename": "child choosing between paths",
+      "sha1": "1eb29d663f21f9adc3fc43761ee81696d0a5f9dd",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_choosing_fruit_over_candy_202608212033.jpeg",
+      "relative_path": "New folder (4)/Child_choosing_fruit_over_candy_202608212033.jpeg",
+      "image_name": "Child_choosing_fruit_over_candy_202608212033.jpeg",
+      "normalized_filename": "child choosing fruit over candy",
+      "sha1": "7a1a1f65e7893942f2e460db3ef1ef805e266de8",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_controlling_cartoon_robot_202608212032.jpeg",
+      "relative_path": "New folder (4)/Child_controlling_cartoon_robot_202608212032.jpeg",
+      "image_name": "Child_controlling_cartoon_robot_202608212032.jpeg",
+      "normalized_filename": "child controlling cartoon robot",
+      "sha1": "8b0145717bdd0f2d3d6ed1b7ee96f966f995aaa9",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_eating_apple_202608212033.jpeg",
+      "relative_path": "New folder (4)/Child_eating_apple_202608212033.jpeg",
+      "image_name": "Child_eating_apple_202608212033.jpeg",
+      "normalized_filename": "child eating apple",
+      "sha1": "e98d62c2c9de53d4e99156aeb9773dc56761f881",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_eating_strawberry_202608212033.jpeg",
+      "relative_path": "New folder (4)/Child_eating_strawberry_202608212033.jpeg",
+      "image_name": "Child_eating_strawberry_202608212033.jpeg",
+      "normalized_filename": "child eating strawberry",
+      "sha1": "d58031869e7bbea96aa8cc67e7984319c9b390ad",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_flexing_muscle_202608212033.jpeg",
+      "relative_path": "New folder (4)/Child_flexing_muscle_202608212033.jpeg",
+      "image_name": "Child_flexing_muscle_202608212033.jpeg",
+      "normalized_filename": "child flexing muscle",
+      "sha1": "5c13203c51d93b73468764c79e297ffb510a4a30",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_giving_thumbs_up_202608212033.jpeg",
+      "relative_path": "New folder (4)/Child_giving_thumbs_up_202608212033.jpeg",
+      "image_name": "Child_giving_thumbs_up_202608212033.jpeg",
+      "normalized_filename": "child giving thumbs up",
+      "sha1": "8eb208df1b90057c12b6693cb48bba482b8b9145",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_handing_toy_to_child_202608212033.jpeg",
+      "relative_path": "New folder (4)/Child_handing_toy_to_child_202608212033.jpeg",
+      "image_name": "Child_handing_toy_to_child_202608212033.jpeg",
+      "normalized_filename": "child handing toy to child",
+      "sha1": "32da4a45e3d73e31810c1575725ec60aa9e5d7bb",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_holding_gift_202608212032.jpeg",
+      "relative_path": "New folder (4)/Child_holding_gift_202608212032.jpeg",
+      "image_name": "Child_holding_gift_202608212032.jpeg",
+      "normalized_filename": "child holding gift",
+      "sha1": "4b2512bdd0f136636e8c60c71d98e4bf0a736838",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_holding_gold_medal_202608212033.jpeg",
+      "relative_path": "New folder (4)/Child_holding_gold_medal_202608212033.jpeg",
+      "image_name": "Child_holding_gold_medal_202608212033.jpeg",
+      "normalized_filename": "child holding gold medal",
+      "sha1": "e54478af4724cac99bbbc9b652a5ad294d7c8e65",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_holding_letter_from_mailbox_202608212034.jpeg",
+      "relative_path": "New folder (4)/Child_holding_letter_from_mailbox_202608212034.jpeg",
+      "image_name": "Child_holding_letter_from_mailbox_202608212034.jpeg",
+      "normalized_filename": "child holding letter from mailbox",
+      "sha1": "a54c681790496ff60cb151abe7ce7802ae04f69e",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_holding_shopping_bags_202608212032.jpeg",
+      "relative_path": "New folder (4)/Child_holding_shopping_bags_202608212032.jpeg",
+      "image_name": "Child_holding_shopping_bags_202608212032.jpeg",
+      "normalized_filename": "child holding shopping bags",
+      "sha1": "6c8ff6cfe22223c8514ad3bbcebcc9f7b1aafbbc",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_jumping_over_puddle_202608212034.jpeg",
+      "relative_path": "New folder (4)/Child_jumping_over_puddle_202608212034.jpeg",
+      "image_name": "Child_jumping_over_puddle_202608212034.jpeg",
+      "normalized_filename": "child jumping over puddle",
+      "sha1": "1100992796072fe978b792f1044ea3c24293bc95",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_looking_at_rainbow_202608212034.jpeg",
+      "relative_path": "New folder (4)/Child_looking_at_rainbow_202608212034.jpeg",
+      "image_name": "Child_looking_at_rainbow_202608212034.jpeg",
+      "normalized_filename": "child looking at rainbow",
+      "sha1": "8521d508a5219af81a82c695e378cb038f7fff75",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Hand_spreading_butter_on_toast_202608212034.jpeg",
+      "relative_path": "New folder (4)/Hand_spreading_butter_on_toast_202608212034.jpeg",
+      "image_name": "Hand_spreading_butter_on_toast_202608212034.jpeg",
+      "normalized_filename": "hand spreading butter on toast",
+      "sha1": "0a3f65e874d3afd9d062a8c69e6b64910639fb3a",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Hand_turning_cartoon_turtle_202608212032.jpeg",
+      "relative_path": "New folder (4)/Hand_turning_cartoon_turtle_202608212032.jpeg",
+      "image_name": "Hand_turning_cartoon_turtle_202608212032.jpeg",
+      "normalized_filename": "hand turning cartoon turtle",
+      "sha1": "919cbc3aafecd535fb16b6ad13959a3d864b5dfb",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Hands_demonstrating_skills_202608212033.jpeg",
+      "relative_path": "New folder (4)/Hands_demonstrating_skills_202608212033.jpeg",
+      "image_name": "Hands_demonstrating_skills_202608212033.jpeg",
+      "normalized_filename": "hands demonstrating skills",
+      "sha1": "9828dfb4d7635828bd3a134f9a6caab05e86d133",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Heroes_standing_together_202608212033.jpeg",
+      "relative_path": "New folder (4)/Heroes_standing_together_202608212033.jpeg",
+      "image_name": "Heroes_standing_together_202608212033.jpeg",
+      "normalized_filename": "heroes standing together",
+      "sha1": "633d490aacd31ec9881f7733ab9b21df3fc40b7d",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Honeybee_pollinating_a_flower_202608212033.jpeg",
+      "relative_path": "New folder (4)/Honeybee_pollinating_a_flower_202608212033.jpeg",
+      "image_name": "Honeybee_pollinating_a_flower_202608212033.jpeg",
+      "normalized_filename": "honeybee pollinating a flower",
+      "sha1": "1ae444485d719578e32d1ed6821511eba265e4eb",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Icons_showing_health_tips_202608212033.jpeg",
+      "relative_path": "New folder (4)/Icons_showing_health_tips_202608212033.jpeg",
+      "image_name": "Icons_showing_health_tips_202608212033.jpeg",
+      "normalized_filename": "icons showing health tips",
+      "sha1": "04a83c9eaca7f24eb1f99040f4af822a416d9595",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Ingredients_for_cooking_on_counter_202608212033.jpeg",
+      "relative_path": "New folder (4)/Ingredients_for_cooking_on_counter_202608212033.jpeg",
+      "image_name": "Ingredients_for_cooking_on_counter_202608212033.jpeg",
+      "normalized_filename": "ingredients for cooking on counter",
+      "sha1": "ae599d0ff5c129fb94101b335f15c51287bc161f",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Khamsin_wind_blowing_palm_trees_202608212034.jpeg",
+      "relative_path": "New folder (4)/Khamsin_wind_blowing_palm_trees_202608212034.jpeg",
+      "image_name": "Khamsin_wind_blowing_palm_trees_202608212034.jpeg",
+      "normalized_filename": "khamsin wind blowing palm trees",
+      "sha1": "d130d21a55c40379e16c437ff6fb0bb2029e9e79",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Kid_controlling_toy_car_202608212032.jpeg",
+      "relative_path": "New folder (4)/Kid_controlling_toy_car_202608212032.jpeg",
+      "image_name": "Kid_controlling_toy_car_202608212032.jpeg",
+      "normalized_filename": "kid controlling toy car",
+      "sha1": "c3a11dd8ce34f9e5a3232e78f89bbda61dbc6bc9",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Kids_painting_and_reading_together_202608212032.jpeg",
+      "relative_path": "New folder (4)/Kids_painting_and_reading_together_202608212032.jpeg",
+      "image_name": "Kids_painting_and_reading_together_202608212032.jpeg",
+      "normalized_filename": "kids painting and reading together",
+      "sha1": "2bcf78c04dff73ad852e812d45c8e4db028e17ea",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Ladybug_sitting_on_green_leaf_202608212033.jpeg",
+      "relative_path": "New folder (4)/Ladybug_sitting_on_green_leaf_202608212033.jpeg",
+      "image_name": "Ladybug_sitting_on_green_leaf_202608212033.jpeg",
+      "normalized_filename": "ladybug sitting on green leaf",
+      "sha1": "cb8993f113e9744a998fcecebff03c2074e37099",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_measuring_weight_loss_illu…_202608212033.jpeg",
+      "relative_path": "New folder (5)/Child_measuring_weight_loss_illu…_202608212033.jpeg",
+      "image_name": "Child_measuring_weight_loss_illu…_202608212033.jpeg",
+      "normalized_filename": "child measuring weight loss illu",
+      "sha1": "acf01d0bdb9378a9ac8ba3e6b27f1e718b2ef074",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_meditating_peacefully_202608212033.jpeg",
+      "relative_path": "New folder (5)/Child_meditating_peacefully_202608212033.jpeg",
+      "image_name": "Child_meditating_peacefully_202608212033.jpeg",
+      "normalized_filename": "child meditating peacefully",
+      "sha1": "8619fae3eb245af7328be2560ee650269f057660",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_opening_colorful_gift_box_202608212033.jpeg",
+      "relative_path": "New folder (5)/Child_opening_colorful_gift_box_202608212033.jpeg",
+      "image_name": "Child_opening_colorful_gift_box_202608212033.jpeg",
+      "normalized_filename": "child opening colorful gift box",
+      "sha1": "9dda529dced5f663e1e2daa24b776c2c39631413",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_playing_doctor_illustration_202608212033.jpeg",
+      "relative_path": "New folder (5)/Child_playing_doctor_illustration_202608212033.jpeg",
+      "image_name": "Child_playing_doctor_illustration_202608212033.jpeg",
+      "normalized_filename": "child playing doctor illustration",
+      "sha1": "cc5b1a39d6d6fab0b994ed70f4fb0bf7d6047111",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_playing_hide_and_seek_202608212033.jpeg",
+      "relative_path": "New folder (5)/Child_playing_hide_and_seek_202608212033.jpeg",
+      "image_name": "Child_playing_hide_and_seek_202608212033.jpeg",
+      "normalized_filename": "child playing hide and seek",
+      "sha1": "116161a32f393b829ce00778411a9144bee4c77c",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_pointing_at_bush_shadow_202608212032.jpeg",
+      "relative_path": "New folder (5)/Child_pointing_at_bush_shadow_202608212032.jpeg",
+      "image_name": "Child_pointing_at_bush_shadow_202608212032.jpeg",
+      "normalized_filename": "child pointing at bush shadow",
+      "sha1": "44584b34916b4ece8144ab4be1f44fcfdecf74bd",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_pointing_at_sign_202608212033.jpeg",
+      "relative_path": "New folder (5)/Child_pointing_at_sign_202608212033.jpeg",
+      "image_name": "Child_pointing_at_sign_202608212033.jpeg",
+      "normalized_filename": "child pointing at sign",
+      "sha1": "4b1a7bb49c73f1183f94bf0e9f66bf4aaba203ee",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_raising_hand_in_classroom_202608212034.jpeg",
+      "relative_path": "New folder (5)/Child_raising_hand_in_classroom_202608212034.jpeg",
+      "image_name": "Child_raising_hand_in_classroom_202608212034.jpeg",
+      "normalized_filename": "child raising hand in classroom",
+      "sha1": "c5369b4426cd1eafa592f29f98c7a870bc023659",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_reaching_cookie_jar_202608212034.jpeg",
+      "relative_path": "New folder (5)/Child_reaching_cookie_jar_202608212034.jpeg",
+      "image_name": "Child_reaching_cookie_jar_202608212034.jpeg",
+      "normalized_filename": "child reaching cookie jar",
+      "sha1": "259ae067dda703c6684235d7923f8aa5f65d5c79",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_reaching_for_cookie_jar_202608212032.jpeg",
+      "relative_path": "New folder (5)/Child_reaching_for_cookie_jar_202608212032.jpeg",
+      "image_name": "Child_reaching_for_cookie_jar_202608212032.jpeg",
+      "normalized_filename": "child reaching for cookie jar",
+      "sha1": "84c02f03d1f88f81d45fdd7d80214a4175171760",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_realizing_with_glowing_lig…_202608212033.jpeg",
+      "relative_path": "New folder (5)/Child_realizing_with_glowing_lig…_202608212033.jpeg",
+      "image_name": "Child_realizing_with_glowing_lig…_202608212033.jpeg",
+      "normalized_filename": "child realizing with glowing lig",
+      "sha1": "ac07cf5075db355fd157271c55f170d6f27505cf",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_riding_bike_first_time_202608212033.jpeg",
+      "relative_path": "New folder (5)/Child_riding_bike_first_time_202608212033.jpeg",
+      "image_name": "Child_riding_bike_first_time_202608212033.jpeg",
+      "normalized_filename": "child riding bike first time",
+      "sha1": "f873bfea1102ae1d8a14ccec5f1a2f324516f467",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_riding_bike_successfully_202608212033.jpeg",
+      "relative_path": "New folder (5)/Child_riding_bike_successfully_202608212033.jpeg",
+      "image_name": "Child_riding_bike_successfully_202608212033.jpeg",
+      "normalized_filename": "child riding bike successfully",
+      "sha1": "1d1aaeade7b6819d5b4f0ba393a4a107deee0069",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_searching_under_bed_202608212033.jpeg",
+      "relative_path": "New folder (5)/Child_searching_under_bed_202608212033.jpeg",
+      "image_name": "Child_searching_under_bed_202608212033.jpeg",
+      "normalized_filename": "child searching under bed",
+      "sha1": "84e1c87c3292186ea8d7a585dfa43ac0a23a6f13",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_showing_drawing_to_teacher_202608212034.jpeg",
+      "relative_path": "New folder (5)/Child_showing_drawing_to_teacher_202608212034.jpeg",
+      "image_name": "Child_showing_drawing_to_teacher_202608212034.jpeg",
+      "normalized_filename": "child showing drawing to teacher",
+      "sha1": "dd174c4b26e3df390aa38ddddae06e41e90e4851",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_showing_knee_bandage_202608212033.jpeg",
+      "relative_path": "New folder (5)/Child_showing_knee_bandage_202608212033.jpeg",
+      "image_name": "Child_showing_knee_bandage_202608212033.jpeg",
+      "normalized_filename": "child showing knee bandage",
+      "sha1": "39d2c508b7eb4f85745afa07f6d3b61c16dfbad4",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_sitting_by_pool_202608212034.jpeg",
+      "relative_path": "New folder (5)/Child_sitting_by_pool_202608212034.jpeg",
+      "image_name": "Child_sitting_by_pool_202608212034.jpeg",
+      "normalized_filename": "child sitting by pool",
+      "sha1": "9a5d671e59f392808ca8b40236e8d105f527b95c",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Leader_managing_community_event_…_202608212032.jpeg",
+      "relative_path": "New folder (5)/Leader_managing_community_event_…_202608212032.jpeg",
+      "image_name": "Leader_managing_community_event_…_202608212032.jpeg",
+      "normalized_filename": "leader managing community event",
+      "sha1": "64319d96c05ff8f5f66034db14e0f25b4f5ce789",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Lifeguard_saving_person_in_water_202608212033.jpeg",
+      "relative_path": "New folder (5)/Lifeguard_saving_person_in_water_202608212033.jpeg",
+      "image_name": "Lifeguard_saving_person_in_water_202608212033.jpeg",
+      "normalized_filename": "lifeguard saving person in water",
+      "sha1": "1749041027d26281ba8044802191259dc0e40156",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Liquid_pumped_upwards_in_tube_202608212033.jpeg",
+      "relative_path": "New folder (5)/Liquid_pumped_upwards_in_tube_202608212033.jpeg",
+      "image_name": "Liquid_pumped_upwards_in_tube_202608212033.jpeg",
+      "normalized_filename": "liquid pumped upwards in tube",
+      "sha1": "a7e58673dc60772c8787a473473479e692d717c9",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Locked_gate_preventing_entry_202608212034.jpeg",
+      "relative_path": "New folder (5)/Locked_gate_preventing_entry_202608212034.jpeg",
+      "image_name": "Locked_gate_preventing_entry_202608212034.jpeg",
+      "normalized_filename": "locked gate preventing entry",
+      "sha1": "abad07a719042a62a747fe93e9a5978fb0e36f7a",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Mechanical_pump_moving_water_202608212033.jpeg",
+      "relative_path": "New folder (5)/Mechanical_pump_moving_water_202608212033.jpeg",
+      "image_name": "Mechanical_pump_moving_water_202608212033.jpeg",
+      "normalized_filename": "mechanical pump moving water",
+      "sha1": "8091d8b1da5675967520c11904acc55137eed6b0",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Medical_oxygen_tank_illustration_202608212033.jpeg",
+      "relative_path": "New folder (5)/Medical_oxygen_tank_illustration_202608212033.jpeg",
+      "image_name": "Medical_oxygen_tank_illustration_202608212033.jpeg",
+      "normalized_filename": "medical oxygen tank illustration",
+      "sha1": "d8546429b7f6cbeaf1655ce0989be72f9fddd63b",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Modern_city_with_solar_panels_202608212034.jpeg",
+      "relative_path": "New folder (5)/Modern_city_with_solar_panels_202608212034.jpeg",
+      "image_name": "Modern_city_with_solar_panels_202608212034.jpeg",
+      "normalized_filename": "modern city with solar panels",
+      "sha1": "6b043eaf0dc851b2d2208156199b06c466fc71e9",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Mud_bricks_drying_in_sun_202608212034.jpeg",
+      "relative_path": "New folder (5)/Mud_bricks_drying_in_sun_202608212034.jpeg",
+      "image_name": "Mud_bricks_drying_in_sun_202608212034.jpeg",
+      "normalized_filename": "mud bricks drying in sun",
+      "sha1": "a8780384d1d17b1ad219dbfe64a5af5ed3c4b4c1",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Open_cookbook_showing_food_recipe_202608212033.jpeg",
+      "relative_path": "New folder (5)/Open_cookbook_showing_food_recipe_202608212033.jpeg",
+      "image_name": "Open_cookbook_showing_food_recipe_202608212033.jpeg",
+      "normalized_filename": "open cookbook showing food recipe",
+      "sha1": "c669022bb3cbdc9721e81c94f21a2c1145f21077",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Open_lunchbox_with_sandwich_and_202608212032.jpeg",
+      "relative_path": "New folder (5)/Open_lunchbox_with_sandwich_and_202608212032.jpeg",
+      "image_name": "Open_lunchbox_with_sandwich_and_202608212032.jpeg",
+      "normalized_filename": "open lunchbox with sandwich and",
+      "sha1": "5f90f1461e93401b69fbc114ce6f905bc6e25497",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Package_delivered_on_doorstep_202608212033.jpeg",
+      "relative_path": "New folder (5)/Package_delivered_on_doorstep_202608212033.jpeg",
+      "image_name": "Package_delivered_on_doorstep_202608212033.jpeg",
+      "normalized_filename": "package delivered on doorstep",
+      "sha1": "2e43cb612d1d483aa284d704348d3b40976ffa8d",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Winding_road_through_mountains_202608212033.jpeg",
+      "relative_path": "New folder (5)/Winding_road_through_mountains_202608212033.jpeg",
+      "image_name": "Winding_road_through_mountains_202608212033.jpeg",
+      "normalized_filename": "winding road through mountains",
+      "sha1": "5e6e01409e6afb77cf84f90f3f7a66a48c55e3ba",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Wooden_birdhouse_with_broken_roof_202608212032.jpeg",
+      "relative_path": "New folder (5)/Wooden_birdhouse_with_broken_roof_202608212032.jpeg",
+      "image_name": "Wooden_birdhouse_with_broken_roof_202608212032.jpeg",
+      "normalized_filename": "wooden birdhouse with broken roof",
+      "sha1": "c66f51abc43af0dcd7fcfbbb594b5f39416fc42e",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Wooden_chair_beside_tree_trunk_202608212032.jpeg",
+      "relative_path": "New folder (5)/Wooden_chair_beside_tree_trunk_202608212032.jpeg",
+      "image_name": "Wooden_chair_beside_tree_trunk_202608212032.jpeg",
+      "normalized_filename": "wooden chair beside tree trunk",
+      "sha1": "251247ee073e85be9d89569e64661d4d9fd5ddfd",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Yellow_lightbulb_representing_el…_202608212033.jpeg",
+      "relative_path": "New folder (5)/Yellow_lightbulb_representing_el…_202608212033.jpeg",
+      "image_name": "Yellow_lightbulb_representing_el…_202608212033.jpeg",
+      "normalized_filename": "yellow lightbulb representing el",
+      "sha1": "3ef5f2bec74f32bced04b034ab6e753078e0609f",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Yellow_sand_blowing_in_wind_202608212032.jpeg",
+      "relative_path": "New folder (5)/Yellow_sand_blowing_in_wind_202608212032.jpeg",
+      "image_name": "Yellow_sand_blowing_in_wind_202608212032.jpeg",
+      "normalized_filename": "yellow sand blowing in wind",
+      "sha1": "098d1243e679dbd8272abe491d466a384da349bb",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_sneezing_into_tissue_202608212033.jpeg",
+      "relative_path": "New folder (6)/Child_sneezing_into_tissue_202608212033.jpeg",
+      "image_name": "Child_sneezing_into_tissue_202608212033.jpeg",
+      "normalized_filename": "child sneezing into tissue",
+      "sha1": "b06cad7a3afd65196f5c3a91abdd2bcb4f85771b",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_staying_awake_late_202608212034.jpeg",
+      "relative_path": "New folder (6)/Child_staying_awake_late_202608212034.jpeg",
+      "image_name": "Child_staying_awake_late_202608212034.jpeg",
+      "normalized_filename": "child staying awake late",
+      "sha1": "dac926967cad7045df2dea339a4c5e051b9cb89c",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_stopping_someone_at_wet_202608212034.jpeg",
+      "relative_path": "New folder (6)/Child_stopping_someone_at_wet_202608212034.jpeg",
+      "image_name": "Child_stopping_someone_at_wet_202608212034.jpeg",
+      "normalized_filename": "child stopping someone at wet",
+      "sha1": "16fd17fa8b91941f21f667b46f03c7dbc83dff89",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_thinking_with_question_mark_202608212033.jpeg",
+      "relative_path": "New folder (6)/Child_thinking_with_question_mark_202608212033.jpeg",
+      "image_name": "Child_thinking_with_question_mark_202608212033.jpeg",
+      "normalized_filename": "child thinking with question mark",
+      "sha1": "7d1756ae5fe34b936a1366c916a289baa489f4df",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_thinking_with_thought_bubble_202608212032.jpeg",
+      "relative_path": "New folder (6)/Child_thinking_with_thought_bubble_202608212032.jpeg",
+      "image_name": "Child_thinking_with_thought_bubble_202608212032.jpeg",
+      "normalized_filename": "child thinking with thought bubble",
+      "sha1": "1f154693f29272157dbcac262f4288817c38efc2",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_viewing_spilled_ice_cream_202608212034.jpeg",
+      "relative_path": "New folder (6)/Child_viewing_spilled_ice_cream_202608212034.jpeg",
+      "image_name": "Child_viewing_spilled_ice_cream_202608212034.jpeg",
+      "normalized_filename": "child viewing spilled ice cream",
+      "sha1": "a8d6fe919ea5e77a2f9d2c69f1d074b8155218a7",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_walking_toward_house_202608212033.jpeg",
+      "relative_path": "New folder (6)/Child_walking_toward_house_202608212033.jpeg",
+      "image_name": "Child_walking_toward_house_202608212033.jpeg",
+      "normalized_filename": "child walking toward house",
+      "sha1": "ee642b4fdf5a72dd750c101d5ad435f3cae51b48",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_walking_with_dog_202608212033.jpeg",
+      "relative_path": "New folder (6)/Child_walking_with_dog_202608212033.jpeg",
+      "image_name": "Child_walking_with_dog_202608212033.jpeg",
+      "normalized_filename": "child walking with dog",
+      "sha1": "4dca2aec3fc8c03e65df5217f2c63109e6b9bfdd",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_watering_potted_flower_202608212033.jpeg",
+      "relative_path": "New folder (6)/Child_watering_potted_flower_202608212033.jpeg",
+      "image_name": "Child_watering_potted_flower_202608212033.jpeg",
+      "normalized_filename": "child watering potted flower",
+      "sha1": "f534c1a1a61e3512397e43fb556bee9ea83bf441",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_waving_and_beckoning_202608212033.jpeg",
+      "relative_path": "New folder (6)/Child_waving_and_beckoning_202608212033.jpeg",
+      "image_name": "Child_waving_and_beckoning_202608212033.jpeg",
+      "normalized_filename": "child waving and beckoning",
+      "sha1": "6095c4fbe741f548af25a799699e155c202b4bfb",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_whispering_secret_to_another_202608212032.jpeg",
+      "relative_path": "New folder (6)/Child_whispering_secret_to_another_202608212032.jpeg",
+      "image_name": "Child_whispering_secret_to_another_202608212032.jpeg",
+      "normalized_filename": "child whispering secret to another",
+      "sha1": "8c20e2744d74427a61e38294e1347ead0b2c5220",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Children_balancing_on_seesaw_202608212033.jpeg",
+      "relative_path": "New folder (6)/Children_balancing_on_seesaw_202608212033.jpeg",
+      "image_name": "Children_balancing_on_seesaw_202608212033.jpeg",
+      "normalized_filename": "children balancing on seesaw",
+      "sha1": "f420e0113bfa848a716125b872f6b16dd09a0282",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Children_jumping_and_laughing_202608212034.jpeg",
+      "relative_path": "New folder (6)/Children_jumping_and_laughing_202608212034.jpeg",
+      "image_name": "Children_jumping_and_laughing_202608212034.jpeg",
+      "normalized_filename": "children jumping and laughing",
+      "sha1": "fb8f43ff6cf8b5da8241f73e7ae4ae5f49c922ac",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Children_playing_soccer_and_tennis_202608212034.jpeg",
+      "relative_path": "New folder (6)/Children_playing_soccer_and_tennis_202608212034.jpeg",
+      "image_name": "Children_playing_soccer_and_tennis_202608212034.jpeg",
+      "normalized_filename": "children playing soccer and tennis",
+      "sha1": "e8cf455c5fe83e4a112542301c88a89cbda8a35f",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Children_riding_spinning_teacups…_202608212034.jpeg",
+      "relative_path": "New folder (6)/Children_riding_spinning_teacups…_202608212034.jpeg",
+      "image_name": "Children_riding_spinning_teacups…_202608212034.jpeg",
+      "normalized_filename": "children riding spinning teacups",
+      "sha1": "e3edcfc4ddeea67781e42d093c5d7142b3b5e176",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Children_shaking_hands_agreeing_202608212034.jpeg",
+      "relative_path": "New folder (6)/Children_shaking_hands_agreeing_202608212034.jpeg",
+      "image_name": "Children_shaking_hands_agreeing_202608212034.jpeg",
+      "normalized_filename": "children shaking hands agreeing",
+      "sha1": "81471e4986d48915737c014e347ee7e07905b0bc",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Children_talking_on_toy_phones_202608212034.jpeg",
+      "relative_path": "New folder (6)/Children_talking_on_toy_phones_202608212034.jpeg",
+      "image_name": "Children_talking_on_toy_phones_202608212034.jpeg",
+      "normalized_filename": "children talking on toy phones",
+      "sha1": "034ac922ce15d7df8bf0c218f471549ca81dae94",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Parent_high-fiving_child_doing_h…_202608212034.jpeg",
+      "relative_path": "New folder (6)/Parent_high-fiving_child_doing_h…_202608212034.jpeg",
+      "image_name": "Parent_high-fiving_child_doing_h…_202608212034.jpeg",
+      "normalized_filename": "parent high fiving child doing h",
+      "sha1": "b8829c2ed1c83ad270ddae6aadad977973b1e362",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/People_enduring_summer_heat_wave_202608212034.jpeg",
+      "relative_path": "New folder (6)/People_enduring_summer_heat_wave_202608212034.jpeg",
+      "image_name": "People_enduring_summer_heat_wave_202608212034.jpeg",
+      "normalized_filename": "people enduring summer heat wave",
+      "sha1": "3b96eed82e72db06f2966ba83ac2cfd77845f557",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/People_standing_and_waving_202608212033.jpeg",
+      "relative_path": "New folder (6)/People_standing_and_waving_202608212033.jpeg",
+      "image_name": "People_standing_and_waving_202608212033.jpeg",
+      "normalized_filename": "people standing and waving",
+      "sha1": "192aade77f130078c11b62805302a15b4442fe41",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/People_standing_on_cartoon_street_202608212032.jpeg",
+      "relative_path": "New folder (6)/People_standing_on_cartoon_street_202608212032.jpeg",
+      "image_name": "People_standing_on_cartoon_street_202608212032.jpeg",
+      "normalized_filename": "people standing on cartoon street",
+      "sha1": "d3495a0d72ab1f90ca9ef3bfa6a5035315506cd0",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/People_walking_in_town_square_202608212032.jpeg",
+      "relative_path": "New folder (6)/People_walking_in_town_square_202608212032.jpeg",
+      "image_name": "People_walking_in_town_square_202608212032.jpeg",
+      "normalized_filename": "people walking in town square",
+      "sha1": "1680eea28543ff1c85a760950559f845867018e2",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Person_biting_potato_chip_202608212033.jpeg",
+      "relative_path": "New folder (6)/Person_biting_potato_chip_202608212033.jpeg",
+      "image_name": "Person_biting_potato_chip_202608212033.jpeg",
+      "normalized_filename": "person biting potato chip",
+      "sha1": "5416b574f44aa1a13816a72982350d917e171958",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Person_controlling_toy_drone_202608212034.jpeg",
+      "relative_path": "New folder (6)/Person_controlling_toy_drone_202608212034.jpeg",
+      "image_name": "Person_controlling_toy_drone_202608212034.jpeg",
+      "normalized_filename": "person controlling toy drone",
+      "sha1": "9f5220d84f4bb2686e29369cb6133789dd248db1",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Person_covering_with_blanket_on_202608212034.jpeg",
+      "relative_path": "New folder (6)/Person_covering_with_blanket_on_202608212034.jpeg",
+      "image_name": "Person_covering_with_blanket_on_202608212034.jpeg",
+      "normalized_filename": "person covering with blanket on",
+      "sha1": "bb9a7b7a263fb8683835232fa4321afd133f6840",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Phone_displaying_warning_exclama…_202608212034.jpeg",
+      "relative_path": "New folder (6)/Phone_displaying_warning_exclama…_202608212034.jpeg",
+      "image_name": "Phone_displaying_warning_exclama…_202608212034.jpeg",
+      "normalized_filename": "phone displaying warning exclama",
+      "sha1": "de6d3f7ccef1f6853e206ca25d92a48ef3422950",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Pictures_emerging_from_open_book_202608212033.jpeg",
+      "relative_path": "New folder (6)/Pictures_emerging_from_open_book_202608212033.jpeg",
+      "image_name": "Pictures_emerging_from_open_book_202608212033.jpeg",
+      "normalized_filename": "pictures emerging from open book",
+      "sha1": "ed7a6e14adce5467ae3d6d7d1e8757cd8eb2fa30",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Plate_with_seafood_202608212033.jpeg",
+      "relative_path": "New folder (6)/Plate_with_seafood_202608212033.jpeg",
+      "image_name": "Plate_with_seafood_202608212033.jpeg",
+      "normalized_filename": "plate with seafood",
+      "sha1": "34c3b8c5c8a27156197ff41c3e81e01858014257",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Water_flowing_into_crop_field_202608212034.jpeg",
+      "relative_path": "New folder (6)/Water_flowing_into_crop_field_202608212034.jpeg",
+      "image_name": "Water_flowing_into_crop_field_202608212034.jpeg",
+      "normalized_filename": "water flowing into crop field",
+      "sha1": "5d6f322e0f65efac6d4e7aff50a4bfcf2e791a0b",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Weather_vane_spinning_in_wind_202608212033.jpeg",
+      "relative_path": "New folder (6)/Weather_vane_spinning_in_wind_202608212033.jpeg",
+      "image_name": "Weather_vane_spinning_in_wind_202608212033.jpeg",
+      "normalized_filename": "weather vane spinning in wind",
+      "sha1": "2f2b7c8ca9c5f76c2b99864dcc3df9078d599bd5",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Wheat_growing_in_rural_field_202608212034.jpeg",
+      "relative_path": "New folder (6)/Wheat_growing_in_rural_field_202608212034.jpeg",
+      "image_name": "Wheat_growing_in_rural_field_202608212034.jpeg",
+      "normalized_filename": "wheat growing in rural field",
+      "sha1": "76f23a0d7cdcaafe976b795611519c110c9fc06c",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Wilted_flower_on_cracked_ground_202608212034.jpeg",
+      "relative_path": "New folder (6)/Wilted_flower_on_cracked_ground_202608212034.jpeg",
+      "image_name": "Wilted_flower_on_cracked_ground_202608212034.jpeg",
+      "normalized_filename": "wilted flower on cracked ground",
+      "sha1": "fadd4c3f8632060957dac1f0650fc4a13194b34a",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Wind_blowing_trees_down_202608212034.jpeg",
+      "relative_path": "New folder (6)/Wind_blowing_trees_down_202608212034.jpeg",
+      "image_name": "Wind_blowing_trees_down_202608212034.jpeg",
+      "normalized_filename": "wind blowing trees down",
+      "sha1": "d10cbde76820d1a3e5fea81cdef8606f87440896",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Abandoned_stone_cottage_with_ivy_202608212034.jpeg",
+      "relative_path": "New folder (7)/Abandoned_stone_cottage_with_ivy_202608212034.jpeg",
+      "image_name": "Abandoned_stone_cottage_with_ivy_202608212034.jpeg",
+      "normalized_filename": "abandoned stone cottage with ivy",
+      "sha1": "2913f6206cd47f5834442ade2fe4d8ae249069f1",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Airplane_taking_off_from_airport_202608212032.jpeg",
+      "relative_path": "New folder (7)/Airplane_taking_off_from_airport_202608212032.jpeg",
+      "image_name": "Airplane_taking_off_from_airport_202608212032.jpeg",
+      "normalized_filename": "airplane taking off from airport",
+      "sha1": "0736053ebefc5783f8385d0effd76ae011bf51be",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Ambulance_paramedics_helping_som…_202608212033.jpeg",
+      "relative_path": "New folder (7)/Ambulance_paramedics_helping_som…_202608212033.jpeg",
+      "image_name": "Ambulance_paramedics_helping_som…_202608212033.jpeg",
+      "normalized_filename": "ambulance paramedics helping som",
+      "sha1": "81a7198aceb7f64d9b688273efd145ed0f65f0c9",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Ant_carrying_leaf_202608212034.jpeg",
+      "relative_path": "New folder (7)/Ant_carrying_leaf_202608212034.jpeg",
+      "image_name": "Ant_carrying_leaf_202608212034.jpeg",
+      "normalized_filename": "ant carrying leaf",
+      "sha1": "a950b7af7cc68bc55c0dfad5872ce2db4a30d52e",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Anvil_on_block_with_hammer_202608212034.jpeg",
+      "relative_path": "New folder (7)/Anvil_on_block_with_hammer_202608212034.jpeg",
+      "image_name": "Anvil_on_block_with_hammer_202608212034.jpeg",
+      "normalized_filename": "anvil on block with hammer",
+      "sha1": "63830dadb57e9d1026e3b2096a2483c157f7e0bb",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Baker_handing_bread_to_child_202608212032.jpeg",
+      "relative_path": "New folder (7)/Baker_handing_bread_to_child_202608212032.jpeg",
+      "image_name": "Baker_handing_bread_to_child_202608212032.jpeg",
+      "normalized_filename": "baker handing bread to child",
+      "sha1": "9099e3e14a6bcf5942787685c32405726fba05fc",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Bakery_window_displaying_bread_c…_202608212032.jpeg",
+      "relative_path": "New folder (7)/Bakery_window_displaying_bread_c…_202608212032.jpeg",
+      "image_name": "Bakery_window_displaying_bread_c…_202608212032.jpeg",
+      "normalized_filename": "bakery window displaying bread c",
+      "sha1": "76e51189bc9f3ca06cf81a1d3056c8693255734c",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Bar_chart_showing_upward_increase_202608212033.jpeg",
+      "relative_path": "New folder (7)/Bar_chart_showing_upward_increase_202608212033.jpeg",
+      "image_name": "Bar_chart_showing_upward_increase_202608212033.jpeg",
+      "normalized_filename": "bar chart showing upward increase",
+      "sha1": "3209811c687624e731e485db410e58bb1c4a841c",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Baseball_hitting_wooden_bat_202608212034.jpeg",
+      "relative_path": "New folder (7)/Baseball_hitting_wooden_bat_202608212034.jpeg",
+      "image_name": "Baseball_hitting_wooden_bat_202608212034.jpeg",
+      "normalized_filename": "baseball hitting wooden bat",
+      "sha1": "00331bf355a337ab9d36715365fc0647d2eb6833",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Bears_together_in_forest_cave_202608212034.jpeg",
+      "relative_path": "New folder (7)/Bears_together_in_forest_cave_202608212034.jpeg",
+      "image_name": "Bears_together_in_forest_cave_202608212034.jpeg",
+      "normalized_filename": "bears together in forest cave",
+      "sha1": "deae7f6b8167b91f0e16a2cbc350d2cd50c482f9",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Beating_heart_medical_concept_202608212033.jpeg",
+      "relative_path": "New folder (7)/Beating_heart_medical_concept_202608212033.jpeg",
+      "image_name": "Beating_heart_medical_concept_202608212033.jpeg",
+      "normalized_filename": "beating heart medical concept",
+      "sha1": "5acfd2b9742824ba59a17e45b8833e8b96d64147",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Bird_family_in_cozy_birdhouse_202608212033.jpeg",
+      "relative_path": "New folder (7)/Bird_family_in_cozy_birdhouse_202608212033.jpeg",
+      "image_name": "Bird_family_in_cozy_birdhouse_202608212033.jpeg",
+      "normalized_filename": "bird family in cozy birdhouse",
+      "sha1": "5c12a20b723c2cf33afccd3a6d5a6d2412e69f17",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Bird_flying_over_forest_202608212034.jpeg",
+      "relative_path": "New folder (7)/Bird_flying_over_forest_202608212034.jpeg",
+      "image_name": "Bird_flying_over_forest_202608212034.jpeg",
+      "normalized_filename": "bird flying over forest",
+      "sha1": "b0999f8067877bbdeafa2a8db45aff53902ee000",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Boy_holding_gold_coin_202608212033.jpeg",
+      "relative_path": "New folder (7)/Boy_holding_gold_coin_202608212033.jpeg",
+      "image_name": "Boy_holding_gold_coin_202608212033.jpeg",
+      "normalized_filename": "boy holding gold coin",
+      "sha1": "615d9adff06dcec73cc4cc38610730bd11e80c43",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Boy_searching_through_grass_202608212034.jpeg",
+      "relative_path": "New folder (7)/Boy_searching_through_grass_202608212034.jpeg",
+      "image_name": "Boy_searching_through_grass_202608212034.jpeg",
+      "normalized_filename": "boy searching through grass",
+      "sha1": "df6a6eed1db263a7e6379ea0a72e7e3ea534a29d",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Burned_wooden_birdhouse_202608212034.jpeg",
+      "relative_path": "New folder (7)/Burned_wooden_birdhouse_202608212034.jpeg",
+      "image_name": "Burned_wooden_birdhouse_202608212034.jpeg",
+      "normalized_filename": "burned wooden birdhouse",
+      "sha1": "e21d3ff7399c2108f8d2941b10cab5af948a276f",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Butterfly_flying_over_flower_202608212033.jpeg",
+      "relative_path": "New folder (7)/Butterfly_flying_over_flower_202608212033.jpeg",
+      "image_name": "Butterfly_flying_over_flower_202608212033.jpeg",
+      "normalized_filename": "butterfly flying over flower",
+      "sha1": "51f801ceb211df720a51c9a1abfa1b1d2885a988",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Clock_glowing_for_round-the-cloc…_202608212033.jpeg",
+      "relative_path": "New folder (7)/Clock_glowing_for_round-the-cloc…_202608212033.jpeg",
+      "image_name": "Clock_glowing_for_round-the-cloc…_202608212033.jpeg",
+      "normalized_filename": "clock glowing for round the cloc",
+      "sha1": "4ee789cf89281c327946bd74fa0f220e3073003c",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Colorful_fabric_rolls_with_patterns_202608212034.jpeg",
+      "relative_path": "New folder (7)/Colorful_fabric_rolls_with_patterns_202608212034.jpeg",
+      "image_name": "Colorful_fabric_rolls_with_patterns_202608212034.jpeg",
+      "normalized_filename": "colorful fabric rolls with patterns",
+      "sha1": "f28d20154df3627bb2a7c7f007a0e4f99af9e8cf",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Comparing_baby_and_child_photos_202608212033.jpeg",
+      "relative_path": "New folder (7)/Comparing_baby_and_child_photos_202608212033.jpeg",
+      "image_name": "Comparing_baby_and_child_photos_202608212033.jpeg",
+      "normalized_filename": "comparing baby and child photos",
+      "sha1": "192936b1312648bef66d8533d8b513219ab31331",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Cookies_baking_in_oven_202608212033.jpeg",
+      "relative_path": "New folder (7)/Cookies_baking_in_oven_202608212033.jpeg",
+      "image_name": "Cookies_baking_in_oven_202608212033.jpeg",
+      "normalized_filename": "cookies baking in oven",
+      "sha1": "97c6b32fc88f1498feaf785328ab7f36b74f5d19",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Cooking_chicken_drumsticks_in_pan_202608212033.jpeg",
+      "relative_path": "New folder (7)/Cooking_chicken_drumsticks_in_pan_202608212033.jpeg",
+      "image_name": "Cooking_chicken_drumsticks_in_pan_202608212033.jpeg",
+      "normalized_filename": "cooking chicken drumsticks in pan",
+      "sha1": "f72f2aa6612fb622f3d7e474d294a54d5ae1e569",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Cracked_smartphone_screen_repres…_202608212034.jpeg",
+      "relative_path": "New folder (7)/Cracked_smartphone_screen_repres…_202608212034.jpeg",
+      "image_name": "Cracked_smartphone_screen_repres…_202608212034.jpeg",
+      "normalized_filename": "cracked smartphone screen repres",
+      "sha1": "14f5b00df50220a57f64e067c92b006b366905e2",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Crocodiles_basking_on_river_banks_202608212033.jpeg",
+      "relative_path": "New folder (7)/Crocodiles_basking_on_river_banks_202608212033.jpeg",
+      "image_name": "Crocodiles_basking_on_river_banks_202608212033.jpeg",
+      "normalized_filename": "crocodiles basking on river banks",
+      "sha1": "509750336abced53b1d81f8cec8ca7671b37e6d4",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Crystals_and_gold_in_cave_202608212032.jpeg",
+      "relative_path": "New folder (7)/Crystals_and_gold_in_cave_202608212032.jpeg",
+      "image_name": "Crystals_and_gold_in_cave_202608212032.jpeg",
+      "normalized_filename": "crystals and gold in cave",
+      "sha1": "c5562d59eab30b082978fa539c2d74acdc0a9584",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Damaged_toy_car_with_scratches_202608212034.jpeg",
+      "relative_path": "New folder (7)/Damaged_toy_car_with_scratches_202608212034.jpeg",
+      "image_name": "Damaged_toy_car_with_scratches_202608212034.jpeg",
+      "normalized_filename": "damaged toy car with scratches",
+      "sha1": "42ca5750642130ebd0bfd4b51e0ad153dc57b708",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Diagram_of_blood_vessels_in_202608212033.jpeg",
+      "relative_path": "New folder (7)/Diagram_of_blood_vessels_in_202608212033.jpeg",
+      "image_name": "Diagram_of_blood_vessels_in_202608212033.jpeg",
+      "normalized_filename": "diagram of blood vessels in",
+      "sha1": "1a18ab5e30c228f8388e160b4d514b2f215a3100",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Diagram_of_human_heart_202608212033.jpeg",
+      "relative_path": "New folder (7)/Diagram_of_human_heart_202608212033.jpeg",
+      "image_name": "Diagram_of_human_heart_202608212033.jpeg",
+      "normalized_filename": "diagram of human heart",
+      "sha1": "b3819344732651612d5d43dca4c0dbf5a685d6d1",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Player_controlling_video_game_ch…_202608212034.jpeg",
+      "relative_path": "New folder (7)/Player_controlling_video_game_ch…_202608212034.jpeg",
+      "image_name": "Player_controlling_video_game_ch…_202608212034.jpeg",
+      "normalized_filename": "player controlling video game ch",
+      "sha1": "3027567f8bd66f992ddfa04c3a27553de3b2f8d1",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Pot_of_soup_cooking_202608212033.jpeg",
+      "relative_path": "New folder (7)/Pot_of_soup_cooking_202608212033.jpeg",
+      "image_name": "Pot_of_soup_cooking_202608212033.jpeg",
+      "normalized_filename": "pot of soup cooking",
+      "sha1": "17b8c1d774b55f0dea643d0bef486698e0c3e22d",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Red_X_over_thorny_plant_202608212033.jpeg",
+      "relative_path": "New folder (7)/Red_X_over_thorny_plant_202608212033.jpeg",
+      "image_name": "Red_X_over_thorny_plant_202608212033.jpeg",
+      "normalized_filename": "red x over thorny plant",
+      "sha1": "1f651eec62d9e4a34c27cc9860c87bcd5d7a4ae6",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Red_blood_drop_under_microscope_202608212033.jpeg",
+      "relative_path": "New folder (7)/Red_blood_drop_under_microscope_202608212033.jpeg",
+      "image_name": "Red_blood_drop_under_microscope_202608212033.jpeg",
+      "normalized_filename": "red blood drop under microscope",
+      "sha1": "b5649e6dcff2b75a69a4d8238c11bdbe2850da06",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Red_heart_illustration_202608212033.jpeg",
+      "relative_path": "New folder (7)/Red_heart_illustration_202608212033.jpeg",
+      "image_name": "Red_heart_illustration_202608212033.jpeg",
+      "normalized_filename": "red heart illustration",
+      "sha1": "a0a1a4edf7d43aea35a2e3f1add4657846d3d546",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/River_flowing_through_green_valley_202608212033.jpeg",
+      "relative_path": "New folder (7)/River_flowing_through_green_valley_202608212033.jpeg",
+      "image_name": "River_flowing_through_green_valley_202608212033.jpeg",
+      "normalized_filename": "river flowing through green valley",
+      "sha1": "fe5c45f29592173a15282d8b44fbb646babd8522",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Robot_holding_tablet_near_home_202608212032.jpeg",
+      "relative_path": "New folder (7)/Robot_holding_tablet_near_home_202608212032.jpeg",
+      "image_name": "Robot_holding_tablet_near_home_202608212032.jpeg",
+      "normalized_filename": "robot holding tablet near home",
+      "sha1": "1172a664698054c8c293bb66f01826ba00b4d214",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Rock_blocking_forest_path_202608212034.jpeg",
+      "relative_path": "New folder (7)/Rock_blocking_forest_path_202608212034.jpeg",
+      "image_name": "Rock_blocking_forest_path_202608212034.jpeg",
+      "normalized_filename": "rock blocking forest path",
+      "sha1": "497dda77ecf6d1d907e7cf38398ec5c1f3d5cb2c",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Room_transformation_split_screen_202608212033.jpeg",
+      "relative_path": "New folder (7)/Room_transformation_split_screen_202608212033.jpeg",
+      "image_name": "Room_transformation_split_screen_202608212033.jpeg",
+      "normalized_filename": "room transformation split screen",
+      "sha1": "530a55d7241267ead9f2794b9fdb92351e062af4",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Rotary_phone_and_modern_smartphone_202608212033.jpeg",
+      "relative_path": "New folder (7)/Rotary_phone_and_modern_smartphone_202608212033.jpeg",
+      "image_name": "Rotary_phone_and_modern_smartphone_202608212033.jpeg",
+      "normalized_filename": "rotary phone and modern smartphone",
+      "sha1": "f75d6c6c090d40e0a8d5a68205bf28e7100bd4c4",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    },
+    {
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Rubber_duck_floating_on_pond_202608212032.jpeg",
+      "relative_path": "New folder (7)/Rubber_duck_floating_on_pond_202608212032.jpeg",
+      "image_name": "Rubber_duck_floating_on_pond_202608212032.jpeg",
+      "normalized_filename": "rubber duck floating on pond",
+      "sha1": "e97c63748a1f2748d606d777bcab0995716b2f71",
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG",
+      "duplicate_in_new_batch": false
+    }
+  ],
+  "remaining_terms": [
+    {
+      "term": "scary (adj)",
+      "arabic": "مخيف",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "tiny (adj)",
+      "arabic": "صغير جداً",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "role",
+      "arabic": "دور/وظيفة",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "humans",
+      "arabic": "البشر",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "home to",
+      "arabic": "موطن لـ",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "play an important role",
+      "arabic": "يقوم بدور هام",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "kings of the Nile",
+      "arabic": "ملوك النيل",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "What about ... ?",
+      "arabic": "ماذا عن ...؟",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "affect",
+      "arabic": "يؤثر على",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "affected",
+      "arabic": "يؤثر على",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "flowed",
+      "arabic": "يتدفق",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "come",
+      "arabic": "يأتي",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "came",
+      "arabic": "يأتي",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "find",
+      "arabic": "يجد",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "found",
+      "arabic": "يجد",
+      "unit": 1,
+      "lesson": "1"
+    },
+    {
+      "term": "stay in balance",
+      "arabic": "تظل في توازن",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "live",
+      "arabic": "يعيش",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "lived",
+      "arabic": "يعيش",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "hide",
+      "arabic": "يختبئ",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "hid",
+      "arabic": "يختبئ",
+      "unit": 1,
+      "lesson": "2"
+    },
+    {
+      "term": "shade",
+      "arabic": "ظل",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "shiny",
+      "arabic": "لامع/براق",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "come back home",
+      "arabic": "يعود إلى المنزل",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "blocked by",
+      "arabic": "يحجب/يمنع",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "taking care of",
+      "arabic": "الاعتناء بـ",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "giving back",
+      "arabic": "رد الجميل",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "rested",
+      "arabic": "يسترخي",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "appreciated",
+      "arabic": "يقدر",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "realized",
+      "arabic": "يدرك",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "bent",
+      "arabic": "ينحني/يميل",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "began",
+      "arabic": "يبدأ",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "mean",
+      "arabic": "يعني/يقصد",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "meant",
+      "arabic": "يعني/يقصد",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "become",
+      "arabic": "يصبح",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "became",
+      "arabic": "يصبح",
+      "unit": 1,
+      "lesson": "3"
+    },
+    {
+      "term": "recipe",
+      "arabic": "وصفة طهي",
+      "unit": 1,
+      "lesson": "4"
+    },
+    {
+      "term": "ingredients",
+      "arabic": "مكونات / مقادير",
+      "unit": 1,
+      "lesson": "4"
+    },
+    {
+      "term": "grilled",
+      "arabic": "مشوي",
+      "unit": 1,
+      "lesson": "4"
+    },
+    {
+      "term": "flavor",
+      "arabic": "طعم / مذاق",
+      "unit": 1,
+      "lesson": "4"
+    },
+    {
+      "term": "thin slices",
+      "arabic": "شرائح رفيعة",
+      "unit": 1,
+      "lesson": "4"
+    },
+    {
+      "term": "cooked",
+      "arabic": "مطبوخ",
+      "unit": 1,
+      "lesson": "4"
+    },
+    {
+      "term": "sea food",
+      "arabic": "مأكولات بحرية",
+      "unit": 1,
+      "lesson": "4"
+    },
+    {
+      "term": "crunchy / crispy",
+      "arabic": "مقرمش",
+      "unit": 1,
+      "lesson": "4"
+    },
+    {
+      "term": "fried",
+      "arabic": "مقلي",
+      "unit": 1,
+      "lesson": "4"
+    },
+    {
+      "term": "cut ... into",
+      "arabic": "يقطع ... إلى",
+      "unit": 1,
+      "lesson": "4"
+    },
+    {
+      "term": "added",
+      "arabic": "يضيف",
+      "unit": 1,
+      "lesson": "4"
+    },
+    {
+      "term": "stressed",
+      "arabic": "متوتر",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "mental health",
+      "arabic": "الصحة العقلية",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "normal",
+      "arabic": "طبيعي",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "organ",
+      "arabic": "عضو",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "absolutely",
+      "arabic": "إطلاقاً / حتماً",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "go for a walk",
+      "arabic": "يذهب في نزهة سيراً على الأقدام",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "lose weight",
+      "arabic": "يفقد الوزن",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "get tired",
+      "arabic": "يتعب",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "stay healthy",
+      "arabic": "يبقى بصحة جيدة",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "make our bodies stronger",
+      "arabic": "تقوي أجسامنا",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "increase",
+      "arabic": "يزيد",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "increased",
+      "arabic": "يزيد",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "try",
+      "arabic": "يجرب / يحاول",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "tried",
+      "arabic": "يجرب / يحاول",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "lose",
+      "arabic": "يفقد",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "lost",
+      "arabic": "يفقد",
+      "unit": 2,
+      "lesson": "1"
+    },
+    {
+      "term": "journey",
+      "arabic": "رحلة",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "changes",
+      "arabic": "تغييرات",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "the best way to",
+      "arabic": "أفضل طريقة لـ",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "followed by",
+      "arabic": "تتبعه / يليه",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "all day",
+      "arabic": "طول اليوم",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "then and now",
+      "arabic": "بين الماضي والحاضر",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "used to",
+      "arabic": "اعتاد أن",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "change",
+      "arabic": "يتغير",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "changed",
+      "arabic": "يتغير",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "bake",
+      "arabic": "يخبز / يحمص",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "replaced",
+      "arabic": "يستبدل",
+      "unit": 2,
+      "lesson": "2"
+    },
+    {
+      "term": "blood",
+      "arabic": "دم",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "blood vessels",
+      "arabic": "الأوعية الدموية",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "fist",
+      "arabic": "قبضة/قبضة اليد",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "alive",
+      "arabic": "على قيد الحياة",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "tips",
+      "arabic": "نصائح",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "gas",
+      "arabic": "غاز",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "pump",
+      "arabic": "مضخة",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "get sick",
+      "arabic": "يمرض",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "keep ... from",
+      "arabic": "يمنع ... من",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "pumped",
+      "arabic": "يضخ",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "hurt",
+      "arabic": "يجرح",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "beat",
+      "arabic": "ينبض",
+      "unit": 2,
+      "lesson": "3"
+    },
+    {
+      "term": "treatment",
+      "arabic": "علاج",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "healthcare",
+      "arabic": "الرعاية الصحية",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "diseases",
+      "arabic": "أمراض",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "illnesses",
+      "arabic": "أمراض",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "skills",
+      "arabic": "مهارات",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "harmful",
+      "arabic": "ضار",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "toothpaste",
+      "arabic": "معجون أسنان",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "knowledge",
+      "arabic": "معرفة",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "stethoscope",
+      "arabic": "سماعة الطبيب",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "life saver",
+      "arabic": "منقذ",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "real-life heroes",
+      "arabic": "أبطال من الحياة الواقعية",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "on the spot",
+      "arabic": "في الحال / فوراً",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "work day and night",
+      "arabic": "العمل ليلاً ونهاراً",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "work around the clock",
+      "arabic": "العمل على مدار الساعة",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "show respect",
+      "arabic": "يظهر الاحترام",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "give advice",
+      "arabic": "يعطي نصيحة",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "receive",
+      "arabic": "يستلم",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "received",
+      "arabic": "يستلم",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "treated",
+      "arabic": "يعالج",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "respond",
+      "arabic": "يرد / يستجيب",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "responded",
+      "arabic": "يرد / يستجيب",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "diagnosed",
+      "arabic": "يشخص",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "encouraged",
+      "arabic": "يشجع",
+      "unit": 2,
+      "lesson": "4"
+    },
+    {
+      "term": "thunderstorm",
+      "arabic": "عاصفة رعدية",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "sandstorm",
+      "arabic": "عاصفة رملية",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "flood",
+      "arabic": "فيضان / يفيض",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "drought",
+      "arabic": "جفاف",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "wildfire",
+      "arabic": "حرائق الغابات",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "heat wave",
+      "arabic": "موجة حارة",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "damaged",
+      "arabic": "مدمر / محطم",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "severe/extreme",
+      "arabic": "قاسٍ/شديد",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "warnings",
+      "arabic": "تحذيرات",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "wonders",
+      "arabic": "عجائب",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "awful / terrible",
+      "arabic": "فظيع / سيء للغاية",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "What a pity!",
+      "arabic": "يا للأسف!",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "burn down",
+      "arabic": "يحرق كلياً",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "prevent ... from",
+      "arabic": "يمنع ... من",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "prevent",
+      "arabic": "يمنع",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "prevented",
+      "arabic": "يمنع",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "cover",
+      "arabic": "يغطي",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "spread",
+      "arabic": "ينتشر",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "hit",
+      "arabic": "يصطدم",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "struck",
+      "arabic": "يضرب / يهاجم",
+      "unit": 3,
+      "lesson": "1"
+    },
+    {
+      "term": "mud bricks",
+      "arabic": "قوالب من الطوب اللبن",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "rich soil",
+      "arabic": "تربة خصبة",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "irrigation",
+      "arabic": "الري",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "basin",
+      "arabic": "حوض مائي",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "thick",
+      "arabic": "سميك",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "modern",
+      "arabic": "حديث",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "possible",
+      "arabic": "ممكن / محتمل",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "farming",
+      "arabic": "الزراعة",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "Khamsin",
+      "arabic": "رياح الخماسين",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "even in the desert",
+      "arabic": "حتى في الصحراء",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "It was hard to + inf.",
+      "arabic": "كان من الصعب أن...",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "over their fields",
+      "arabic": "فوق حقولهم",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "winds with sand",
+      "arabic": "رياح محملة بالرمال",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "control",
+      "arabic": "يتحكم",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "controlled",
+      "arabic": "يتحكم",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "damage",
+      "arabic": "يدمر",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "bring",
+      "arabic": "يجلب / يحضر",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "brought",
+      "arabic": "يجلب / يحضر",
+      "unit": 3,
+      "lesson": "2"
+    },
+    {
+      "term": "deep",
+      "arabic": "عميق",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "leap",
+      "arabic": "يقفز / ينب",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "[be] able to",
+      "arabic": "قادر على",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "any longer",
+      "arabic": "لم يعد",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "think for a moment",
+      "arabic": "يفكر للحظة",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "at the bottom of",
+      "arabic": "في أسفل",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "near the edge of",
+      "arabic": "بالقرب من حافة",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "make a decision",
+      "arabic": "يتخذ قرار",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "decide",
+      "arabic": "يقرر",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "decided",
+      "arabic": "يقرر",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "agreed",
+      "arabic": "يوافق",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "searched",
+      "arabic": "يبحث",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "swim",
+      "arabic": "يسبح",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "swam",
+      "arabic": "يسبح",
+      "unit": 3,
+      "lesson": "3"
+    },
+    {
+      "term": "joy",
+      "arabic": "فرح / سعادة",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "weather conditions",
+      "arabic": "أحوال جوية",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "strange",
+      "arabic": "غريب",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "brightly",
+      "arabic": "بشكل ساطع / لامع",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "side",
+      "arabic": "جانب",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "think hard",
+      "arabic": "يفكر بعمق",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "upside down",
+      "arabic": "في الوضع المقلوب / رأساً على عقب",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "turn right side up",
+      "arabic": "يقلب إلى الجهة الصحيحة",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "turn over",
+      "arabic": "يقلب (سينياً)",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "flipped",
+      "arabic": "يقلب",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "floated",
+      "arabic": "يطفو",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "clapped",
+      "arabic": "يصفق",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "whispered",
+      "arabic": "يهمُس",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "seem",
+      "arabic": "يبدو",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "seemed",
+      "arabic": "يبدو",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "shine",
+      "arabic": "يشرق",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "shone",
+      "arabic": "يشرق",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "thought",
+      "arabic": "يفكر",
+      "unit": 3,
+      "lesson": "4"
+    },
+    {
+      "term": "coffee shop",
+      "arabic": "مقهى",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "bakery",
+      "arabic": "مخبز",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "supermarket",
+      "arabic": "سوبر ماركت",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "club",
+      "arabic": "نادي",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "theme park",
+      "arabic": "مدينة ملاهي",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "loaf / loaves",
+      "arabic": "رغيف / أرغفة",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "waiter",
+      "arabic": "جرسون",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "rides",
+      "arabic": "ألعاب ملاهي",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "personally",
+      "arabic": "شخصياً",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "relaxing",
+      "arabic": "مريح",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "hang out with",
+      "arabic": "يقضي وقتاً مع",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "come with",
+      "arabic": "يأتي مع",
+      "unit": 4,
+      "lesson": "1"
+    },
+    {
+      "term": "community center",
+      "arabic": "مركز مجتمعي",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "main square",
+      "arabic": "الساحة الرئيسية",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "quiet / calm",
+      "arabic": "هادئ / صامت",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "keep animals",
+      "arabic": "يربي حيوانات",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "shopped",
+      "arabic": "يتسوق",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "met",
+      "arabic": "يقابل",
+      "unit": 4,
+      "lesson": "2"
+    },
+    {
+      "term": "crowding",
+      "arabic": "ازدحام",
+      "unit": 4,
+      "lesson": "4"
+    },
+    {
+      "term": "steel",
+      "arabic": "فولاذ / صلب",
+      "unit": 4,
+      "lesson": "4"
+    },
+    {
+      "term": "roads",
+      "arabic": "طرق",
+      "unit": 4,
+      "lesson": "4"
+    },
+    {
+      "term": "airport",
+      "arabic": "مطار",
+      "unit": 4,
+      "lesson": "4"
+    },
+    {
+      "term": "green areas",
+      "arabic": "مساحات خضراء",
+      "unit": 4,
+      "lesson": "4"
+    },
+    {
+      "term": "modern technology",
+      "arabic": "التكنولوجيا الحديثة",
+      "unit": 4,
+      "lesson": "4"
+    },
+    {
+      "term": "made of",
+      "arabic": "مصنوع من",
+      "unit": 4,
+      "lesson": "4"
+    },
+    {
+      "term": "from the top",
+      "arabic": "من الأعلى",
+      "unit": 4,
+      "lesson": "4"
+    },
+    {
+      "term": "designed",
+      "arabic": "يصمم",
+      "unit": 4,
+      "lesson": "4"
+    },
+    {
+      "term": "manage",
+      "arabic": "يتحكم / يدير",
+      "unit": 4,
+      "lesson": "4"
+    },
+    {
+      "term": "managed",
+      "arabic": "يتحكم / يدير",
+      "unit": 4,
+      "lesson": "4"
+    },
+    {
+      "term": "electricity",
+      "arabic": "كهرباء",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "natural gas",
+      "arabic": "الغاز الطبيعي",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "jewelry",
+      "arabic": "مجوهرات",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "fabric",
+      "arabic": "قماش",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "fertile",
+      "arabic": "خصب",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "iron",
+      "arabic": "حديد",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "work for",
+      "arabic": "يعمل لدى / في",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "Well done! = Excellent",
+      "arabic": "أحسنت!",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "named",
+      "arabic": "يذكر/يسمي",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "power",
+      "arabic": "يزود بالطاقة",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "powered",
+      "arabic": "يزود بالطاقة",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "contain",
+      "arabic": "يحتوي على",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "contained",
+      "arabic": "يحتوي على",
+      "unit": 5,
+      "lesson": "1"
+    },
+    {
+      "term": "mineral resources",
+      "arabic": "موارد معدنية",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "non-renewable",
+      "arabic": "غير متجدد",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "miners",
+      "arabic": "عمال المناجم",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "precious",
+      "arabic": "ثمين/نفيس",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "valuable",
+      "arabic": "ذو قيمة",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "bright/shiny",
+      "arabic": "لامع / ذو بريق",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "rare",
+      "arabic": "نادر",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "super strong",
+      "arabic": "فائق القوة",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "materials",
+      "arabic": "مواد خام",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "ship",
+      "arabic": "سفينة",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "cheaper",
+      "arabic": "أرخص ثمناً",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "the Eastern Desert",
+      "arabic": "الصحراء الشرقية",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "dig deep into the ground",
+      "arabic": "يحفر بعمق تحت الأرض",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "use .... wisely",
+      "arabic": "يستخدم .... بحكمة",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "easy to shape",
+      "arabic": "سهل التشكيل",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "take millions of years",
+      "arabic": "تستغرق ملايين السنين",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "wasted",
+      "arabic": "يهدر",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "dug",
+      "arabic": "يحفر",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "get",
+      "arabic": "يحصل على",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "got",
+      "arabic": "يحصل على",
+      "unit": 5,
+      "lesson": "2"
+    },
+    {
+      "term": "popular",
+      "arabic": "مشهور / معروف",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "clear",
+      "arabic": "نظيف / واضح",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "grateful",
+      "arabic": "شاكر / ممتن",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "give up",
+      "arabic": "يستسلم",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "doesn't matter",
+      "arabic": "لا يهم",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "ready to help",
+      "arabic": "مستعد للمساعدة",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "something went wrong",
+      "arabic": "حدث خطأ ما",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "take a long time",
+      "arabic": "يستغرق وقتاً طويلاً",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "stare",
+      "arabic": "يحدق",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "stared",
+      "arabic": "يحدق",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "rush",
+      "arabic": "يسرع",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "bother",
+      "arabic": "يزعج / يضايق",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "bothered",
+      "arabic": "يزعج / يضايق",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "sail",
+      "arabic": "يبحر",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "sailed",
+      "arabic": "يبحر",
+      "unit": 5,
+      "lesson": "3"
+    },
+    {
+      "term": "still",
+      "arabic": "ساكن",
+      "unit": 5,
+      "lesson": "4"
+    },
+    {
+      "term": "wild",
+      "arabic": "شديد / قاسي",
+      "unit": 5,
+      "lesson": "4"
+    },
+    {
+      "term": "treasured",
+      "arabic": "مقدر / غال",
+      "unit": 5,
+      "lesson": "4"
+    },
+    {
+      "term": "have no shape",
+      "arabic": "ليس له شكل",
+      "unit": 5,
+      "lesson": "4"
+    },
+    {
+      "term": "search for",
+      "arabic": "يبحث عن",
+      "unit": 5,
+      "lesson": "4"
+    },
+    {
+      "term": "part of",
+      "arabic": "جزء من",
+      "unit": 5,
+      "lesson": "4"
+    },
+    {
+      "term": "without me",
+      "arabic": "بدوني",
+      "unit": 5,
+      "lesson": "4"
+    },
+    {
+      "term": "destroyed",
+      "arabic": "يدمر",
+      "unit": 5,
+      "lesson": "4"
+    },
+    {
+      "term": "cry",
+      "arabic": "يبكي",
+      "unit": 5,
+      "lesson": "4"
+    },
+    {
+      "term": "cried",
+      "arabic": "يبكي",
+      "unit": 5,
+      "lesson": "4"
+    },
+    {
+      "term": "danced",
+      "arabic": "يرقص",
+      "unit": 5,
+      "lesson": "4"
+    },
+    {
+      "term": "freeze",
+      "arabic": "يجمد",
+      "unit": 5,
+      "lesson": "4"
+    },
+    {
+      "term": "froze",
+      "arabic": "يجمد",
+      "unit": 5,
+      "lesson": "4"
+    },
+    {
+      "term": "fall",
+      "arabic": "يسقط",
+      "unit": 5,
+      "lesson": "4"
+    },
+    {
+      "term": "fell",
+      "arabic": "يسقط",
+      "unit": 5,
+      "lesson": "4"
+    }
+  ],
+  "exact_matches": [
+    {
+      "term": "roads",
+      "arabic": "طرق",
+      "unit": 4,
+      "lesson": "4",
+      "image_name": "Cars_driving_on_winding_roads_202608212032.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cars_driving_on_winding_roads_202608212032.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "rides",
+      "arabic": "ألعاب ملاهي",
+      "unit": 4,
+      "lesson": "1",
+      "image_name": "Cartoon_amusement_park_rides_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_amusement_park_rides_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "relaxing",
+      "arabic": "مريح",
+      "unit": 4,
+      "lesson": "1",
+      "image_name": "Cartoon_character_relaxing_in_ha…_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_character_relaxing_in_ha…_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "affected",
+      "arabic": "يؤثر على",
+      "unit": 1,
+      "lesson": "1",
+      "image_name": "Droopy_plant_affected_by_heat_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Droopy_plant_affected_by_heat_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "sandstorm",
+      "arabic": "عاصفة رملية",
+      "unit": 3,
+      "lesson": "1",
+      "image_name": "Sandstorm_in_desert_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Sandstorm_in_desert_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "deep",
+      "arabic": "عميق",
+      "unit": 3,
+      "lesson": "3",
+      "image_name": "Small_boat_on_deep_ocean_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Small_boat_on_deep_ocean_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "coffee shop",
+      "arabic": "مقهى",
+      "unit": 4,
+      "lesson": "1",
+      "image_name": "Cartoon_coffee_shop_with_outdoor…_202608212032.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_coffee_shop_with_outdoor…_202608212032.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "side",
+      "arabic": "جانب",
+      "unit": 3,
+      "lesson": "4",
+      "image_name": "Cartoon_cube_with_red_side_202608212032.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_cube_with_red_side_202608212032.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "flood",
+      "arabic": "فيضان / يفيض",
+      "unit": 3,
+      "lesson": "1",
+      "image_name": "Flood_covering_street_and_houses_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Flood_covering_street_and_houses_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "miners",
+      "arabic": "عمال المناجم",
+      "unit": 5,
+      "lesson": "2",
+      "image_name": "Cartoon_miners_holding_picks_in_202608212032.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_miners_holding_picks_in_202608212032.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "supermarket",
+      "arabic": "سوبر ماركت",
+      "unit": 4,
+      "lesson": "1",
+      "image_name": "Cartoon_supermarket_with_fruits_…_202608212032.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_supermarket_with_fruits_…_202608212032.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "waiter",
+      "arabic": "جرسون",
+      "unit": 4,
+      "lesson": "1",
+      "image_name": "Cartoon_waiter_carrying_juice_tray_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_waiter_carrying_juice_tray_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "grilled",
+      "arabic": "مشوي",
+      "unit": 1,
+      "lesson": "4",
+      "image_name": "Grilled_corn_and_vegetables_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Grilled_corn_and_vegetables_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "fist",
+      "arabic": "قبضة/قبضة اليد",
+      "unit": 2,
+      "lesson": "3",
+      "image_name": "Hand_showing_fist_shape_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Hand_showing_fist_shape_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "steel",
+      "arabic": "فولاذ / صلب",
+      "unit": 4,
+      "lesson": "4",
+      "image_name": "Steel_beams_building_tall_structure_202608212032.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Steel_beams_building_tall_structure_202608212032.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "stethoscope",
+      "arabic": "سماعة الطبيب",
+      "unit": 2,
+      "lesson": "4",
+      "image_name": "Stethoscope_illustration_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Stethoscope_illustration_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "basin",
+      "arabic": "حوض مائي",
+      "unit": 3,
+      "lesson": "2",
+      "image_name": "Stone_basin_filled_with_water_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Stone_basin_filled_with_water_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "basin",
+      "arabic": "حوض مائي",
+      "unit": 3,
+      "lesson": "2",
+      "image_name": "Stone_basin_with_water_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Stone_basin_with_water_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "stressed",
+      "arabic": "متوتر",
+      "unit": 2,
+      "lesson": "1",
+      "image_name": "Stressed_cartoon_character_among…_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Stressed_cartoon_character_among…_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "supermarket",
+      "arabic": "سوبر ماركت",
+      "unit": 4,
+      "lesson": "1",
+      "image_name": "Supermarket_shelf_with_products_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Supermarket_shelf_with_products_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "thick",
+      "arabic": "سميك",
+      "unit": 3,
+      "lesson": "2",
+      "image_name": "Thick_book_and_thin_pencil_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Thick_book_and_thin_pencil_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "thick",
+      "arabic": "سميك",
+      "unit": 3,
+      "lesson": "2",
+      "image_name": "Thick_cartoon_book_and_pencil_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Thick_cartoon_book_and_pencil_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "thunderstorm",
+      "arabic": "عاصفة رعدية",
+      "unit": 3,
+      "lesson": "1",
+      "image_name": "Thunderstorm_over_forest_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Thunderstorm_over_forest_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "toothpaste",
+      "arabic": "معجون أسنان",
+      "unit": 2,
+      "lesson": "4",
+      "image_name": "Toothpaste_and_toothbrush_illust…_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Toothpaste_and_toothbrush_illust…_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "wildfire",
+      "arabic": "حرائق الغابات",
+      "unit": 3,
+      "lesson": "1",
+      "image_name": "Trees_burning_in_forest_wildfire_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Trees_burning_in_forest_wildfire_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "skills",
+      "arabic": "مهارات",
+      "unit": 2,
+      "lesson": "4",
+      "image_name": "Hands_demonstrating_skills_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Hands_demonstrating_skills_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "tips",
+      "arabic": "نصائح",
+      "unit": 2,
+      "lesson": "3",
+      "image_name": "Icons_showing_health_tips_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Icons_showing_health_tips_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "ingredients",
+      "arabic": "مكونات / مقادير",
+      "unit": 1,
+      "lesson": "4",
+      "image_name": "Ingredients_for_cooking_on_counter_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Ingredients_for_cooking_on_counter_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "Khamsin",
+      "arabic": "رياح الخماسين",
+      "unit": 3,
+      "lesson": "2",
+      "image_name": "Khamsin_wind_blowing_palm_trees_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Khamsin_wind_blowing_palm_trees_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "hide",
+      "arabic": "يختبئ",
+      "unit": 1,
+      "lesson": "2",
+      "image_name": "Child_playing_hide_and_seek_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_playing_hide_and_seek_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "pumped",
+      "arabic": "يضخ",
+      "unit": 2,
+      "lesson": "3",
+      "image_name": "Liquid_pumped_upwards_in_tube_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Liquid_pumped_upwards_in_tube_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "pump",
+      "arabic": "مضخة",
+      "unit": 2,
+      "lesson": "3",
+      "image_name": "Mechanical_pump_moving_water_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Mechanical_pump_moving_water_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "modern",
+      "arabic": "حديث",
+      "unit": 3,
+      "lesson": "2",
+      "image_name": "Modern_city_with_solar_panels_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Modern_city_with_solar_panels_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "mud bricks",
+      "arabic": "قوالب من الطوب اللبن",
+      "unit": 3,
+      "lesson": "2",
+      "image_name": "Mud_bricks_drying_in_sun_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Mud_bricks_drying_in_sun_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "recipe",
+      "arabic": "وصفة طهي",
+      "unit": 1,
+      "lesson": "4",
+      "image_name": "Open_cookbook_showing_food_recipe_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Open_cookbook_showing_food_recipe_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "thought",
+      "arabic": "يفكر",
+      "unit": 3,
+      "lesson": "4",
+      "image_name": "Child_thinking_with_thought_bubble_202608212032.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_thinking_with_thought_bubble_202608212032.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "heat wave",
+      "arabic": "موجة حارة",
+      "unit": 3,
+      "lesson": "1",
+      "image_name": "People_enduring_summer_heat_wave_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/People_enduring_summer_heat_wave_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "airport",
+      "arabic": "مطار",
+      "unit": 4,
+      "lesson": "4",
+      "image_name": "Airplane_taking_off_from_airport_202608212032.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Airplane_taking_off_from_airport_202608212032.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "bakery",
+      "arabic": "مخبز",
+      "unit": 4,
+      "lesson": "1",
+      "image_name": "Bakery_window_displaying_bread_c…_202608212032.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Bakery_window_displaying_bread_c…_202608212032.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "increase",
+      "arabic": "يزيد",
+      "unit": 2,
+      "lesson": "1",
+      "image_name": "Bar_chart_showing_upward_increase_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Bar_chart_showing_upward_increase_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "fabric",
+      "arabic": "قماش",
+      "unit": 5,
+      "lesson": "1",
+      "image_name": "Colorful_fabric_rolls_with_patterns_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Colorful_fabric_rolls_with_patterns_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "damaged",
+      "arabic": "مدمر / محطم",
+      "unit": 3,
+      "lesson": "1",
+      "image_name": "Damaged_toy_car_with_scratches_202608212034.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Damaged_toy_car_with_scratches_202608212034.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "blood vessels",
+      "arabic": "الأوعية الدموية",
+      "unit": 2,
+      "lesson": "3",
+      "image_name": "Diagram_of_blood_vessels_in_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Diagram_of_blood_vessels_in_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "blood",
+      "arabic": "دم",
+      "unit": 2,
+      "lesson": "3",
+      "image_name": "Red_blood_drop_under_microscope_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Red_blood_drop_under_microscope_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    },
+    {
+      "term": "modern",
+      "arabic": "حديث",
+      "unit": 3,
+      "lesson": "2",
+      "image_name": "Rotary_phone_and_modern_smartphone_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Rotary_phone_and_modern_smartphone_202608212033.jpeg",
+      "match_type": "conservative_filename"
+    }
+  ],
+  "candidate_matches": [
+    {
+      "image_name": "Doctor_working_day_and_night_202608212033.jpeg",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Doctor_working_day_and_night_202608212033.jpeg",
+      "term": "work day and night",
+      "arabic": "العمل ليلاً ونهاراً",
+      "shared_tokens": [
+        "day",
+        "night"
+      ],
+      "score": 0.67
+    }
+  ]
+}

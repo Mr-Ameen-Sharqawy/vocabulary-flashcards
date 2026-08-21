@@ -1,0 +1,1507 @@
+{
+  "model": "gpt-5-mini",
+  "allowed_terms": [
+    "scary (adj)",
+    "tiny (adj)",
+    "role",
+    "humans",
+    "home to",
+    "play an important role",
+    "kings of the Nile",
+    "What about ... ?",
+    "affect",
+    "affected",
+    "flowed",
+    "come",
+    "came",
+    "find",
+    "found",
+    "stay in balance",
+    "live",
+    "lived",
+    "hide",
+    "hid",
+    "shade",
+    "shiny",
+    "come back home",
+    "blocked by",
+    "taking care of",
+    "giving back",
+    "rested",
+    "appreciated",
+    "realized",
+    "bent",
+    "began",
+    "mean",
+    "meant",
+    "become",
+    "became",
+    "recipe",
+    "ingredients",
+    "grilled",
+    "flavor",
+    "thin slices",
+    "cooked",
+    "sea food",
+    "crunchy / crispy",
+    "fried",
+    "cut ... into",
+    "added",
+    "stressed",
+    "mental health",
+    "normal",
+    "organ",
+    "absolutely",
+    "go for a walk",
+    "lose weight",
+    "get tired",
+    "stay healthy",
+    "make our bodies stronger",
+    "increase",
+    "increased",
+    "try",
+    "tried",
+    "lose",
+    "lost",
+    "journey",
+    "changes",
+    "the best way to",
+    "followed by",
+    "all day",
+    "then and now",
+    "used to",
+    "change",
+    "changed",
+    "bake",
+    "replaced",
+    "blood",
+    "blood vessels",
+    "fist",
+    "alive",
+    "tips",
+    "gas",
+    "pump",
+    "get sick",
+    "keep ... from",
+    "pumped",
+    "hurt",
+    "beat",
+    "treatment",
+    "healthcare",
+    "diseases",
+    "illnesses",
+    "skills",
+    "harmful",
+    "toothpaste",
+    "knowledge",
+    "stethoscope",
+    "life saver",
+    "real-life heroes",
+    "on the spot",
+    "work day and night",
+    "work around the clock",
+    "show respect",
+    "give advice",
+    "receive",
+    "received",
+    "treated",
+    "respond",
+    "responded",
+    "diagnosed",
+    "encouraged",
+    "thunderstorm",
+    "sandstorm",
+    "flood",
+    "drought",
+    "wildfire",
+    "heat wave",
+    "damaged",
+    "severe/extreme",
+    "warnings",
+    "wonders",
+    "awful / terrible",
+    "What a pity!",
+    "burn down",
+    "prevent ... from",
+    "prevent",
+    "prevented",
+    "cover",
+    "spread",
+    "hit",
+    "struck",
+    "mud bricks",
+    "rich soil",
+    "irrigation",
+    "basin",
+    "thick",
+    "modern",
+    "possible",
+    "farming",
+    "Khamsin",
+    "even in the desert",
+    "It was hard to + inf.",
+    "over their fields",
+    "winds with sand",
+    "control",
+    "controlled",
+    "damage",
+    "bring",
+    "brought",
+    "deep",
+    "leap",
+    "[be] able to",
+    "any longer",
+    "think for a moment",
+    "at the bottom of",
+    "near the edge of",
+    "make a decision",
+    "decide",
+    "decided",
+    "agreed",
+    "searched",
+    "swim",
+    "swam",
+    "joy",
+    "weather conditions",
+    "strange",
+    "brightly",
+    "side",
+    "think hard",
+    "upside down",
+    "turn right side up",
+    "turn over",
+    "flipped",
+    "floated",
+    "clapped",
+    "whispered",
+    "seem",
+    "seemed",
+    "shine",
+    "shone",
+    "thought",
+    "coffee shop",
+    "bakery",
+    "supermarket",
+    "club",
+    "theme park",
+    "loaf / loaves",
+    "waiter",
+    "rides",
+    "personally",
+    "relaxing",
+    "hang out with",
+    "come with",
+    "community center",
+    "main square",
+    "quiet / calm",
+    "keep animals",
+    "shopped",
+    "met",
+    "crowding",
+    "steel",
+    "roads",
+    "airport",
+    "green areas",
+    "modern technology",
+    "made of",
+    "from the top",
+    "designed",
+    "manage",
+    "managed",
+    "electricity",
+    "natural gas",
+    "jewelry",
+    "fabric",
+    "fertile",
+    "iron",
+    "work for",
+    "Well done! = Excellent",
+    "named",
+    "power",
+    "powered",
+    "contain",
+    "contained",
+    "mineral resources",
+    "non-renewable",
+    "miners",
+    "precious",
+    "valuable",
+    "bright/shiny",
+    "rare",
+    "super strong",
+    "materials",
+    "ship",
+    "cheaper",
+    "the Eastern Desert",
+    "dig deep into the ground",
+    "use .... wisely",
+    "easy to shape",
+    "take millions of years",
+    "wasted",
+    "dug",
+    "get",
+    "got",
+    "popular",
+    "clear",
+    "grateful",
+    "give up",
+    "doesn't matter",
+    "ready to help",
+    "something went wrong",
+    "take a long time",
+    "stare",
+    "stared",
+    "rush",
+    "bother",
+    "bothered",
+    "sail",
+    "sailed",
+    "still",
+    "wild",
+    "treasured",
+    "have no shape",
+    "search for",
+    "part of",
+    "without me",
+    "destroyed",
+    "cry",
+    "cried",
+    "danced",
+    "freeze",
+    "froze",
+    "fall",
+    "fell"
+  ],
+  "suggestions": [
+    {
+      "image_name": "Cactus_blooming_with_pink_flower_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Shows a blooming cactus but none of the allowed terms (e.g., 'alive') match unambiguously from the image alone."
+    },
+    {
+      "image_name": "Cartoon_anchor_in_ocean_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "An anchor in the ocean does not directly teach any exact allowed term."
+    },
+    {
+      "image_name": "Cartoon_architect_drawing_house_…_202608212032.jpeg",
+      "term": "designed",
+      "confidence": "medium",
+      "reason": "An architect drawing a house clearly represents the act of designing; maps to the allowed term 'designed'."
+    },
+    {
+      "image_name": "Cartoon_ball_hitting_wall_202608212034.jpeg",
+      "term": "hit",
+      "confidence": "high",
+      "reason": "A ball striking a wall directly illustrates the verb 'hit'."
+    },
+    {
+      "image_name": "Cartoon_bat_hanging_from_branch_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "A bat hanging is shown, but no exact allowed term (e.g., 'hide', 'rested') is unambiguously taught by the image."
+    },
+    {
+      "image_name": "Cartoon_battery_with_glowing_energy_202608212032.jpeg",
+      "term": "power",
+      "confidence": "high",
+      "reason": "A glowing battery represents electrical power; directly corresponds to the allowed term 'power'."
+    },
+    {
+      "image_name": "Cartoon_bird_flying_over_crops_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "A bird flying over crops does not unambiguously match any single allowed term."
+    },
+    {
+      "image_name": "Cartoon_bread_loaves_count_compa…_202608212034.jpeg",
+      "term": "loaf / loaves",
+      "confidence": "high",
+      "reason": "Image of bread loaves directly matches the allowed term 'loaf / loaves'."
+    },
+    {
+      "image_name": "Cartoon_cat_looking_at_square_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "A cat looking at an object could be 'stare' or just 'look'; not unambiguous for the exact allowed terms."
+    },
+    {
+      "image_name": "Cartoon_cat_sleeping_on_pillow_202608212033.jpeg",
+      "term": "rested",
+      "confidence": "medium",
+      "reason": "A cat sleeping on a pillow depicts resting, which maps to the allowed term 'rested'."
+    },
+    {
+      "image_name": "Cartoon_character_pushing_boulder_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Pushing a boulder suggests effort or trying, but no single allowed term fits unambiguously."
+    },
+    {
+      "image_name": "Cartoon_character_tasting_awful_…_202608212034.jpeg",
+      "term": "awful / terrible",
+      "confidence": "high",
+      "reason": "Character tasting something awful directly illustrates the allowed expression 'awful / terrible'."
+    },
+    {
+      "image_name": "Cartoon_character_thinking_hard_202608212032.jpeg",
+      "term": "think hard",
+      "confidence": "high",
+      "reason": "A character thinking intensely directly matches the allowed term 'think hard'."
+    },
+    {
+      "image_name": "Cartoon_character_wiping_sweat_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Wiping sweat could indicate tiredness, heat, or stress; the exact allowed term is ambiguous from the image alone."
+    },
+    {
+      "image_name": "Doctor_and_nurse_standing_outside_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Doctors/nurses standing outside do not unambiguously teach any single allowed term (e.g., 'real-life heroes' would be an interpretation)."
+    },
+    {
+      "image_name": "Doctor_bandaging_child_arm_202608212034.jpeg",
+      "term": "treated",
+      "confidence": "high",
+      "reason": "Bandaging a child's arm is a clear example of giving medical care—matches the allowed term 'treated'."
+    },
+    {
+      "image_name": "Doctor_checking_child_heartbeat_202608212033.jpeg",
+      "term": "stethoscope",
+      "confidence": "high",
+      "reason": "A doctor checking a child's heartbeat will show a stethoscope, directly matching the allowed term 'stethoscope'."
+    },
+    {
+      "image_name": "Doctor_explaining_X-ray_results_202608212034.jpeg",
+      "term": "diagnosed",
+      "confidence": "medium",
+      "reason": "Explaining X-ray results is associated with making a diagnosis; maps to 'diagnosed', though the image could also just be explanation without diagnosis."
+    },
+    {
+      "image_name": "Doctor_working_day_and_night_202608212033.jpeg",
+      "term": "work day and night",
+      "confidence": "high",
+      "reason": "The filename explicitly indicates the doctor is working day and night, matching the allowed term exactly."
+    },
+    {
+      "image_name": "Dolphin_leaping_from_ocean_water_202608212032.jpeg",
+      "term": "leap",
+      "confidence": "high",
+      "reason": "A dolphin leaping from the water directly illustrates the verb 'leap'."
+    },
+    {
+      "image_name": "Ducklings_following_their_mother_202608212033.jpeg",
+      "term": "followed by",
+      "confidence": "high",
+      "reason": "Ducklings are literally following their mother, which directly illustrates 'followed by.'"
+    },
+    {
+      "image_name": "Farmer_driving_red_tractor_202608212034.jpeg",
+      "term": "farming",
+      "confidence": "high",
+      "reason": "A farmer driving a tractor is clearly performing farming work."
+    },
+    {
+      "image_name": "Farmer_keeping_farm_animals_202608212032.jpeg",
+      "term": "keep animals",
+      "confidence": "high",
+      "reason": "The farmer is shown caring for/keeping farm animals, directly matching 'keep animals.'"
+    },
+    {
+      "image_name": "Farmer_planting_seeds_202608212034.jpeg",
+      "term": "farming",
+      "confidence": "high",
+      "reason": "Planting seeds is an unambiguous farming activity."
+    },
+    {
+      "image_name": "Runner_starting_race_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "The image shows running/starting a race, but no exact matching allowed term (e.g., 'run') is available."
+    },
+    {
+      "image_name": "Sad_child_losing_marbles_game_202608212033.jpeg",
+      "term": "lose",
+      "confidence": "high",
+      "reason": "The child is losing a marbles game, directly illustrating 'lose.'"
+    },
+    {
+      "image_name": "Safety_fence_around_swimming_pool_202608212034.jpeg",
+      "term": "prevent",
+      "confidence": "high",
+      "reason": "A safety fence is used to prevent access/accidents at the pool, directly matching 'prevent.'"
+    },
+    {
+      "image_name": "Sand_blowing_across_desert_202608212034.jpeg",
+      "term": "sandstorm",
+      "confidence": "high",
+      "reason": "Blowing sand across a desert directly depicts a sandstorm."
+    },
+    {
+      "image_name": "Silver_star_illustration_smiling_202608212033.jpeg",
+      "term": "shiny",
+      "confidence": "high",
+      "reason": "A silver star illustration implies a shiny object, matching 'shiny.'"
+    },
+    {
+      "image_name": "Sleepy_child_yawning_at_night_202608212032.jpeg",
+      "term": "get tired",
+      "confidence": "high",
+      "reason": "A yawning, sleepy child directly illustrates being tired—'get tired.'"
+    },
+    {
+      "image_name": "Spatula_turning_cartoon_pancake_202608212032.jpeg",
+      "term": "flipped",
+      "confidence": "high",
+      "reason": "A spatula turning a pancake directly shows the pancake being flipped."
+    },
+    {
+      "image_name": "Sprout_growing_from_soil_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "The sprout shows plant growth, but no exact allowed term like 'grow' or 'sprout' appears in the allowed list."
+    },
+    {
+      "image_name": "Squirrel_burying_a_nut_202608212033.jpeg",
+      "term": "hide",
+      "confidence": "high",
+      "reason": "A squirrel burying a nut is clearly hiding it, matching 'hide.'"
+    },
+    {
+      "image_name": "Cartoon_character_with_thermometer_202608212033.jpeg",
+      "term": "get sick",
+      "confidence": "high",
+      "reason": "A character with a thermometer clearly indicates illness, matching 'get sick.'"
+    },
+    {
+      "image_name": "Cartoon_child_beckoning_playground_202608212032.jpeg",
+      "term": "come",
+      "confidence": "high",
+      "reason": "A child beckoning is clearly inviting someone to come, directly illustrating 'come.'"
+    },
+    {
+      "image_name": "Cartoon_child_pointing_to_themse…_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "The filename suggests pointing to themselves, but the exact intent is unclear and no precise allowed term unambiguously matches."
+    },
+    {
+      "image_name": "Cartoon_child_reading_calmly_202608212032.jpeg",
+      "term": "quiet / calm",
+      "confidence": "high",
+      "reason": "A child reading calmly illustrates a quiet/calm state."
+    },
+    {
+      "image_name": "Cartoon_cloud_shaped_like_bird_202608212032.jpeg",
+      "term": "strange",
+      "confidence": "medium",
+      "reason": "A cloud shaped like a bird is unusual; 'strange' fits though it is somewhat subjective."
+    },
+    {
+      "image_name": "Cartoon_coal_and_empty_hourglass_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "The combination of coal and an empty hourglass is ambiguous; no exact allowed term unambiguously fits."
+    },
+    {
+      "image_name": "Cartoon_dog_bringing_ball_202608212032.jpeg",
+      "term": "bring",
+      "confidence": "high",
+      "reason": "A dog bringing a ball directly illustrates the action 'bring.'"
+    },
+    {
+      "image_name": "Cartoon_fish_swimming_in_water_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Image shows a fish swimming but no single allowed term directly and unambiguously matches this action (e.g., 'swim' is not in the allowed list)."
+    },
+    {
+      "image_name": "Cartoon_germs_under_magnifying_g…_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Shows germs under a magnifier but none of the allowed terms (e.g., 'germs', 'infected') appear in the list to match unambiguously."
+    },
+    {
+      "image_name": "Cartoon_girl_choosing_fruit_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Girl choosing fruit could imply buying/eating/trying, but no single allowed term directly matches that action."
+    },
+    {
+      "image_name": "Cartoon_gold_coin_flipping_202608212032.jpeg",
+      "term": "flipped",
+      "confidence": "high",
+      "reason": "A coin being flipped directly corresponds to the term 'flipped'."
+    },
+    {
+      "image_name": "Cartoon_hands_clapping_together_202608212032.jpeg",
+      "term": "clapped",
+      "confidence": "high",
+      "reason": "Hands clapping clearly depicts the past action 'clapped'."
+    },
+    {
+      "image_name": "Cartoon_house_with_robot_and_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "House with a robot could suggest many allowed terms (home to, modern, powered) but none match unambiguously from this image alone."
+    },
+    {
+      "image_name": "Cartoon_kitchen_stove_burning_flame_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "A stove flame suggests cooking or heat, but no single allowed term unambiguously matches this specific image."
+    },
+    {
+      "image_name": "Cartoon_kitten_sitting_on_table_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Kitten sitting on a table does not directly and unambiguously match any single allowed term."
+    },
+    {
+      "image_name": "Flexible_straw_bending_curve_202608212033.jpeg",
+      "term": "bent",
+      "confidence": "high",
+      "reason": "A flexible straw that is bent directly matches the term 'bent'."
+    },
+    {
+      "image_name": "Flower_blooming_in_dry_desert_202608212034.jpeg",
+      "term": "even in the desert",
+      "confidence": "medium",
+      "reason": "A flower blooming in a dry desert visually supports the idea 'even in the desert', though other interpretations are possible."
+    },
+    {
+      "image_name": "Four_seasons_changing_around_tree_202608212033.jpeg",
+      "term": "changes",
+      "confidence": "high",
+      "reason": "Seasons changing around a tree directly illustrates the concept of 'changes'."
+    },
+    {
+      "image_name": "Friends_sitting_and_talking_202608212033.jpeg",
+      "term": "hang out with",
+      "confidence": "high",
+      "reason": "Friends sitting and talking clearly depicts people 'hang out with' one another."
+    },
+    {
+      "image_name": "Frog_leaping_between_lily_pads_202608212034.jpeg",
+      "term": "leap",
+      "confidence": "high",
+      "reason": "A frog jumping between lily pads directly shows the action 'leap'."
+    },
+    {
+      "image_name": "Girl_examining_map_with_magnifier_202608212033.jpeg",
+      "term": "search for",
+      "confidence": "medium",
+      "reason": "A girl studying a map with a magnifier suggests she is trying to 'search for' a place or route; reasonable but not the only interpretation."
+    },
+    {
+      "image_name": "Glass_being_filled_with_water_202608212033.jpeg",
+      "term": "flowed",
+      "confidence": "medium",
+      "reason": "Water being poured into a glass shows liquid movement that can be described as having 'flowed'."
+    },
+    {
+      "image_name": "Glass_jar_containing_colorful_ma…_202608212032.jpeg",
+      "term": "contain",
+      "confidence": "high",
+      "reason": "A glass jar holding colorful marbles directly demonstrates the verb 'contain'."
+    },
+    {
+      "image_name": "Glowing_cartoon_diamond_on_cushion_202608212032.jpeg",
+      "term": "bright/shiny",
+      "confidence": "high",
+      "reason": "A glowing diamond clearly conveys 'bright/shiny'."
+    },
+    {
+      "image_name": "Gold_rings_and_necklaces_in_202608212034.jpeg",
+      "term": "jewelry",
+      "confidence": "high",
+      "reason": "Gold rings and necklaces are unambiguously 'jewelry'."
+    },
+    {
+      "image_name": "Cartoon_monster_making_silly_face_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "A monster making a silly face could be 'scary' or 'strange' or playful; no single allowed term fits unambiguously."
+    },
+    {
+      "image_name": "Cartoon_moon_shining_over_house_202608212032.jpeg",
+      "term": "shine",
+      "confidence": "high",
+      "reason": "A moon shining over a house directly illustrates the verb 'shine'."
+    },
+    {
+      "image_name": "Cartoon_park_with_green_trees_202608212032.jpeg",
+      "term": "green areas",
+      "confidence": "high",
+      "reason": "A park with many green trees directly illustrates the concept of green areas (public vegetated spaces)."
+    },
+    {
+      "image_name": "Cartoon_puppy_wearing_red_collar_202608212032.jpeg",
+      "term": "keep animals",
+      "confidence": "medium",
+      "reason": "A puppy with a collar suggests a kept pet, which relates to the idea of keeping animals (pets) though not explicit."
+    },
+    {
+      "image_name": "Cartoon_sun_shining_over_hill_202608212032.jpeg",
+      "term": "shine",
+      "confidence": "high",
+      "reason": "The sun shining over a hill directly depicts the action/quality 'shine'."
+    },
+    {
+      "image_name": "Cartoon_toy_car_with_solar_202608212032.jpeg",
+      "term": "powered",
+      "confidence": "high",
+      "reason": "A toy car with a solar panel illustrates that it is solar-powered, matching 'powered'."
+    },
+    {
+      "image_name": "Cartoon_treasure_chest_on_ocean_202608212032.jpeg",
+      "term": "treasured",
+      "confidence": "medium",
+      "reason": "A treasure chest on the ocean visually represents something valued or 'treasured,' though context is slightly interpretive."
+    },
+    {
+      "image_name": "Cartoon_water_watering_plants_202608212034.jpeg",
+      "term": "taking care of",
+      "confidence": "high",
+      "reason": "Watering plants clearly demonstrates caring for plants—i.e., taking care of them."
+    },
+    {
+      "image_name": "Cartoon_weather_icons_showing_co…_202608212034.jpeg",
+      "term": "weather conditions",
+      "confidence": "high",
+      "reason": "A set of weather icons directly represents different weather conditions."
+    },
+    {
+      "image_name": "Cartoon_wind_blowing_sand_202608212034.jpeg",
+      "term": "winds with sand",
+      "confidence": "high",
+      "reason": "Wind blowing sand directly depicts 'winds with sand' (sand-laden winds)."
+    },
+    {
+      "image_name": "Caterpillar_transforming_into_bu…_202608212033.jpeg",
+      "term": "became",
+      "confidence": "medium",
+      "reason": "A caterpillar transforming into a butterfly illustrates a change of state—i.e., it 'became' a butterfly (transformation)."
+    },
+    {
+      "image_name": "Characters_building_wall_near_river_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Building a wall near a river could imply many concepts (flood control, irrigation, blocking), but no single allowed term is unambiguously taught by the image."
+    },
+    {
+      "image_name": "Chef_spreading_jam_on_bread_202608212034.jpeg",
+      "term": "added",
+      "confidence": "medium",
+      "reason": "Spreading jam on bread represents adding an ingredient/topping, matching 'added,' though context could vary (spreading vs. adding)."
+    },
+    {
+      "image_name": "Child_bowing_to_elder_202608212033.jpeg",
+      "term": "show respect",
+      "confidence": "high",
+      "reason": "A child bowing to an elder directly demonstrates the cultural action of showing respect."
+    },
+    {
+      "image_name": "Green_plant_growing_in_soil_202608212034.jpeg",
+      "term": "alive",
+      "confidence": "high",
+      "reason": "A green plant growing in soil straightforwardly indicates that the plant is alive."
+    },
+    {
+      "image_name": "Green_plant_growing_towards_sun_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "A plant growing toward the sun suggests growth behavior (phototropism) but no single allowed term exactly and unambiguously matches this image."
+    },
+    {
+      "image_name": "Green_plants_growing_in_soil_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Multiple green plants in soil show plant growth but do not unambiguously teach a single specific allowed term from the list."
+    },
+    {
+      "image_name": "Hammer_striking_golden_bell_202608212034.jpeg",
+      "term": "hit",
+      "confidence": "high",
+      "reason": "A hammer striking a bell directly depicts the action 'hit.'"
+    },
+    {
+      "image_name": "Hammer_striking_metal_bell_202608212034.jpeg",
+      "term": "hit",
+      "confidence": "high",
+      "reason": "A hammer striking a metal bell also clearly shows the action 'hit.'"
+    },
+    {
+      "image_name": "Hand_adding_salt_to_salad_202608212033.jpeg",
+      "term": "added",
+      "confidence": "high",
+      "reason": "A hand sprinkling salt onto a salad directly demonstrates adding an ingredient—i.e., 'added.'"
+    },
+    {
+      "image_name": "Hand_cutting_yellow_bell_pepper_202608212033.jpeg",
+      "term": "cut ... into",
+      "confidence": "high",
+      "reason": "Cutting a bell pepper demonstrates the action of cutting food into pieces, matching the 'cut ... into' pattern."
+    },
+    {
+      "image_name": "Hand_pushing_domino_piece_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Pushing a domino implies chain reaction or falling pieces, but no single allowed term clearly and unambiguously fits this image."
+    },
+    {
+      "image_name": "Hand_replacing_broken_toy_202608212033.jpeg",
+      "term": "replaced",
+      "confidence": "high",
+      "reason": "The image clearly shows a hand replacing a broken toy, which directly illustrates the verb 'replaced'."
+    },
+    {
+      "image_name": "Sun_moving_across_sky_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "The sun's motion could illustrate several temporal verbs (move, came, came back, changed, etc.) none of which is uniquely the allowed term here—ambiguous."
+    },
+    {
+      "image_name": "Sun_shining_over_meadow_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "The scene shows the sun shining but both 'shine' and 'shone' appear in the allowed list (tense ambiguity), so it is not unambiguous which exact allowed term to pick."
+    },
+    {
+      "image_name": "Teacher_giving_advice_to_student_202608212034.jpeg",
+      "term": "give advice",
+      "confidence": "high",
+      "reason": "The teacher is clearly shown giving advice to a student, which directly matches the allowed term 'give advice'."
+    },
+    {
+      "image_name": "Teacher_grading_student_homework…_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Grading homework does not match any single allowed term unambiguously."
+    },
+    {
+      "image_name": "Tomato_slices_arranged_on_plate_202608212033.jpeg",
+      "term": "thin slices",
+      "confidence": "high",
+      "reason": "Tomato slices arranged on a plate directly illustrates 'thin slices'."
+    },
+    {
+      "image_name": "Toy_car_track_with_cars_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "A toy car track could relate to multiple possible terms (rides, play, etc.) but none of those is an unambiguous exact match in the allowed list."
+    },
+    {
+      "image_name": "Tray_with_water_and_medicine_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "A tray with water and medicine could imply 'treatment' or 'healthcare', both of which appear in the allowed list—ambiguous between multiple allowed terms."
+    },
+    {
+      "image_name": "Treasure_chest_with_gold_coins_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Gold coins in a chest could be described as 'precious', 'valuable', or 'treasured'—more than one allowed term applies, so it is ambiguous."
+    },
+    {
+      "image_name": "Tree_shading_park_bench_202608212034.jpeg",
+      "term": "shade",
+      "confidence": "high",
+      "reason": "A tree shading a bench directly and unambiguously illustrates the noun 'shade'."
+    },
+    {
+      "image_name": "Two_cartoon_children_waving_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Waving does not map clearly to any single allowed term in the list."
+    },
+    {
+      "image_name": "Umbrella_protecting_children_fro…_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Umbrella protecting children could be described by 'keep ... from' or 'prevent ... from' (both in the allowed list), so this is ambiguous between allowed terms."
+    },
+    {
+      "image_name": "Child_bringing_apples_inside_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "The action could be described as 'bring' or 'brought' (both appear in the allowed list), so the exact allowed term is ambiguous."
+    },
+    {
+      "image_name": "Child_carrying_box_up_stairs_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Carrying a box up stairs does not match any single allowed term unambiguously."
+    },
+    {
+      "image_name": "Child_carrying_fruit_basket_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Carrying a fruit basket could be described by multiple verbs/forms not uniquely present in the allowed list—ambiguous."
+    },
+    {
+      "image_name": "Child_choosing_between_paths_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Choosing between paths could map to 'decide' or 'make a decision' (both allowed), so it is ambiguous which exact term to select."
+    },
+    {
+      "image_name": "Child_choosing_fruit_over_candy_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Choosing fruit over candy could be described by several decision-related allowed terms (e.g., 'decide', 'make a decision'), so it is ambiguous."
+    },
+    {
+      "image_name": "Child_controlling_cartoon_robot_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Controlling a robot does not match any single allowed term unambiguously."
+    },
+    {
+      "image_name": "Child_eating_apple_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Eating an apple could imply health-related terms ('stay healthy', 'make our bodies stronger') but that is interpretive rather than an unambiguous direct match to a single allowed term."
+    },
+    {
+      "image_name": "Child_eating_strawberry_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "As with the apple, eating a strawberry could suggest health ideas but does not unambiguously match one exact allowed term."
+    },
+    {
+      "image_name": "Child_flexing_muscle_202608212033.jpeg",
+      "term": "make our bodies stronger",
+      "confidence": "medium",
+      "reason": "A child flexing a muscle visually represents building strength / stronger body, but image could also simply show posing rather than exercise."
+    },
+    {
+      "image_name": "Child_giving_thumbs_up_202608212033.jpeg",
+      "term": "Well done! = Excellent",
+      "confidence": "high",
+      "reason": "Thumbs-up is a clear gesture of approval or praise meaning 'Well done! = Excellent'."
+    },
+    {
+      "image_name": "Child_handing_toy_to_child_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Handing a toy could mean sharing, giving, or returning — ambiguous between several allowed terms (e.g., 'giving back', 'received')."
+    },
+    {
+      "image_name": "Child_holding_gift_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Holding a gift could indicate receiving or giving; the image alone is ambiguous about the exact action."
+    },
+    {
+      "image_name": "Child_holding_gold_medal_202608212033.jpeg",
+      "term": "Well done! = Excellent",
+      "confidence": "high",
+      "reason": "A gold medal clearly symbolizes achievement or excellence ('Well done! = Excellent')."
+    },
+    {
+      "image_name": "Child_holding_letter_from_mailbox_202608212034.jpeg",
+      "term": "received",
+      "confidence": "high",
+      "reason": "Holding a letter taken from a mailbox unambiguously shows having received mail."
+    },
+    {
+      "image_name": "Child_holding_shopping_bags_202608212032.jpeg",
+      "term": "shopped",
+      "confidence": "high",
+      "reason": "Carrying shopping bags directly indicates that shopping took place."
+    },
+    {
+      "image_name": "Child_jumping_over_puddle_202608212034.jpeg",
+      "term": "leap",
+      "confidence": "high",
+      "reason": "Jumping over a puddle is a clear example of leaping."
+    },
+    {
+      "image_name": "Child_looking_at_rainbow_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Looking at a rainbow could relate to wonder or brightness, but no single allowed term directly and unambiguously matches."
+    },
+    {
+      "image_name": "Hand_spreading_butter_on_toast_202608212034.jpeg",
+      "term": "spread",
+      "confidence": "high",
+      "reason": "Spreading butter on toast directly illustrates the verb 'spread'."
+    },
+    {
+      "image_name": "Hand_turning_cartoon_turtle_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "The action of 'turning' the turtle could mean turning it over or right side up; the filename is ambiguous between related allowed terms ('turn over', 'turn right side up', 'flipped')."
+    },
+    {
+      "image_name": "Heroes_standing_together_202608212033.jpeg",
+      "term": "real-life heroes",
+      "confidence": "high",
+      "reason": "A group labeled or depicted as heroes together clearly matches 'real-life heroes'."
+    },
+    {
+      "image_name": "Honeybee_pollinating_a_flower_202608212033.jpeg",
+      "term": "play an important role",
+      "confidence": "medium",
+      "reason": "A bee pollinating a flower illustrates the important ecological role of pollinators, though the exact phrase is interpretive."
+    },
+    {
+      "image_name": "Kid_controlling_toy_car_202608212032.jpeg",
+      "term": "control",
+      "confidence": "high",
+      "reason": "Operating or steering a toy car directly demonstrates the concept of control."
+    },
+    {
+      "image_name": "Kids_painting_and_reading_together_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "The scene could illustrate several concepts (hanging out, skills, learning), so no single allowed term fits unambiguously."
+    },
+    {
+      "image_name": "Ladybug_sitting_on_green_leaf_202608212033.jpeg",
+      "term": "tiny (adj)",
+      "confidence": "high",
+      "reason": "A ladybug on a leaf clearly exemplifies something that is tiny."
+    },
+    {
+      "image_name": "Child_measuring_weight_loss_illu…_202608212033.jpeg",
+      "term": "lose weight",
+      "confidence": "high",
+      "reason": "Measuring weight loss directly corresponds to the phrase 'lose weight'."
+    },
+    {
+      "image_name": "Child_meditating_peacefully_202608212033.jpeg",
+      "term": "relaxing",
+      "confidence": "high",
+      "reason": "Meditation is a clear example of a relaxing activity related to mental well-being."
+    },
+    {
+      "image_name": "Child_opening_colorful_gift_box_202608212033.jpeg",
+      "term": "received",
+      "confidence": "medium",
+      "reason": "Opening a gift box most commonly indicates having received a gift, though it could also be giving one."
+    },
+    {
+      "image_name": "Child_playing_doctor_illustration_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Playing doctor could illustrate several doctor-related terms (stethoscope, real-life heroes, skills), but the filename alone doesn't unambiguously show a specific allowed term."
+    },
+    {
+      "image_name": "Child_pointing_at_bush_shadow_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Could be pointing at a shadow, bush, or something else; does not unambiguously teach any allowed term."
+    },
+    {
+      "image_name": "Child_pointing_at_sign_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Pointing at a sign does not clearly correspond to any single allowed term."
+    },
+    {
+      "image_name": "Child_raising_hand_in_classroom_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Raising a hand could indicate many actions (ask, answer, volunteer); no exact allowed term matches unambiguously."
+    },
+    {
+      "image_name": "Child_reaching_cookie_jar_202608212034.jpeg",
+      "term": "try",
+      "confidence": "medium",
+      "reason": "Child reaching for a cookie jar depicts an attempt to get the cookie, which corresponds to 'try'."
+    },
+    {
+      "image_name": "Child_reaching_for_cookie_jar_202608212032.jpeg",
+      "term": "try",
+      "confidence": "medium",
+      "reason": "Similar to above: the child is attempting to get a cookie, illustrating 'try'."
+    },
+    {
+      "image_name": "Child_realizing_with_glowing_lig…_202608212033.jpeg",
+      "term": "realized",
+      "confidence": "high",
+      "reason": "Glowing light and expression clearly show a moment of realization, matching 'realized'."
+    },
+    {
+      "image_name": "Child_riding_bike_first_time_202608212033.jpeg",
+      "term": "try",
+      "confidence": "medium",
+      "reason": "Riding a bike for the first time depicts an attempt/effort, which aligns with 'try'."
+    },
+    {
+      "image_name": "Child_riding_bike_successfully_202608212033.jpeg",
+      "term": "[be] able to",
+      "confidence": "high",
+      "reason": "Successfully riding a bike shows the child is able to do it, matching '[be] able to'."
+    },
+    {
+      "image_name": "Child_searching_under_bed_202608212033.jpeg",
+      "term": "search for",
+      "confidence": "high",
+      "reason": "Searching under a bed directly illustrates the action 'search for'."
+    },
+    {
+      "image_name": "Child_showing_drawing_to_teacher_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Showing a drawing could relate to sharing or showing, but no exact allowed term matches unambiguously."
+    },
+    {
+      "image_name": "Child_showing_knee_bandage_202608212033.jpeg",
+      "term": "hurt",
+      "confidence": "medium",
+      "reason": "Displaying a knee bandage implies the child was hurt; this corresponds to 'hurt'."
+    },
+    {
+      "image_name": "Child_sitting_by_pool_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Sitting by a pool could imply relaxation or swimming, but it does not unambiguously match any allowed term."
+    },
+    {
+      "image_name": "Leader_managing_community_event_…_202608212032.jpeg",
+      "term": "manage",
+      "confidence": "high",
+      "reason": "A leader overseeing a community event directly illustrates the action 'manage'."
+    },
+    {
+      "image_name": "Lifeguard_saving_person_in_water_202608212033.jpeg",
+      "term": "life saver",
+      "confidence": "high",
+      "reason": "A lifeguard rescuing someone is clearly an example of a 'life saver'."
+    },
+    {
+      "image_name": "Locked_gate_preventing_entry_202608212034.jpeg",
+      "term": "blocked by",
+      "confidence": "high",
+      "reason": "A locked gate that prevents entry directly corresponds to being 'blocked by' something."
+    },
+    {
+      "image_name": "Medical_oxygen_tank_illustration_202608212033.jpeg",
+      "term": "treatment",
+      "confidence": "medium",
+      "reason": "A medical oxygen tank is medical equipment used in patient treatment, so it reasonably connects to 'treatment'."
+    },
+    {
+      "image_name": "Open_lunchbox_with_sandwich_and_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "An open lunchbox and sandwich do not unambiguously match any single allowed term."
+    },
+    {
+      "image_name": "Package_delivered_on_doorstep_202608212033.jpeg",
+      "term": "received",
+      "confidence": "medium",
+      "reason": "A package on a doorstep suggests it has been delivered/received, aligning with 'received'."
+    },
+    {
+      "image_name": "Winding_road_through_mountains_202608212033.jpeg",
+      "term": "journey",
+      "confidence": "medium",
+      "reason": "A long winding road through mountains commonly represents a 'journey', though this is somewhat interpretive."
+    },
+    {
+      "image_name": "Wooden_birdhouse_with_broken_roof_202608212032.jpeg",
+      "term": "home to",
+      "confidence": "medium",
+      "reason": "A birdhouse is intended as a home for birds, which corresponds to 'home to'."
+    },
+    {
+      "image_name": "Wooden_chair_beside_tree_trunk_202608212032.jpeg",
+      "term": "made of",
+      "confidence": "high",
+      "reason": "The filename describes a wooden chair, directly showing the concept of being made of a material (wood)."
+    },
+    {
+      "image_name": "Yellow_lightbulb_representing_el…_202608212033.jpeg",
+      "term": "electricity",
+      "confidence": "high",
+      "reason": "A lightbulb commonly represents electricity; the filename indicates that representation clearly."
+    },
+    {
+      "image_name": "Yellow_sand_blowing_in_wind_202608212032.jpeg",
+      "term": "winds with sand",
+      "confidence": "high",
+      "reason": "The filename describes sand being blown by wind, directly matching 'winds with sand'."
+    },
+    {
+      "image_name": "Child_sneezing_into_tissue_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Sneezing could indicate illness, allergies, or another cause; it is ambiguous which allowed illness-related term fits exactly."
+    },
+    {
+      "image_name": "Child_staying_awake_late_202608212034.jpeg",
+      "term": "get tired",
+      "confidence": "medium",
+      "reason": "Staying awake late typically leads to getting tired; the image title implies that consequence but is slightly interpretive."
+    },
+    {
+      "image_name": "Child_stopping_someone_at_wet_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "The action described is unclear from the filename and does not unambiguously match any single allowed term."
+    },
+    {
+      "image_name": "Child_thinking_with_question_mark_202608212033.jpeg",
+      "term": "think for a moment",
+      "confidence": "medium",
+      "reason": "A child shown thinking with a question mark corresponds to thinking for a moment, though it could match other thinking-related phrases."
+    },
+    {
+      "image_name": "Child_viewing_spilled_ice_cream_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Seeing spilled ice cream could imply sadness, surprise, or other reactions; it's ambiguous which allowed emotional term fits."
+    },
+    {
+      "image_name": "Child_walking_toward_house_202608212033.jpeg",
+      "term": "come",
+      "confidence": "medium",
+      "reason": "Walking toward a house suggests coming (approaching), which matches 'come', though it could also mean 'leave' in another context."
+    },
+    {
+      "image_name": "Child_walking_with_dog_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Walking with a dog could relate to several allowed terms (keeping animals, hanging out, etc.); the filename does not unambiguously teach one exact term."
+    },
+    {
+      "image_name": "Child_watering_potted_flower_202608212033.jpeg",
+      "term": "taking care of",
+      "confidence": "high",
+      "reason": "Watering a potted flower is a clear example of taking care of a plant."
+    },
+    {
+      "image_name": "Child_waving_and_beckoning_202608212033.jpeg",
+      "term": "come",
+      "confidence": "high",
+      "reason": "Beckoning is a clear gesture to signal 'come', directly matching the term."
+    },
+    {
+      "image_name": "Child_whispering_secret_to_another_202608212032.jpeg",
+      "term": "whispered",
+      "confidence": "high",
+      "reason": "The filename explicitly describes whispering, which directly matches 'whispered'."
+    },
+    {
+      "image_name": "Children_balancing_on_seesaw_202608212033.jpeg",
+      "term": "stay in balance",
+      "confidence": "high",
+      "reason": "Balancing on a seesaw directly demonstrates the concept of staying in balance."
+    },
+    {
+      "image_name": "Children_jumping_and_laughing_202608212034.jpeg",
+      "term": "joy",
+      "confidence": "high",
+      "reason": "Jumping and laughing clearly depict joy."
+    },
+    {
+      "image_name": "Children_playing_soccer_and_tennis_202608212034.jpeg",
+      "term": "skills",
+      "confidence": "medium",
+      "reason": "Playing sports demonstrates physical skills, though the image could also represent play or exercise; 'skills' is a reasonable match."
+    },
+    {
+      "image_name": "Children_riding_spinning_teacups…_202608212034.jpeg",
+      "term": "rides",
+      "confidence": "high",
+      "reason": "Spinning teacup attractions are amusement park rides; the filename directly indicates 'rides'."
+    },
+    {
+      "image_name": "Children_shaking_hands_agreeing_202608212034.jpeg",
+      "term": "agreed",
+      "confidence": "high",
+      "reason": "Shaking hands in an agreeing context directly matches 'agreed'."
+    },
+    {
+      "image_name": "Children_talking_on_toy_phones_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Pretend play with toy phones could represent several concepts (conversation, play, imagination); it does not unambiguously teach a single allowed term."
+    },
+    {
+      "image_name": "Parent_high-fiving_child_doing_h…_202608212034.jpeg",
+      "term": "encouraged",
+      "confidence": "medium",
+      "reason": "A high-five from a parent typically conveys encouragement; this is a reasonable but slightly interpretive match."
+    },
+    {
+      "image_name": "People_standing_and_waving_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Image shows people waving/standing but no exact allowed term (e.g., 'wave' or 'greet') appears in the allowed list; ambiguous."
+    },
+    {
+      "image_name": "People_standing_on_cartoon_street_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Cartoon street scene with people does not unambiguously match any single allowed term."
+    },
+    {
+      "image_name": "People_walking_in_town_square_202608212032.jpeg",
+      "term": "go for a walk",
+      "confidence": "high",
+      "reason": "People are visibly walking in a town square, directly illustrating 'go for a walk'."
+    },
+    {
+      "image_name": "Person_biting_potato_chip_202608212033.jpeg",
+      "term": "crunchy / crispy",
+      "confidence": "high",
+      "reason": "Biting a potato chip clearly shows the texture/action associated with 'crunchy / crispy'."
+    },
+    {
+      "image_name": "Person_controlling_toy_drone_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Controlling a drone does not unambiguously match any single allowed term."
+    },
+    {
+      "image_name": "Person_covering_with_blanket_on_202608212034.jpeg",
+      "term": "cover",
+      "confidence": "high",
+      "reason": "Person is physically covering themselves with a blanket, directly illustrating 'cover'."
+    },
+    {
+      "image_name": "Phone_displaying_warning_exclama…_202608212034.jpeg",
+      "term": "warnings",
+      "confidence": "high",
+      "reason": "Phone shows a warning symbol/alert, directly matching 'warnings'."
+    },
+    {
+      "image_name": "Pictures_emerging_from_open_book_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Images emerging from a book suggests imagination but does not unambiguously match any allowed term."
+    },
+    {
+      "image_name": "Plate_with_seafood_202608212033.jpeg",
+      "term": "sea food",
+      "confidence": "high",
+      "reason": "A plate of seafood directly and unambiguously illustrates the term 'sea food'."
+    },
+    {
+      "image_name": "Water_flowing_into_crop_field_202608212034.jpeg",
+      "term": "irrigation",
+      "confidence": "high",
+      "reason": "Water being directed into crop fields is a clear example of 'irrigation'."
+    },
+    {
+      "image_name": "Weather_vane_spinning_in_wind_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "A weather vane indicates wind/weather but does not unambiguously correspond to one specific allowed term like 'weather conditions' or 'wind'."
+    },
+    {
+      "image_name": "Wheat_growing_in_rural_field_202608212034.jpeg",
+      "term": "farming",
+      "confidence": "high",
+      "reason": "Wheat growing in a field directly represents agricultural 'farming'."
+    },
+    {
+      "image_name": "Wilted_flower_on_cracked_ground_202608212034.jpeg",
+      "term": "drought",
+      "confidence": "high",
+      "reason": "A wilted flower and cracked ground are clear, direct indicators of a 'drought'."
+    },
+    {
+      "image_name": "Wind_blowing_trees_down_202608212034.jpeg",
+      "term": "damaged",
+      "confidence": "high",
+      "reason": "Trees being blown down by wind show physical harm to the environment, directly illustrating 'damaged'."
+    },
+    {
+      "image_name": "Abandoned_stone_cottage_with_ivy_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "An abandoned cottage does not unambiguously match any single allowed term in the list."
+    },
+    {
+      "image_name": "Ambulance_paramedics_helping_som…_202608212033.jpeg",
+      "term": "responded",
+      "confidence": "medium",
+      "reason": "Paramedics helping someone depicts emergency responders in action; this most directly matches 'responded' though related terms (e.g., 'treatment', 'real-life heroes') could also apply."
+    },
+    {
+      "image_name": "Ant_carrying_leaf_202608212034.jpeg",
+      "term": "tiny (adj)",
+      "confidence": "high",
+      "reason": "An ant carrying a leaf clearly illustrates the small size of the insect, matching 'tiny (adj)'."
+    },
+    {
+      "image_name": "Anvil_on_block_with_hammer_202608212034.jpeg",
+      "term": "iron",
+      "confidence": "medium",
+      "reason": "An anvil and hammer are metal tools typically made of iron (or steel); 'iron' is a reasonable match though material could be ambiguous."
+    },
+    {
+      "image_name": "Baker_handing_bread_to_child_202608212032.jpeg",
+      "term": "bakery",
+      "confidence": "high",
+      "reason": "A baker handing bread to a child directly depicts a bakery setting, matching 'bakery'."
+    },
+    {
+      "image_name": "Baseball_hitting_wooden_bat_202608212034.jpeg",
+      "term": "hit",
+      "confidence": "high",
+      "reason": "The image shows a baseball making contact with a wooden bat, directly illustrating the action 'hit'."
+    },
+    {
+      "image_name": "Bears_together_in_forest_cave_202608212034.jpeg",
+      "term": "home to",
+      "confidence": "high",
+      "reason": "Bears pictured inside a cave clearly shows the cave as being home to the animals."
+    },
+    {
+      "image_name": "Beating_heart_medical_concept_202608212033.jpeg",
+      "term": "beat",
+      "confidence": "high",
+      "reason": "A beating heart directly illustrates the heart's action of beating."
+    },
+    {
+      "image_name": "Bird_family_in_cozy_birdhouse_202608212033.jpeg",
+      "term": "home to",
+      "confidence": "high",
+      "reason": "A bird family inside a birdhouse clearly shows the birdhouse as home to the birds."
+    },
+    {
+      "image_name": "Bird_flying_over_forest_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "The image shows a bird flying; none of the allowed terms (e.g., 'fly') match this action exactly."
+    },
+    {
+      "image_name": "Boy_holding_gold_coin_202608212033.jpeg",
+      "term": "valuable",
+      "confidence": "medium",
+      "reason": "A boy holding a gold coin suggests the object is valuable, though other interpretations (collectible, toy) are possible."
+    },
+    {
+      "image_name": "Boy_searching_through_grass_202608212034.jpeg",
+      "term": "search for",
+      "confidence": "high",
+      "reason": "The boy actively looking through grass directly illustrates the action 'search for.'"
+    },
+    {
+      "image_name": "Burned_wooden_birdhouse_202608212034.jpeg",
+      "term": "damaged",
+      "confidence": "high",
+      "reason": "A burned birdhouse clearly shows it has been damaged."
+    },
+    {
+      "image_name": "Butterfly_flying_over_flower_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "The butterfly/flower scene does not unambiguously match any single allowed term."
+    },
+    {
+      "image_name": "Clock_glowing_for_round-the-cloc…_202608212033.jpeg",
+      "term": "work around the clock",
+      "confidence": "medium",
+      "reason": "A glowing clock suggesting continuous time supports the idea of something happening 'around the clock,' though the image alone could mean other round-the-clock concepts."
+    },
+    {
+      "image_name": "Comparing_baby_and_child_photos_202608212033.jpeg",
+      "term": "then and now",
+      "confidence": "high",
+      "reason": "Side-by-side baby and child photos directly illustrate the concept 'then and now.'"
+    },
+    {
+      "image_name": "Cookies_baking_in_oven_202608212033.jpeg",
+      "term": "bake",
+      "confidence": "high",
+      "reason": "Cookies shown in an oven clearly demonstrate the action 'bake.'"
+    },
+    {
+      "image_name": "Cooking_chicken_drumsticks_in_pan_202608212033.jpeg",
+      "term": "cooked",
+      "confidence": "high",
+      "reason": "Chicken drumsticks being cooked in a pan directly show food being cooked."
+    },
+    {
+      "image_name": "Cracked_smartphone_screen_repres…_202608212034.jpeg",
+      "term": "damaged",
+      "confidence": "high",
+      "reason": "A cracked smartphone screen unambiguously indicates the device is damaged."
+    },
+    {
+      "image_name": "Crocodiles_basking_on_river_banks_202608212033.jpeg",
+      "term": "rested",
+      "confidence": "medium",
+      "reason": "Crocodiles lying and basking on river banks suggests they are resting; other interpretations (basking for warmth) are possible."
+    },
+    {
+      "image_name": "Crystals_and_gold_in_cave_202608212032.jpeg",
+      "term": "mineral resources",
+      "confidence": "high",
+      "reason": "Crystals and gold in a cave are direct examples of mineral resources."
+    },
+    {
+      "image_name": "Diagram_of_human_heart_202608212033.jpeg",
+      "term": "organ",
+      "confidence": "high",
+      "reason": "A labeled diagram of the human heart clearly represents it as an organ."
+    },
+    {
+      "image_name": "Player_controlling_video_game_ch…_202608212034.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "A person playing a video game does not match any allowed term exactly."
+    },
+    {
+      "image_name": "Pot_of_soup_cooking_202608212033.jpeg",
+      "term": "cooked",
+      "confidence": "high",
+      "reason": "A pot of soup on a stove demonstrates the action of cooking—i.e., being cooked."
+    },
+    {
+      "image_name": "Red_X_over_thorny_plant_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "A red X over a thorny plant implies warning or prohibition, but no allowed term matches this exactly."
+    },
+    {
+      "image_name": "Red_heart_illustration_202608212033.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "A simple heart illustration could imply many concepts (love, health), but none of the allowed terms map unambiguously to this image."
+    },
+    {
+      "image_name": "River_flowing_through_green_valley_202608212033.jpeg",
+      "term": "flowed",
+      "confidence": "high",
+      "reason": "The image shows a river moving through a valley, directly illustrating the verb 'flowed'."
+    },
+    {
+      "image_name": "Robot_holding_tablet_near_home_202608212032.jpeg",
+      "term": "",
+      "confidence": "low",
+      "reason": "Shows a robot near a home holding a tablet; no single allowed term clearly and unambiguously describes this scene."
+    },
+    {
+      "image_name": "Rock_blocking_forest_path_202608212034.jpeg",
+      "term": "blocked by",
+      "confidence": "high",
+      "reason": "A rock is visibly blocking a forest path, directly depicting 'blocked by'."
+    },
+    {
+      "image_name": "Room_transformation_split_screen_202608212033.jpeg",
+      "term": "then and now",
+      "confidence": "high",
+      "reason": "Split-screen before-and-after room transformation clearly represents 'then and now'."
+    },
+    {
+      "image_name": "Rubber_duck_floating_on_pond_202608212032.jpeg",
+      "term": "floated",
+      "confidence": "high",
+      "reason": "A rubber duck is shown floating on a pond, directly illustrating 'floated'."
+    }
+  ]
+}

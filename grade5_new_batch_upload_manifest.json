@@ -1,0 +1,492 @@
+{
+  "uploads": [
+    {
+      "term": "roads",
+      "arabic": "طرق",
+      "source": "new_batch_exact_visual_review",
+      "original_image_name": "Cars_driving_on_winding_roads_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cars_driving_on_winding_roads_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-001-db06d1e529.jpeg"
+    },
+    {
+      "term": "rides",
+      "arabic": "ألعاب ملاهي",
+      "source": "new_batch_exact_visual_review",
+      "original_image_name": "Cartoon_amusement_park_rides_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_amusement_park_rides_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-002-0e75d99bde.jpeg"
+    },
+    {
+      "term": "relaxing",
+      "arabic": "مريح",
+      "source": "new_batch_exact_visual_review",
+      "original_image_name": "Cartoon_character_relaxing_in_ha…_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_character_relaxing_in_ha…_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-003-d800156d79.jpeg"
+    },
+    {
+      "term": "coffee shop",
+      "arabic": "مقهى",
+      "source": "new_batch_exact_visual_review",
+      "original_image_name": "Cartoon_coffee_shop_with_outdoor…_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_coffee_shop_with_outdoor…_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-004-9cfb67b05f.jpeg"
+    },
+    {
+      "term": "miners",
+      "arabic": "عمال المناجم",
+      "source": "new_batch_exact_visual_review",
+      "original_image_name": "Cartoon_miners_holding_picks_in_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_miners_holding_picks_in_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-005-bc115acbc8.jpeg"
+    },
+    {
+      "term": "supermarket",
+      "arabic": "سوبر ماركت",
+      "source": "new_batch_exact_visual_review",
+      "original_image_name": "Cartoon_supermarket_with_fruits_…_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_supermarket_with_fruits_…_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-006-9186d9bd0e.jpeg"
+    },
+    {
+      "term": "fist",
+      "arabic": "قبضة/قبضة اليد",
+      "source": "new_batch_exact_visual_review",
+      "original_image_name": "Hand_showing_fist_shape_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Hand_showing_fist_shape_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-007-94f8d368b1.jpeg"
+    },
+    {
+      "term": "steel",
+      "arabic": "فولاذ / صلب",
+      "source": "new_batch_exact_visual_review",
+      "original_image_name": "Steel_beams_building_tall_structure_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Steel_beams_building_tall_structure_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-008-680360e40e.jpeg"
+    },
+    {
+      "term": "basin",
+      "arabic": "حوض مائي",
+      "source": "new_batch_exact_visual_review",
+      "original_image_name": "Stone_basin_with_water_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Stone_basin_with_water_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-009-77fa136d42.jpeg"
+    },
+    {
+      "term": "stressed",
+      "arabic": "متوتر",
+      "source": "new_batch_exact_visual_review",
+      "original_image_name": "Stressed_cartoon_character_among…_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Stressed_cartoon_character_among…_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-010-7908a80607.jpeg"
+    },
+    {
+      "term": "thick",
+      "arabic": "سميك",
+      "source": "new_batch_exact_visual_review",
+      "original_image_name": "Thick_cartoon_book_and_pencil_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Thick_cartoon_book_and_pencil_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-011-e85459f539.jpeg"
+    },
+    {
+      "term": "toothpaste",
+      "arabic": "معجون أسنان",
+      "source": "new_batch_exact_visual_review",
+      "original_image_name": "Toothpaste_and_toothbrush_illust…_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Toothpaste_and_toothbrush_illust…_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-012-8ccb3c0e9f.jpeg"
+    },
+    {
+      "term": "thought",
+      "arabic": "يفكر",
+      "source": "new_batch_exact_visual_review",
+      "original_image_name": "Child_thinking_with_thought_bubble_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_thinking_with_thought_bubble_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-013-1f154693f2.jpeg"
+    },
+    {
+      "term": "airport",
+      "arabic": "مطار",
+      "source": "new_batch_exact_visual_review",
+      "original_image_name": "Airplane_taking_off_from_airport_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Airplane_taking_off_from_airport_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-014-0736053ebe.jpeg"
+    },
+    {
+      "term": "bakery",
+      "arabic": "مخبز",
+      "source": "new_batch_exact_visual_review",
+      "original_image_name": "Bakery_window_displaying_bread_c…_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Bakery_window_displaying_bread_c…_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-015-76e51189bc.jpeg"
+    },
+    {
+      "term": "fabric",
+      "arabic": "قماش",
+      "source": "new_batch_exact_visual_review",
+      "original_image_name": "Colorful_fabric_rolls_with_patterns_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Colorful_fabric_rolls_with_patterns_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-016-f28d20154d.jpeg"
+    },
+    {
+      "term": "agreed",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Children_shaking_hands_agreeing_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Children_shaking_hands_agreeing_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-017-81471e4986.jpeg"
+    },
+    {
+      "term": "alive",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Green_plant_growing_in_soil_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Green_plant_growing_in_soil_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-018-447ed63dcc.jpeg"
+    },
+    {
+      "term": "awful / terrible",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Cartoon_character_tasting_awful_…_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_character_tasting_awful_…_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-019-bd851c22b3.jpeg"
+    },
+    {
+      "term": "beat",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Beating_heart_medical_concept_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Beating_heart_medical_concept_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-020-5acfd2b974.jpeg"
+    },
+    {
+      "term": "bright/shiny",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Glowing_cartoon_diamond_on_cushion_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Glowing_cartoon_diamond_on_cushion_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-021-ea412fd4f4.jpeg"
+    },
+    {
+      "term": "bring",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Cartoon_dog_bringing_ball_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_dog_bringing_ball_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-022-6ede8bd869.jpeg"
+    },
+    {
+      "term": "clapped",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Cartoon_hands_clapping_together_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_hands_clapping_together_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-023-56ddcec7cf.jpeg"
+    },
+    {
+      "term": "come",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Cartoon_child_beckoning_playground_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_child_beckoning_playground_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-024-c5e0d807fc.jpeg"
+    },
+    {
+      "term": "control",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Kid_controlling_toy_car_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Kid_controlling_toy_car_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-025-c3a11dd8ce.jpeg"
+    },
+    {
+      "term": "cooked",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Pot_of_soup_cooking_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Pot_of_soup_cooking_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-026-17b8c1d774.jpeg"
+    },
+    {
+      "term": "electricity",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Yellow_lightbulb_representing_el…_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Yellow_lightbulb_representing_el…_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-027-3ef5f2bec7.jpeg"
+    },
+    {
+      "term": "farming",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Farmer_planting_seeds_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Farmer_planting_seeds_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-028-3b868b8219.jpeg"
+    },
+    {
+      "term": "flipped",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Spatula_turning_cartoon_pancake_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Spatula_turning_cartoon_pancake_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-029-708acef637.jpeg"
+    },
+    {
+      "term": "floated",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Rubber_duck_floating_on_pond_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Rubber_duck_floating_on_pond_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-030-e97c63748a.jpeg"
+    },
+    {
+      "term": "get sick",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Cartoon_character_with_thermometer_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_character_with_thermometer_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-031-1c4b9524ba.jpeg"
+    },
+    {
+      "term": "get tired",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Sleepy_child_yawning_at_night_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Sleepy_child_yawning_at_night_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-032-14bd6fc835.jpeg"
+    },
+    {
+      "term": "go for a walk",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "People_walking_in_town_square_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/People_walking_in_town_square_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-033-1680eea285.jpeg"
+    },
+    {
+      "term": "green areas",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Cartoon_park_with_green_trees_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_park_with_green_trees_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-034-3c83a1a01b.jpeg"
+    },
+    {
+      "term": "hang out with",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Friends_sitting_and_talking_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Friends_sitting_and_talking_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-035-79a5737bad.jpeg"
+    },
+    {
+      "term": "hit",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Baseball_hitting_wooden_bat_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Baseball_hitting_wooden_bat_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-036-00331bf355.jpeg"
+    },
+    {
+      "term": "home to",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Bears_together_in_forest_cave_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Bears_together_in_forest_cave_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-037-deae7f6b81.jpeg"
+    },
+    {
+      "term": "jewelry",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Gold_rings_and_necklaces_in_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Gold_rings_and_necklaces_in_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-038-e9677247c4.jpeg"
+    },
+    {
+      "term": "joy",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Children_jumping_and_laughing_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Children_jumping_and_laughing_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-039-fb8f43ff6c.jpeg"
+    },
+    {
+      "term": "keep animals",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Farmer_keeping_farm_animals_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Farmer_keeping_farm_animals_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-040-1f36948685.jpeg"
+    },
+    {
+      "term": "leap",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Dolphin_leaping_from_ocean_water_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Dolphin_leaping_from_ocean_water_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-041-f51179239e.jpeg"
+    },
+    {
+      "term": "loaf / loaves",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Cartoon_bread_loaves_count_compa…_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_bread_loaves_count_compa…_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-042-4556d4bc27.jpeg"
+    },
+    {
+      "term": "lose weight",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Child_measuring_weight_loss_illu…_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_measuring_weight_loss_illu…_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-043-acf01d0bdb.jpeg"
+    },
+    {
+      "term": "made of",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Wooden_chair_beside_tree_trunk_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Wooden_chair_beside_tree_trunk_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-044-251247ee07.jpeg"
+    },
+    {
+      "term": "manage",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Leader_managing_community_event_…_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Leader_managing_community_event_…_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-045-64319d96c0.jpeg"
+    },
+    {
+      "term": "mineral resources",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Crystals_and_gold_in_cave_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Crystals_and_gold_in_cave_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-046-c5562d59ea.jpeg"
+    },
+    {
+      "term": "power",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Cartoon_battery_with_glowing_energy_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_battery_with_glowing_energy_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-047-98b87d649b.jpeg"
+    },
+    {
+      "term": "powered",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Cartoon_toy_car_with_solar_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_toy_car_with_solar_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-048-3d66f58ac0.jpeg"
+    },
+    {
+      "term": "quiet / calm",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Cartoon_child_reading_calmly_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_child_reading_calmly_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-049-7d25a4e7f6.jpeg"
+    },
+    {
+      "term": "sea food",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Plate_with_seafood_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Plate_with_seafood_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-050-34c3b8c5c8.jpeg"
+    },
+    {
+      "term": "search for",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Boy_searching_through_grass_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Boy_searching_through_grass_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-051-df6a6eed1d.jpeg"
+    },
+    {
+      "term": "shine",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Cartoon_sun_shining_over_hill_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_sun_shining_over_hill_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-052-17fa4b3ce7.jpeg"
+    },
+    {
+      "term": "shiny",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Silver_star_illustration_smiling_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Silver_star_illustration_smiling_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-053-7bbeba1537.jpeg"
+    },
+    {
+      "term": "shopped",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Child_holding_shopping_bags_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_holding_shopping_bags_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-054-6c8ff6cfe2.jpeg"
+    },
+    {
+      "term": "show respect",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Child_bowing_to_elder_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Child_bowing_to_elder_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-055-0ae2cca751.jpeg"
+    },
+    {
+      "term": "spread",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Hand_spreading_butter_on_toast_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Hand_spreading_butter_on_toast_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-056-0a3f65e874.jpeg"
+    },
+    {
+      "term": "think hard",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Cartoon_character_thinking_hard_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_character_thinking_hard_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-057-7328833512.jpeg"
+    },
+    {
+      "term": "weather conditions",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Cartoon_weather_icons_showing_co…_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_weather_icons_showing_co…_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-058-18428c7c9a.jpeg"
+    },
+    {
+      "term": "Well done! = Excellent",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Child_holding_gold_medal_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_holding_gold_medal_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-059-e54478af47.jpeg"
+    },
+    {
+      "term": "whispered",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Child_whispering_secret_to_another_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_whispering_secret_to_another_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-060-8c20e2744d.jpeg"
+    },
+    {
+      "term": "winds with sand",
+      "arabic": "",
+      "source": "new_batch_semantic_visual_review",
+      "original_image_name": "Yellow_sand_blowing_in_wind_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Yellow_sand_blowing_in_wind_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-new-ready-upload/grade5-new-061-098d1243e6.jpeg"
+    }
+  ]
+}
