@@ -5,12 +5,13 @@ import { ArrowLeft, BookOpen, LogOut, Sparkles } from "lucide-react";
 
 type GradeSelectorProps = {
   studentName?: string;
+  allowedGrades?: Array<"grade4" | "grade5">;
   onSelectGrade4: () => void;
   onSelectGrade5: () => void;
   onLogout?: () => void;
 };
 
-export default function GradeSelector({ studentName, onSelectGrade4, onSelectGrade5, onLogout }: GradeSelectorProps) {
+export default function GradeSelector({ studentName, allowedGrades = ["grade4", "grade5"], onSelectGrade4, onSelectGrade5, onLogout }: GradeSelectorProps) {
   return (
     <main className="sf-grade-shell" dir="rtl">
       <header className="sf-grade-topbar">
@@ -24,21 +25,21 @@ export default function GradeSelector({ studentName, onSelectGrade4, onSelectGra
         <span>يُحفظ تقدمك منفصلًا لكل صف ووحدة.</span>
       </section>
       <section className="sf-grade-grid" aria-label="اختيار الصف">
-        <article className="sf-grade-choice sf-grade-four">
+        {allowedGrades.includes("grade4") && <article className="sf-grade-choice sf-grade-four">
           <div className="sf-grade-choice-icon"><Sparkles size={26} /></div>
           <p>PRIMARY 4</p>
           <h2 dir="ltr">Grade 4</h2>
           <span>20 درسًا · بطاقات وصور واختبارات</span>
           <button onClick={onSelectGrade4}>ابدأ Grade 4 <ArrowLeft size={18} /></button>
-        </article>
-        <article className="sf-grade-choice sf-grade-five">
+        </article>}
+        {allowedGrades.includes("grade5") && <article className="sf-grade-choice sf-grade-five">
           <div className="sf-grade-choice-icon"><BookOpen size={26} /></div>
           <p>PRIMARY 5</p>
           <h2 dir="ltr">Grade 5</h2>
           <span>20 درسًا · 609 مفردة وعبارة</span>
           <small>بطاقات وصور كرتونية واختبارات لكل وحدة.</small>
           <button onClick={onSelectGrade5}>ابدأ Grade 5 <ArrowLeft size={18} /></button>
-        </article>
+        </article>}
       </section>
     </main>
   );

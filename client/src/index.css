@@ -222,6 +222,12 @@ button { -webkit-tap-highlight-color: transparent; }
 .sf-student-row span, .sf-muted-copy { margin-top: 4px; color: #6d859c; font: 700 12px/1 "Nunito Sans", sans-serif; }
 .sf-device-count { display: inline-flex; align-items: center; gap: 5px; margin-top: 8px; color: #52718c; font: 800 11px/1 "Noto Kufi Arabic", sans-serif; }
 .sf-trial-note { display: inline-flex; align-items: center; gap: 6px; margin: 4px 0 0; color: #a26725; font: 800 11px/1.75 "Noto Kufi Arabic", sans-serif; }
+.sf-grade-permissions { display: flex; flex-wrap: wrap; gap: 10px; margin: 0; padding: 11px 12px 12px; border: 1px solid #d4e0ea; border-radius: 9px; color: var(--ink-deep); }
+.sf-grade-permissions legend { padding: 0 4px; font: 800 12px/1 "Noto Kufi Arabic", sans-serif; }
+.sf-grade-permissions label, .sf-student-grade-actions label { display: inline-flex; align-items: center; gap: 6px; color: #52718c; font: 800 11px/1.4 "Noto Kufi Arabic", sans-serif; }
+.sf-grade-permissions input, .sf-student-grade-actions input { width: 15px; height: 15px; accent-color: var(--blue); }
+.sf-grade-access { display: block; margin-top: 6px; color: #3b7190; font: 800 10px/1.6 "Noto Kufi Arabic", sans-serif; }
+.sf-student-grade-actions { display: inline-flex; align-items: center; gap: 7px; padding: 6px 8px; border: 1px solid #d4e0ea; border-radius: 7px; color: #52718c; font: 800 10px/1 "Noto Kufi Arabic", sans-serif; }
 
 .sf-grade-shell { min-height: 100vh; padding: 28px clamp(20px, 5vw, 76px) 54px; background: radial-gradient(circle at 14% 12%, #ffe9a9 0 8%, transparent 8.2%), radial-gradient(circle at 88% 84%, #dff2eb 0 10%, transparent 10.2%), #fbf8ef; color: #173a63; }
 .sf-grade-topbar { display: flex; align-items: center; justify-content: space-between; gap: 16px; max-width: 1120px; margin: 0 auto; }

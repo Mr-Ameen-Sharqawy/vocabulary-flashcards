@@ -3,6 +3,7 @@ import { drizzle } from "drizzle-orm/mysql2";
 import { InsertUser, studentAccounts, studentDevices, studentProgress, users } from "../drizzle/schema";
 import { ENV } from './_core/env';
 import { emptyStudentProgress, progressColumns, readStudentProgress, type StudentProgressPayload } from './studentProgress';
+import { normalizeAllowedGrades, serializeAllowedGrades, trialDeviceState, type StudentGrade } from "./studentAccess";
 
 let _db: ReturnType<typeof drizzle> | null = null;
 
@@ -104,10 +105,10 @@ export async function getStudentById(id: number) {
   return result[0] ?? null;
 }
 
-export async function createStudentAccount(input: { displayName: string; username: string; passwordHash: string; maxDevices: number; accessType: "standard" | "trial" }) {
+export async function createStudentAccount(input: { displayName: string; username: string; passwordHash: string; maxDevices: number; accessType: "standard" | "trial"; allowedGrades: StudentGrade[] }) {
   const db = await getDb();
   if (!db) throw new Error("Database is unavailable");
-  await db.insert(studentAccounts).values(input);
+  await db.insert(studentAccounts).values({ ...input, allowedGrades: serializeAllowedGrades(input.allowedGrades) });
   const created = await getStudentByUsername(input.username);
   if (!created) throw new Error("Student account was not created");
   return created;
@@ -122,6 +123,7 @@ export async function listStudentAccounts() {
     username: studentAccounts.username,
     enabled: studentAccounts.enabled,
     maxDevices: studentAccounts.maxDevices,
+    allowedGrades: studentAccounts.allowedGrades,
     accessType: studentAccounts.accessType,
     trialEndsAt: studentAccounts.trialEndsAt,
     trialLocked: studentAccounts.trialLocked,
@@ -130,7 +132,7 @@ export async function listStudentAccounts() {
   }).from(studentAccounts).leftJoin(studentProgress, eq(studentProgress.studentId, studentAccounts.id));
   const deviceCounts = await db.select({ studentId: studentDevices.studentId, total: count() }).from(studentDevices).groupBy(studentDevices.studentId);
   const countByStudent = new Map(deviceCounts.map(row => [row.studentId, Number(row.total)]));
-  return accounts.map(account => ({ ...account, deviceCount: countByStudent.get(account.id) ?? 0 }));
+  return accounts.map(account => ({ ...account, allowedGrades: normalizeAllowedGrades(account.allowedGrades), deviceCount: countByStudent.get(account.id) ?? 0 }));
 }
 
 export async function updateStudentPassword(id: number, passwordHash: string) {
@@ -143,6 +145,12 @@ export async function updateStudentDeviceLimit(id: number, maxDevices: number) {
   const db = await getDb();
   if (!db) throw new Error("Database is unavailable");
   await db.update(studentAccounts).set({ maxDevices }).where(eq(studentAccounts.id, id));
+}
+
+export async function updateStudentAllowedGrades(id: number, allowedGrades: StudentGrade[]) {
+  const db = await getDb();
+  if (!db) throw new Error("Database is unavailable");
+  await db.update(studentAccounts).set({ allowedGrades: serializeAllowedGrades(allowedGrades), sessionVersion: sql`${studentAccounts.sessionVersion} + 1` }).where(eq(studentAccounts.id, id));
 }
 
 export type DeviceRegistration = { allowed: true } | { allowed: false; maxDevices: number };
@@ -183,32 +191,47 @@ export async function resetStudentDevices(studentId: number) {
 
 export type TrialAccess = { status: "active"; endsAt: number } | { status: "locked" };
 
-/** Starts one shared 60-minute trial window; subsequent devices use the same window. */
-export async function beginTrialAccess(studentId: number): Promise<TrialAccess> {
+/** Each device starts a separate 60-minute trial window for a trial account. */
+export async function beginTrialAccess(studentId: number, deviceId: string, deviceLabel: string): Promise<TrialAccess> {
   const db = await getDb();
   if (!db) throw new Error("Database is unavailable");
   return db.transaction(async tx => {
-    const account = await tx.select({ accessType: studentAccounts.accessType, trialLocked: studentAccounts.trialLocked, trialEndsAt: studentAccounts.trialEndsAt }).from(studentAccounts).where(eq(studentAccounts.id, studentId)).limit(1);
+    const account = await tx.select({ accessType: studentAccounts.accessType }).from(studentAccounts).where(eq(studentAccounts.id, studentId)).limit(1);
     const trial = account[0];
     if (!trial || trial.accessType !== "trial") throw new Error("Trial account is required");
     const now = new Date();
-    if (trial.trialLocked || (trial.trialEndsAt && trial.trialEndsAt <= now)) {
-      if (!trial.trialLocked) await tx.update(studentAccounts).set({ trialLocked: true, sessionVersion: sql`${studentAccounts.sessionVersion} + 1` }).where(eq(studentAccounts.id, studentId));
-      return { status: "locked" };
+    const existing = await tx.select().from(studentDevices).where(and(eq(studentDevices.studentId, studentId), eq(studentDevices.deviceId, deviceId))).limit(1);
+    if (existing[0]) {
+      const state = trialDeviceState(existing[0].trialEndsAt, existing[0].trialLocked, now.getTime());
+      if (state === "locked") {
+        if (!existing[0].trialLocked) await tx.update(studentDevices).set({ trialLocked: true, lastSeenAt: now, deviceLabel }).where(eq(studentDevices.id, existing[0].id));
+        return { status: "locked" };
+      }
+      if (state === "active" && existing[0].trialEndsAt) {
+        await tx.update(studentDevices).set({ lastSeenAt: now, deviceLabel }).where(eq(studentDevices.id, existing[0].id));
+        return { status: "active", endsAt: existing[0].trialEndsAt.getTime() };
+      }
     }
-    if (trial.trialEndsAt) return { status: "active", endsAt: trial.trialEndsAt.getTime() };
     const endsAt = new Date(now.getTime() + 60 * 60 * 1000);
-    await tx.update(studentAccounts).set({ trialStartedAt: now, trialEndsAt: endsAt }).where(eq(studentAccounts.id, studentId));
+    if (existing[0]) {
+      await tx.update(studentDevices).set({ deviceLabel, trialStartedAt: now, trialEndsAt: endsAt, trialLocked: false, lastSeenAt: now }).where(eq(studentDevices.id, existing[0].id));
+    } else {
+      await tx.insert(studentDevices).values({ studentId, deviceId, deviceLabel, trialStartedAt: now, trialEndsAt: endsAt, trialLocked: false });
+    }
     return { status: "active", endsAt: endsAt.getTime() };
   });
 }
 
-export async function isTrialSessionActive(studentId: number) {
+export async function getTrialDeviceAccess(studentId: number, deviceId: string): Promise<TrialAccess> {
   const db = await getDb();
   if (!db) throw new Error("Database is unavailable");
-  const result = await db.select({ accessType: studentAccounts.accessType, trialLocked: studentAccounts.trialLocked, trialEndsAt: studentAccounts.trialEndsAt }).from(studentAccounts).where(eq(studentAccounts.id, studentId)).limit(1);
-  const trial = result[0];
-  return trial?.accessType !== "trial" || (!trial.trialLocked && Boolean(trial.trialEndsAt && trial.trialEndsAt > new Date()));
+  const result = await db.select().from(studentDevices).where(and(eq(studentDevices.studentId, studentId), eq(studentDevices.deviceId, deviceId))).limit(1);
+  const device = result[0];
+  if (!device) return { status: "locked" };
+  const state = trialDeviceState(device.trialEndsAt, device.trialLocked);
+  if (state === "active" && device.trialEndsAt) return { status: "active", endsAt: device.trialEndsAt.getTime() };
+  if (!device.trialLocked) await db.update(studentDevices).set({ trialLocked: true }).where(eq(studentDevices.id, device.id));
+  return { status: "locked" };
 }
 
 export async function getStudentProgress(studentId: number): Promise<StudentProgressPayload> {

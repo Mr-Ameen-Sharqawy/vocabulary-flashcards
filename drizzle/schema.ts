@@ -33,6 +33,7 @@ export const studentAccounts = mysqlTable("student_accounts", {
   passwordHash: varchar("password_hash", { length: 255 }).notNull(),
   sessionVersion: int("session_version").default(1).notNull(),
   maxDevices: int("max_devices").default(1).notNull(),
+  allowedGrades: varchar("allowed_grades", { length: 32 }).default("grade4,grade5").notNull(),
   accessType: mysqlEnum("access_type", ["standard", "trial"]).default("standard").notNull(),
   trialStartedAt: timestamp("trial_started_at"),
   trialEndsAt: timestamp("trial_ends_at"),
@@ -48,6 +49,9 @@ export const studentDevices = mysqlTable("student_devices", {
   studentId: int("student_id").notNull(),
   deviceId: varchar("device_id", { length: 80 }).notNull(),
   deviceLabel: varchar("device_label", { length: 120 }).notNull(),
+  trialStartedAt: timestamp("trial_started_at"),
+  trialEndsAt: timestamp("trial_ends_at"),
+  trialLocked: boolean("trial_locked").default(false).notNull(),
   createdAt: timestamp("created_at").defaultNow().notNull(),
   lastSeenAt: timestamp("last_seen_at").defaultNow().onUpdateNow().notNull(),
 }, table => ({

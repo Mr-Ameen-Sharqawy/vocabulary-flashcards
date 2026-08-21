@@ -12,6 +12,10 @@ export type StudentProgressPayload = {
 export const emptyCourseProgress = (): CourseProgress => ({ lessonAnswers: {}, quizScores: {} });
 export const emptyStudentProgress = (): StudentProgressPayload => ({ grade4: emptyCourseProgress(), grade5: emptyCourseProgress() });
 
+export function mergeCourseProgressForGrade(current: StudentProgressPayload, grade: "grade4" | "grade5", next: CourseProgress): StudentProgressPayload {
+  return grade === "grade4" ? { grade4: next, grade5: current.grade5 } : { grade4: current.grade4, grade5: next };
+}
+
 type LegacyProgressColumns = {
   selectedLessonId?: string | null;
   lessonAnswers?: Record<string, unknown> | null;

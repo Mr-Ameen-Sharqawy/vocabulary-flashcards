@@ -30,6 +30,9 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
   useEffect(() => () => window.clearTimeout(saveTimer.current), []);
   useEffect(() => { saveProgressRef.current = saveProgressMutation.mutate; }, [saveProgressMutation.mutate]);
   useEffect(() => {
+    if (selectedGrade && studentQuery.data && !studentQuery.data.allowedGrades.includes(selectedGrade)) setSelectedGrade(null);
+  }, [selectedGrade, studentQuery.data]);
+  useEffect(() => {
     const trialEndsAt = studentQuery.data?.trialEndsAt;
     if (!trialEndsAt) return;
     const timeout = window.setTimeout(() => {
@@ -43,6 +46,7 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
     if (!selectedGrade) return;
     window.clearTimeout(saveTimer.current);
     saveTimer.current = window.setTimeout(() => saveProgressRef.current({
+      activeGrade: selectedGrade,
       grade4: selectedGrade === "grade4" ? progress : studentQuery.data?.progress.grade4 ?? { lessonAnswers: {}, quizScores: {} },
       grade5: selectedGrade === "grade5" ? progress : studentQuery.data?.progress.grade5 ?? { lessonAnswers: {}, quizScores: {} },
     }), 700);
@@ -66,7 +70,7 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
 
   if (studentQuery.data) {
     if (selectedGrade === null) {
-      return <GradeSelector studentName={studentQuery.data.displayName} onSelectGrade4={() => setSelectedGrade("grade4")} onSelectGrade5={() => setSelectedGrade("grade5")} onLogout={() => { setSelectedGrade(null); logoutMutation.mutate(undefined, { onSuccess: () => studentQuery.refetch() }); }} />;
+      return <GradeSelector studentName={studentQuery.data.displayName} allowedGrades={studentQuery.data.allowedGrades} onSelectGrade4={() => setSelectedGrade("grade4")} onSelectGrade5={() => setSelectedGrade("grade5")} onLogout={() => { setSelectedGrade(null); logoutMutation.mutate(undefined, { onSuccess: () => studentQuery.refetch() }); }} />;
     }
     return <Home
       grade={selectedGrade}
@@ -91,7 +95,7 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
         <form className="sf-access-form" onSubmit={login}>
           <label>اسم المستخدم<input value={username} onChange={(event) => setUsername(event.target.value.toLowerCase())} autoComplete="username" required minLength={3} maxLength={32} dir="ltr" /></label>
           <label>كلمة المرور<input value={password} onChange={(event) => setPassword(event.target.value)} autoComplete="current-password" required minLength={8} type="password" dir="ltr" /></label>
-          {trialEnded && <p className="sf-access-error">انتهت ساعة التجربة. تواصل مع المعلم للحصول على نسختك أو حسابك الكامل.</p>}
+          {trialEnded && <p className="sf-access-error">انتهت ساعة التجربة على هذا الجهاز. يمكن لطالب آخر بدء ساعة من جهاز مختلف، أو يمكن للمعلم إعادة ضبط الأجهزة.</p>}
           {loginMutation.error && <p className="sf-access-error">{loginMutation.error.message}</p>}
           <button className="sf-access-submit" disabled={loginMutation.isPending} type="submit"><LogIn size={18} /> {loginMutation.isPending ? "جارٍ الدخول..." : "ابدأ التعلم"}</button>
         </form>

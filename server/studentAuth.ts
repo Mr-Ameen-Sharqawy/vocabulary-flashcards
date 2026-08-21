@@ -5,7 +5,7 @@ import { parse } from "cookie";
 import type { Request, Response } from "express";
 import { getSessionCookieOptions } from "./_core/cookies";
 import { ENV } from "./_core/env";
-import { getStudentById, isTrialSessionActive, studentDeviceExists } from "./db";
+import { getStudentById, getTrialDeviceAccess, studentDeviceExists } from "./db";
 
 const scrypt = promisify(scryptCallback);
 export const STUDENT_SESSION_COOKIE = "student_session";
@@ -60,9 +60,12 @@ export async function getStudentSession(req: Request) {
     const student = await getStudentById(Number(payload.sub));
     if (!student || !student.enabled || student.sessionVersion !== payload.sessionVersion) return null;
     if (student.accessType === "trial") {
-      if (!(await isTrialSessionActive(student.id))) return null;
-    } else if (!(await studentDeviceExists(student.id, payload.deviceId))) return null;
-    return { student, deviceId: payload.deviceId };
+      const trial = await getTrialDeviceAccess(student.id, payload.deviceId);
+      if (trial.status === "locked") return null;
+      return { student, deviceId: payload.deviceId, trialEndsAt: trial.endsAt };
+    }
+    if (!(await studentDeviceExists(student.id, payload.deviceId))) return null;
+    return { student, deviceId: payload.deviceId, trialEndsAt: null };
   } catch {
     return null;
   }
