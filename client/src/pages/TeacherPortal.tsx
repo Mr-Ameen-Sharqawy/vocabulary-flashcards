@@ -1,4 +1,4 @@
-import { ArrowRight, KeyRound, Loader2, LogOut, MonitorSmartphone, Plus, ShieldCheck, Users } from "lucide-react";
+import { ArrowRight, Clock3, KeyRound, Loader2, LogOut, MonitorSmartphone, Plus, ShieldCheck, Users } from "lucide-react";
 import { FormEvent, useState } from "react";
 import { startLogin } from "@/const";
 import { trpc } from "@/lib/trpc";
@@ -16,17 +16,19 @@ export default function TeacherPortal({ onBack }: TeacherPortalProps) {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [maxDevices, setMaxDevices] = useState(1);
+  const [accessType, setAccessType] = useState<"standard" | "trial">("standard");
   const [resetStudentId, setResetStudentId] = useState<number | null>(null);
   const [newPassword, setNewPassword] = useState("");
 
   function addStudent(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
-    createStudent.mutate({ displayName, username, password, maxDevices }, {
+    createStudent.mutate({ displayName, username, password, maxDevices, accessType }, {
       onSuccess: () => {
         setDisplayName("");
         setUsername("");
         setPassword("");
         setMaxDevices(1);
+        setAccessType("standard");
       },
     });
   }
@@ -57,11 +59,12 @@ export default function TeacherPortal({ onBack }: TeacherPortalProps) {
           <label>اسم الطالب<input value={displayName} onChange={(event) => setDisplayName(event.target.value)} required minLength={2} maxLength={120} /></label>
           <label>اسم المستخدم<input value={username} onChange={(event) => setUsername(event.target.value.toLowerCase())} required pattern="[a-z0-9_]{3,32}" minLength={3} maxLength={32} dir="ltr" placeholder="student_01" /></label>
           <label>كلمة المرور الأولى<input value={password} onChange={(event) => setPassword(event.target.value)} required minLength={8} type="password" dir="ltr" /></label>
-          <label>عدد الأجهزة المسموح بها<select value={maxDevices} onChange={(event) => setMaxDevices(Number(event.target.value))}>{Array.from({ length: 10 }, (_, index) => index + 1).map(value => <option key={value} value={value}>{value} جهاز/أجهزة</option>)}</select></label>
+          <label>نوع الحساب<select value={accessType} onChange={(event) => setAccessType(event.target.value as "standard" | "trial")}><option value="standard">حساب كامل</option><option value="trial">تجربة ساعة واحدة</option></select></label>
+          {accessType === "standard" ? <label>عدد الأجهزة المسموح بها<select value={maxDevices} onChange={(event) => setMaxDevices(Number(event.target.value))}>{Array.from({ length: 10 }, (_, index) => index + 1).map(value => <option key={value} value={value}>{value} جهاز/أجهزة</option>)}</select></label> : <p className="sf-trial-note"><Clock3 size={16} /> يعمل على أجهزة غير محدودة لمدة ساعة واحدة فقط، ثم يُقفل ويطلب من الطالب حسابًا كاملًا من المعلم.</p>}
           {createStudent.error && <p className="sf-access-error">{createStudent.error.message}</p>}
           <button className="sf-access-submit" disabled={createStudent.isPending} type="submit"><Plus size={18} /> {createStudent.isPending ? "جارٍ الحفظ..." : "إنشاء الحساب"}</button>
         </form>
-        <section className="sf-teacher-panel sf-student-list"><h2><Users size={19} /> الطلاب ({students.data?.length ?? 0})</h2>{students.isLoading && <p>جارٍ تحميل الحسابات...</p>}{students.data?.length === 0 && <p className="sf-muted-copy">لم تضف أي حساب بعد.</p>}{students.data?.map((student) => <article className="sf-student-row" key={student.id}><div><strong>{student.displayName}</strong><span dir="ltr">{student.username}</span><small className="sf-device-count"><MonitorSmartphone size={14} /> <span dir="ltr">{student.deviceCount} / {student.maxDevices}</span> أجهزة موثوقة</small></div><div className="sf-student-actions"><select aria-label={`Device limit for ${student.username}`} value={student.maxDevices} onChange={(event) => updateDeviceLimit.mutate({ studentId: student.id, maxDevices: Number(event.target.value) })}>{Array.from({ length: 10 }, (_, index) => index + 1).map(value => <option key={value} value={value}>{value} جهاز</option>)}</select><button onClick={() => setResetStudentId(student.id)}><KeyRound size={15} /> كلمة المرور</button><button onClick={() => { if (window.confirm(`إزالة كل الأجهزة الموثوقة لحساب ${student.displayName}؟`)) resetDevices.mutate({ studentId: student.id }); }}><MonitorSmartphone size={15} /> إعادة الأجهزة</button></div></article>)}</section>
+        <section className="sf-teacher-panel sf-student-list"><h2><Users size={19} /> الطلاب ({students.data?.length ?? 0})</h2>{students.isLoading && <p>جارٍ تحميل الحسابات...</p>}{students.data?.length === 0 && <p className="sf-muted-copy">لم تضف أي حساب بعد.</p>}{students.data?.map((student) => <article className="sf-student-row" key={student.id}><div><strong>{student.displayName}</strong><span dir="ltr">{student.username}</span>{student.accessType === "trial" ? <small className="sf-trial-note"><Clock3 size={14} /> {student.trialLocked ? "انتهت التجربة — يحتاج حسابًا كاملًا" : "تجربة: ساعة واحدة · أجهزة غير محدودة"}</small> : <small className="sf-device-count"><MonitorSmartphone size={14} /> <span dir="ltr">{student.deviceCount} / {student.maxDevices}</span> أجهزة موثوقة</small>}</div><div className="sf-student-actions">{student.accessType === "standard" && <><select aria-label={`Device limit for ${student.username}`} value={student.maxDevices} onChange={(event) => updateDeviceLimit.mutate({ studentId: student.id, maxDevices: Number(event.target.value) })}>{Array.from({ length: 10 }, (_, index) => index + 1).map(value => <option key={value} value={value}>{value} جهاز</option>)}</select><button onClick={() => { if (window.confirm(`إزالة كل الأجهزة الموثوقة لحساب ${student.displayName}؟`)) resetDevices.mutate({ studentId: student.id }); }}><MonitorSmartphone size={15} /> إعادة الأجهزة</button></>}<button onClick={() => setResetStudentId(student.id)}><KeyRound size={15} /> كلمة المرور</button></div></article>)}</section>
       </section>
       {resetStudentId && <form className="sf-reset-panel" onSubmit={updatePassword}><h2>كلمة مرور جديدة</h2><input value={newPassword} onChange={(event) => setNewPassword(event.target.value)} required minLength={8} type="password" dir="ltr" autoFocus /><div><button className="sf-teacher-link" type="button" onClick={() => setResetStudentId(null)}>إلغاء</button><button className="sf-access-submit" disabled={resetPassword.isPending} type="submit">حفظ كلمة المرور</button></div>{resetPassword.error && <p className="sf-access-error">{resetPassword.error.message}</p>}</form>}
     </main>

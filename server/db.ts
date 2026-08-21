@@ -111,7 +111,7 @@ export async function getStudentById(id: number) {
   return result[0] ?? null;
 }
 
-export async function createStudentAccount(input: { displayName: string; username: string; passwordHash: string; maxDevices: number }) {
+export async function createStudentAccount(input: { displayName: string; username: string; passwordHash: string; maxDevices: number; accessType: "standard" | "trial" }) {
   const db = await getDb();
   if (!db) throw new Error("Database is unavailable");
   await db.insert(studentAccounts).values(input);
@@ -129,6 +129,9 @@ export async function listStudentAccounts() {
     username: studentAccounts.username,
     enabled: studentAccounts.enabled,
     maxDevices: studentAccounts.maxDevices,
+    accessType: studentAccounts.accessType,
+    trialEndsAt: studentAccounts.trialEndsAt,
+    trialLocked: studentAccounts.trialLocked,
     createdAt: studentAccounts.createdAt,
     progressUpdatedAt: studentProgress.updatedAt,
   }).from(studentAccounts).leftJoin(studentProgress, eq(studentProgress.studentId, studentAccounts.id));
@@ -183,6 +186,36 @@ export async function resetStudentDevices(studentId: number) {
     await tx.delete(studentDevices).where(eq(studentDevices.studentId, studentId));
     await tx.update(studentAccounts).set({ sessionVersion: sql`${studentAccounts.sessionVersion} + 1` }).where(eq(studentAccounts.id, studentId));
   });
+}
+
+export type TrialAccess = { status: "active"; endsAt: number } | { status: "locked" };
+
+/** Starts one shared 60-minute trial window; subsequent devices use the same window. */
+export async function beginTrialAccess(studentId: number): Promise<TrialAccess> {
+  const db = await getDb();
+  if (!db) throw new Error("Database is unavailable");
+  return db.transaction(async tx => {
+    const account = await tx.select({ accessType: studentAccounts.accessType, trialLocked: studentAccounts.trialLocked, trialEndsAt: studentAccounts.trialEndsAt }).from(studentAccounts).where(eq(studentAccounts.id, studentId)).limit(1);
+    const trial = account[0];
+    if (!trial || trial.accessType !== "trial") throw new Error("Trial account is required");
+    const now = new Date();
+    if (trial.trialLocked || (trial.trialEndsAt && trial.trialEndsAt <= now)) {
+      if (!trial.trialLocked) await tx.update(studentAccounts).set({ trialLocked: true, sessionVersion: sql`${studentAccounts.sessionVersion} + 1` }).where(eq(studentAccounts.id, studentId));
+      return { status: "locked" };
+    }
+    if (trial.trialEndsAt) return { status: "active", endsAt: trial.trialEndsAt.getTime() };
+    const endsAt = new Date(now.getTime() + 60 * 60 * 1000);
+    await tx.update(studentAccounts).set({ trialStartedAt: now, trialEndsAt: endsAt }).where(eq(studentAccounts.id, studentId));
+    return { status: "active", endsAt: endsAt.getTime() };
+  });
+}
+
+export async function isTrialSessionActive(studentId: number) {
+  const db = await getDb();
+  if (!db) throw new Error("Database is unavailable");
+  const result = await db.select({ accessType: studentAccounts.accessType, trialLocked: studentAccounts.trialLocked, trialEndsAt: studentAccounts.trialEndsAt }).from(studentAccounts).where(eq(studentAccounts.id, studentId)).limit(1);
+  const trial = result[0];
+  return trial?.accessType !== "trial" || (!trial.trialLocked && Boolean(trial.trialEndsAt && trial.trialEndsAt > new Date()));
 }
 
 export async function getStudentProgress(studentId: number): Promise<StudentProgressPayload> {

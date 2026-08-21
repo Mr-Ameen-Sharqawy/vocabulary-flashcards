@@ -21,11 +21,21 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
   const saveProgressMutation = trpc.student.saveProgress.useMutation();
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
+  const [trialEnded, setTrialEnded] = useState(false);
   const saveTimer = useRef<number | undefined>(undefined);
   const saveProgressRef = useRef(saveProgressMutation.mutate);
 
   useEffect(() => () => window.clearTimeout(saveTimer.current), []);
   useEffect(() => { saveProgressRef.current = saveProgressMutation.mutate; }, [saveProgressMutation.mutate]);
+  useEffect(() => {
+    const trialEndsAt = studentQuery.data?.trialEndsAt;
+    if (!trialEndsAt) return;
+    const timeout = window.setTimeout(() => {
+      setTrialEnded(true);
+      logoutMutation.mutate(undefined, { onSuccess: () => studentQuery.refetch() });
+    }, Math.max(0, trialEndsAt - Date.now()));
+    return () => window.clearTimeout(timeout);
+  }, [studentQuery.data?.trialEndsAt, logoutMutation, studentQuery]);
 
   const handleProgressChange = useCallback((progress: { selectedLessonId?: string; lessonAnswers: Record<string, Record<string, string>>; quizScores: Record<string, number> }) => {
     window.clearTimeout(saveTimer.current);
@@ -34,6 +44,7 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
 
   function login(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
+    setTrialEnded(false);
     loginMutation.mutate({ username, password, deviceId: getStudentDeviceId(), deviceLabel: "جهاز الطالب" }, {
       onSuccess: () => {
         setPassword("");
@@ -65,6 +76,7 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
         <form className="sf-access-form" onSubmit={login}>
           <label>اسم المستخدم<input value={username} onChange={(event) => setUsername(event.target.value.toLowerCase())} autoComplete="username" required minLength={3} maxLength={32} dir="ltr" /></label>
           <label>كلمة المرور<input value={password} onChange={(event) => setPassword(event.target.value)} autoComplete="current-password" required minLength={8} type="password" dir="ltr" /></label>
+          {trialEnded && <p className="sf-access-error">انتهت ساعة التجربة. تواصل مع المعلم للحصول على نسختك أو حسابك الكامل.</p>}
           {loginMutation.error && <p className="sf-access-error">{loginMutation.error.message}</p>}
           <button className="sf-access-submit" disabled={loginMutation.isPending} type="submit"><LogIn size={18} /> {loginMutation.isPending ? "جارٍ الدخول..." : "ابدأ التعلم"}</button>
         </form>

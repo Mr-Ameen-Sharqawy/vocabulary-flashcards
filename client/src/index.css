@@ -221,6 +221,7 @@ button { -webkit-tap-highlight-color: transparent; }
 .sf-student-row strong { color: var(--ink-deep); font: 800 16px/1.2 "Baloo 2", sans-serif; }
 .sf-student-row span, .sf-muted-copy { margin-top: 4px; color: #6d859c; font: 700 12px/1 "Nunito Sans", sans-serif; }
 .sf-device-count { display: inline-flex; align-items: center; gap: 5px; margin-top: 8px; color: #52718c; font: 800 11px/1 "Noto Kufi Arabic", sans-serif; }
+.sf-trial-note { display: inline-flex; align-items: center; gap: 6px; margin: 4px 0 0; color: #a26725; font: 800 11px/1.75 "Noto Kufi Arabic", sans-serif; }
 .sf-student-actions { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 7px; }
 .sf-student-row button { display: inline-flex; align-items: center; gap: 6px; border: 1px solid #cbd9e6; border-radius: 7px; padding: 8px 10px; background: #fff; color: var(--blue); font: 800 11px/1 "Noto Kufi Arabic", sans-serif; }
 .sf-reset-panel { position: fixed; inset: 0; z-index: 50; display: grid; place-content: center; gap: 15px; padding: 28px; background: rgba(15,45,76,.5); }
