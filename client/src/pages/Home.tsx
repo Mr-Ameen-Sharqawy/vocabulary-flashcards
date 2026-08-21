@@ -19,26 +19,31 @@ import {
 import { useEffect, useMemo, useState } from "react";
 import { buildWordOptions, courseLessons, courseUnits, sentenceWithBlank, type CourseCard } from "@/lib/course";
 import { cartoonImageFor } from "@/lib/cartoon-images";
+import { grade5CourseLessons, grade5CourseUnits } from "@/lib/grade5-course";
+import { grade5CartoonImageFor } from "@/lib/grade5-cartoon-images";
 
 const logoImage = "/manus-storage/vocabulary-logo_5f3f4915.png";
-const progressStorageKey = "sense-lab-primary-4-progress-v1";
-
 type SavedProgress = {
   selectedLessonId?: string;
   lessonAnswers: Record<string, Record<string, string>>;
-  quizScores: Record<number, number>;
+  quizScores: Record<string, number>;
 };
 
 type HomeProps = {
+  grade?: "grade4" | "grade5";
   initialProgress?: SavedProgress;
   onProgressChange?: (progress: SavedProgress) => void;
   studentName?: string;
   onStudentLogout?: () => void;
 };
 
-export default function Home({ initialProgress, onProgressChange, studentName, onStudentLogout }: HomeProps) {
-  const [selectedLessonId, setSelectedLessonId] = useState(courseLessons[0].id);
-  const selectedLesson = courseLessons.find((lesson) => lesson.id === selectedLessonId) ?? courseLessons[0];
+export default function Home({ grade = "grade4", initialProgress, onProgressChange, studentName, onStudentLogout }: HomeProps) {
+  const isGrade5 = grade === "grade5";
+  const activeCourseLessons = isGrade5 ? grade5CourseLessons : courseLessons;
+  const activeCourseUnits = isGrade5 ? grade5CourseUnits : courseUnits;
+  const progressStorageKey = isGrade5 ? "sense-lab-primary-5-progress-v1" : "sense-lab-primary-4-progress-v1";
+  const [selectedLessonId, setSelectedLessonId] = useState(activeCourseLessons[0].id);
+  const selectedLesson = activeCourseLessons.find((lesson) => lesson.id === selectedLessonId) ?? activeCourseLessons[0];
   const [deck, setDeck] = useState<CourseCard[]>(selectedLesson.cards);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [lessonAnswers, setLessonAnswers] = useState<SavedProgress["lessonAnswers"]>({});
@@ -55,7 +60,7 @@ export default function Home({ initialProgress, onProgressChange, studentName, o
   useEffect(() => {
     try {
       const saved = initialProgress ?? JSON.parse(window.localStorage.getItem(progressStorageKey) ?? "{}") as Partial<SavedProgress>;
-      if (saved.selectedLessonId && courseLessons.some((lesson) => lesson.id === saved.selectedLessonId)) setSelectedLessonId(saved.selectedLessonId);
+      if (saved.selectedLessonId && activeCourseLessons.some((lesson) => lesson.id === saved.selectedLessonId)) setSelectedLessonId(saved.selectedLessonId);
       if (saved.lessonAnswers) setLessonAnswers(saved.lessonAnswers);
       if (saved.quizScores) setQuizScores(saved.quizScores);
     } catch {
@@ -63,7 +68,7 @@ export default function Home({ initialProgress, onProgressChange, studentName, o
     } finally {
       setStorageReady(true);
     }
-  }, [initialProgress]);
+  }, [initialProgress, activeCourseLessons]);
 
   useEffect(() => {
     if (!storageReady) return;
@@ -94,14 +99,14 @@ export default function Home({ initialProgress, onProgressChange, studentName, o
   }).length;
   const totalReviewed = Object.values(lessonAnswers).reduce((sum, result) => sum + Object.keys(result).length, 0);
   const totalCorrect = Object.entries(lessonAnswers).reduce((sum, [lessonId, result]) => {
-    const lesson = courseLessons.find((item) => item.id === lessonId);
+      const lesson = activeCourseLessons.find((item) => item.id === lessonId);
     return sum + Object.entries(result).filter(([cardId, selectedWord]) => lesson?.cards.find((card) => card.id === cardId)?.term === selectedWord).length;
   }, 0);
 
   const activeQuizCards = useMemo(() => {
     if (quizUnit === null) return [];
     const seen = new Set<string>();
-    return courseLessons
+    return activeCourseLessons
       .filter((lesson) => lesson.unit === quizUnit)
       .flatMap((lesson) => lesson.cards)
       .filter((card) => {
@@ -111,7 +116,7 @@ export default function Home({ initialProgress, onProgressChange, studentName, o
         return true;
       })
       .slice(0, 5);
-  }, [quizUnit]);
+  }, [quizUnit, activeCourseLessons]);
   const activeQuizCard = activeQuizCards[quizIndex];
   const activeQuizOptions = useMemo(
     () => (activeQuizCard ? buildWordOptions(activeQuizCards, activeQuizCard) : []),
@@ -230,7 +235,7 @@ export default function Home({ initialProgress, onProgressChange, studentName, o
         <div className="sf-brand" dir="ltr">
           <img className="sf-brand-logo" src={logoImage} alt="Vocabulary Flashcards logo" />
           <div>
-            <p className="sf-brand-kicker">PRIMARY 4 · LITTLE WORD EXPLORERS</p>
+            <p className="sf-brand-kicker">{isGrade5 ? "PRIMARY 5" : "PRIMARY 4"} · LITTLE WORD EXPLORERS</p>
             <p className="sf-brand-name">Vocabulary Flashcards <span>Workbook</span></p>
           </div>
         </div>
@@ -258,14 +263,14 @@ export default function Home({ initialProgress, onProgressChange, studentName, o
           </div>
 
           <div className="sf-rail-copy">
-            <p className="sf-rail-eyebrow">PRIMARY 4 · COURSE MAP</p>
+            <p className="sf-rail-eyebrow">{isGrade5 ? "PRIMARY 5" : "PRIMARY 4"} · COURSE MAP</p>
             <h1>{selectedLesson.unitArabic}</h1>
             <p dir="ltr">{selectedLesson.title}</p>
           </div>
 
           <nav className="sf-course-nav" aria-label="Units and lessons">
-            {courseUnits.map((unit) => {
-              const unitLessons = courseLessons.filter((lesson) => lesson.unit === unit.unit);
+            {activeCourseUnits.map((unit) => {
+              const unitLessons = activeCourseLessons.filter((lesson) => lesson.unit === unit.unit);
               const activeUnit = selectedLesson.unit === unit.unit;
               return (
                 <section className={`sf-unit-group ${activeUnit ? "is-active" : ""}`} key={unit.unit}>
@@ -339,7 +344,7 @@ export default function Home({ initialProgress, onProgressChange, studentName, o
                     <span className="sf-guess-count" dir="ltr">{String(currentIndex + 1).padStart(2, "0")}</span>
                   </section>
                   <section className="sf-flip-face sf-flip-back" aria-label={`${currentCard.term} flipped card`}>
-                    <img src={cartoonImageFor(currentCard)} alt={`Cartoon illustration for ${currentCard.term}`} />
+                    <img src={isGrade5 ? grade5CartoonImageFor(currentCard) : cartoonImageFor(currentCard)} alt={`Cartoon illustration for ${currentCard.term}`} />
                     <button className="sf-word-below-photo" onClick={pronounceWord} aria-label={`Listen to ${currentCard.term} again`}>
                       <strong dir="ltr">{currentCard.term}</strong>
                       <span>{currentCard.arabic}</span>

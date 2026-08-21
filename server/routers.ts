@@ -10,11 +10,12 @@ import { clearStudentSession, getStudentSession, hashStudentPassword, setStudent
 const usernameSchema = z.string().trim().toLowerCase().regex(/^[a-z0-9_]{3,32}$/);
 const passwordSchema = z.string().min(8).max(128);
 const deviceIdSchema = z.string().regex(/^[a-zA-Z0-9_-]{12,80}$/);
-const progressSchema = z.object({
+const courseProgressSchema = z.object({
   selectedLessonId: z.string().max(48).optional(),
   lessonAnswers: z.record(z.string(), z.record(z.string(), z.string())),
   quizScores: z.record(z.string(), z.number().int().min(0).max(5)),
 });
+const progressSchema = z.object({ grade4: courseProgressSchema, grade5: courseProgressSchema });
 
 function studentView(student: { id: number; displayName: string; username: string; accessType: "standard" | "trial"; trialEndsAt: Date | null; trialLocked: boolean }, trialEndsAt?: number) {
   return { id: student.id, displayName: student.displayName, username: student.username, isTrial: student.accessType === "trial", trialEndsAt: trialEndsAt ?? student.trialEndsAt?.getTime() ?? null, trialLocked: student.trialLocked };

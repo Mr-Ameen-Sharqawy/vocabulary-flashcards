@@ -2,6 +2,7 @@ import { and, count, eq, sql } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
 import { InsertUser, studentAccounts, studentDevices, studentProgress, users } from "../drizzle/schema";
 import { ENV } from './_core/env';
+import { emptyStudentProgress, progressColumns, readStudentProgress, type StudentProgressPayload } from './studentProgress';
 
 let _db: ReturnType<typeof drizzle> | null = null;
 
@@ -88,14 +89,6 @@ export async function getUserByOpenId(openId: string) {
 
   return result.length > 0 ? result[0] : undefined;
 }
-
-export type StudentProgressPayload = {
-  selectedLessonId?: string;
-  lessonAnswers: Record<string, Record<string, string>>;
-  quizScores: Record<string, number>;
-};
-
-const emptyProgress = (): StudentProgressPayload => ({ lessonAnswers: {}, quizScores: {} });
 
 export async function getStudentByUsername(username: string) {
   const db = await getDb();
@@ -223,27 +216,19 @@ export async function getStudentProgress(studentId: number): Promise<StudentProg
   if (!db) throw new Error("Database is unavailable");
   const result = await db.select().from(studentProgress).where(eq(studentProgress.studentId, studentId)).limit(1);
   const progress = result[0];
-  if (!progress) return emptyProgress();
-  return {
-    selectedLessonId: progress.selectedLessonId ?? undefined,
-    lessonAnswers: progress.lessonAnswers ?? {},
-    quizScores: progress.quizScores ?? {},
-  };
+  return readStudentProgress(progress);
 }
 
 export async function saveStudentProgress(studentId: number, progress: StudentProgressPayload) {
   const db = await getDb();
   if (!db) throw new Error("Database is unavailable");
+  const columns = progressColumns(progress);
   await db.insert(studentProgress).values({
     studentId,
-    selectedLessonId: progress.selectedLessonId ?? null,
-    lessonAnswers: progress.lessonAnswers,
-    quizScores: progress.quizScores,
+    ...columns,
   }).onDuplicateKeyUpdate({
     set: {
-      selectedLessonId: progress.selectedLessonId ?? null,
-      lessonAnswers: progress.lessonAnswers,
-      quizScores: progress.quizScores,
+      ...columns,
       updatedAt: new Date(),
     },
   });

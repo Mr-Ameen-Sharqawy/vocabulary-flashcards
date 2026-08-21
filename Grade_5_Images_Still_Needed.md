@@ -1,0 +1,343 @@
+# Grade 5 image-match report
+
+- Distinct Grade 5 terms: **560**
+- Safely linked images: **232**
+- Terms still without an image: **328**
+
+## Match sources
+
+| Source | Linked images |
+| --- | ---: |
+| exact_filename | 142 |
+| semantic_filename | 90 |
+
+## Terms still needing a dedicated image
+
+- hunt — يصطاد/بصطاد
+- scary (adj) — مخيف
+- tiny (adj) — صغير جداً
+- role — دور/وظيفة
+- humans — البشر
+- home to — موطن لـ
+- play an important role — يقوم بدور هام
+- kings of the Nile — ملوك النيل
+- What about ... ? — ماذا عن ...؟
+- affect — يؤثر على
+- affected — يؤثر على
+- flowed — يتدفق
+- come — يأتي
+- came — يأتي
+- find — يجد
+- found — يجد
+- keep — يحافظ
+- kept — يحافظ
+- know — يعرف
+- knew — يعرف
+- simple (adj) — بسيط
+- stay in balance — تظل في توازن
+- live — يعيش
+- lived — يعيش
+- gave — يعطي
+- hide — يختبئ
+- hid — يختبئ
+- shade — ظل
+- weak — ضعيف
+- shiny — لامع/براق
+- come back home — يعود إلى المنزل
+- blocked by — يحجب/يمنع
+- taking care of — الاعتناء بـ
+- giving back — رد الجميل
+- rested — يسترخي
+- appreciated — يقدر
+- realized — يدرك
+- bent — ينحني/يميل
+- began — يبدأ
+- mean — يعني/يقصد
+- meant — يعني/يقصد
+- become — يصبح
+- became — يصبح
+- tasty — لذيذ / شهي
+- recipe — وصفة طهي
+- ingredients — مكونات / مقادير
+- grilled — مشوي
+- flavor — طعم / مذاق
+- thin slices — شرائح رفيعة
+- cooked — مطبوخ
+- sea food — مأكولات بحرية
+- crunchy / crispy — مقرمش
+- fried — مقلي
+- traditional — تقليدي
+- cut ... into — يقطع ... إلى
+- prepare — يعد / يجهز
+- prepared — يعد / يجهز
+- added — يضيف
+- stressed — متوتر
+- mental health — الصحة العقلية
+- normal — طبيعي
+- organ — عضو
+- absolutely — إطلاقاً / حتماً
+- regularly — بانتظام
+- exercising — ممارسة التمارين الرياضية
+- go for a walk — يذهب في نزهة سيراً على الأقدام
+- lose weight — يفقد الوزن
+- get tired — يتعب
+- stay healthy — يبقى بصحة جيدة
+- make our bodies stronger — تقوي أجسامنا
+- increase — يزيد
+- increased — يزيد
+- try — يجرب / يحاول
+- tried — يجرب / يحاول
+- reduce — يقلل
+- reduced — يقلل
+- exercised — يتدرب
+- lose — يفقد
+- lost — يفقد
+- slept — ينام
+- journey — رحلة
+- vitamins — فيتامينات
+- changes — تغييرات
+- healthier — أكثر صحة
+- the best way to — أفضل طريقة لـ
+- followed by — تتبعه / يليه
+- all day — طول اليوم
+- then and now — بين الماضي والحاضر
+- used to — اعتاد أن
+- change — يتغير
+- changed — يتغير
+- bake — يخبز / يحمص
+- replaced — يستبدل
+- blood — دم
+- blood vessels — الأوعية الدموية
+- fist — قبضة/قبضة اليد
+- powerful — قوي/ذو تأثير كبير
+- alive — على قيد الحياة
+- tips — نصائح
+- gas — غاز
+- pump — مضخة
+- get sick — يمرض
+- keep ... from — يمنع ... من
+- pumped — يضخ
+- followed — يتبع
+- hurt — يجرح
+- beat — ينبض
+- treatment — علاج
+- healthcare — الرعاية الصحية
+- diseases — أمراض
+- illnesses — أمراض
+- skills — مهارات
+- harmful — ضار
+- toothpaste — معجون أسنان
+- knowledge — معرفة
+- stethoscope — سماعة الطبيب
+- life saver — منقذ
+- kindness — عطف
+- care — رعاية/عناية/اهتمام
+- real-life heroes — أبطال من الحياة الواقعية
+- on the spot — في الحال / فوراً
+- work day and night — العمل ليلاً ونهاراً
+- work around the clock — العمل على مدار الساعة
+- stay active — يبقى نشيطاً
+- show respect — يظهر الاحترام
+- give advice — يعطي نصيحة
+- provide — يمد / يوفر
+- provided — يمد / يوفر
+- receive — يستلم
+- received — يستلم
+- treated — يعالج
+- respond — يرد / يستجيب
+- responded — يرد / يستجيب
+- diagnosed — يشخص
+- encouraged — يشجع
+- thunderstorm — عاصفة رعدية
+- sandstorm — عاصفة رملية
+- flood — فيضان / يفيض
+- drought — جفاف
+- wildfire — حرائق الغابات
+- heat wave — موجة حارة
+- damaged — مدمر / محطم
+- severe/extreme — قاسٍ/شديد
+- warnings — تحذيرات
+- wonders — عجائب
+- awful / terrible — فظيع / سيء للغاية
+- What a pity! — يا للأسف!
+- close to — بالقرب من
+- burn down — يحرق كلياً
+- prevent ... from — يمنع ... من
+- prevent — يمنع
+- prevented — يمنع
+- cover — يغطي
+- spread — ينتشر
+- hit — يصطدم
+- struck — يضرب / يهاجم
+- mud bricks — قوالب من الطوب اللبن
+- rich soil — تربة خصبة
+- irrigation — الري
+- basin — حوض مائي
+- thick — سميك
+- modern — حديث
+- smart — ذكي
+- possible — ممكن / محتمل
+- farming — الزراعة
+- Khamsin — رياح الخماسين
+- even in the desert — حتى في الصحراء
+- It was hard to + inf. — كان من الصعب أن...
+- over their fields — فوق حقولهم
+- winds with sand — رياح محملة بالرمال
+- control — يتحكم
+- controlled — يتحكم
+- damage — يدمر
+- bring — يجلب / يحضر
+- brought — يجلب / يحضر
+- movement — الحركة
+- deep — عميق
+- danger — خطر
+- safely — بأمان
+- leap — يقفز / ينب
+- [be] able to — قادر على
+- any longer — لم يعد
+- think for a moment — يفكر للحظة
+- at the bottom of — في أسفل
+- near the edge of — بالقرب من حافة
+- make a decision — يتخذ قرار
+- decide — يقرر
+- decided — يقرر
+- agreed — يوافق
+- searched — يبحث
+- swim — يسبح
+- swam — يسبح
+- left — يغادر / يترك
+- joy — فرح / سعادة
+- gentle (adj) — لطيف
+- weather conditions — أحوال جوية
+- strange — غريب
+- brightly — بشكل ساطع / لامع
+- collage — فن القص واللصق
+- side — جانب
+- one by one — واحداً تلو الآخر
+- with a little bit of kindness — بقليل من اللطف
+- think hard — يفكر بعمق
+- upside down — في الوضع المقلوب / رأساً على عقب
+- turn right side up — يقلب إلى الجهة الصحيحة
+- turn over — يقلب (سينياً)
+- flipped — يقلب
+- floated — يطفو
+- clapped — يصفق
+- whispered — يهمُس
+- seem — يبدو
+- seemed — يبدو
+- shine — يشرق
+- shone — يشرق
+- thought — يفكر
+- restaurant — مطعم
+- coffee shop — مقهى
+- bakery — مخبز
+- supermarket — سوبر ماركت
+- club — نادي
+- theme park — مدينة ملاهي
+- loaf / loaves — رغيف / أرغفة
+- neighborhood — حي
+- waiter — جرسون
+- rides — ألعاب ملاهي
+- community — مجتمع
+- personally — شخصياً
+- relaxing — مريح
+- hang out with — يقضي وقتاً مع
+- come with — يأتي مع
+- community center — مركز مجتمعي
+- main square — الساحة الرئيسية
+- quiet / calm — هادئ / صامت
+- peaceful — هادئ / مسالم
+- the busiest place — المكان الأكثر ازدحاماً
+- keep animals — يربي حيوانات
+- shop — يتسوق
+- shopped — يتسوق
+- gather — يجتمع
+- celebrated — يحتفل
+- hear — يسمع
+- heard — يسمع
+- met — يقابل
+- fed — يطعم
+- crowding — ازدحام
+- steel — فولاذ / صلب
+- roads — طرق
+- airport — مطار
+- green areas — مساحات خضراء
+- modern technology — التكنولوجيا الحديثة
+- made of — مصنوع من
+- from the top — من الأعلى
+- designed — يصمم
+- manage — يتحكم / يدير
+- managed — يتحكم / يدير
+- electricity — كهرباء
+- natural gas — الغاز الطبيعي
+- jewelry — مجوهرات
+- fabric — قماش
+- fertile — خصب
+- iron — حديد
+- work for — يعمل لدى / في
+- Well done! = Excellent — أحسنت!
+- named — يذكر/يسمي
+- power — يزود بالطاقة
+- powered — يزود بالطاقة
+- contain — يحتوي على
+- contained — يحتوي على
+- grew — ينمو
+- mineral resources — موارد معدنية
+- non-renewable — غير متجدد
+- miners — عمال المناجم
+- precious — ثمين/نفيس
+- valuable — ذو قيمة
+- expensive — غالي الثمن
+- bright/shiny — لامع / ذو بريق
+- rare — نادر
+- super strong — فائق القوة
+- materials — مواد خام
+- ship — سفينة
+- cheaper — أرخص ثمناً
+- the Eastern Desert — الصحراء الشرقية
+- dig deep into the ground — يحفر بعمق تحت الأرض
+- use .... wisely — يستخدم .... بحكمة
+- easy to shape — سهل التشكيل
+- take millions of years — تستغرق ملايين السنين
+- form — يتكون
+- formed — يتكون
+- wasted — يهدر
+- dug — يحفر
+- cost — يكلف
+- get — يحصل على
+- got — يحصل على
+- popular — مشهور / معروف
+- clear — نظيف / واضح
+- grateful — شاكر / ممتن
+- give up — يستسلم
+- doesn't matter — لا يهم
+- ready to help — مستعد للمساعدة
+- something went wrong — حدث خطأ ما
+- take a long time — يستغرق وقتاً طويلاً
+- admire — يُعجب بـ
+- admired — يُعجب بـ
+- stare — يحدق
+- stared — يحدق
+- rush — يسرع
+- rushed — يسرع
+- bother — يزعج / يضايق
+- bothered — يزعج / يضايق
+- sail — يبحر
+- sailed — يبحر
+- bathe — يستحم
+- still — ساكن
+- dirty — غير نظيف
+- wild — شديد / قاسي
+- treasured — مقدر / غال
+- have no shape — ليس له شكل
+- search for — يبحث عن
+- part of — جزء من
+- without me — بدوني
+- destroyed — يدمر
+- cry — يبكي
+- cried — يبكي
+- danced — يرقص
+- freeze — يجمد
+- froze — يجمد
+- fall — يسقط
+- fell — يسقط

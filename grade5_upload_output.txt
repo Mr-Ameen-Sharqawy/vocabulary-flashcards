@@ -1,0 +1,968 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-001-85bd03fde9.jpeg (size: 1110101 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-002-02212aeb2d.jpeg (size: 1245101 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-002-02212aeb2d_8fb0d708.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-003-2058083c2c.jpeg (size: 1060226 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-003-2058083c2c_2a8e4459.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-004-9daf76475e.jpeg (size: 846099 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-004-9daf76475e_3773f60e.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-005-3eec1378e1.jpeg (size: 823168 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-005-3eec1378e1_5a303d6c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-006-ac104cb342.jpeg (size: 745630 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-006-ac104cb342_5cb9f77e.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-007-c05a808c2f.jpeg (size: 999379 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-007-c05a808c2f_becf7e06.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-008-760d3cb8f6.jpeg (size: 1107558 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-008-760d3cb8f6_94ab6603.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-009-382b145b28.jpeg (size: 1047174 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-009-382b145b28_4ca43883.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-010-aad9fd2bf6.jpeg (size: 786333 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-010-aad9fd2bf6_d3ad0eb9.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-011-a6710a0fb6.jpeg (size: 1072446 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-012-b979710203.jpeg (size: 1136590 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-012-b979710203_9edc4f8c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-013-353344da7e.jpeg (size: 1104583 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-013-353344da7e_8a901b9c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-014-e7cf818373.jpeg (size: 1115071 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-014-e7cf818373_65d2a46e.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-015-06e241a71e.jpeg (size: 879924 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-015-06e241a71e_d31d827d.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-016-f911b7cadc.jpeg (size: 934395 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-016-f911b7cadc_3cfab4c6.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-017-7845802a2d.jpeg (size: 1062792 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-017-7845802a2d_05968176.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-018-b1234d5a71.jpeg (size: 960679 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-018-b1234d5a71_4e576fe1.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-019-9318e23942.jpeg (size: 897198 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-019-9318e23942_ed2f0a33.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-020-579573e508.jpeg (size: 1016961 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-020-579573e508_5ba5a916.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-021-49f13f4ae8.jpeg (size: 889467 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-021-49f13f4ae8_d2e220ba.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-022-881bb42d62.jpeg (size: 1036664 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-022-881bb42d62_3edfcaab.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-023-a160d69d05.jpeg (size: 767358 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-023-a160d69d05_912ada51.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-024-652c2d2809.jpeg (size: 955851 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-024-652c2d2809_80b2da0a.jpeg
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-001-85bd03fde9.jpeg -> /manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-002-02212aeb2d.jpeg -> /manus-storage/grade5-002-02212aeb2d_8fb0d708.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-003-2058083c2c.jpeg -> /manus-storage/grade5-003-2058083c2c_2a8e4459.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-004-9daf76475e.jpeg -> /manus-storage/grade5-004-9daf76475e_3773f60e.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-005-3eec1378e1.jpeg -> /manus-storage/grade5-005-3eec1378e1_5a303d6c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-006-ac104cb342.jpeg -> /manus-storage/grade5-006-ac104cb342_5cb9f77e.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-007-c05a808c2f.jpeg -> /manus-storage/grade5-007-c05a808c2f_becf7e06.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-008-760d3cb8f6.jpeg -> /manus-storage/grade5-008-760d3cb8f6_94ab6603.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-009-382b145b28.jpeg -> /manus-storage/grade5-009-382b145b28_4ca43883.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-010-aad9fd2bf6.jpeg -> /manus-storage/grade5-010-aad9fd2bf6_d3ad0eb9.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-011-a6710a0fb6.jpeg -> /manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-012-b979710203.jpeg -> /manus-storage/grade5-012-b979710203_9edc4f8c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-013-353344da7e.jpeg -> /manus-storage/grade5-013-353344da7e_8a901b9c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-014-e7cf818373.jpeg -> /manus-storage/grade5-014-e7cf818373_65d2a46e.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-015-06e241a71e.jpeg -> /manus-storage/grade5-015-06e241a71e_d31d827d.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-016-f911b7cadc.jpeg -> /manus-storage/grade5-016-f911b7cadc_3cfab4c6.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-017-7845802a2d.jpeg -> /manus-storage/grade5-017-7845802a2d_05968176.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-018-b1234d5a71.jpeg -> /manus-storage/grade5-018-b1234d5a71_4e576fe1.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-019-9318e23942.jpeg -> /manus-storage/grade5-019-9318e23942_ed2f0a33.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-020-579573e508.jpeg -> /manus-storage/grade5-020-579573e508_5ba5a916.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-021-49f13f4ae8.jpeg -> /manus-storage/grade5-021-49f13f4ae8_d2e220ba.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-022-881bb42d62.jpeg -> /manus-storage/grade5-022-881bb42d62_3edfcaab.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-023-a160d69d05.jpeg -> /manus-storage/grade5-023-a160d69d05_912ada51.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-024-652c2d2809.jpeg -> /manus-storage/grade5-024-652c2d2809_80b2da0a.jpeg
+=====================================
+Total: 24, Success: 24, Failed: 0
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-025-ae25cfc6d7.jpeg (size: 1088401 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-025-ae25cfc6d7_b36bfd98.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-026-f57890af41.jpeg (size: 1075047 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-026-f57890af41_62b879d7.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-027-c98ed7c178.jpeg (size: 909758 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-027-c98ed7c178_bdaa9e11.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-028-94ff629333.jpeg (size: 889234 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-028-94ff629333_54a2d8d1.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-029-102d065f40.jpeg (size: 956131 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-029-102d065f40_847ad1a4.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-030-70ea8ed52d.jpeg (size: 1107085 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-030-70ea8ed52d_4b832c55.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-031-fa48061d34.jpeg (size: 870919 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-031-fa48061d34_a9abfcc6.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-032-e2232d7ec6.jpeg (size: 954725 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-032-e2232d7ec6_24b27d0c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-033-cf323ff9b8.jpeg (size: 1050945 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-033-cf323ff9b8_0574d2b0.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-034-f44d00f9fe.jpeg (size: 1092072 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-034-f44d00f9fe_029b4a8e.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-035-7571cde787.jpeg (size: 942625 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-035-7571cde787_17b451f9.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-036-da09a6d4fe.jpeg (size: 817952 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-036-da09a6d4fe_8a114d45.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-037-d6e0763707.jpeg (size: 860330 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-037-d6e0763707_d93197ea.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-038-b6649fcad5.jpeg (size: 944836 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-038-b6649fcad5_83222e70.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-039-371d84b8ba.jpeg (size: 1041793 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-039-371d84b8ba_93b150f9.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-040-71895be8a8.jpeg (size: 853198 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-040-71895be8a8_62ce5cae.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-041-b6df0a2f50.jpeg (size: 801166 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-041-b6df0a2f50_a616b00e.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-042-ba0eaca7c3.jpeg (size: 720110 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-042-ba0eaca7c3_64e34840.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-043-542494fb38.jpeg (size: 1123418 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-043-542494fb38_57e0243e.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-044-3199caf3de.jpeg (size: 780988 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-044-3199caf3de_589976be.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-045-456df68c29.jpeg (size: 921462 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-045-456df68c29_344421e5.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-046-9bee81dee1.jpeg (size: 1000559 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-046-9bee81dee1_42446929.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-047-89166a5efe.jpeg (size: 1101666 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-047-89166a5efe_e22a0715.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-048-8f97b02217.jpeg (size: 1094607 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-048-8f97b02217_2e94cff0.jpeg
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-025-ae25cfc6d7.jpeg -> /manus-storage/grade5-025-ae25cfc6d7_b36bfd98.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-026-f57890af41.jpeg -> /manus-storage/grade5-026-f57890af41_62b879d7.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-027-c98ed7c178.jpeg -> /manus-storage/grade5-027-c98ed7c178_bdaa9e11.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-028-94ff629333.jpeg -> /manus-storage/grade5-028-94ff629333_54a2d8d1.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-029-102d065f40.jpeg -> /manus-storage/grade5-029-102d065f40_847ad1a4.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-030-70ea8ed52d.jpeg -> /manus-storage/grade5-030-70ea8ed52d_4b832c55.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-031-fa48061d34.jpeg -> /manus-storage/grade5-031-fa48061d34_a9abfcc6.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-032-e2232d7ec6.jpeg -> /manus-storage/grade5-032-e2232d7ec6_24b27d0c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-033-cf323ff9b8.jpeg -> /manus-storage/grade5-033-cf323ff9b8_0574d2b0.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-034-f44d00f9fe.jpeg -> /manus-storage/grade5-034-f44d00f9fe_029b4a8e.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-035-7571cde787.jpeg -> /manus-storage/grade5-035-7571cde787_17b451f9.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-036-da09a6d4fe.jpeg -> /manus-storage/grade5-036-da09a6d4fe_8a114d45.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-037-d6e0763707.jpeg -> /manus-storage/grade5-037-d6e0763707_d93197ea.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-038-b6649fcad5.jpeg -> /manus-storage/grade5-038-b6649fcad5_83222e70.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-039-371d84b8ba.jpeg -> /manus-storage/grade5-039-371d84b8ba_93b150f9.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-040-71895be8a8.jpeg -> /manus-storage/grade5-040-71895be8a8_62ce5cae.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-041-b6df0a2f50.jpeg -> /manus-storage/grade5-041-b6df0a2f50_a616b00e.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-042-ba0eaca7c3.jpeg -> /manus-storage/grade5-042-ba0eaca7c3_64e34840.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-043-542494fb38.jpeg -> /manus-storage/grade5-043-542494fb38_57e0243e.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-044-3199caf3de.jpeg -> /manus-storage/grade5-044-3199caf3de_589976be.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-045-456df68c29.jpeg -> /manus-storage/grade5-045-456df68c29_344421e5.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-046-9bee81dee1.jpeg -> /manus-storage/grade5-046-9bee81dee1_42446929.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-047-89166a5efe.jpeg -> /manus-storage/grade5-047-89166a5efe_e22a0715.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-048-8f97b02217.jpeg -> /manus-storage/grade5-048-8f97b02217_2e94cff0.jpeg
+=====================================
+Total: 24, Success: 24, Failed: 0
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-049-b32f1b99c3.jpeg (size: 859127 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-049-b32f1b99c3_3f86536c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-050-9a9efca78c.jpeg (size: 1205962 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-050-9a9efca78c_9426b2fe.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-051-39e77addc9.jpeg (size: 1084481 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-051-39e77addc9_22b5fd1b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-052-7a38693122.jpeg (size: 847000 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-052-7a38693122_f16b3796.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-053-0347b70871.jpeg (size: 1014491 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-053-0347b70871_59ce4a09.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-054-326234378a.jpeg (size: 830755 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-054-326234378a_1c678390.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-055-1535335c03.jpeg (size: 906133 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-055-1535335c03_a1455e1d.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-056-3278c88d2e.jpeg (size: 790990 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-057-b5782a687f.jpeg (size: 772388 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-057-b5782a687f_7ac6cf38.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-058-6895f149a9.jpeg (size: 813457 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-058-6895f149a9_3d895e8c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-059-bc70c0c7cb.jpeg (size: 718369 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-059-bc70c0c7cb_ca38d134.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-060-0e720d0cb7.jpeg (size: 1095177 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-060-0e720d0cb7_415a4ac8.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-061-4ce700ff04.jpeg (size: 870930 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-061-4ce700ff04_ef4b4511.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-062-7c1d3d7b78.jpeg (size: 1128764 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-062-7c1d3d7b78_37d023a4.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-063-8b92322ac9.jpeg (size: 975871 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-063-8b92322ac9_78bc5a98.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-064-5ac66980c9.jpeg (size: 1015176 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-064-5ac66980c9_8ecbc1ce.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-065-fd60b2cf9b.jpeg (size: 903861 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-065-fd60b2cf9b_c8ffecf9.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-066-ae27ac2d32.jpeg (size: 1066241 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-066-ae27ac2d32_5896b163.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-067-7b1cc11aff.jpeg (size: 1146905 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-067-7b1cc11aff_41248a35.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-068-a32de347fa.jpeg (size: 1082668 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-068-a32de347fa_c55bb137.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-069-abc0c99213.jpeg (size: 660709 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-069-abc0c99213_19f135a7.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-070-1cb2a7cb2d.jpeg (size: 923465 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-070-1cb2a7cb2d_33fe8526.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-071-5658d6a453.jpeg (size: 981750 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-071-5658d6a453_d0dc939e.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-072-58c62f5cef.jpeg (size: 1141610 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-072-58c62f5cef_d9ba819c.jpeg
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-049-b32f1b99c3.jpeg -> /manus-storage/grade5-049-b32f1b99c3_3f86536c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-050-9a9efca78c.jpeg -> /manus-storage/grade5-050-9a9efca78c_9426b2fe.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-051-39e77addc9.jpeg -> /manus-storage/grade5-051-39e77addc9_22b5fd1b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-052-7a38693122.jpeg -> /manus-storage/grade5-052-7a38693122_f16b3796.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-053-0347b70871.jpeg -> /manus-storage/grade5-053-0347b70871_59ce4a09.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-054-326234378a.jpeg -> /manus-storage/grade5-054-326234378a_1c678390.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-055-1535335c03.jpeg -> /manus-storage/grade5-055-1535335c03_a1455e1d.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-056-3278c88d2e.jpeg -> /manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-057-b5782a687f.jpeg -> /manus-storage/grade5-057-b5782a687f_7ac6cf38.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-058-6895f149a9.jpeg -> /manus-storage/grade5-058-6895f149a9_3d895e8c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-059-bc70c0c7cb.jpeg -> /manus-storage/grade5-059-bc70c0c7cb_ca38d134.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-060-0e720d0cb7.jpeg -> /manus-storage/grade5-060-0e720d0cb7_415a4ac8.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-061-4ce700ff04.jpeg -> /manus-storage/grade5-061-4ce700ff04_ef4b4511.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-062-7c1d3d7b78.jpeg -> /manus-storage/grade5-062-7c1d3d7b78_37d023a4.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-063-8b92322ac9.jpeg -> /manus-storage/grade5-063-8b92322ac9_78bc5a98.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-064-5ac66980c9.jpeg -> /manus-storage/grade5-064-5ac66980c9_8ecbc1ce.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-065-fd60b2cf9b.jpeg -> /manus-storage/grade5-065-fd60b2cf9b_c8ffecf9.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-066-ae27ac2d32.jpeg -> /manus-storage/grade5-066-ae27ac2d32_5896b163.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-067-7b1cc11aff.jpeg -> /manus-storage/grade5-067-7b1cc11aff_41248a35.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-068-a32de347fa.jpeg -> /manus-storage/grade5-068-a32de347fa_c55bb137.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-069-abc0c99213.jpeg -> /manus-storage/grade5-069-abc0c99213_19f135a7.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-070-1cb2a7cb2d.jpeg -> /manus-storage/grade5-070-1cb2a7cb2d_33fe8526.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-071-5658d6a453.jpeg -> /manus-storage/grade5-071-5658d6a453_d0dc939e.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-072-58c62f5cef.jpeg -> /manus-storage/grade5-072-58c62f5cef_d9ba819c.jpeg
+=====================================
+Total: 24, Success: 24, Failed: 0
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-073-63ae7cdfd1.jpeg (size: 835833 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-073-63ae7cdfd1_0d0421b8.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-074-224b642c85.jpeg (size: 905716 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-074-224b642c85_c0093664.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-075-b5640b38eb.jpeg (size: 968053 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-075-b5640b38eb_bcaab9de.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-076-a89f9aa515.jpeg (size: 833916 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-076-a89f9aa515_dc77ca75.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-077-a703930599.jpeg (size: 1046896 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-077-a703930599_5fd5d1d2.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-078-2daf4341b3.jpeg (size: 1066446 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-078-2daf4341b3_edd336d7.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-079-fed68f04ad.jpeg (size: 767395 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-079-fed68f04ad_7d750ff6.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-080-a9bdca8973.jpeg (size: 1008403 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-080-a9bdca8973_54da3edb.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-081-df25fb21ef.jpeg (size: 963508 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-081-df25fb21ef_7e847644.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-082-06d2533a48.jpeg (size: 984331 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-082-06d2533a48_626ffe6d.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-083-e5f7b94868.jpeg (size: 949812 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-083-e5f7b94868_1be07623.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-084-f4ad1f7ff0.jpeg (size: 878869 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-084-f4ad1f7ff0_4c794ffb.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-085-3bc97d8a47.jpeg (size: 857936 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-085-3bc97d8a47_f858f817.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-086-e3fbd8e6b3.jpeg (size: 1035435 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-086-e3fbd8e6b3_979bd4b3.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-087-56e46f908b.jpeg (size: 889526 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-087-56e46f908b_f9dc5a7f.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-088-6cb8822382.jpeg (size: 874961 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-088-6cb8822382_a0b64d9f.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-089-c055aca6fc.jpeg (size: 788970 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-089-c055aca6fc_ce82a827.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-090-ef1b61bd4e.jpeg (size: 760044 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-090-ef1b61bd4e_51ad0cb2.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-091-e40bffe0fd.jpeg (size: 1021020 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-091-e40bffe0fd_000e27f3.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-092-6f65ab636f.jpeg (size: 675478 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-092-6f65ab636f_b52c22ad.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-093-4fb3d7cdc1.jpeg (size: 829137 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-093-4fb3d7cdc1_7ba5d294.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-094-720a4d62e7.jpeg (size: 548800 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-094-720a4d62e7_603ac1bd.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-095-48f01cebd1.jpeg (size: 1031684 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-095-48f01cebd1_03dbcbfb.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-096-0aa61a92cb.jpeg (size: 668326 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-096-0aa61a92cb_0b2a5eea.jpeg
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-073-63ae7cdfd1.jpeg -> /manus-storage/grade5-073-63ae7cdfd1_0d0421b8.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-074-224b642c85.jpeg -> /manus-storage/grade5-074-224b642c85_c0093664.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-075-b5640b38eb.jpeg -> /manus-storage/grade5-075-b5640b38eb_bcaab9de.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-076-a89f9aa515.jpeg -> /manus-storage/grade5-076-a89f9aa515_dc77ca75.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-077-a703930599.jpeg -> /manus-storage/grade5-077-a703930599_5fd5d1d2.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-078-2daf4341b3.jpeg -> /manus-storage/grade5-078-2daf4341b3_edd336d7.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-079-fed68f04ad.jpeg -> /manus-storage/grade5-079-fed68f04ad_7d750ff6.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-080-a9bdca8973.jpeg -> /manus-storage/grade5-080-a9bdca8973_54da3edb.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-081-df25fb21ef.jpeg -> /manus-storage/grade5-081-df25fb21ef_7e847644.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-082-06d2533a48.jpeg -> /manus-storage/grade5-082-06d2533a48_626ffe6d.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-083-e5f7b94868.jpeg -> /manus-storage/grade5-083-e5f7b94868_1be07623.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-084-f4ad1f7ff0.jpeg -> /manus-storage/grade5-084-f4ad1f7ff0_4c794ffb.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-085-3bc97d8a47.jpeg -> /manus-storage/grade5-085-3bc97d8a47_f858f817.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-086-e3fbd8e6b3.jpeg -> /manus-storage/grade5-086-e3fbd8e6b3_979bd4b3.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-087-56e46f908b.jpeg -> /manus-storage/grade5-087-56e46f908b_f9dc5a7f.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-088-6cb8822382.jpeg -> /manus-storage/grade5-088-6cb8822382_a0b64d9f.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-089-c055aca6fc.jpeg -> /manus-storage/grade5-089-c055aca6fc_ce82a827.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-090-ef1b61bd4e.jpeg -> /manus-storage/grade5-090-ef1b61bd4e_51ad0cb2.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-091-e40bffe0fd.jpeg -> /manus-storage/grade5-091-e40bffe0fd_000e27f3.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-092-6f65ab636f.jpeg -> /manus-storage/grade5-092-6f65ab636f_b52c22ad.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-093-4fb3d7cdc1.jpeg -> /manus-storage/grade5-093-4fb3d7cdc1_7ba5d294.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-094-720a4d62e7.jpeg -> /manus-storage/grade5-094-720a4d62e7_603ac1bd.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-095-48f01cebd1.jpeg -> /manus-storage/grade5-095-48f01cebd1_03dbcbfb.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-096-0aa61a92cb.jpeg -> /manus-storage/grade5-096-0aa61a92cb_0b2a5eea.jpeg
+=====================================
+Total: 24, Success: 24, Failed: 0
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-097-f079119cc7.jpeg (size: 983129 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-097-f079119cc7_5e7df72b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-098-29c490ec9a.jpeg (size: 979347 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-098-29c490ec9a_12cbc39d.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-099-c24b1f6e42.jpeg (size: 910633 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-099-c24b1f6e42_170aaf67.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-100-4b6173f79f.jpeg (size: 832236 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-100-4b6173f79f_aea51e6a.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-101-0a4c41e0a0.jpeg (size: 987500 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-101-0a4c41e0a0_ae7935f9.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-102-a04142f715.jpeg (size: 734902 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-102-a04142f715_c2c9de03.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-103-a2c5b848af.jpeg (size: 1104928 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-103-a2c5b848af_8a83c996.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-104-4239f82585.jpeg (size: 582340 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-104-4239f82585_8facef26.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-105-cfcbda3f18.jpeg (size: 962570 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-105-cfcbda3f18_97d6d8ef.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-106-6a0f9896c4.jpeg (size: 787426 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-106-6a0f9896c4_1a541156.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-107-7cfd501a7a.jpeg (size: 1241704 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-107-7cfd501a7a_42cfaa0f.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-108-e51c9634a5.jpeg (size: 762501 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-108-e51c9634a5_ccd4926c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-109-6ae7d119fa.jpeg (size: 1018836 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-109-6ae7d119fa_852a4b25.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-110-e3303b4b45.jpeg (size: 901972 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-110-e3303b4b45_66c30b30.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-111-9ddfec3627.jpeg (size: 845254 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-111-9ddfec3627_a444aba4.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-112-2eb8af9271.jpeg (size: 1072255 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-112-2eb8af9271_60306067.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-113-0f3ce349f8.jpeg (size: 771410 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-113-0f3ce349f8_e12f839f.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-114-f4f81b5833.jpeg (size: 520822 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-114-f4f81b5833_a25d743d.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-115-87fc402339.jpeg (size: 755169 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-115-87fc402339_34b5c9db.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-116-a7ccb294c4.jpeg (size: 712339 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-116-a7ccb294c4_ff9f7b05.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-117-4e2d72fbb2.jpeg (size: 852991 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-117-4e2d72fbb2_3daf9be8.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-118-e2ff479533.jpeg (size: 1034895 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-118-e2ff479533_2a1c8ec5.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-119-99158b00fd.jpeg (size: 1196648 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-119-99158b00fd_d3a2e762.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-120-af8566a3f3.jpeg (size: 1089890 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-120-af8566a3f3_f4817b3f.jpeg
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-097-f079119cc7.jpeg -> /manus-storage/grade5-097-f079119cc7_5e7df72b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-098-29c490ec9a.jpeg -> /manus-storage/grade5-098-29c490ec9a_12cbc39d.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-099-c24b1f6e42.jpeg -> /manus-storage/grade5-099-c24b1f6e42_170aaf67.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-100-4b6173f79f.jpeg -> /manus-storage/grade5-100-4b6173f79f_aea51e6a.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-101-0a4c41e0a0.jpeg -> /manus-storage/grade5-101-0a4c41e0a0_ae7935f9.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-102-a04142f715.jpeg -> /manus-storage/grade5-102-a04142f715_c2c9de03.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-103-a2c5b848af.jpeg -> /manus-storage/grade5-103-a2c5b848af_8a83c996.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-104-4239f82585.jpeg -> /manus-storage/grade5-104-4239f82585_8facef26.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-105-cfcbda3f18.jpeg -> /manus-storage/grade5-105-cfcbda3f18_97d6d8ef.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-106-6a0f9896c4.jpeg -> /manus-storage/grade5-106-6a0f9896c4_1a541156.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-107-7cfd501a7a.jpeg -> /manus-storage/grade5-107-7cfd501a7a_42cfaa0f.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-108-e51c9634a5.jpeg -> /manus-storage/grade5-108-e51c9634a5_ccd4926c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-109-6ae7d119fa.jpeg -> /manus-storage/grade5-109-6ae7d119fa_852a4b25.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-110-e3303b4b45.jpeg -> /manus-storage/grade5-110-e3303b4b45_66c30b30.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-111-9ddfec3627.jpeg -> /manus-storage/grade5-111-9ddfec3627_a444aba4.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-112-2eb8af9271.jpeg -> /manus-storage/grade5-112-2eb8af9271_60306067.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-113-0f3ce349f8.jpeg -> /manus-storage/grade5-113-0f3ce349f8_e12f839f.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-114-f4f81b5833.jpeg -> /manus-storage/grade5-114-f4f81b5833_a25d743d.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-115-87fc402339.jpeg -> /manus-storage/grade5-115-87fc402339_34b5c9db.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-116-a7ccb294c4.jpeg -> /manus-storage/grade5-116-a7ccb294c4_ff9f7b05.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-117-4e2d72fbb2.jpeg -> /manus-storage/grade5-117-4e2d72fbb2_3daf9be8.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-118-e2ff479533.jpeg -> /manus-storage/grade5-118-e2ff479533_2a1c8ec5.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-119-99158b00fd.jpeg -> /manus-storage/grade5-119-99158b00fd_d3a2e762.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-120-af8566a3f3.jpeg -> /manus-storage/grade5-120-af8566a3f3_f4817b3f.jpeg
+=====================================
+Total: 24, Success: 24, Failed: 0
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-121-ec1f639f9c.jpeg (size: 1014025 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-121-ec1f639f9c_fb0505ea.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-122-b35523c109.jpeg (size: 941375 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-122-b35523c109_69adac8b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-123-f55bad7253.jpeg (size: 938617 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-123-f55bad7253_46fed2b8.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-124-1427687419.jpeg (size: 977444 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-124-1427687419_3899f51b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-125-9fe9fd1254.jpeg (size: 996920 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-125-9fe9fd1254_9edbc6d9.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-126-cd1b696604.jpeg (size: 978989 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-126-cd1b696604_4befa613.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-127-7508a808a4.jpeg (size: 1017253 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-127-7508a808a4_8a3af8a3.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-128-f57fa52213.jpeg (size: 949416 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-128-f57fa52213_8bc50d72.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-129-f1ca343047.jpeg (size: 799595 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-129-f1ca343047_4a26ac47.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-130-a2e31895f2.jpeg (size: 913973 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-130-a2e31895f2_f4356ba5.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-131-44e0217232.jpeg (size: 1009077 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-131-44e0217232_c98c50b2.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-132-4a5b8a8b68.jpeg (size: 847440 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-132-4a5b8a8b68_40eefe41.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-133-39a96d69e6.jpeg (size: 882335 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-133-39a96d69e6_88cd1af5.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-134-9cc099f46c.jpeg (size: 751340 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-134-9cc099f46c_987f76c7.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-135-b107d2e4f9.jpeg (size: 1260222 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-135-b107d2e4f9_f8e261e1.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-136-ec2c30598c.jpeg (size: 1063310 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-136-ec2c30598c_bab7aff7.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-137-9dc33ae041.jpeg (size: 948825 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-137-9dc33ae041_66e0dd20.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-138-6ba30886db.jpeg (size: 779192 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-138-6ba30886db_3de3dc07.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-139-2f41ff00bc.jpeg (size: 925099 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-139-2f41ff00bc_94cfc005.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-140-d222566292.jpeg (size: 1066827 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-140-d222566292_7570baf6.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-141-2b2c39a0c2.jpeg (size: 755447 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-141-2b2c39a0c2_db646cca.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-142-9d16b60bf3.jpeg (size: 829119 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-142-9d16b60bf3_0cfd21d4.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-143-b515c74996.jpeg (size: 1031283 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-143-b515c74996_b8f33fc5.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-144-a3a8e4a65e.jpeg (size: 832393 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-144-a3a8e4a65e_bd5029c3.jpeg
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-121-ec1f639f9c.jpeg -> /manus-storage/grade5-121-ec1f639f9c_fb0505ea.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-122-b35523c109.jpeg -> /manus-storage/grade5-122-b35523c109_69adac8b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-123-f55bad7253.jpeg -> /manus-storage/grade5-123-f55bad7253_46fed2b8.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-124-1427687419.jpeg -> /manus-storage/grade5-124-1427687419_3899f51b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-125-9fe9fd1254.jpeg -> /manus-storage/grade5-125-9fe9fd1254_9edbc6d9.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-126-cd1b696604.jpeg -> /manus-storage/grade5-126-cd1b696604_4befa613.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-127-7508a808a4.jpeg -> /manus-storage/grade5-127-7508a808a4_8a3af8a3.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-128-f57fa52213.jpeg -> /manus-storage/grade5-128-f57fa52213_8bc50d72.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-129-f1ca343047.jpeg -> /manus-storage/grade5-129-f1ca343047_4a26ac47.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-130-a2e31895f2.jpeg -> /manus-storage/grade5-130-a2e31895f2_f4356ba5.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-131-44e0217232.jpeg -> /manus-storage/grade5-131-44e0217232_c98c50b2.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-132-4a5b8a8b68.jpeg -> /manus-storage/grade5-132-4a5b8a8b68_40eefe41.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-133-39a96d69e6.jpeg -> /manus-storage/grade5-133-39a96d69e6_88cd1af5.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-134-9cc099f46c.jpeg -> /manus-storage/grade5-134-9cc099f46c_987f76c7.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-135-b107d2e4f9.jpeg -> /manus-storage/grade5-135-b107d2e4f9_f8e261e1.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-136-ec2c30598c.jpeg -> /manus-storage/grade5-136-ec2c30598c_bab7aff7.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-137-9dc33ae041.jpeg -> /manus-storage/grade5-137-9dc33ae041_66e0dd20.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-138-6ba30886db.jpeg -> /manus-storage/grade5-138-6ba30886db_3de3dc07.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-139-2f41ff00bc.jpeg -> /manus-storage/grade5-139-2f41ff00bc_94cfc005.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-140-d222566292.jpeg -> /manus-storage/grade5-140-d222566292_7570baf6.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-141-2b2c39a0c2.jpeg -> /manus-storage/grade5-141-2b2c39a0c2_db646cca.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-142-9d16b60bf3.jpeg -> /manus-storage/grade5-142-9d16b60bf3_0cfd21d4.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-143-b515c74996.jpeg -> /manus-storage/grade5-143-b515c74996_b8f33fc5.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-144-a3a8e4a65e.jpeg -> /manus-storage/grade5-144-a3a8e4a65e_bd5029c3.jpeg
+=====================================
+Total: 24, Success: 24, Failed: 0
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-145-40ff07988f.jpeg (size: 961650 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-145-40ff07988f_cd228db3.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-146-b0ba32d170.jpeg (size: 904994 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-146-b0ba32d170_9e236294.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-147-28766ef3d6.jpeg (size: 1061496 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-147-28766ef3d6_fb2e9cce.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-148-91b6f482a0.jpeg (size: 783575 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-148-91b6f482a0_56cc1341.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-149-122e9ead15.jpeg (size: 761044 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-149-122e9ead15_f97d9f8b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-150-3c638e03bc.jpeg (size: 953181 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-150-3c638e03bc_86d5d23e.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-151-eaa56f98d0.jpeg (size: 1007607 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-151-eaa56f98d0_ff8d479f.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-152-600a78d433.jpeg (size: 1234632 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-152-600a78d433_be8047c4.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-153-983ef88ca4.jpeg (size: 960873 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-153-983ef88ca4_1b46844c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-154-9e597ea05f.jpeg (size: 771778 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-154-9e597ea05f_caffc3bd.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-155-0f820e1a84.jpeg (size: 1037003 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-155-0f820e1a84_613faf40.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-156-c4002fdf36.jpeg (size: 838979 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-156-c4002fdf36_734a771d.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-157-c6d15a6625.jpeg (size: 972828 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-157-c6d15a6625_a7c40a7f.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-158-a5a0e00f01.jpeg (size: 1004856 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-158-a5a0e00f01_e0f93736.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-159-a569fffb99.jpeg (size: 885806 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-159-a569fffb99_7ee5ec38.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-160-b538eacf3a.jpeg (size: 733957 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-160-b538eacf3a_f709abe8.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-161-808c9eb03e.jpeg (size: 1133263 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-161-808c9eb03e_6a0216a6.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-162-96513bd009.jpeg (size: 932850 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-162-96513bd009_08ce7e16.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-163-9a79adadf1.jpeg (size: 1008380 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-163-9a79adadf1_035c118d.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-164-9500722163.jpeg (size: 856831 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-164-9500722163_479fc9ea.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-165-391a93d871.jpeg (size: 1107459 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-165-391a93d871_feb5c88b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-166-ff352184e7.jpeg (size: 1071929 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-166-ff352184e7_3226f13a.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-167-237208253d.jpeg (size: 996319 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-167-237208253d_40fb251a.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-168-14a300e594.jpeg (size: 984008 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-168-14a300e594_71f927fe.jpeg
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-145-40ff07988f.jpeg -> /manus-storage/grade5-145-40ff07988f_cd228db3.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-146-b0ba32d170.jpeg -> /manus-storage/grade5-146-b0ba32d170_9e236294.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-147-28766ef3d6.jpeg -> /manus-storage/grade5-147-28766ef3d6_fb2e9cce.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-148-91b6f482a0.jpeg -> /manus-storage/grade5-148-91b6f482a0_56cc1341.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-149-122e9ead15.jpeg -> /manus-storage/grade5-149-122e9ead15_f97d9f8b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-150-3c638e03bc.jpeg -> /manus-storage/grade5-150-3c638e03bc_86d5d23e.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-151-eaa56f98d0.jpeg -> /manus-storage/grade5-151-eaa56f98d0_ff8d479f.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-152-600a78d433.jpeg -> /manus-storage/grade5-152-600a78d433_be8047c4.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-153-983ef88ca4.jpeg -> /manus-storage/grade5-153-983ef88ca4_1b46844c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-154-9e597ea05f.jpeg -> /manus-storage/grade5-154-9e597ea05f_caffc3bd.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-155-0f820e1a84.jpeg -> /manus-storage/grade5-155-0f820e1a84_613faf40.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-156-c4002fdf36.jpeg -> /manus-storage/grade5-156-c4002fdf36_734a771d.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-157-c6d15a6625.jpeg -> /manus-storage/grade5-157-c6d15a6625_a7c40a7f.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-158-a5a0e00f01.jpeg -> /manus-storage/grade5-158-a5a0e00f01_e0f93736.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-159-a569fffb99.jpeg -> /manus-storage/grade5-159-a569fffb99_7ee5ec38.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-160-b538eacf3a.jpeg -> /manus-storage/grade5-160-b538eacf3a_f709abe8.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-161-808c9eb03e.jpeg -> /manus-storage/grade5-161-808c9eb03e_6a0216a6.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-162-96513bd009.jpeg -> /manus-storage/grade5-162-96513bd009_08ce7e16.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-163-9a79adadf1.jpeg -> /manus-storage/grade5-163-9a79adadf1_035c118d.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-164-9500722163.jpeg -> /manus-storage/grade5-164-9500722163_479fc9ea.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-165-391a93d871.jpeg -> /manus-storage/grade5-165-391a93d871_feb5c88b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-166-ff352184e7.jpeg -> /manus-storage/grade5-166-ff352184e7_3226f13a.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-167-237208253d.jpeg -> /manus-storage/grade5-167-237208253d_40fb251a.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-168-14a300e594.jpeg -> /manus-storage/grade5-168-14a300e594_71f927fe.jpeg
+=====================================
+Total: 24, Success: 24, Failed: 0
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-169-2dd6b1dcd5.jpeg (size: 913610 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-169-2dd6b1dcd5_ab118700.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-170-093c4769e6.jpeg (size: 936025 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-170-093c4769e6_d69b3de2.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-171-7915bd5aa5.jpeg (size: 1085688 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-171-7915bd5aa5_0983e493.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-172-51064ec2df.jpeg (size: 807468 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-172-51064ec2df_2763fba4.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-173-1782790829.jpeg (size: 771814 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-173-1782790829_cc8fd907.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-174-0efa387d65.jpeg (size: 983106 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-174-0efa387d65_3d4d527c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-175-bd0cee042b.jpeg (size: 1187133 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-175-bd0cee042b_ecfeade5.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-176-a56851e991.jpeg (size: 905640 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-176-a56851e991_30787e19.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-177-d8fbf723da.jpeg (size: 985798 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-177-d8fbf723da_6835b132.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-178-cb9924cafe.jpeg (size: 662239 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-178-cb9924cafe_e029dff0.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-179-a344e36b48.jpeg (size: 900890 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-179-a344e36b48_8b738871.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-180-377c436497.jpeg (size: 781429 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-180-377c436497_47aa811d.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-181-e764086561.jpeg (size: 810495 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-181-e764086561_78677412.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-182-f70f379d46.jpeg (size: 913821 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-182-f70f379d46_dc9dc05b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-183-a60074d3f7.jpeg (size: 811270 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-183-a60074d3f7_083a1ab9.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-184-d0d194027d.jpeg (size: 780150 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-184-d0d194027d_119fa79f.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-185-30d052b8c1.jpeg (size: 811408 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-185-30d052b8c1_4125e09a.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-186-e79c4c2a11.jpeg (size: 847233 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-186-e79c4c2a11_fee05eb6.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-187-57e19ad1ca.jpeg (size: 1078261 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-187-57e19ad1ca_36502ede.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-188-7bdbd0ae14.jpeg (size: 856926 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-188-7bdbd0ae14_950934e9.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-189-3fffa1302b.jpeg (size: 700708 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-189-3fffa1302b_b20a8305.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-190-31800534e2.jpeg (size: 695051 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-190-31800534e2_2cb47f93.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-191-120d5068c5.jpeg (size: 761144 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-191-120d5068c5_a5ee7c26.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-192-626cc4e1e6.jpeg (size: 1001384 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-192-626cc4e1e6_6683d0eb.jpeg
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-169-2dd6b1dcd5.jpeg -> /manus-storage/grade5-169-2dd6b1dcd5_ab118700.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-170-093c4769e6.jpeg -> /manus-storage/grade5-170-093c4769e6_d69b3de2.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-171-7915bd5aa5.jpeg -> /manus-storage/grade5-171-7915bd5aa5_0983e493.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-172-51064ec2df.jpeg -> /manus-storage/grade5-172-51064ec2df_2763fba4.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-173-1782790829.jpeg -> /manus-storage/grade5-173-1782790829_cc8fd907.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-174-0efa387d65.jpeg -> /manus-storage/grade5-174-0efa387d65_3d4d527c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-175-bd0cee042b.jpeg -> /manus-storage/grade5-175-bd0cee042b_ecfeade5.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-176-a56851e991.jpeg -> /manus-storage/grade5-176-a56851e991_30787e19.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-177-d8fbf723da.jpeg -> /manus-storage/grade5-177-d8fbf723da_6835b132.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-178-cb9924cafe.jpeg -> /manus-storage/grade5-178-cb9924cafe_e029dff0.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-179-a344e36b48.jpeg -> /manus-storage/grade5-179-a344e36b48_8b738871.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-180-377c436497.jpeg -> /manus-storage/grade5-180-377c436497_47aa811d.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-181-e764086561.jpeg -> /manus-storage/grade5-181-e764086561_78677412.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-182-f70f379d46.jpeg -> /manus-storage/grade5-182-f70f379d46_dc9dc05b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-183-a60074d3f7.jpeg -> /manus-storage/grade5-183-a60074d3f7_083a1ab9.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-184-d0d194027d.jpeg -> /manus-storage/grade5-184-d0d194027d_119fa79f.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-185-30d052b8c1.jpeg -> /manus-storage/grade5-185-30d052b8c1_4125e09a.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-186-e79c4c2a11.jpeg -> /manus-storage/grade5-186-e79c4c2a11_fee05eb6.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-187-57e19ad1ca.jpeg -> /manus-storage/grade5-187-57e19ad1ca_36502ede.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-188-7bdbd0ae14.jpeg -> /manus-storage/grade5-188-7bdbd0ae14_950934e9.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-189-3fffa1302b.jpeg -> /manus-storage/grade5-189-3fffa1302b_b20a8305.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-190-31800534e2.jpeg -> /manus-storage/grade5-190-31800534e2_2cb47f93.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-191-120d5068c5.jpeg -> /manus-storage/grade5-191-120d5068c5_a5ee7c26.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-192-626cc4e1e6.jpeg -> /manus-storage/grade5-192-626cc4e1e6_6683d0eb.jpeg
+=====================================
+Total: 24, Success: 24, Failed: 0
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-193-c84c9ab6aa.jpeg (size: 748955 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-193-c84c9ab6aa_d223fa6d.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-194-8c5eee9d5f.jpeg (size: 846842 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-194-8c5eee9d5f_cba4d1b9.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-195-00927ea754.jpeg (size: 902434 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-195-00927ea754_9fed10f9.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-196-26201c5235.jpeg (size: 1028253 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-196-26201c5235_b4cb15ab.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-197-64c1094641.jpeg (size: 753061 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-197-64c1094641_91e6d76b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-198-b1103f3821.jpeg (size: 870045 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-198-b1103f3821_7fa79774.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-199-04706a9fe5.jpeg (size: 808197 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-199-04706a9fe5_2feb6498.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-200-2f2c39138e.jpeg (size: 878403 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-200-2f2c39138e_cc6aa321.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-201-d86c4af8ff.jpeg (size: 836394 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-201-d86c4af8ff_b8930897.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-202-a07acbae9c.jpeg (size: 691232 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-202-a07acbae9c_7efed1df.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-203-86ac9e71ba.jpeg (size: 843166 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-203-86ac9e71ba_d692aef4.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-204-ce948494d4.jpeg (size: 732715 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-204-ce948494d4_d699567e.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-205-b8687a1406.jpeg (size: 781001 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-205-b8687a1406_0821f23a.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-206-5444df0dc1.jpeg (size: 982538 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-206-5444df0dc1_b4ab6fea.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-207-236f88fcb2.jpeg (size: 1042515 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-207-236f88fcb2_b9296109.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-208-25a355a648.jpeg (size: 921485 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-208-25a355a648_28ae2c3a.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-209-ea67fddaeb.jpeg (size: 868368 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-209-ea67fddaeb_e6224f98.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-210-76f5566a13.jpeg (size: 991233 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-210-76f5566a13_73e4e2f6.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-211-1172ab02b4.jpeg (size: 927394 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-211-1172ab02b4_032d505c.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-212-1840bb6f19.jpeg (size: 834845 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-212-1840bb6f19_a4a15339.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-213-36a1779b12.jpeg (size: 827631 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-213-36a1779b12_a424028b.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-214-efa61dfc54.jpeg (size: 854769 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-214-efa61dfc54_5494c053.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-215-4a3ba452a1.jpeg (size: 1029341 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-215-4a3ba452a1_2a4543fc.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-216-ba71ad8336.jpeg (size: 833114 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-216-ba71ad8336_55a03b5d.jpeg
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-193-c84c9ab6aa.jpeg -> /manus-storage/grade5-193-c84c9ab6aa_d223fa6d.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-194-8c5eee9d5f.jpeg -> /manus-storage/grade5-194-8c5eee9d5f_cba4d1b9.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-195-00927ea754.jpeg -> /manus-storage/grade5-195-00927ea754_9fed10f9.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-196-26201c5235.jpeg -> /manus-storage/grade5-196-26201c5235_b4cb15ab.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-197-64c1094641.jpeg -> /manus-storage/grade5-197-64c1094641_91e6d76b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-198-b1103f3821.jpeg -> /manus-storage/grade5-198-b1103f3821_7fa79774.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-199-04706a9fe5.jpeg -> /manus-storage/grade5-199-04706a9fe5_2feb6498.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-200-2f2c39138e.jpeg -> /manus-storage/grade5-200-2f2c39138e_cc6aa321.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-201-d86c4af8ff.jpeg -> /manus-storage/grade5-201-d86c4af8ff_b8930897.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-202-a07acbae9c.jpeg -> /manus-storage/grade5-202-a07acbae9c_7efed1df.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-203-86ac9e71ba.jpeg -> /manus-storage/grade5-203-86ac9e71ba_d692aef4.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-204-ce948494d4.jpeg -> /manus-storage/grade5-204-ce948494d4_d699567e.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-205-b8687a1406.jpeg -> /manus-storage/grade5-205-b8687a1406_0821f23a.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-206-5444df0dc1.jpeg -> /manus-storage/grade5-206-5444df0dc1_b4ab6fea.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-207-236f88fcb2.jpeg -> /manus-storage/grade5-207-236f88fcb2_b9296109.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-208-25a355a648.jpeg -> /manus-storage/grade5-208-25a355a648_28ae2c3a.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-209-ea67fddaeb.jpeg -> /manus-storage/grade5-209-ea67fddaeb_e6224f98.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-210-76f5566a13.jpeg -> /manus-storage/grade5-210-76f5566a13_73e4e2f6.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-211-1172ab02b4.jpeg -> /manus-storage/grade5-211-1172ab02b4_032d505c.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-212-1840bb6f19.jpeg -> /manus-storage/grade5-212-1840bb6f19_a4a15339.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-213-36a1779b12.jpeg -> /manus-storage/grade5-213-36a1779b12_a424028b.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-214-efa61dfc54.jpeg -> /manus-storage/grade5-214-efa61dfc54_5494c053.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-215-4a3ba452a1.jpeg -> /manus-storage/grade5-215-4a3ba452a1_2a4543fc.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-216-ba71ad8336.jpeg -> /manus-storage/grade5-216-ba71ad8336_55a03b5d.jpeg
+=====================================
+Total: 24, Success: 24, Failed: 0
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-217-f32675329b.jpeg (size: 886147 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-217-f32675329b_44129e12.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-218-fa68640822.jpeg (size: 803185 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-218-fa68640822_b4a7958a.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-219-77af3b57ee.jpeg (size: 819580 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-219-77af3b57ee_be56ad7e.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-220-fc42a8b04e.jpeg (size: 710944 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-220-fc42a8b04e_4778ca64.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-221-8c88280315.jpeg (size: 822449 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-221-8c88280315_8f20d865.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-222-d484acf4b1.jpeg (size: 826819 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-222-d484acf4b1_56202fd7.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-223-aba16e90a8.jpeg (size: 1174992 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-223-aba16e90a8_93c21958.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-224-80c9d33c0e.jpeg (size: 1093433 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-224-80c9d33c0e_893b18fe.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-225-453b7f5668.jpeg (size: 1075825 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-225-453b7f5668_6de1b649.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-226-8bed22a79b.jpeg (size: 947972 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-226-8bed22a79b_cc8c86d2.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-227-615258dfd2.jpeg (size: 832165 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-227-615258dfd2_99100b33.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-228-f7ee317d14.jpeg (size: 619054 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-228-f7ee317d14_06d67eda.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-229-3361727244.jpeg (size: 869511 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-229-3361727244_7e0fac79.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-230-b0e6698d53.jpeg (size: 752566 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-230-b0e6698d53_1dd5ad13.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-231-d89b8461b5.jpeg (size: 1099319 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-231-d89b8461b5_706e92e6.jpeg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-232-080176ae20.jpeg (size: 689971 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/grade5-232-080176ae20_0d769d0b.jpeg
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-217-f32675329b.jpeg -> /manus-storage/grade5-217-f32675329b_44129e12.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-218-fa68640822.jpeg -> /manus-storage/grade5-218-fa68640822_b4a7958a.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-219-77af3b57ee.jpeg -> /manus-storage/grade5-219-77af3b57ee_be56ad7e.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-220-fc42a8b04e.jpeg -> /manus-storage/grade5-220-fc42a8b04e_4778ca64.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-221-8c88280315.jpeg -> /manus-storage/grade5-221-8c88280315_8f20d865.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-222-d484acf4b1.jpeg -> /manus-storage/grade5-222-d484acf4b1_56202fd7.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-223-aba16e90a8.jpeg -> /manus-storage/grade5-223-aba16e90a8_93c21958.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-224-80c9d33c0e.jpeg -> /manus-storage/grade5-224-80c9d33c0e_893b18fe.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-225-453b7f5668.jpeg -> /manus-storage/grade5-225-453b7f5668_6de1b649.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-226-8bed22a79b.jpeg -> /manus-storage/grade5-226-8bed22a79b_cc8c86d2.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-227-615258dfd2.jpeg -> /manus-storage/grade5-227-615258dfd2_99100b33.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-228-f7ee317d14.jpeg -> /manus-storage/grade5-228-f7ee317d14_06d67eda.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-229-3361727244.jpeg -> /manus-storage/grade5-229-3361727244_7e0fac79.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-230-b0e6698d53.jpeg -> /manus-storage/grade5-230-b0e6698d53_1dd5ad13.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-231-d89b8461b5.jpeg -> /manus-storage/grade5-231-d89b8461b5_706e92e6.jpeg
+[SUCCESS] /home/ubuntu/webdev-static-assets/grade5-ready-upload/grade5-232-080176ae20.jpeg -> /manus-storage/grade5-232-080176ae20_0d769d0b.jpeg
+=====================================
+Total: 16, Success: 16, Failed: 0

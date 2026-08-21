@@ -57,8 +57,8 @@ export const studentDevices = mysqlTable("student_devices", {
 export const studentProgress = mysqlTable("student_progress", {
   studentId: int("student_id").primaryKey(),
   selectedLessonId: varchar("selected_lesson_id", { length: 48 }),
-  lessonAnswers: json("lesson_answers").$type<Record<string, Record<string, string>>>().notNull(),
-  quizScores: json("quiz_scores").$type<Record<string, number>>().notNull(),
+  lessonAnswers: json("lesson_answers").$type<Record<string, unknown>>().notNull(),
+  quizScores: json("quiz_scores").$type<Record<string, unknown>>().notNull(),
   updatedAt: timestamp("updated_at").defaultNow().onUpdateNow().notNull(),
 });
 

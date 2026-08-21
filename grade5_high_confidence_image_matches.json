@@ -1,0 +1,900 @@
+{
+  "matches": [
+    {
+      "term": "New Administrative Capital",
+      "arabic": "العاصمة الإدارية الجديدة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(9)/New folder (9)/New_Administrative_Capital_city_…_202608211559.jpeg",
+      "image_name": "New_Administrative_Capital_city_…_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "Ancient Egyptians",
+      "arabic": "المصريون القدماء",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder/New folder/Ancient_Egyptians_dancing_with_g…_202608211519.jpeg",
+      "image_name": "Ancient_Egyptians_dancing_with_g…_202608211519.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "electrical wires",
+      "arabic": "أسلاك كهربائية",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(11)/New folder (11)/Electrical_wires_with_pulsing_light_202608211559.jpeg",
+      "image_name": "Electrical_wires_with_pulsing_light_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "the Iconic Tower",
+      "arabic": "البرج الأيقوني",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/The_Iconic_Tower_skyscraper_202608211559.jpeg",
+      "image_name": "The_Iconic_Tower_skyscraper_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "chopped garlic",
+      "arabic": "ثوم مفروم",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(10)/New folder (10)/Chopped_garlic_on_cutting_board_202608211408.jpeg",
+      "image_name": "Chopped_garlic_on_cutting_board_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "The Nile River",
+      "arabic": "نهر النيل",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(10)/New folder (10)/Cottages_by_Nile_river_illustration_202608211519.jpeg",
+      "image_name": "Cottages_by_Nile_river_illustration_202608211519.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "vegetable oil",
+      "arabic": "زيت نباتي",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/Vegetable_oil_bottle_near_pan_202608211408.jpeg",
+      "image_name": "Vegetable_oil_bottle_near_pan_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "surrounded by",
+      "arabic": "محاط بـ",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(6)/New folder (6)/Boy_surrounded_by_ginger_cats_202608211519.jpeg",
+      "image_name": "Boy_surrounded_by_ginger_cats_202608211519.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "to stay cool",
+      "arabic": "للحفاظ على البرودة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/To_stay_cool_202608211600.jpeg",
+      "image_name": "To_stay_cool_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "fossil fuel",
+      "arabic": "وقود حفري",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(11)/New folder (11)/Fossil_fuel_underground_illustra…_202608211559.jpeg",
+      "image_name": "Fossil_fuel_underground_illustra…_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "water weeds",
+      "arabic": "الأعشاب المائية",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/Water_weeds_swaying_underwater_202608211600.jpeg",
+      "image_name": "Water_weeds_swaying_underwater_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "vegetables",
+      "arabic": "خضروات",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder/New folder/Cartoon_chef_preparing_vegetables_202608211409.jpeg",
+      "image_name": "Cartoon_chef_preparing_vegetables_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "pharmacist",
+      "arabic": "صيدلي",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder/New folder/Pharmacist_handing_medicine_to_c…_202608211408.jpeg",
+      "image_name": "Pharmacist_handing_medicine_to_c…_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "paramedics",
+      "arabic": "فريق الإسعاف الطبي (مسعفون)",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(8)/New folder (8)/Paramedics_waving_by_ambulance_202608211408.jpeg",
+      "image_name": "Paramedics_waving_by_ambulance_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "different (adj)",
+      "arabic": "مختلف",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder/New folder/Blocks_representing_different_ma…_202608211559.jpeg",
+      "image_name": "Blocks_representing_different_ma…_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "chickpeas",
+      "arabic": "حمص",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder/New folder/Cartoon_chickpeas_playing_in_bowl_202608211408.jpeg",
+      "image_name": "Cartoon_chickpeas_playing_in_bowl_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "crocodile",
+      "arabic": "تمساح",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(10)/New folder (10)/Crocodile_sunbathing_on_riverbank_202608211600.jpeg",
+      "image_name": "Crocodile_sunbathing_on_riverbank_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "buildings",
+      "arabic": "مبانٍ",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(11)/New folder (11)/Four_pastel_cartoon_buildings_de…_202608211559.jpeg",
+      "image_name": "Four_pastel_cartoon_buildings_de…_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "magically",
+      "arabic": "بطريقة ساحرة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(11)/New folder (11)/Magically_hovering_stone_block_202608211520.jpeg",
+      "image_name": "Magically_hovering_stone_block_202608211520.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "lightning",
+      "arabic": "البرق",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(11)/New folder (11)/Rain_cloud_with_lightning_202608211558.jpeg",
+      "image_name": "Rain_cloud_with_lightning_202608211558.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "nutrients",
+      "arabic": "عناصر غذائية",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(12)/New folder (12)/Salad_and_milk_providing_nutrients_202608211408.jpeg",
+      "image_name": "Salad_and_milk_providing_nutrients_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "treasures",
+      "arabic": "كنوز",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(5)/New folder (5)/Hidden_treasures_map_behind_bush_202608211559.jpeg",
+      "image_name": "Hidden_treasures_map_behind_bush_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "creatures",
+      "arabic": "مخلوقات/كائنات",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(7)/New folder (7)/Cartoon_sea_creatures_on_plate_202608211409.jpeg",
+      "image_name": "Cartoon_sea_creatures_on_plate_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "delicious",
+      "arabic": "لذيذ",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(9)/New folder (9)/Child_holding_delicious_cupcake_202608211409.jpeg",
+      "image_name": "Child_holding_delicious_cupcake_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "airplane",
+      "arabic": "طائرة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder/New folder/Airplane_taking_off_from_runway_202608211559.jpeg",
+      "image_name": "Airplane_taking_off_from_runway_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "swimming",
+      "arabic": "السباحة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder/New folder/Amisi_swimming_with_kickboard_202608211520.jpeg",
+      "image_name": "Amisi_swimming_with_kickboard_202608211520.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "colorful (adj)",
+      "arabic": "ملون",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(10)/New folder (10)/Cloud_blowing_colorful_leaves_da…_202608211408.jpeg",
+      "image_name": "Cloud_blowing_colorful_leaves_da…_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "sunlight",
+      "arabic": "ضوء الشمس",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(11)/New folder (11)/Dust_bunnies_floating_in_sunlight_202608211408.jpeg",
+      "image_name": "Dust_bunnies_floating_in_sunlight_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "close to",
+      "arabic": "بالقرب من",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(11)/New folder (11)/Fluffy_sheep_wool_close-up_202608211519.jpeg",
+      "image_name": "Fluffy_sheep_wool_close-up_202608211519.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "neighbor",
+      "arabic": "جار",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(12)/New folder (12)/Girl_helping_neighbor_with_box_202608211559.jpeg",
+      "image_name": "Girl_helping_neighbor_with_box_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "gathered",
+      "arabic": "يجتمع",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(3)/New folder (3)/Cartoon_body_organs_gathered_tog…_202608211408.jpeg",
+      "image_name": "Cartoon_body_organs_gathered_tog…_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "strength",
+      "arabic": "قوة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(4)/New folder (4)/Cartoon_hand_showing_strength_202608211409.jpeg",
+      "image_name": "Cartoon_hand_showing_strength_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "medicine",
+      "arabic": "دواء",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(7)/New folder (7)/Cartoon_medicine_bottles_and_spoons_202608211409.jpeg",
+      "image_name": "Cartoon_medicine_bottles_and_spoons_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "mountain",
+      "arabic": "جبل",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(7)/New folder (7)/Cartoon_mountain_standing_tall_202608211409.jpeg",
+      "image_name": "Cartoon_mountain_standing_tall_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "diamond",
+      "arabic": "ألماس",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(10)/New folder (10)/Diamond_floating_and_sparkling_202608211559.jpeg",
+      "image_name": "Diamond_floating_and_sparkling_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "full of",
+      "arabic": "مليء بـ",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(11)/New folder (11)/Full_moon_over_desert_202608211518.jpeg",
+      "image_name": "Full_moon_over_desert_202608211518.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "in fact",
+      "arabic": "في الحقيقة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(12)/New folder (12)/Girl_explaining_fact_from_book_202608211600.jpeg",
+      "image_name": "Girl_explaining_fact_from_book_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "thirsty",
+      "arabic": "عطشان",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/Sun_looking_at_thirsty_plant_202608211409.jpeg",
+      "image_name": "Sun_looking_at_thirsty_plant_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "watered",
+      "arabic": "يروي/يسقي",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/Watered_potted_plant_illustration_202608211558.jpeg",
+      "image_name": "Watered_potted_plant_illustration_202608211558.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "koshari",
+      "arabic": "كشري (وجبة مصرية)",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(2)/New folder (2)/Bowl_of_Koshari_illustrated_202608211409.jpeg",
+      "image_name": "Bowl_of_Koshari_illustrated_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "covered",
+      "arabic": "يغطي",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(2)/New folder (2)/Boy_covered_in_mud_playing_202608211600.jpeg",
+      "image_name": "Boy_covered_in_mud_playing_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "patient",
+      "arabic": "مريض",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(2)/New folder (2)/Cartoon_doctor_examining_patient…_202608211409.jpeg",
+      "image_name": "Cartoon_doctor_examining_patient…_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "muscles",
+      "arabic": "عضلات",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(3)/New folder (3)/Boy_flexing_muscles_202608211559.jpeg",
+      "image_name": "Boy_flexing_muscles_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "cottage",
+      "arabic": "كوخ / بيت ريفي",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(6)/New folder (6)/Boy_walking_toward_cottage_202608211558.jpeg",
+      "image_name": "Boy_walking_toward_cottage_202608211558.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "insects",
+      "arabic": "حشرات",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(6)/New folder (6)/Insects_hovering_and_crawling_202608211600.jpeg",
+      "image_name": "Insects_hovering_and_crawling_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "village",
+      "arabic": "قرية",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(7)/New folder (7)/People_walking_in_busy_village_202608211601.jpeg",
+      "image_name": "People_walking_in_busy_village_202608211601.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "vinegar",
+      "arabic": "خل",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(8)/New folder (8)/Cartoon_vinegar_bottle_and_salad…_202608211408.jpeg",
+      "image_name": "Cartoon_vinegar_bottle_and_salad…_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "pass by",
+      "arabic": "يمر بـ",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(8)/New folder (8)/Pass_by_riverbank_202608211519.jpeg",
+      "image_name": "Pass_by_riverbank_202608211519.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "clouds",
+      "arabic": "سحب",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder/New folder/Airplane_flying_through_clouds_202608211559.jpeg",
+      "image_name": "Airplane_flying_through_clouds_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "stored",
+      "arabic": "يخزن",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder/New folder/Apples_stored_in_wooden_barrel_202608211600.jpeg",
+      "image_name": "Apples_stored_in_wooden_barrel_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "bridge",
+      "arabic": "كوبري",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder/New folder/Cars_driving_across_bridge_202608211559.jpeg",
+      "image_name": "Cars_driving_across_bridge_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "copper",
+      "arabic": "نحاس",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(10)/New folder (10)/Copper_coin_and_wire_illustration_202608211559.jpeg",
+      "image_name": "Copper_coin_and_wire_illustration_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "plants",
+      "arabic": "نباتات",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(10)/New folder (10)/Cotton_plants_in_field_202608211559.jpeg",
+      "image_name": "Cotton_plants_in_field_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "digger",
+      "arabic": "آلة الحفار",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(10)/New folder (10)/Digger_scooping_dirt_with_boy_202608211559.jpeg",
+      "image_name": "Digger_scooping_dirt_with_boy_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "caught",
+      "arabic": "يصطاد",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(11)/New folder (11)/Flatbread_caught_in_mid-air_202608211518.jpeg",
+      "image_name": "Flatbread_caught_in_mid-air_202608211518.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "shadow",
+      "arabic": "ظل",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(11)/New folder (11)/Monster_shadow_on_wall_202608211519.jpeg",
+      "image_name": "Monster_shadow_on_wall_202608211519.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "lizard",
+      "arabic": "سحلية",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(12)/New folder (12)/Lizard_sunbathing_on_stone_202608211600.jpeg",
+      "image_name": "Lizard_sunbathing_on_stone_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "forest",
+      "arabic": "غابة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(12)/New folder (12)/Log_blocking_forest_path_202608211558.jpeg",
+      "image_name": "Log_blocking_forest_path_202608211558.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "shaped",
+      "arabic": "يتشكل",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/Three_clay_pots_shaped_differently_202608211600.jpeg",
+      "image_name": "Three_clay_pots_shaped_differently_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "turtle",
+      "arabic": "سلحفاة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/Turtle_sticking_head_out_202608211600.jpeg",
+      "image_name": "Turtle_sticking_head_out_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "branch",
+      "arabic": "فرع/غصن الشجرة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(2)/New folder (2)/Blue_bird_on_branch_202608211600.jpeg",
+      "image_name": "Blue_bird_on_branch_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "boiled",
+      "arabic": "يغلي / يسلق",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(2)/New folder (2)/Boiled_egg_in_bowl_202608211409.jpeg",
+      "image_name": "Boiled_egg_in_bowl_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "stress",
+      "arabic": "توتر",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(2)/New folder (2)/Cartoon_cloud_representing_stress_202608211408.jpeg",
+      "image_name": "Cartoon_cloud_representing_stress_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "follow",
+      "arabic": "يتبع",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(3)/New folder (3)/Boy_gesturing_to_follow_202608211519.jpeg",
+      "image_name": "Boy_gesturing_to_follow_202608211519.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "burger",
+      "arabic": "برجر",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(3)/New folder (3)/Cartoon_burger_with_friendly_smile_202608211409.jpeg",
+      "image_name": "Cartoon_burger_with_friendly_smile_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "fruits",
+      "arabic": "فواكه",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(3)/New folder (3)/Cartoon_fruits_in_basket_202608211409.jpeg",
+      "image_name": "Cartoon_fruits_in_basket_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "frying",
+      "arabic": "القلي",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(3)/New folder (3)/Cartoon_frying_pan_cooking_egg_202608211408.jpeg",
+      "image_name": "Cartoon_frying_pan_cooking_egg_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "sweets",
+      "arabic": "حلويات",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(4)/New folder (4)/Cartoon_candies_and_sweets_202608211409.jpeg",
+      "image_name": "Cartoon_candies_and_sweets_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "energy",
+      "arabic": "طاقة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(5)/New folder (5)/Boy_running_with_energy_202608211600.jpeg",
+      "image_name": "Boy_running_with_energy_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "nature",
+      "arabic": "طبيعة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(5)/New folder (5)/Illustration_of_lush_forest_nature_202608211600.jpeg",
+      "image_name": "Illustration_of_lush_forest_nature_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "leaves",
+      "arabic": "أوراق الشجر",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(6)/New folder (6)/Leaves_falling_in_autumn_202608211600.jpeg",
+      "image_name": "Leaves_falling_in_autumn_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "sports",
+      "arabic": "الرياضة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(7)/New folder (7)/Cartoon_sports_balls_with_faces_202608211409.jpeg",
+      "image_name": "Cartoon_sports_balls_with_faces_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "poured",
+      "arabic": "يصب / يسكب",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(7)/New folder (7)/Glass_filled_with_poured_juice_202608211409.jpeg",
+      "image_name": "Glass_filled_with_poured_juice_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "oxygen",
+      "arabic": "غاز الأكسجين",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(8)/New folder (8)/Child_breathing_cartoon_oxygen_b…_202608211409.jpeg",
+      "image_name": "Child_breathing_cartoon_oxygen_b…_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "birds",
+      "arabic": "الطيور",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder/New folder/Birds_flying_over_fields_202608211520.jpeg",
+      "image_name": "Birds_flying_over_fields_202608211520.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "fresh",
+      "arabic": "طازج",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder/New folder/Cartoon_character_with_fresh_pro…_202608211409.jpeg",
+      "image_name": "Cartoon_character_with_fresh_pro…_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "chest",
+      "arabic": "صدر",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(10)/New folder (10)/Closed_wooden_toy_chest_202608211600.jpeg",
+      "image_name": "Closed_wooden_toy_chest_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "coins",
+      "arabic": "عملات معدنية",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(10)/New folder (10)/Coins_rolling_towards_camera_202608211559.jpeg",
+      "image_name": "Coins_rolling_towards_camera_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "crown",
+      "arabic": "تاج",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(10)/New folder (10)/Crown_on_red_velvet_cushion_202608211600.jpeg",
+      "image_name": "Crown_on_red_velvet_cushion_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "water",
+      "arabic": "يروي/يسقي",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(10)/New folder (10)/Girl_splashing_water_in_bathtub_202608211600.jpeg",
+      "image_name": "Girl_splashing_water_in_bathtub_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "heart",
+      "arabic": "قلب",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(11)/New folder (11)/Girl_blowing_balloon_heart_shape_202608211559.jpeg",
+      "image_name": "Girl_blowing_balloon_heart_shape_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "quiet",
+      "arabic": "هادئ",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(12)/New folder (12)/Girl_gesturing_quiet_202608211519.jpeg",
+      "image_name": "Girl_gesturing_quiet_202608211519.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "ocean",
+      "arabic": "محيط",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(12)/New folder (12)/Sailboat_on_ocean_horizon_202608211600.jpeg",
+      "image_name": "Sailboat_on_ocean_horizon_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "snake",
+      "arabic": "ثعبان",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/Snake_coiled_on_rock_202608211600.jpeg",
+      "image_name": "Snake_coiled_on_rock_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "sauce",
+      "arabic": "صلصة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/Tomato_sauce_bottle_pouring_sauce_202608211408.jpeg",
+      "image_name": "Tomato_sauce_bottle_pouring_sauce_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "trunk",
+      "arabic": "جذع الشجرة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/Tree_trunk_with_wooden_door_202608211600.jpeg",
+      "image_name": "Tree_trunk_with_wooden_door_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "field",
+      "arabic": "حقل",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/Wheat_bundle_in_field_202608211559.jpeg",
+      "image_name": "Wheat_bundle_in_field_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "floor",
+      "arabic": "طابق",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/Wooden_blocks_scattered_on_floor_202608211600.jpeg",
+      "image_name": "Wooden_blocks_scattered_on_floor_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "canal",
+      "arabic": "قناة مائية",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(3)/New folder (3)/Cartoon_boat_floating_in_canal_202608211409.jpeg",
+      "image_name": "Cartoon_boat_floating_in_canal_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "flies",
+      "arabic": "ذباب",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(3)/New folder (3)/Cartoon_flies_buzzing_in_circle_202608211519.jpeg",
+      "image_name": "Cartoon_flies_buzzing_in_circle_202608211519.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "grill",
+      "arabic": "يشوي (على شواية)",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(3)/New folder (3)/Grill_cooking_vegetable_skewers_202608211409.jpeg",
+      "image_name": "Grill_cooking_vegetable_skewers_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "stuck",
+      "arabic": "عالق / متحشر",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(4)/New folder (4)/Cartoon_cat_stuck_in_box_202608211408.jpeg",
+      "image_name": "Cartoon_cat_stuck_in_box_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "needs",
+      "arabic": "احتياجات",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(5)/New folder (5)/Boy_showing_needs_icons_202608211601.jpeg",
+      "image_name": "Boy_showing_needs_icons_202608211601.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "hippo",
+      "arabic": "فرس النهر",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(5)/New folder (5)/Hippo_opening_mouth_in_river_202608211601.jpeg",
+      "image_name": "Hippo_opening_mouth_in_river_202608211601.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "sweat",
+      "arabic": "عرق",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(6)/New folder (6)/Boy_wiping_sweat_202608211600.jpeg",
+      "image_name": "Boy_wiping_sweat_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "camel",
+      "arabic": "جمل",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(6)/New folder (6)/Camel_standing_in_desert_202608211600.jpeg",
+      "image_name": "Camel_standing_in_desert_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "lungs",
+      "arabic": "الرئتين",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(7)/New folder (7)/Cartoon_lungs_taking_deep_breath_202608211409.jpeg",
+      "image_name": "Cartoon_lungs_taking_deep_breath_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "tools",
+      "arabic": "أدوات",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(7)/New folder (7)/Cartoon_medical_tools_representi…_202608211409.jpeg",
+      "image_name": "Cartoon_medical_tools_representi…_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "tubes",
+      "arabic": "أنابيب",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(8)/New folder (8)/Cartoon_tubes_showing_shapes_sizes_202608211409.jpeg",
+      "image_name": "Cartoon_tubes_showing_shapes_sizes_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "built",
+      "arabic": "يبني",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(8)/New folder (8)/Cartoon_wall_being_built_202608211409.jpeg",
+      "image_name": "Cartoon_wall_being_built_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "chips",
+      "arabic": "رقائق البطاطس",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(8)/New folder (8)/Sad_potato_chips_bag_202608211408.jpeg",
+      "image_name": "Sad_potato_chips_bag_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "ship",
+      "arabic": "سفينة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder/New folder/Cargo_ship_sailing_blue_waves_202608211559.jpeg",
+      "image_name": "Cargo_ship_sailing_blue_waves_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "park",
+      "arabic": "حديقة عامة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder/New folder/Cartoon_character_walking_in_park_202608211409.jpeg",
+      "image_name": "Cartoon_character_walking_in_park_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "gold",
+      "arabic": "ذهب",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder/New folder/Gold_bars_and_coins_202608211558.jpeg",
+      "image_name": "Gold_bars_and_coins_202608211558.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "barn",
+      "arabic": "حظيرة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(10)/New folder (10)/Cow_grazing_near_mud-brick_barn_202608211519.jpeg",
+      "image_name": "Cow_grazing_near_mud-brick_barn_202608211519.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "wind",
+      "arabic": "رياح",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(10)/New folder (10)/Girl_shielding_eyes_in_wind_202608211519.jpeg",
+      "image_name": "Girl_shielding_eyes_in_wind_202608211519.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "pond",
+      "arabic": "بركة مياه",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(11)/New folder (11)/Egyptian_garden_with_pond_202608211520.jpeg",
+      "image_name": "Egyptian_garden_with_pond_202608211520.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "hole",
+      "arabic": "حفرة / فتحة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(11)/New folder (11)/Girl_standing_by_dug_hole_202608211559.jpeg",
+      "image_name": "Girl_standing_by_dug_hole_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "edge",
+      "arabic": "حافة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(11)/New folder (11)/Girl_standing_on_rug_edge_202608211519.jpeg",
+      "image_name": "Girl_standing_on_rug_edge_202608211519.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "hard (adj)",
+      "arabic": "صعب",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(12)/New folder (12)/Girl_thinking_hard_202608211520.jpeg",
+      "image_name": "Girl_thinking_hard_202608211520.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "dust",
+      "arabic": "غبار",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(12)/New folder (12)/Sand_and_dust_moving_202608211519.jpeg",
+      "image_name": "Sand_and_dust_moving_202608211519.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "grow",
+      "arabic": "ينمو",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/Sun_helping_plant_grow_202608211600.jpeg",
+      "image_name": "Sun_helping_plant_grow_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "size",
+      "arabic": "مقاس/حجم",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/Three_bears_illustrating_size_202608211408.jpeg",
+      "image_name": "Three_bears_illustrating_size_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "rats",
+      "arabic": "فئران",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/Two_rats_sharing_cheese_202608211600.jpeg",
+      "image_name": "Two_rats_sharing_cheese_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "flow",
+      "arabic": "يتدفق",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(13)/New folder (13)/Water_gate_holding_back_flow_202608211520.jpeg",
+      "image_name": "Water_gate_holding_back_flow_202608211520.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "path",
+      "arabic": "طريق / مسار",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(2)/New folder (2)/Boy_choosing_path_in_desert_202608211519.jpeg",
+      "image_name": "Boy_choosing_path_in_desert_202608211519.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "hill",
+      "arabic": "تل / هضبة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(2)/New folder (2)/Boy_climbing_green_hill_202608211518.jpeg",
+      "image_name": "Boy_climbing_green_hill_202608211518.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "cell",
+      "arabic": "خلية",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(4)/New folder (4)/Cartoon_cell_floating_in_world_202608211409.jpeg",
+      "image_name": "Cartoon_cell_floating_in_world_202608211409.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "soil",
+      "arabic": "تربة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(4)/New folder (4)/Hands_holding_soil_with_sprout_202608211559.jpeg",
+      "image_name": "Hands_holding_soil_with_sprout_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "lake",
+      "arabic": "بحيرة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(7)/New folder (7)/Cartoon_lake_with_palm_trees_202608211600.jpeg",
+      "image_name": "Cartoon_lake_with_palm_trees_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "soda",
+      "arabic": "مياه غازية",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(7)/New folder (7)/Cartoon_soda_bottle_with_bubbles_202608211408.jpeg",
+      "image_name": "Cartoon_soda_bottle_with_bubbles_202608211408.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "name",
+      "arabic": "يذكر/يسمي",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(7)/New folder (7)/Girl_writing_name_with_crayon_202608211559.jpeg",
+      "image_name": "Girl_writing_name_with_crayon_202608211559.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "dry (adj)",
+      "arabic": "جاف",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(10)/New folder (10)/Cracked_earth_with_dry_leaf_202608211600.jpeg",
+      "image_name": "Cracked_earth_with_dry_leaf_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "mud",
+      "arabic": "وحل / طين",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(11)/New folder (11)/Egyptian_mud-brick_house_illustr…_202608211518.jpeg",
+      "image_name": "Egyptian_mud-brick_house_illustr…_202608211518.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "fox",
+      "arabic": "ثعلب",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(11)/New folder (11)/Fox_sitting_on_sand_dune_202608211600.jpeg",
+      "image_name": "Fox_sitting_on_sand_dune_202608211600.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "oil",
+      "arabic": "نفط / بترول",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(2)/New folder (2)/Golden_oil_lamp_on_table_202608211519.jpeg",
+      "image_name": "Golden_oil_lamp_on_table_202608211519.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "low",
+      "arabic": "منخفض",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(9)/New folder (9)/Children_dining_at_low_table_202608211520.jpeg",
+      "image_name": "Children_dining_at_low_table_202608211520.jpeg",
+      "score": 1.0
+    },
+    {
+      "term": "owl",
+      "arabic": "بومة",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-uploaded/Newfolder(9)/New folder (9)/Owl_perched_on_tree_branch_202608211600.jpeg",
+      "image_name": "Owl_perched_on_tree_branch_202608211600.jpeg",
+      "score": 1.0
+    }
+  ]
+}

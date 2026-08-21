@@ -1,0 +1,2010 @@
+{
+  "model": "gpt-5-mini",
+  "suggestions": [
+    {
+      "image_name": "Amisi_wrapped_in_towel_by_202608211520.jpeg",
+      "term": "cozy (adj)",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Ancient_Egyptians_watching_stree…_202608211519.jpeg",
+      "term": "Ancient Egyptians",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Ant_carrying_leaf_202608211600.jpeg",
+      "term": "insects",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Apple_replacing_cake_on_plate_202608211409.jpeg",
+      "term": "instead of",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Baker_pulling_bread_from_oven_202608211520.jpeg",
+      "term": "baked",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Baseball_bat_hitting_baseball_202608211408.jpeg",
+      "term": "sports",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Basket_filled_with_smiling_veget…_202608211409.jpeg",
+      "term": "vegetables",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Basket_overflowing_with_flatbreads_202608211518.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Blanket_covering_sleeping_teddy_…_202608211409.jpeg",
+      "term": "rest",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Blue_battery_character_emitting_…_202608211559.jpeg",
+      "term": "energy",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Blue_bird_in_nest_202608211600.jpeg",
+      "term": "birds",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Camels_walking_in_desert_202608211559.jpeg",
+      "term": "camel",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Carrot_slices_on_plate_202608211408.jpeg",
+      "term": "vegetables",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cars_and_trees_from_above_202608211600.jpeg",
+      "term": "roads",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Cartoon_ambulance_racing_to_help_202608211409.jpeg",
+      "term": "emergencies",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_character_tightening_belt_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_character_viewing_droppe…_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Gold_coin_in_garden_pond_202608211520.jpeg",
+      "term": "coins",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Gold_coin_twinkling_on_background_202608211558.jpeg",
+      "term": "gold",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Gold_necklace_and_ring_202608211559.jpeg",
+      "term": "gold",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Gold_ring_on_red_cushion_202608211559.jpeg",
+      "term": "gold",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Gold_star_twinkling_in_sky_202608211518.jpeg",
+      "term": "shine",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Pink_lotus_blooming_in_desert_202608211519.jpeg",
+      "term": "plants",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Pink_lotus_blooming_in_desert_202608211519_2.jpeg",
+      "term": "plants",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Placing_lid_on_bead_jar_202608211559.jpeg",
+      "term": "store",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Plant_releasing_CO2_bubbles_202608211409.jpeg",
+      "term": "carbon dioxide",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Clay_pot_and_wooden_spoon_202608211408.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Clouds_illustration_202608211519.jpeg",
+      "term": "clouds",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Colorful_cars_driving_on_road_202608211559.jpeg",
+      "term": "colorful (adj)",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Colors_swirling_from_soup_bowl_202608211409.jpeg",
+      "term": "colorful (adj)",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Crocodiles_wearing_crowns_on_rock_202608211600.jpeg",
+      "term": "crocodile",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Diamond_on_red_cushion_202608211559.jpeg",
+      "term": "diamond",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Dinosaur_standing_in_ancient_jungle_202608211601.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Dirt_path_along_Nile_river_202608211600.jpeg",
+      "term": "along the Nile",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Doctor_putting_bandage_on_child_202608211409.jpeg",
+      "term": "treat",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Dry_up_cracked_mud_puddle_202608211519.jpeg",
+      "term": "dry up",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Duck_and_ducklings_going_to_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Girl_shielding_eyes_in_wind_202608211519_2.jpeg",
+      "term": "wind",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_shrugging_after_dropping_toy_202608211559.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Girl_sitting_under_boulder_202608211600.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Girl_smiling_at_musical_melody_202608211519.jpeg",
+      "term": "joy",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Open_treasure_chest_with_gold_202608211559.jpeg",
+      "term": "gold",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Ducklings_following_mama_duck_202608211409.jpeg",
+      "term": "follow",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Egyptian_children_building_stone…_202608211520.jpeg",
+      "term": "build",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Egyptian_drawings_arranged_on_pa…_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Family_and_dog_walking_together_202608211409.jpeg",
+      "term": "walk",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Felucca_boats_on_Nile_River_202608211600.jpeg",
+      "term": "The Nile River",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Flower_sheltered_by_giant_leaf_202608211409.jpeg",
+      "term": "protected",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Frog_fish_and_ibis_posing_202608211600.jpeg",
+      "term": "creatures",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Fuel_gauge_pointing_empty_202608211559.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Giant_sun_shining_over_desert_202608211519.jpeg",
+      "term": "sunshine",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_breathing_fresh_air_202608211519.jpeg",
+      "term": "fresh air",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_brushing_cat_202608211558.jpeg",
+      "term": "care for",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_carrying_fruit_basket_202608211520.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Girl_carrying_woven_basket_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Girl_standing_beside_birdhouse_202608211559.jpeg",
+      "term": "birds",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_standing_by_clay_statue_202608211559.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Girl_standing_by_the_sea_202608211559.jpeg",
+      "term": "shore",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_steering_boat_in_river_202608211520.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Magnifying_glass_reveals_Nile_delta_202608211559.jpeg",
+      "term": "Delta region",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Maple_leaf_drifting_downward_202608211600.jpeg",
+      "term": "leaves",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Mixed_foods_swirling_together_202608211409.jpeg",
+      "term": "mix of",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Mom_and_boy_high-five_202608211558.jpeg",
+      "term": "celebrate",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Recipe_book_with_colorful_drawings_202608211409.jpeg",
+      "term": "recipe",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Red_boat_zipping_across_pond_202608211559.jpeg",
+      "term": "sail",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Red_droplet_sliding_on_slide_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Red_pomegranate_with_dew_drops_202608211518.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Girl_clapping_with_musical_notes_202608211519.jpeg",
+      "term": "clap",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_digging_in_garden_202608211559.jpeg",
+      "term": "dig",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_displaying_various_emotions_202608211600.jpeg",
+      "term": "feelings",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_drawing_house_blueprint_202608211559.jpeg",
+      "term": "design",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_eating_honey_cake_202608211600.jpeg",
+      "term": "delicious",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_encouraging_frustrated_friend_202608211559.jpeg",
+      "term": "encourage",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_feeding_chickens_with_grain_202608211519.jpeg",
+      "term": "feed",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_feeding_farm_animals_202608211519.jpeg",
+      "term": "feed",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_fencing_garden_seedling_202608211600.jpeg",
+      "term": "protect",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_giving_bear_to_toddler_202608211558.jpeg",
+      "term": "give",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_handing_flower_to_friend_202608211600.jpeg",
+      "term": "give",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_having_an_idea_202608211520.jpeg",
+      "term": "think",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_having_an_idea_202608211520_2.jpeg",
+      "term": "think",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_holding_balloon_puppy_202608211559.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Girl_holding_colorful_marble_202608211600.jpeg",
+      "term": "colorful (adj)",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_holding_hand_while_walking_202608211520.jpeg",
+      "term": "walk",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_holding_pink_daisy_202608211558.jpeg",
+      "term": "plants",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_holding_tablet_with_icons_202608211559.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Girl_holding_tissue_smiling_202608211600.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Girl_hugging_cat_statue_202608211600.jpeg",
+      "term": "feelings",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Girl_imagining_pyramid_ice_cream_202608211519.jpeg",
+      "term": "imagination",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_stroking_lamb_on_grass_202608211520.jpeg",
+      "term": "care for",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_thinking_about_date_fruit_202608211520.jpeg",
+      "term": "delicious",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Girl_thinking_with_lightbulb_202608211519.jpeg",
+      "term": "think",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_turning_off_dripping_faucet_202608211559.jpeg",
+      "term": "water",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_twirling_colorful_cloth_202608211559.jpeg",
+      "term": "colorful (adj)",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Lightning_bolt_character_jumping…_202608211409.jpeg",
+      "term": "energy",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Lion_peeking_through_grass_202608211600.jpeg",
+      "term": "creatures",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Lotus_flowers_swaying_in_breeze_202608211600.jpeg",
+      "term": "plants",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Magical_scroll_reveals_castle_il…_202608211558.jpeg",
+      "term": "once upon a time",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Seed_sprouting_in_dirt_202608211559.jpeg",
+      "term": "grow",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Seedling_becoming_giant_green_tree_202608211409.jpeg",
+      "term": "grow",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Smiling_sun_wearing_sunglasses_202608211559.jpeg",
+      "term": "sunshine",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Sparkling_crystals_in_cartoon_cave_202608211559.jpeg",
+      "term": "treasures",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Steaming_pot_on_stove_202608211409.jpeg",
+      "term": "a pot with water",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Studious_girl_reading_a_book_202608211600.jpeg",
+      "term": "knowledge",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Sun_shining_over_desert_202608211519.jpeg",
+      "term": "dry (adj)",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Sunlight_through_window_illumina…_202608211600.jpeg",
+      "term": "sunlight",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Toy_cars_price_comparison_202608211559.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Toys_falling_with_children_watching_202608211600.jpeg",
+      "term": "fall",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Treasures_chest_overflowing_with…_202608211559.jpeg",
+      "term": "treasures",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Tree_standing_after_storm_202608211600.jpeg",
+      "term": "survived",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Turtle_swimming_through_water_202608211600.jpeg",
+      "term": "turtle",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Turtle_wiggling_on_its_back_202608211519.jpeg",
+      "term": "turtle",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Two_cartoon_birds_on_branch_202608211409.jpeg",
+      "term": "birds",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Two_characters_bowing_after_perf…_202608211600.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Two_characters_sitting_and_chatting_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Two_characters_watching_sunset_b…_202608211518.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Two_figures_walking_toward_palms_202608211520.jpeg",
+      "term": "plants",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Umbrella_keeping_child_dry_rain_202608211409.jpeg",
+      "term": "keep ... from",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Vibrant_market_street_illustration_202608211520.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Water_drops_sliding_through_pipes_202608211559.jpeg",
+      "term": "water",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Water_filling_small_round_pond_202608211600.jpeg",
+      "term": "water",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Water_flowing_down_garden_canal_202608211600.jpeg",
+      "term": "flow",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Water_splash_animation_illustration_202608211558.jpeg",
+      "term": "water",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Whale_tail_splashing_ocean_water_202608211559.jpeg",
+      "term": "water",
+      "confidence": "high"
+    },
+    {
+      "image_name": "White_ibis_birds_flying_202608211600.jpeg",
+      "term": "birds",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Wooden_chair_in_room_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Wooden_pulley_lifting_grain_basket_202608211519.jpeg",
+      "term": "tools",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Workers_carrying_crates_at_port_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Worried_cartoon_cloud_representi…_202608211409.jpeg",
+      "term": "feelings",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Yellow_duck_swimming_in_pond_202608211520.jpeg",
+      "term": "birds",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Yellow_sign_with_smiley_face_202608211408.jpeg",
+      "term": "joy",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Blue_eggs_in_bird_nest_202608211600.jpeg",
+      "term": "birds",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Blue_flames_on_stove_burner_202608211559.jpeg",
+      "term": "heat",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Blue_water_puddle_on_stone_202608211600.jpeg",
+      "term": "water",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Bowl_of_Dakka_sauce_with_202608211408.jpeg",
+      "term": "dakka sauce",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Bowl_of_lentil_soup_202608211558.jpeg",
+      "term": "lentils",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_and_giant_sunflower_202608211559.jpeg",
+      "term": "large (adj)",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_balancing_on_log_202608211600.jpeg",
+      "term": "balance",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_biting_giant_nut_202608211600.jpeg",
+      "term": "large (adj)",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_bursting_through_finish_ribbon_202608211559.jpeg",
+      "term": "sports",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_catching_flying_ball_202608211519.jpeg",
+      "term": "catch",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_chewing_date_thumbs_up_202608211519.jpeg",
+      "term": "delicious",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_choosing_between_treats_202608211520.jpeg",
+      "term": "choice",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_ants_following_each_other_202608211409.jpeg",
+      "term": "insects",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_arrow_pointing_upward_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_balloon_and_bicycle_tire_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_balloon_floating_with_face_202608211408.jpeg",
+      "term": "float",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_bear_holding_thermometer_202608211409.jpeg",
+      "term": "get sick",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Cartoon_bear_yawning_202608211409.jpeg",
+      "term": "sleep",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_child_swimming_in_water_202608211409.jpeg",
+      "term": "swimming",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_chili_pepper_breathing_fire_202608211408.jpeg",
+      "term": "spicy",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_cloud_raining_with_light…_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_doctor_holding_magnifyin…_202608211408.jpeg",
+      "term": "diagnose",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Golden_wheat_field_ready_harvest_202608211518.jpeg",
+      "term": "grow",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Graphic_timeline_showing_seed_gr…_202608211559.jpeg",
+      "term": "grow",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Green_caterpillar_crawling_on_leaf_202608211558.jpeg",
+      "term": "insects",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Green_plant_surviving_rainstorm_202608211600.jpeg",
+      "term": "survive",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Green_reed_sitting_on_table_202608211558.jpeg",
+      "term": "plants",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Platypus_swimming_in_pond_202608211559.jpeg",
+      "term": "platypus",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Pomegranates_spilling_from_reed_…_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Pot_boiling_water_on_stove_202608211409.jpeg",
+      "term": "a pot with water",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Pot_boiling_with_happy_bubbles_202608211409.jpeg",
+      "term": "boil",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Pulley_system_lifting_grain_basket_202608211519.jpeg",
+      "term": "tools",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Boy_crouching_at_starting_line_202608211558.jpeg",
+      "term": "begin",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_dancing_with_music_notes_202608211600.jpeg",
+      "term": "dance",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_drilling_into_earth_202608211559.jpeg",
+      "term": "dig",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_flipping_turtle_202608211520.jpeg",
+      "term": "flip",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_gesturing_to_puppy_202608211601.jpeg",
+      "term": "creatures",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Boy_hoarding_toys_from_friend_202608211600.jpeg",
+      "term": "selfish",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_holding_empty_clay_cup_202608211600.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_holding_flower_with_girl_202608211600.jpeg",
+      "term": "plants",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_holding_gold_trophy_202608211559.jpeg",
+      "term": "gold",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_holding_pen_and_scroll_202608211600.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_hugging_gift_box_202608211559.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_jumping_out_of_hammock_202608211558.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_jumping_over_stream_202608211520.jpeg",
+      "term": "water",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_knocking_down_block_tower_202608211600.jpeg",
+      "term": "destroy",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_laughing_at_vase_202608211518.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_leaning_back_in_chair_202608211559.jpeg",
+      "term": "rest",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_Earth_floating_in_space_202608211408.jpeg",
+      "term": "planet",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_bell_ringing_from_hammer_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_brain_sitting_on_cloud_202608211408.jpeg",
+      "term": "mind",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_butterfly_flying_from_co…_202608211409.jpeg",
+      "term": "insects",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_duck_swimming_near_house_202608211409.jpeg",
+      "term": "birds",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_dust_particles_dancing_202608211409.jpeg",
+      "term": "dust",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Green_seedling_behind_wooden_fence_202608211600.jpeg",
+      "term": "plants",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Grill_cooking_vegetable_skewers_202608211409_2.jpeg",
+      "term": "grilled",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Hammer_striking_anvil_202608211559.jpeg",
+      "term": "strike",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Hand_bending_green_wooden_reed_202608211558.jpeg",
+      "term": "bend",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Hand_holding_stop_sign_202608211408.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_lifting_basket_with_pulley_202608211519.jpeg",
+      "term": "machines",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_lifting_boulder_with_pinky_202608211559.jpeg",
+      "term": "strong (adj)",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_lifting_water_jar_202608211600.jpeg",
+      "term": "water",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_loading_box_onto_truck_202608211600.jpeg",
+      "term": "load",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_looking_at_melted_candle_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_looking_at_overflowing_trash_202608211559.jpeg",
+      "term": "waste",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_looking_at_palm_tree_202608211519.jpeg",
+      "term": "plants",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_looking_at_puzzle_piece_202608211519.jpeg",
+      "term": "think",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Boy_looking_at_rainbow_202608211559.jpeg",
+      "term": "colorful (adj)",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_looking_at_shattered_pot_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_looking_through_clean_window_202608211559.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_making_bird_hand_shadow_202608211600.jpeg",
+      "term": "birds",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_molding_green_clay_star_202608211559.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_organizing_tasks_on_screens_202608211559.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_paying_shopkeeper_with_coins_202608211559.jpeg",
+      "term": "coins",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_peeking_from_pot_202608211600.jpeg",
+      "term": "hide",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Boy_planting_seeds_202608211519.jpeg",
+      "term": "plants",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_planting_seeds_by_river_202608211520.jpeg",
+      "term": "plants",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_calendar_with_checkmarks_202608211409.jpeg",
+      "term": "habit",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_campfire_with_flame_char…_202608211409.jpeg",
+      "term": "heat",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Cartoon_car_covered_in_bubbles_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_frying_pan_frying_food_202608211408.jpeg",
+      "term": "fry",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_frying_pan_with_food_202608211409.jpeg",
+      "term": "fry",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_garden_with_smiling_flowers_202608211409.jpeg",
+      "term": "plants",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_hand_adding_salt_202608211409.jpeg",
+      "term": "add",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_hand_lowering_chart_bar_202608211408.jpeg",
+      "term": "reduce",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Hand_picking_blue_bead_from_202608211518.jpeg",
+      "term": "pick out",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Hand_pouring_beads_into_jar_202608211559.jpeg",
+      "term": "pour",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Hand_replacing_old_toy_202608211409.jpeg",
+      "term": "replace",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Hand_spreading_honey_on_bread_202608211408.jpeg",
+      "term": "add",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Hand_sprinkling_onions_on_food_202608211408.jpeg",
+      "term": "put on top",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_pointing_at_clean_floor_202608211559.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_pointing_at_dates_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_pointing_at_garden_sign_202608211559.jpeg",
+      "term": "plants",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Boy_pointing_at_wooden_horse_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_pointing_at_wooden_log_202608211559.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_pointing_to_chest_202608211518.jpeg",
+      "term": "chest",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_poking_shirt_rip_202608211600.jpeg",
+      "term": "tear",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_pouring_water_for_bird_202608211519.jpeg",
+      "term": "water",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_pulling_boot_from_mud_202608211559.jpeg",
+      "term": "get stuck",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_pulling_giant_carrot_202608211559.jpeg",
+      "term": "pull out",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_pushing_limestone_block_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_pushing_limestone_block_202608211519_2.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_pushing_toy_blocks_202608211600.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_putting_apples_into_barrel_202608211600.jpeg",
+      "term": "store",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_reaching_for_gift_box_202608211559.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_reaching_out_to_shake_202608211519.jpeg",
+      "term": "meet",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_resting_in_hammock_202608211558.jpeg",
+      "term": "rest",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_resting_with_cat_202608211518.jpeg",
+      "term": "rest",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_riding_wooden_swing_202608211518.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_running_across_desert_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_searching_for_beetle_in_202608211600.jpeg",
+      "term": "insects",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_showing_gratitude_202608211559.jpeg",
+      "term": "appreciate",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_character_brushing_teeth_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_character_cheering_for_r…_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_character_doing_star_jumps_202608211408.jpeg",
+      "term": "exercise",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_character_flexing_muscles_202608211409.jpeg",
+      "term": "muscles",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_character_giving_thumbs_up_202608211408.jpeg",
+      "term": "support",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_character_giving_thumbs_up_202608211409.jpeg",
+      "term": "support",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_hand_taking_away_toy_202608211409.jpeg",
+      "term": "take away",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_head_growing_flowers_202608211408.jpeg",
+      "term": "imagination",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_heart_making_beating_sound_202608211408.jpeg",
+      "term": "heart",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_heart_pumping_rhythmically_202608211409.jpeg",
+      "term": "heart",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_house_drawing_on_chalkboard_202608211600.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_jar_with_closed_padlock_202608211409.jpeg",
+      "term": "tightly closed",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Happy_soup_pot_with_salt_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Heron_standing_by_calm_pond_202608211600.jpeg",
+      "term": "birds",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Ice_cube_character_shivering_202608211600.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_sitting_on_grass_202608211600.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_sliding_across_ice_pond_202608211600.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_smiling_in_desert_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_stacking_stone_blocks_202608211519.jpeg",
+      "term": "build",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_standing_by_statue_foot_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_standing_by_stone_statue_202608211600.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_standing_in_corn_field_202608211559.jpeg",
+      "term": "field",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_standing_in_rain_202608211558.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_storing_toy_robot_202608211600.jpeg",
+      "term": "store",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_struggling_to_lift_feather_202608211600.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_tossing_flatbread_from_pan_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_viewing_forest_painting_202608211559.jpeg",
+      "term": "forest",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_walking_and_waving_goodbye_202608211519.jpeg",
+      "term": "leave",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_walking_with_wooden_toy_202608211519.jpeg",
+      "term": "walk",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_watching_crocodile_in_river_202608211520.jpeg",
+      "term": "crocodile",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_watching_slow_snail_202608211559.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Boy_whispering_secret_to_girl_202608211520.jpeg",
+      "term": "whisper",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_whispering_to_sleeping_cat_202608211520.jpeg",
+      "term": "whisper",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Boy_wrapping_bird_wing_202608211558.jpeg",
+      "term": "care for",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Butterfly_leaving_cocoon_on_leaf_202608211558.jpeg",
+      "term": "come out",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_character_holding_gold_t…_202608211409.jpeg",
+      "term": "gold",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Cartoon_character_lifting_heavy_…_202608211409.jpeg",
+      "term": "strong (adj)",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Cartoon_character_lifting_weight_202608211409.jpeg",
+      "term": "muscles",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_character_listening_to_p…_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_character_looking_back_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_character_looking_proud_202608211409.jpeg",
+      "term": "feelings",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_character_playing_with_toy_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_character_pointing_to_li…_202608211408.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_character_rejecting_broc…_202608211409.jpeg",
+      "term": "vegetables",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Cartoon_character_riding_colorfu…_202608211409.jpeg",
+      "term": "colorful (adj)",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_character_smiling_standi…_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_character_smiling_with_b…_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Illustration_showing_different_w…_202608211519.jpeg",
+      "term": "different (adj)",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Kingfisher_diving_for_fish_202608211600.jpeg",
+      "term": "birds",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Ladder_descending_into_dark_pit_202608211520.jpeg",
+      "term": "hole",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Lightbulb_whispering_advice_to_c…_202608211409.jpeg",
+      "term": "whisper",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Shield_chasing_away_germ_characters_202608211408.jpeg",
+      "term": "protect",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Shield_protecting_flower_from_rain_202608211409.jpeg",
+      "term": "protect",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Silver_robot_with_spinning_spirals_202608211559.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Silver_shield_on_stone_wall_202608211519.jpeg",
+      "term": "protected",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Small_sailboat_gliding_on_water_202608211600.jpeg",
+      "term": "water",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Smiling_red_heart_character_202608211409.jpeg",
+      "term": "heart",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_jug_pouring_orange_juice_202608211408.jpeg",
+      "term": "pour",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_knife_cutting_tomato_202608211408.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_letters_floating_around_…_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_lightning_bolt_jumping_202608211408.jpeg",
+      "term": "lightning",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_map_of_Egypt_202608211559.jpeg",
+      "term": "country",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_matchstick_representing_…_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_oil_drop_smiling_202608211559.jpeg",
+      "term": "oil",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_onion_browning_in_pan_202608211408.jpeg",
+      "term": "turn brown",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_oven_holding_cookies_202608211409.jpeg",
+      "term": "baked",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Cartoon_path_leading_through_hills_202608211409.jpeg",
+      "term": "hill",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_potato_chip_breaking_202608211409.jpeg",
+      "term": "chips",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_recycling_bin_and_trash_202608211408.jpeg",
+      "term": "waste",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_reporter_holding_microphone_202608211408.jpeg",
+      "term": "on the news",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_representing_weather_cha…_202608211408.jpeg",
+      "term": "weather changes",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_skeleton_waving_202608211409.jpeg",
+      "term": "bones",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_spice_jars_on_shelf_202608211409.jpeg",
+      "term": "spices",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_lifting_stone_uncovering_bug_202608211520.jpeg",
+      "term": "insects",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_listening_to_bird_singing_202608211519.jpeg",
+      "term": "birds",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_looking_around_garden_confused_202608211601.jpeg",
+      "term": "plants",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Girl_observing_ladybug_202608211559.jpeg",
+      "term": "insects",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_peering_into_hole_202608211519.jpeg",
+      "term": "hole",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_peering_through_magnifying_…_202608211600.jpeg",
+      "term": "search",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_waving_at_fly_202608211559.jpeg",
+      "term": "insects",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_wearing_cape_holding_toolkit_202608211559.jpeg",
+      "term": "hero",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_wrapped_in_blanket_202608211519.jpeg",
+      "term": "cozy (adj)",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Glowing_lightbulb_illustration_202608211559.jpeg",
+      "term": "think",
+      "confidence": "high"
+    },
+    {
+      "image_name": "People_trading_in_Ancient_Egypti…_202608211519.jpeg",
+      "term": "Ancient Egyptians",
+      "confidence": "high"
+    },
+    {
+      "image_name": "People_walking_in_village_square_202608211519.jpeg",
+      "term": "main square",
+      "confidence": "high"
+    },
+    {
+      "image_name": "People_walking_toward_government…_202608211559.jpeg",
+      "term": "government offices",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Person_carrying_watermelon_and_figs_202608211519.jpeg",
+      "term": "fruits",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Person_setting_down_basket_of_202608211520.jpeg",
+      "term": "groceries",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_sun_moves_across_sky_202608211409.jpeg",
+      "term": "during the day",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_sun_smiling_at_desert_202608211409.jpeg",
+      "term": "heat",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Cartoon_sun_wiping_sweat_202608211409.jpeg",
+      "term": "heat",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_thermometer_showing_ok_face_202608211408.jpeg",
+      "term": "temperature",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_thermometer_smiling_202608211408.jpeg",
+      "term": "temperature",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_toy_car_representing_dam…_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Cartoon_trees_and_squirrel_202608211409.jpeg",
+      "term": "creatures",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_vegetables_gathered_on_t…_202608211408.jpeg",
+      "term": "vegetables",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Cartoon_weather_character_showin…_202608211409.jpeg",
+      "term": "weather changes",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Cat_sitting_on_stone_path_202608211520.jpeg",
+      "term": "creatures",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Caterpillar_looking_at_butterfly…_202608211409.jpeg",
+      "term": "insects",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Caterpillar_turning_into_butterfly_202608211409.jpeg",
+      "term": "insects",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Character_hugging_leather_ball_t…_202608211519.jpeg",
+      "term": "sports",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Character_running_on_race_track_202608211558.jpeg",
+      "term": "sports",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Character_searching_in_wooden_chest_202608211519.jpeg",
+      "term": "search",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Character_walking_on_garden_wall_202608211600.jpeg",
+      "term": "walk",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Characters_bowing_after_performance_202608211519.jpeg",
+      "term": "show respect",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Characters_playing_game_together_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Characters_waving_with_big_smiles_202608211600.jpeg",
+      "term": "joy",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Chickens_pecking_grain_202608211519.jpeg",
+      "term": "feed",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Girl_placing_wooden_duck_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Girl_pointing_at_colorful_crates_202608211600.jpeg",
+      "term": "colorful (adj)",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_pointing_at_glowing_orchid_202608211559.jpeg",
+      "term": "plants",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_pointing_at_mystery_box_202608211600.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Girl_pointing_at_silver_key_202608211558.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Girl_reading_papyrus_scroll_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Papyrus_boat_on_water_202608211519.jpeg",
+      "term": "water",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Papyrus_plants_and_lotus_flowers_202608211600.jpeg",
+      "term": "plants",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Path_through_garden_202608211600.jpeg",
+      "term": "path",
+      "confidence": "high"
+    },
+    {
+      "image_name": "People_planting_tree_in_village_202608211519.jpeg",
+      "term": "plants",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Pulling_water_from_stone_well_202608211520.jpeg",
+      "term": "well",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Puppy_sitting_at_boy's_feet_202608211600.jpeg",
+      "term": "creatures",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Puppy_stuck_in_fence_202608211409.jpeg",
+      "term": "stuck",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Purple_crystals_growing_in_cave_202608211559.jpeg",
+      "term": "minerals",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Purple_crystals_on_rock_wall_202608211559.jpeg",
+      "term": "minerals",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Red_puzzle_piece_fitting_jigsaw_202608211600.jpeg",
+      "term": "fit",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Red_tubes_for_children_202608211408.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Rocks_displaying_mineral_veins_202608211559.jpeg",
+      "term": "minerals",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Sad_girl_crying_illustration_202608211600.jpeg",
+      "term": "feelings",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Child_eating_apple_202608211409.jpeg",
+      "term": "fruits",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Child_holding_toy_cat_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Child_jumping_in_air_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Child_looking_at_rainbow_202608211409.jpeg",
+      "term": "colorful (adj)",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Child_resting_in_bed_202608211409.jpeg",
+      "term": "rest",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Child_running_and_jumping_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Child_sleeping_in_bed_202608211409.jpeg",
+      "term": "sleep",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Children_building_stone_structure_202608211520.jpeg",
+      "term": "build",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Children_digging_in_cave_202608211559.jpeg",
+      "term": "dig",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Children_giggling_at_hippo_shadow_202608211600.jpeg",
+      "term": "hippo",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Children_high-fiving_by_golden_p…_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Children_jumping_with_confetti_202608211520.jpeg",
+      "term": "celebrate",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Children_learning_in_temple_cour…_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Children_listening_to_elderly_st…_202608211519.jpeg",
+      "term": "show respect",
+      "confidence": "medium"
+    },
+    {
+      "image_name": "Children_looking_at_golden_crown_202608211559.jpeg",
+      "term": "crown",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Children_playing_board_game_202608211520.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Children_playing_in_park_202608211559.jpeg",
+      "term": "park",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Children_playing_musical_instrum…_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Children_playing_with_red_ball_202608211600.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Children_riding_ancient_Egyptian…_202608211518.jpeg",
+      "term": "Ancient Egyptians",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Children_shaking_hands_agreeing_202608211520.jpeg",
+      "term": "agree",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Children_walking_toward_tree_202608211519.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Girl_reading_with_buzzing_fly_202608211559.jpeg",
+      "term": "flies",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_realizing_with_exclamation_…_202608211558.jpeg",
+      "term": "realize",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_resting_under_palm_tree_202608211518.jpeg",
+      "term": "rest",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Girl_running_across_playground_202608211559.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Girl_selling_herbal_tea_202608211520.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Girl_sharing_cookies_with_friends_202608211559.jpeg",
+      "term": "give",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Neighbors_waving_in_Egyptian_street_202608211519.jpeg",
+      "term": "neighbor",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Ocean_waves_crashing_against_rock_202608211600.jpeg",
+      "term": "crashing",
+      "confidence": "high"
+    },
+    {
+      "image_name": "Packed_lunchbox_with_food_202608211409.jpeg",
+      "term": "",
+      "confidence": "low"
+    },
+    {
+      "image_name": "Papyrus_boat_floating_on_water_202608211520.jpeg",
+      "term": "float",
+      "confidence": "high"
+    }
+  ]
+}
