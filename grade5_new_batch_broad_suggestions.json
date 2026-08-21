@@ -1,0 +1,2327 @@
+{
+  "model": "gpt-5-mini",
+  "allowed_terms": [
+    "affect",
+    "affected",
+    "came",
+    "find",
+    "flowed",
+    "found",
+    "humans",
+    "kings of the Nile",
+    "play an important role",
+    "role",
+    "scary (adj)",
+    "tiny (adj)",
+    "What about ... ?",
+    "hid",
+    "hide",
+    "live",
+    "lived",
+    "stay in balance",
+    "appreciated",
+    "became",
+    "become",
+    "began",
+    "bent",
+    "blocked by",
+    "come back home",
+    "giving back",
+    "mean",
+    "meant",
+    "realized",
+    "rested",
+    "shade",
+    "taking care of",
+    "added",
+    "crunchy / crispy",
+    "cut ... into",
+    "flavor",
+    "fried",
+    "grilled",
+    "ingredients",
+    "recipe",
+    "thin slices",
+    "absolutely",
+    "increase",
+    "increased",
+    "lose",
+    "lost",
+    "make our bodies stronger",
+    "mental health",
+    "normal",
+    "organ",
+    "stay healthy",
+    "tried",
+    "try",
+    "all day",
+    "bake",
+    "change",
+    "changed",
+    "changes",
+    "followed by",
+    "journey",
+    "replaced",
+    "the best way to",
+    "then and now",
+    "used to",
+    "blood",
+    "blood vessels",
+    "gas",
+    "hurt",
+    "keep ... from",
+    "pump",
+    "pumped",
+    "tips",
+    "diagnosed",
+    "diseases",
+    "encouraged",
+    "give advice",
+    "harmful",
+    "healthcare",
+    "illnesses",
+    "knowledge",
+    "life saver",
+    "on the spot",
+    "real-life heroes",
+    "receive",
+    "received",
+    "respond",
+    "responded",
+    "skills",
+    "stethoscope",
+    "treated",
+    "treatment",
+    "work around the clock",
+    "work day and night",
+    "burn down",
+    "cover",
+    "damaged",
+    "drought",
+    "flood",
+    "heat wave",
+    "prevent",
+    "prevent ... from",
+    "prevented",
+    "sandstorm",
+    "severe/extreme",
+    "struck",
+    "thunderstorm",
+    "warnings",
+    "What a pity!",
+    "wildfire",
+    "wonders",
+    "brought",
+    "controlled",
+    "damage",
+    "even in the desert",
+    "irrigation",
+    "It was hard to + inf.",
+    "Khamsin",
+    "modern",
+    "mud bricks",
+    "over their fields",
+    "possible",
+    "rich soil",
+    "[be] able to",
+    "any longer",
+    "at the bottom of",
+    "decide",
+    "decided",
+    "deep",
+    "make a decision",
+    "near the edge of",
+    "searched",
+    "swam",
+    "swim",
+    "think for a moment",
+    "brightly",
+    "seem",
+    "seemed",
+    "shone",
+    "side",
+    "strange",
+    "turn over",
+    "turn right side up",
+    "upside down",
+    "club",
+    "come with",
+    "personally",
+    "theme park",
+    "waiter",
+    "community center",
+    "main square",
+    "met",
+    "crowding",
+    "designed",
+    "from the top",
+    "managed",
+    "modern technology",
+    "contain",
+    "contained",
+    "fertile",
+    "iron",
+    "named",
+    "natural gas",
+    "work for",
+    "cheaper",
+    "dig deep into the ground",
+    "dug",
+    "easy to shape",
+    "get",
+    "got",
+    "materials",
+    "non-renewable",
+    "precious",
+    "rare",
+    "ship",
+    "super strong",
+    "take millions of years",
+    "the Eastern Desert",
+    "use .... wisely",
+    "valuable",
+    "wasted",
+    "bother",
+    "bothered",
+    "clear",
+    "doesn't matter",
+    "give up",
+    "grateful",
+    "popular",
+    "ready to help",
+    "rush",
+    "sail",
+    "sailed",
+    "something went wrong",
+    "stare",
+    "stared",
+    "take a long time",
+    "cried",
+    "cry",
+    "danced",
+    "destroyed",
+    "fall",
+    "fell",
+    "freeze",
+    "froze",
+    "have no shape",
+    "part of",
+    "still",
+    "treasured",
+    "wild",
+    "without me"
+  ],
+  "matches": [
+    {
+      "image_name": "Cactus_blooming_with_pink_flower_202608212034.jpeg",
+      "term": "even in the desert",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A blooming cactus is a clear example of a plant thriving in desert conditions — a close, educational depiction of 'even in the desert.'"
+    },
+    {
+      "image_name": "Cartoon_anchor_in_ocean_202608212032.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "high",
+      "reason": "The image shows an anchor in the ocean; none of the allowed terms directly describe an anchor or make a clear, useful teaching match."
+    },
+    {
+      "image_name": "Cartoon_architect_drawing_house_…_202608212032.jpeg",
+      "term": "designed",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "An architect drawing a house is a direct depiction of designing — matches 'designed' exactly."
+    },
+    {
+      "image_name": "Cartoon_ball_hitting_wall_202608212034.jpeg",
+      "term": "blocked by",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A ball hitting a wall is a direct depiction of something being 'blocked by' an object."
+    },
+    {
+      "image_name": "Cartoon_bat_hanging_from_branch_202608212032.jpeg",
+      "term": "rested",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A bat hanging (likely sleeping/resting) is a useful depiction for the concept 'rested.'"
+    },
+    {
+      "image_name": "Cartoon_bird_flying_over_crops_202608212034.jpeg",
+      "term": "over their fields",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A bird flying above crop rows is a clear, close depiction of being 'over their fields.'"
+    },
+    {
+      "image_name": "Cartoon_cat_looking_at_square_202608212034.jpeg",
+      "term": "stare",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A cat intently looking at a shape is a direct depiction of 'stare.'"
+    },
+    {
+      "image_name": "Cartoon_cat_sleeping_on_pillow_202608212033.jpeg",
+      "term": "rested",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A cat sleeping on a pillow directly shows resting, matching 'rested.'"
+    },
+    {
+      "image_name": "Cartoon_character_pushing_boulder_202608212034.jpeg",
+      "term": "try",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A character pushing a heavy boulder illustrates an effortful attempt and works as a close depiction of 'try.'"
+    },
+    {
+      "image_name": "Cartoon_character_wiping_sweat_202608212033.jpeg",
+      "term": "tried",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Wiping sweat suggests recent effort; it is a useful depiction to teach 'tried.'"
+    },
+    {
+      "image_name": "Doctor_and_nurse_standing_outside_202608212033.jpeg",
+      "term": "ready to help",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A doctor and nurse standing together visually conveys being prepared to assist — a close match for 'ready to help.'"
+    },
+    {
+      "image_name": "Doctor_bandaging_child_arm_202608212034.jpeg",
+      "term": "treated",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Applying a bandage is direct treatment of an injury — matches 'treated' exactly."
+    },
+    {
+      "image_name": "Doctor_checking_child_heartbeat_202608212033.jpeg",
+      "term": "stethoscope",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Checking a heartbeat typically uses a stethoscope; the image directly depicts that tool/concept."
+    },
+    {
+      "image_name": "Doctor_explaining_X-ray_results_202608212034.jpeg",
+      "term": "diagnosed",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A doctor explaining X-ray results is a close educational depiction of having 'diagnosed' a condition."
+    },
+    {
+      "image_name": "Doctor_working_day_and_night_202608212033.jpeg",
+      "term": "work day and night",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The image explicitly shows a doctor working continuously; this directly matches 'work day and night.'"
+    },
+    {
+      "image_name": "Droopy_plant_affected_by_heat_202608212033.jpeg",
+      "term": "affected",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A droopy plant from heat is a direct depiction of being 'affected' (by heat/drought)."
+    },
+    {
+      "image_name": "Ducklings_following_their_mother_202608212033.jpeg",
+      "term": "followed by",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Ducklings literally walking behind their mother directly illustrates 'followed by'."
+    },
+    {
+      "image_name": "Farmer_driving_red_tractor_202608212034.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "low",
+      "reason": "The image shows a farmer driving a tractor but no allowed term is a clear, direct match or close educational depiction."
+    },
+    {
+      "image_name": "Runner_starting_race_202608212033.jpeg",
+      "term": "began",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A runner launching from the start line is a clear depiction of an action that has just 'began'."
+    },
+    {
+      "image_name": "Sad_child_losing_marbles_game_202608212033.jpeg",
+      "term": "lost",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A child upset while losing a marbles game represents having 'lost' the game or marbles."
+    },
+    {
+      "image_name": "Safety_fence_around_swimming_pool_202608212034.jpeg",
+      "term": "prevent",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A fence around a pool is used to 'prevent' accidents, matching the safety/prevention concept."
+    },
+    {
+      "image_name": "Sand_blowing_across_desert_202608212034.jpeg",
+      "term": "sandstorm",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Wind-blown sand across a desert is a close depiction of a 'sandstorm' (or related windy sand event)."
+    },
+    {
+      "image_name": "Sandstorm_in_desert_202608212034.jpeg",
+      "term": "sandstorm",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The scene explicitly shows a sandstorm in the desert."
+    },
+    {
+      "image_name": "Small_boat_on_deep_ocean_202608212034.jpeg",
+      "term": "deep",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A small boat on a vast ocean visually conveys the idea of 'deep' water."
+    },
+    {
+      "image_name": "Sprout_growing_from_soil_202608212034.jpeg",
+      "term": "tiny (adj)",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A young sprout is small and can appropriately illustrate the adjective 'tiny'."
+    },
+    {
+      "image_name": "Squirrel_burying_a_nut_202608212033.jpeg",
+      "term": "hide",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A squirrel burying a nut is a clear, educational depiction of 'hide' (concealing/storing something)."
+    },
+    {
+      "image_name": "Cartoon_child_pointing_to_themse…_202608212033.jpeg",
+      "term": "personally",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A child pointing to themselves is a direct visual for 'personally' (referring to oneself)."
+    },
+    {
+      "image_name": "Cartoon_cloud_shaped_like_bird_202608212032.jpeg",
+      "term": "seem",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A cloud that looks like a bird fits the idea of something that 'seems' like something else (appearance/likeness)."
+    },
+    {
+      "image_name": "Cartoon_coal_and_empty_hourglass_202608212032.jpeg",
+      "term": "take millions of years",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Coal paired with an hourglass symbolizes formation over extremely long time spans—'take millions of years'."
+    },
+    {
+      "image_name": "Cartoon_cube_with_red_side_202608212032.jpeg",
+      "term": "side",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A cube showing a red face directly illustrates the word 'side'."
+    },
+    {
+      "image_name": "Cartoon_fish_swimming_in_water_202608212034.jpeg",
+      "term": "swim",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A fish moving through water is a direct depiction of 'swim'."
+    },
+    {
+      "image_name": "Cartoon_germs_under_magnifying_g…_202608212033.jpeg",
+      "term": "diseases",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Germs shown under a magnifier are an educational depiction related to 'diseases' (germs cause illnesses)."
+    },
+    {
+      "image_name": "Cartoon_girl_choosing_fruit_202608212032.jpeg",
+      "term": "decide",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Girl selecting fruit is a clear decision scene — a useful depiction to teach 'decide'."
+    },
+    {
+      "image_name": "Cartoon_gold_coin_flipping_202608212032.jpeg",
+      "term": "turn over",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A coin flipping/turning in the air directly shows the idea of turning over."
+    },
+    {
+      "image_name": "Cartoon_house_with_robot_and_202608212034.jpeg",
+      "term": "modern technology",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A house with a robot visually represents modern technology; useful near match for the term."
+    },
+    {
+      "image_name": "Cartoon_kitchen_stove_burning_flame_202608212034.jpeg",
+      "term": "gas",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A burning stove flame commonly represents a gas flame; close, educational depiction of 'gas'."
+    },
+    {
+      "image_name": "Cartoon_kitten_sitting_on_table_202608212032.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "high",
+      "reason": "No suitable allowed term directly or closely matches a kitten simply sitting on a table."
+    },
+    {
+      "image_name": "Flexible_straw_bending_curve_202608212033.jpeg",
+      "term": "bent",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A flexible straw clearly shown bending is a direct depiction of 'bent'."
+    },
+    {
+      "image_name": "Flood_covering_street_and_houses_202608212034.jpeg",
+      "term": "flood",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Street and houses covered by water directly depicts a flood."
+    },
+    {
+      "image_name": "Flower_blooming_in_dry_desert_202608212034.jpeg",
+      "term": "even in the desert",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A flower blooming in a dry desert visually and directly matches 'even in the desert.'"
+    },
+    {
+      "image_name": "Four_seasons_changing_around_tree_202608212033.jpeg",
+      "term": "changes",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The tree showing the four seasons is a direct depiction of seasonal 'changes.'"
+    },
+    {
+      "image_name": "Frog_leaping_between_lily_pads_202608212034.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "high",
+      "reason": "No allowed term directly or closely matches a frog leaping between lily pads."
+    },
+    {
+      "image_name": "Girl_examining_map_with_magnifier_202608212033.jpeg",
+      "term": "searched",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A girl looking at a map with a magnifier directly shows someone searching — 'searched' fits well."
+    },
+    {
+      "image_name": "Glass_being_filled_with_water_202608212033.jpeg",
+      "term": "flowed",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Water pouring into a glass is a direct depiction of water that 'flowed.'"
+    },
+    {
+      "image_name": "Glass_jar_containing_colorful_ma…_202608212032.jpeg",
+      "term": "contain",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A jar holding colorful items directly demonstrates the idea 'contain.'"
+    },
+    {
+      "image_name": "Cartoon_monster_making_silly_face_202608212033.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "high",
+      "reason": "No allowed term directly or usefully matches a monster making a silly face (too ambiguous)."
+    },
+    {
+      "image_name": "Cartoon_moon_shining_over_house_202608212032.jpeg",
+      "term": "shone",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The moon shining over a house directly depicts the verb 'shone.'"
+    },
+    {
+      "image_name": "Cartoon_puppy_wearing_red_collar_202608212032.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "high",
+      "reason": "No suitable allowed term directly or closely matches a puppy wearing a red collar."
+    },
+    {
+      "image_name": "Cartoon_treasure_chest_on_ocean_202608212032.jpeg",
+      "term": "treasured",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A visible treasure chest directly represents something treasured/treasure."
+    },
+    {
+      "image_name": "Cartoon_waiter_carrying_juice_tray_202608212034.jpeg",
+      "term": "waiter",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Direct depiction of a waiter carrying a tray of drinks."
+    },
+    {
+      "image_name": "Cartoon_water_watering_plants_202608212034.jpeg",
+      "term": "taking care of",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Watering plants is a clear, educational depiction of taking care of plants."
+    },
+    {
+      "image_name": "Cartoon_wind_blowing_sand_202608212034.jpeg",
+      "term": "sandstorm",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Wind blowing sand depicts a sandstorm."
+    },
+    {
+      "image_name": "Caterpillar_transforming_into_bu…_202608212033.jpeg",
+      "term": "became",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Shows a caterpillar becoming a butterfly — a direct 'became' transformation."
+    },
+    {
+      "image_name": "Characters_building_wall_near_river_202608212034.jpeg",
+      "term": "prevent",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Building a wall near a river is commonly done to prevent flooding; useful educational match."
+    },
+    {
+      "image_name": "Chef_spreading_jam_on_bread_202608212034.jpeg",
+      "term": "added",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Spreading jam on bread depicts adding an ingredient."
+    },
+    {
+      "image_name": "Green_plant_growing_towards_sun_202608212033.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "low",
+      "reason": "No closely matching allowed term clearly depicted (growth toward sun doesn't match listed terms directly)."
+    },
+    {
+      "image_name": "Green_plants_growing_in_soil_202608212034.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "low",
+      "reason": "Image shows general plant growth; permitted terms don't directly match without stretching associations."
+    },
+    {
+      "image_name": "Grilled_corn_and_vegetables_202608212033.jpeg",
+      "term": "grilled",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Direct depiction of grilled food."
+    },
+    {
+      "image_name": "Hammer_striking_golden_bell_202608212034.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "low",
+      "reason": "Action (striking a bell) doesn't closely match any allowed term without inference."
+    },
+    {
+      "image_name": "Hammer_striking_metal_bell_202608212034.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "low",
+      "reason": "Same as above — no clear match among allowed terms."
+    },
+    {
+      "image_name": "Hand_adding_salt_to_salad_202608212033.jpeg",
+      "term": "added",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Direct depiction of adding an ingredient (salt)."
+    },
+    {
+      "image_name": "Hand_cutting_yellow_bell_pepper_202608212033.jpeg",
+      "term": "cut ... into",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Shows someone cutting a pepper, matching 'cut ... into'."
+    },
+    {
+      "image_name": "Hand_pushing_domino_piece_202608212033.jpeg",
+      "term": "turn over",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Pushing a domino commonly causes it to turn over; useful close educational match."
+    },
+    {
+      "image_name": "Hand_replacing_broken_toy_202608212033.jpeg",
+      "term": "replaced",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Direct depiction of replacing a broken toy."
+    },
+    {
+      "image_name": "Stethoscope_illustration_202608212033.jpeg",
+      "term": "stethoscope",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The image is a direct depiction of a stethoscope, matching the allowed term exactly."
+    },
+    {
+      "image_name": "Stone_basin_filled_with_water_202608212034.jpeg",
+      "term": "contain",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A basin filled with water directly shows containing something, which matches 'contain'."
+    },
+    {
+      "image_name": "Sun_moving_across_sky_202608212033.jpeg",
+      "term": "shone",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The sun moving across the sky is clearly depicted shining, matching 'shone'."
+    },
+    {
+      "image_name": "Sun_shining_over_meadow_202608212032.jpeg",
+      "term": "brightly",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Sunlight shining over a meadow directly illustrates 'brightly'."
+    },
+    {
+      "image_name": "Supermarket_shelf_with_products_202608212034.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "medium",
+      "reason": "The shelf shows many products but none of the allowed terms are a clear, direct match or useful close depiction without further context."
+    },
+    {
+      "image_name": "Teacher_giving_advice_to_student_202608212034.jpeg",
+      "term": "give advice",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A teacher advising a student directly matches the term 'give advice'."
+    },
+    {
+      "image_name": "Teacher_grading_student_homework…_202608212032.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "medium",
+      "reason": "Grading homework is not represented by any single allowed term in the list, so no exact or close match."
+    },
+    {
+      "image_name": "Thick_book_and_thin_pencil_202608212034.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "medium",
+      "reason": "The image contrasts thick and thin objects, but no allowed term (e.g., 'thin slices') fits this educationally without stretching the association."
+    },
+    {
+      "image_name": "Thunderstorm_over_forest_202608212034.jpeg",
+      "term": "thunderstorm",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The picture clearly shows a thunderstorm over a forest, matching the allowed term exactly."
+    },
+    {
+      "image_name": "Tomato_slices_arranged_on_plate_202608212033.jpeg",
+      "term": "thin slices",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Tomato slices arranged on a plate directly illustrate 'thin slices'."
+    },
+    {
+      "image_name": "Toy_car_track_with_cars_202608212032.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "medium",
+      "reason": "Toy car track does not clearly match any single allowed term or a close educational depiction from the list."
+    },
+    {
+      "image_name": "Tray_with_water_and_medicine_202608212033.jpeg",
+      "term": "treatment",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A tray with medicine and water is a close, educational depiction of medical 'treatment'."
+    },
+    {
+      "image_name": "Treasure_chest_with_gold_coins_202608212032.jpeg",
+      "term": "treasured",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A chest full of gold coins directly represents something 'treasured' or valuable."
+    },
+    {
+      "image_name": "Tree_shading_park_bench_202608212034.jpeg",
+      "term": "shade",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A tree providing shade over a bench directly matches the term 'shade'."
+    },
+    {
+      "image_name": "Trees_burning_in_forest_wildfire_202608212034.jpeg",
+      "term": "wildfire",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Burning trees in a forest are a direct depiction of a 'wildfire'."
+    },
+    {
+      "image_name": "Two_cartoon_children_waving_202608212032.jpeg",
+      "term": "met",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Two children waving is a close depiction of meeting or greeting someone, so 'met' is an educationally useful near match."
+    },
+    {
+      "image_name": "Umbrella_protecting_children_fro…_202608212033.jpeg",
+      "term": "shade",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "An umbrella providing cover illustrates the concept of shade or shelter from sun/rain — a useful depiction for 'shade.'"
+    },
+    {
+      "image_name": "Child_bringing_apples_inside_202608212034.jpeg",
+      "term": "taking care of",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Bringing harvested apples inside shows looking after food/produce, a reasonable educational match for 'taking care of.'"
+    },
+    {
+      "image_name": "Child_carrying_box_up_stairs_202608212034.jpeg",
+      "term": "managed",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A child successfully carrying a heavy box up stairs is a clear depiction of having 'managed' a task."
+    },
+    {
+      "image_name": "Child_carrying_fruit_basket_202608212032.jpeg",
+      "term": "taking care of",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Carrying a basket of fruit suggests caring for or transporting food, which can teach 'taking care of.'"
+    },
+    {
+      "image_name": "Child_choosing_between_paths_202608212032.jpeg",
+      "term": "decide",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The image shows a child choosing between two paths — a direct depiction of making a decision ('decide')."
+    },
+    {
+      "image_name": "Child_choosing_fruit_over_candy_202608212033.jpeg",
+      "term": "stay healthy",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Choosing fruit instead of candy illustrates making a healthy choice and supports the concept 'stay healthy.'"
+    },
+    {
+      "image_name": "Child_controlling_cartoon_robot_202608212032.jpeg",
+      "term": "modern technology",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A child operating a robot visually represents use of modern technology."
+    },
+    {
+      "image_name": "Child_eating_apple_202608212033.jpeg",
+      "term": "stay healthy",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Eating an apple is commonly used to teach healthy eating habits, matching 'stay healthy.'"
+    },
+    {
+      "image_name": "Child_eating_strawberry_202608212033.jpeg",
+      "term": "flavor",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A child tasting a strawberry can be used to teach about flavor; it's a useful, direct association."
+    },
+    {
+      "image_name": "Child_flexing_muscle_202608212033.jpeg",
+      "term": "make our bodies stronger",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Flexing a muscle is a clear educational depiction of building strength — 'make our bodies stronger.'"
+    },
+    {
+      "image_name": "Child_giving_thumbs_up_202608212033.jpeg",
+      "term": "encouraged",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A thumbs-up gesture commonly signals encouragement or approval, matching 'encouraged.'"
+    },
+    {
+      "image_name": "Child_handing_toy_to_child_202608212033.jpeg",
+      "term": "giving back",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Handing a toy to another child directly depicts giving or returning something — fits 'giving back.'"
+    },
+    {
+      "image_name": "Child_holding_gift_202608212032.jpeg",
+      "term": "received",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Holding a wrapped gift is a direct depiction of having received something — 'received.'"
+    },
+    {
+      "image_name": "Child_holding_letter_from_mailbox_202608212034.jpeg",
+      "term": "received",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A child holding mail after it was delivered is a direct depiction of 'received.'"
+    },
+    {
+      "image_name": "Child_jumping_over_puddle_202608212034.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "high",
+      "reason": "Jumping over a puddle doesn't closely match any allowed term without a stretch; skip to avoid an unclear association."
+    },
+    {
+      "image_name": "Child_looking_at_rainbow_202608212034.jpeg",
+      "term": "wonders",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A child admiring a rainbow evokes curiosity and amazement, a suitable depiction for 'wonders.'"
+    },
+    {
+      "image_name": "Hand_turning_cartoon_turtle_202608212032.jpeg",
+      "term": "turn right side up",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A hand is turning a turtle—direct depiction of turning something right side up."
+    },
+    {
+      "image_name": "Hands_demonstrating_skills_202608212033.jpeg",
+      "term": "skills",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Hands are demonstrating actions/techniques, a direct depiction suitable for the term 'skills'."
+    },
+    {
+      "image_name": "Heroes_standing_together_202608212033.jpeg",
+      "term": "real-life heroes",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Group of hero-like figures can be used to represent real-life heroes (educationally useful depiction)."
+    },
+    {
+      "image_name": "Honeybee_pollinating_a_flower_202608212033.jpeg",
+      "term": "play an important role",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A bee pollinating a flower is a clear, educational example of something that 'plays an important role' in ecosystems."
+    },
+    {
+      "image_name": "Icons_showing_health_tips_202608212033.jpeg",
+      "term": "tips",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Icons explicitly showing health advice are a direct depiction of 'tips'."
+    },
+    {
+      "image_name": "Ingredients_for_cooking_on_counter_202608212033.jpeg",
+      "term": "ingredients",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A counter with cooking items directly depicts 'ingredients'."
+    },
+    {
+      "image_name": "Khamsin_wind_blowing_palm_trees_202608212034.jpeg",
+      "term": "Khamsin",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Filename and scene of strong wind/palms directly match the specified term 'Khamsin'."
+    },
+    {
+      "image_name": "Kids_painting_and_reading_together_202608212032.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "high",
+      "reason": "No single allowed term matches this general scene of kids painting and reading closely enough to use without additional explanation."
+    },
+    {
+      "image_name": "Ladybug_sitting_on_green_leaf_202608212033.jpeg",
+      "term": "tiny (adj)",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A ladybug on a leaf is a direct, clear depiction of something 'tiny'."
+    },
+    {
+      "image_name": "Child_meditating_peacefully_202608212033.jpeg",
+      "term": "mental health",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A child meditating is a useful educational depiction related to 'mental health' (calm/mental well-being)."
+    },
+    {
+      "image_name": "Child_opening_colorful_gift_box_202608212033.jpeg",
+      "term": "receive",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A child opening a gift is a direct depiction of receiving something."
+    },
+    {
+      "image_name": "Child_playing_doctor_illustration_202608212033.jpeg",
+      "term": "stethoscope",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Child playing doctor likely includes a stethoscope; appropriate as an educational depiction of the term if the instrument is visible."
+    },
+    {
+      "image_name": "Child_playing_hide_and_seek_202608212033.jpeg",
+      "term": "hide",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Playing hide-and-seek directly depicts the action 'hide'."
+    },
+    {
+      "image_name": "Child_pointing_at_bush_shadow_202608212032.jpeg",
+      "term": "shade",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Pointing at a bush's shadow can be used to teach the concept 'shade' (shadowed area) in an educational context."
+    },
+    {
+      "image_name": "Child_pointing_at_sign_202608212033.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "high",
+      "reason": "Pointing at a sign is too general; no allowed term matches clearly without assuming extra context."
+    },
+    {
+      "image_name": "Child_raising_hand_in_classroom_202608212034.jpeg",
+      "term": "respond",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A child raising their hand in class is a common depiction of preparing to respond; close educational match for 'respond'."
+    },
+    {
+      "image_name": "Child_reaching_cookie_jar_202608212034.jpeg",
+      "term": "tried",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Child is reaching/attempting to get the cookie jar — a clear depiction of trying."
+    },
+    {
+      "image_name": "Child_reaching_for_cookie_jar_202608212032.jpeg",
+      "term": "try",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Another view of a child attempting to get cookies — useful to teach the verb 'try'."
+    },
+    {
+      "image_name": "Child_realizing_with_glowing_lig…_202608212033.jpeg",
+      "term": "realized",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Glowing light above the child's head clearly shows the moment of realization."
+    },
+    {
+      "image_name": "Child_riding_bike_first_time_202608212033.jpeg",
+      "term": "began",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Shows a child starting to ride a bike — useful for the idea of beginning or 'began'."
+    },
+    {
+      "image_name": "Child_riding_bike_successfully_202608212033.jpeg",
+      "term": "make our bodies stronger",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Riding a bike successfully illustrates physical activity that helps make our bodies stronger."
+    },
+    {
+      "image_name": "Child_searching_under_bed_202608212033.jpeg",
+      "term": "searched",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Child looking under a bed is a direct depiction of searching."
+    },
+    {
+      "image_name": "Child_showing_drawing_to_teacher_202608212034.jpeg",
+      "term": "received",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "The teacher is taking/receiving the child's drawing — a useful match for 'received'."
+    },
+    {
+      "image_name": "Child_showing_knee_bandage_202608212033.jpeg",
+      "term": "treated",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A visible bandage indicates the child got medical care — useful for 'treated'."
+    },
+    {
+      "image_name": "Child_sitting_by_pool_202608212034.jpeg",
+      "term": "rested",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Child sitting calmly by the pool suggests resting or being rested."
+    },
+    {
+      "image_name": "Lifeguard_saving_person_in_water_202608212033.jpeg",
+      "term": "life saver",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A lifeguard rescuing someone from water directly represents a 'life saver' or lifesaving action."
+    },
+    {
+      "image_name": "Liquid_pumped_upwards_in_tube_202608212033.jpeg",
+      "term": "pumped",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Liquid moving up a tube is a direct depiction of being pumped."
+    },
+    {
+      "image_name": "Locked_gate_preventing_entry_202608212034.jpeg",
+      "term": "blocked by",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A locked gate clearly prevents entry — a good match for 'blocked by'."
+    },
+    {
+      "image_name": "Mechanical_pump_moving_water_202608212033.jpeg",
+      "term": "pump",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Shows a mechanical pump moving water — direct depiction of a pump."
+    },
+    {
+      "image_name": "Medical_oxygen_tank_illustration_202608212033.jpeg",
+      "term": "treatment",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "An oxygen tank is medical equipment used in healthcare and treatment — educationally useful for 'treatment'."
+    },
+    {
+      "image_name": "Modern_city_with_solar_panels_202608212034.jpeg",
+      "term": "modern technology",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Solar panels in a city highlight modern technology and renewable tech use."
+    },
+    {
+      "image_name": "Mud_bricks_drying_in_sun_202608212034.jpeg",
+      "term": "mud bricks",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Shows mud bricks drying in the sun — direct depiction of 'mud bricks'."
+    },
+    {
+      "image_name": "Open_cookbook_showing_food_recipe_202608212033.jpeg",
+      "term": "recipe",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "An open cookbook clearly shows a recipe — direct depiction."
+    },
+    {
+      "image_name": "Open_lunchbox_with_sandwich_and_202608212032.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "high",
+      "reason": "A lunchbox with a sandwich doesn't directly match any allowed term (no clear depiction of ingredients, preparation, or a listed concept)."
+    },
+    {
+      "image_name": "Package_delivered_on_doorstep_202608212033.jpeg",
+      "term": "received",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A package on a doorstep suggests a delivery/receipt; it's a close educational depiction of 'received'."
+    },
+    {
+      "image_name": "Winding_road_through_mountains_202608212033.jpeg",
+      "term": "journey",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A winding road through mountains visually represents travel or a journey — a useful match."
+    },
+    {
+      "image_name": "Wooden_birdhouse_with_broken_roof_202608212032.jpeg",
+      "term": "damaged",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The birdhouse has a broken roof — a direct depiction of something damaged."
+    },
+    {
+      "image_name": "Child_sneezing_into_tissue_202608212033.jpeg",
+      "term": "prevent",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Sneezing into a tissue is an action that helps prevent the spread of germs — a close educational depiction of 'prevent'."
+    },
+    {
+      "image_name": "Child_staying_awake_late_202608212034.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "high",
+      "reason": "Staying awake late is not a direct depiction of any listed allowed term (e.g., 'rested' would be the opposite), so skipping is appropriate."
+    },
+    {
+      "image_name": "Child_stopping_someone_at_wet_202608212034.jpeg",
+      "term": "keep ... from",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Stopping someone at a wet spot is a close depiction of preventing or keeping someone from doing something."
+    },
+    {
+      "image_name": "Child_thinking_with_question_mark_202608212033.jpeg",
+      "term": "think for a moment",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The child shown thinking with a question mark is a direct depiction of pausing to think for a moment."
+    },
+    {
+      "image_name": "Child_viewing_spilled_ice_cream_202608212034.jpeg",
+      "term": "What a pity!",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A child looking at spilled ice cream is a typical 'what a pity' situation — a close, emotionally useful match."
+    },
+    {
+      "image_name": "Child_walking_toward_house_202608212033.jpeg",
+      "term": "come back home",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A child walking toward a house visually suggests returning home — a close depiction of 'come back home'."
+    },
+    {
+      "image_name": "Child_walking_with_dog_202608212033.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "high",
+      "reason": "Walking with a dog doesn't clearly match any allowed term (no explicit concept like 'come with' or 'play' is unambiguously shown), so skip."
+    },
+    {
+      "image_name": "Child_watering_potted_flower_202608212033.jpeg",
+      "term": "taking care of",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Watering a potted flower is a direct depiction of taking care of a plant."
+    },
+    {
+      "image_name": "Child_waving_and_beckoning_202608212033.jpeg",
+      "term": "come with",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Waving and beckoning is commonly used to invite someone to come along — a close match to 'come with'."
+    },
+    {
+      "image_name": "Children_balancing_on_seesaw_202608212033.jpeg",
+      "term": "stay in balance",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Children balancing on a seesaw is a direct depiction of staying in balance."
+    },
+    {
+      "image_name": "Children_playing_soccer_and_tennis_202608212034.jpeg",
+      "term": "make our bodies stronger",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Playing active sports like soccer and tennis is a clear, useful depiction of activities that make our bodies stronger."
+    },
+    {
+      "image_name": "Children_riding_spinning_teacups…_202608212034.jpeg",
+      "term": "theme park",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Kids riding spinning teacup ride — a clear depiction of a theme park attraction."
+    },
+    {
+      "image_name": "Children_talking_on_toy_phones_202608212034.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "low",
+      "reason": "Toy-phone play does not directly match any allowed term without a stretched association."
+    },
+    {
+      "image_name": "Parent_high-fiving_child_doing_h…_202608212034.jpeg",
+      "term": "encouraged",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Parent high-fiving a child is a direct depiction of encouragement."
+    },
+    {
+      "image_name": "People_enduring_summer_heat_wave_202608212034.jpeg",
+      "term": "heat wave",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "People suffering/overheating is a direct depiction of a heat wave."
+    },
+    {
+      "image_name": "People_standing_and_waving_202608212033.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "low",
+      "reason": "Standing and waving is too general to map to any allowed term."
+    },
+    {
+      "image_name": "People_standing_on_cartoon_street_202608212032.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "low",
+      "reason": "General street scene/crowd without a clear match among allowed terms."
+    },
+    {
+      "image_name": "Person_biting_potato_chip_202608212033.jpeg",
+      "term": "crunchy / crispy",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Person biting a chip directly illustrates crunchy/crispy food texture."
+    },
+    {
+      "image_name": "Person_controlling_toy_drone_202608212034.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "low",
+      "reason": "Controlling a toy drone doesn't match any allowed term directly."
+    },
+    {
+      "image_name": "Person_covering_with_blanket_on_202608212034.jpeg",
+      "term": "rested",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Person wrapped in a blanket suggests resting/sleeping — a useful depiction for 'rested'."
+    },
+    {
+      "image_name": "Phone_displaying_warning_exclama…_202608212034.jpeg",
+      "term": "warnings",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Phone screen showing an exclamation/warning icon directly depicts 'warnings'."
+    },
+    {
+      "image_name": "Pictures_emerging_from_open_book_202608212033.jpeg",
+      "term": "knowledge",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Images coming out of a book symbolically represent learning/knowledge — a useful close match."
+    },
+    {
+      "image_name": "Water_flowing_into_crop_field_202608212034.jpeg",
+      "term": "irrigation",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Water being directed into crop fields is a direct depiction of irrigation."
+    },
+    {
+      "image_name": "Weather_vane_spinning_in_wind_202608212033.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "low",
+      "reason": "A spinning weather vane indicates wind but does not match any allowed term directly."
+    },
+    {
+      "image_name": "Wheat_growing_in_rural_field_202608212034.jpeg",
+      "term": "fertile",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Healthy wheat growth suggests fertile land — a useful educational association."
+    },
+    {
+      "image_name": "Wilted_flower_on_cracked_ground_202608212034.jpeg",
+      "term": "drought",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A wilted plant on cracked soil directly depicts drought conditions."
+    },
+    {
+      "image_name": "Wind_blowing_trees_down_202608212034.jpeg",
+      "term": "severe/extreme",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Strong wind blowing trees down depicts severe/extreme weather — a useful close match."
+    },
+    {
+      "image_name": "Abandoned_stone_cottage_with_ivy_202608212034.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "high",
+      "reason": "Image shows an old/abandoned cottage but none of the allowed terms clearly and directly match this scene."
+    },
+    {
+      "image_name": "Ambulance_paramedics_helping_som…_202608212033.jpeg",
+      "term": "responded",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Paramedics helping someone is a direct depiction of emergency responders having responded to a call."
+    },
+    {
+      "image_name": "Ant_carrying_leaf_202608212034.jpeg",
+      "term": "tiny (adj)",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "An ant carrying a leaf clearly illustrates the small/‘tiny’ size of the insect."
+    },
+    {
+      "image_name": "Anvil_on_block_with_hammer_202608212034.jpeg",
+      "term": "iron",
+      "fit": "exact",
+      "confidence": "medium",
+      "reason": "An anvil is typically made of iron (or a similar metal), so the tool visually represents 'iron'."
+    },
+    {
+      "image_name": "Baker_handing_bread_to_child_202608212032.jpeg",
+      "term": "receive",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The child being given bread is a direct depiction of receiving."
+    },
+    {
+      "image_name": "Bar_chart_showing_upward_increase_202608212033.jpeg",
+      "term": "increase",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "An upward bar chart directly represents an increase."
+    },
+    {
+      "image_name": "Bird_family_in_cozy_birdhouse_202608212033.jpeg",
+      "term": "live",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A bird family settled in a birdhouse directly shows animals living there."
+    },
+    {
+      "image_name": "Bird_flying_over_forest_202608212034.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "high",
+      "reason": "A flying bird is not a clear, direct match for any allowed term without stretching the association."
+    },
+    {
+      "image_name": "Boy_holding_gold_coin_202608212033.jpeg",
+      "term": "got",
+      "fit": "exact",
+      "confidence": "medium",
+      "reason": "A child holding a coin directly suggests he 'got' or received it."
+    },
+    {
+      "image_name": "Burned_wooden_birdhouse_202608212034.jpeg",
+      "term": "damaged",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A burned birdhouse is a clear depiction of something that has been damaged."
+    },
+    {
+      "image_name": "Butterfly_flying_over_flower_202608212033.jpeg",
+      "term": "play an important role",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A butterfly on flowers can be used to teach that pollinators play an important role in ecosystems (close educational match)."
+    },
+    {
+      "image_name": "Clock_glowing_for_round-the-cloc…_202608212033.jpeg",
+      "term": "work around the clock",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A glowing/round-the-clock clock image is a clear visual for the idea of working around the clock."
+    },
+    {
+      "image_name": "Comparing_baby_and_child_photos_202608212033.jpeg",
+      "term": "then and now",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Side-by-side baby and child photos directly illustrate 'then and now'."
+    },
+    {
+      "image_name": "Cookies_baking_in_oven_202608212033.jpeg",
+      "term": "bake",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Cookies in an oven are a direct depiction of baking."
+    },
+    {
+      "image_name": "Cooking_chicken_drumsticks_in_pan_202608212033.jpeg",
+      "term": "fried",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Chicken drumsticks cooking in a pan most closely suggests frying (close match to 'fried')."
+    },
+    {
+      "image_name": "Cracked_smartphone_screen_repres…_202608212034.jpeg",
+      "term": "damaged",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A cracked smartphone screen is a clear example of a damaged object."
+    },
+    {
+      "image_name": "Crocodiles_basking_on_river_banks_202608212033.jpeg",
+      "term": "kings of the Nile",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Image shows crocodiles on river banks — a useful depiction for the phrase 'kings of the Nile' referring to Nile crocodiles."
+    },
+    {
+      "image_name": "Damaged_toy_car_with_scratches_202608212034.jpeg",
+      "term": "damaged",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A toy car with visible scratches directly illustrates 'damaged'."
+    },
+    {
+      "image_name": "Diagram_of_blood_vessels_in_202608212033.jpeg",
+      "term": "blood vessels",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A labeled diagram of vessels directly matches the term 'blood vessels'."
+    },
+    {
+      "image_name": "Diagram_of_human_heart_202608212033.jpeg",
+      "term": "organ",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The human heart is an organ; a diagram directly depicts this."
+    },
+    {
+      "image_name": "Player_controlling_video_game_ch…_202608212034.jpeg",
+      "term": "",
+      "fit": "skip",
+      "confidence": "high",
+      "reason": "No allowed term matches a person playing a video game closely enough for an educational flashcard."
+    },
+    {
+      "image_name": "Red_X_over_thorny_plant_202608212033.jpeg",
+      "term": "harmful",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A thorny plant marked with a red X conveys that the plant is harmful or should be avoided."
+    },
+    {
+      "image_name": "Red_blood_drop_under_microscope_202608212033.jpeg",
+      "term": "blood",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A magnified red blood drop directly illustrates 'blood'."
+    },
+    {
+      "image_name": "Red_heart_illustration_202608212033.jpeg",
+      "term": "pump",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A heart illustration can be used to teach the heart's function of pumping blood; this is a close educational match."
+    },
+    {
+      "image_name": "River_flowing_through_green_valley_202608212033.jpeg",
+      "term": "flowed",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A river flowing directly depicts the action 'flowed'."
+    },
+    {
+      "image_name": "Robot_holding_tablet_near_home_202608212032.jpeg",
+      "term": "modern technology",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A robot with a tablet beside a home illustrates contemporary or 'modern technology'."
+    },
+    {
+      "image_name": "Rock_blocking_forest_path_202608212034.jpeg",
+      "term": "blocked by",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A rock physically blocking a path directly matches 'blocked by'."
+    },
+    {
+      "image_name": "Room_transformation_split_screen_202608212033.jpeg",
+      "term": "changed",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A before-and-after room transformation clearly represents 'changed'."
+    },
+    {
+      "image_name": "Rotary_phone_and_modern_smartphone_202608212033.jpeg",
+      "term": "then and now",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "An old rotary phone next to a modern smartphone directly illustrates the concept 'then and now'."
+    }
+  ],
+  "selected_unique_candidates": [
+    {
+      "image_name": "Cartoon_architect_drawing_house_…_202608212032.jpeg",
+      "term": "designed",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "An architect drawing a house is a direct depiction of designing — matches 'designed' exactly."
+    },
+    {
+      "image_name": "Cartoon_ball_hitting_wall_202608212034.jpeg",
+      "term": "blocked by",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A ball hitting a wall is a direct depiction of something being 'blocked by' an object."
+    },
+    {
+      "image_name": "Cartoon_cat_looking_at_square_202608212034.jpeg",
+      "term": "stare",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A cat intently looking at a shape is a direct depiction of 'stare.'"
+    },
+    {
+      "image_name": "Cartoon_cat_sleeping_on_pillow_202608212033.jpeg",
+      "term": "rested",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A cat sleeping on a pillow directly shows resting, matching 'rested.'"
+    },
+    {
+      "image_name": "Doctor_bandaging_child_arm_202608212034.jpeg",
+      "term": "treated",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Applying a bandage is direct treatment of an injury — matches 'treated' exactly."
+    },
+    {
+      "image_name": "Doctor_checking_child_heartbeat_202608212033.jpeg",
+      "term": "stethoscope",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Checking a heartbeat typically uses a stethoscope; the image directly depicts that tool/concept."
+    },
+    {
+      "image_name": "Doctor_working_day_and_night_202608212033.jpeg",
+      "term": "work day and night",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The image explicitly shows a doctor working continuously; this directly matches 'work day and night.'"
+    },
+    {
+      "image_name": "Droopy_plant_affected_by_heat_202608212033.jpeg",
+      "term": "affected",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A droopy plant from heat is a direct depiction of being 'affected' (by heat/drought)."
+    },
+    {
+      "image_name": "Ducklings_following_their_mother_202608212033.jpeg",
+      "term": "followed by",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Ducklings literally walking behind their mother directly illustrates 'followed by'."
+    },
+    {
+      "image_name": "Sandstorm_in_desert_202608212034.jpeg",
+      "term": "sandstorm",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The scene explicitly shows a sandstorm in the desert."
+    },
+    {
+      "image_name": "Cartoon_cube_with_red_side_202608212032.jpeg",
+      "term": "side",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A cube showing a red face directly illustrates the word 'side'."
+    },
+    {
+      "image_name": "Cartoon_fish_swimming_in_water_202608212034.jpeg",
+      "term": "swim",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A fish moving through water is a direct depiction of 'swim'."
+    },
+    {
+      "image_name": "Cartoon_gold_coin_flipping_202608212032.jpeg",
+      "term": "turn over",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A coin flipping/turning in the air directly shows the idea of turning over."
+    },
+    {
+      "image_name": "Flexible_straw_bending_curve_202608212033.jpeg",
+      "term": "bent",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A flexible straw clearly shown bending is a direct depiction of 'bent'."
+    },
+    {
+      "image_name": "Flood_covering_street_and_houses_202608212034.jpeg",
+      "term": "flood",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Street and houses covered by water directly depicts a flood."
+    },
+    {
+      "image_name": "Flower_blooming_in_dry_desert_202608212034.jpeg",
+      "term": "even in the desert",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A flower blooming in a dry desert visually and directly matches 'even in the desert.'"
+    },
+    {
+      "image_name": "Four_seasons_changing_around_tree_202608212033.jpeg",
+      "term": "changes",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The tree showing the four seasons is a direct depiction of seasonal 'changes.'"
+    },
+    {
+      "image_name": "Girl_examining_map_with_magnifier_202608212033.jpeg",
+      "term": "searched",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A girl looking at a map with a magnifier directly shows someone searching — 'searched' fits well."
+    },
+    {
+      "image_name": "Glass_being_filled_with_water_202608212033.jpeg",
+      "term": "flowed",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Water pouring into a glass is a direct depiction of water that 'flowed.'"
+    },
+    {
+      "image_name": "Glass_jar_containing_colorful_ma…_202608212032.jpeg",
+      "term": "contain",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A jar holding colorful items directly demonstrates the idea 'contain.'"
+    },
+    {
+      "image_name": "Cartoon_moon_shining_over_house_202608212032.jpeg",
+      "term": "shone",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The moon shining over a house directly depicts the verb 'shone.'"
+    },
+    {
+      "image_name": "Cartoon_treasure_chest_on_ocean_202608212032.jpeg",
+      "term": "treasured",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A visible treasure chest directly represents something treasured/treasure."
+    },
+    {
+      "image_name": "Cartoon_waiter_carrying_juice_tray_202608212034.jpeg",
+      "term": "waiter",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Direct depiction of a waiter carrying a tray of drinks."
+    },
+    {
+      "image_name": "Caterpillar_transforming_into_bu…_202608212033.jpeg",
+      "term": "became",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Shows a caterpillar becoming a butterfly — a direct 'became' transformation."
+    },
+    {
+      "image_name": "Chef_spreading_jam_on_bread_202608212034.jpeg",
+      "term": "added",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Spreading jam on bread depicts adding an ingredient."
+    },
+    {
+      "image_name": "Grilled_corn_and_vegetables_202608212033.jpeg",
+      "term": "grilled",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Direct depiction of grilled food."
+    },
+    {
+      "image_name": "Hand_cutting_yellow_bell_pepper_202608212033.jpeg",
+      "term": "cut ... into",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Shows someone cutting a pepper, matching 'cut ... into'."
+    },
+    {
+      "image_name": "Hand_replacing_broken_toy_202608212033.jpeg",
+      "term": "replaced",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Direct depiction of replacing a broken toy."
+    },
+    {
+      "image_name": "Sun_shining_over_meadow_202608212032.jpeg",
+      "term": "brightly",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Sunlight shining over a meadow directly illustrates 'brightly'."
+    },
+    {
+      "image_name": "Teacher_giving_advice_to_student_202608212034.jpeg",
+      "term": "give advice",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A teacher advising a student directly matches the term 'give advice'."
+    },
+    {
+      "image_name": "Thunderstorm_over_forest_202608212034.jpeg",
+      "term": "thunderstorm",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The picture clearly shows a thunderstorm over a forest, matching the allowed term exactly."
+    },
+    {
+      "image_name": "Tomato_slices_arranged_on_plate_202608212033.jpeg",
+      "term": "thin slices",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Tomato slices arranged on a plate directly illustrate 'thin slices'."
+    },
+    {
+      "image_name": "Tree_shading_park_bench_202608212034.jpeg",
+      "term": "shade",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A tree providing shade over a bench directly matches the term 'shade'."
+    },
+    {
+      "image_name": "Trees_burning_in_forest_wildfire_202608212034.jpeg",
+      "term": "wildfire",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Burning trees in a forest are a direct depiction of a 'wildfire'."
+    },
+    {
+      "image_name": "Child_choosing_between_paths_202608212032.jpeg",
+      "term": "decide",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The image shows a child choosing between two paths — a direct depiction of making a decision ('decide')."
+    },
+    {
+      "image_name": "Child_holding_gift_202608212032.jpeg",
+      "term": "received",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Holding a wrapped gift is a direct depiction of having received something — 'received.'"
+    },
+    {
+      "image_name": "Hand_turning_cartoon_turtle_202608212032.jpeg",
+      "term": "turn right side up",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A hand is turning a turtle—direct depiction of turning something right side up."
+    },
+    {
+      "image_name": "Hands_demonstrating_skills_202608212033.jpeg",
+      "term": "skills",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Hands are demonstrating actions/techniques, a direct depiction suitable for the term 'skills'."
+    },
+    {
+      "image_name": "Icons_showing_health_tips_202608212033.jpeg",
+      "term": "tips",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Icons explicitly showing health advice are a direct depiction of 'tips'."
+    },
+    {
+      "image_name": "Ingredients_for_cooking_on_counter_202608212033.jpeg",
+      "term": "ingredients",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A counter with cooking items directly depicts 'ingredients'."
+    },
+    {
+      "image_name": "Khamsin_wind_blowing_palm_trees_202608212034.jpeg",
+      "term": "Khamsin",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Filename and scene of strong wind/palms directly match the specified term 'Khamsin'."
+    },
+    {
+      "image_name": "Ladybug_sitting_on_green_leaf_202608212033.jpeg",
+      "term": "tiny (adj)",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A ladybug on a leaf is a direct, clear depiction of something 'tiny'."
+    },
+    {
+      "image_name": "Child_opening_colorful_gift_box_202608212033.jpeg",
+      "term": "receive",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A child opening a gift is a direct depiction of receiving something."
+    },
+    {
+      "image_name": "Child_playing_hide_and_seek_202608212033.jpeg",
+      "term": "hide",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Playing hide-and-seek directly depicts the action 'hide'."
+    },
+    {
+      "image_name": "Child_realizing_with_glowing_lig…_202608212033.jpeg",
+      "term": "realized",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Glowing light above the child's head clearly shows the moment of realization."
+    },
+    {
+      "image_name": "Lifeguard_saving_person_in_water_202608212033.jpeg",
+      "term": "life saver",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A lifeguard rescuing someone from water directly represents a 'life saver' or lifesaving action."
+    },
+    {
+      "image_name": "Liquid_pumped_upwards_in_tube_202608212033.jpeg",
+      "term": "pumped",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Liquid moving up a tube is a direct depiction of being pumped."
+    },
+    {
+      "image_name": "Mechanical_pump_moving_water_202608212033.jpeg",
+      "term": "pump",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Shows a mechanical pump moving water — direct depiction of a pump."
+    },
+    {
+      "image_name": "Modern_city_with_solar_panels_202608212034.jpeg",
+      "term": "modern technology",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Solar panels in a city highlight modern technology and renewable tech use."
+    },
+    {
+      "image_name": "Mud_bricks_drying_in_sun_202608212034.jpeg",
+      "term": "mud bricks",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Shows mud bricks drying in the sun — direct depiction of 'mud bricks'."
+    },
+    {
+      "image_name": "Open_cookbook_showing_food_recipe_202608212033.jpeg",
+      "term": "recipe",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "An open cookbook clearly shows a recipe — direct depiction."
+    },
+    {
+      "image_name": "Wooden_birdhouse_with_broken_roof_202608212032.jpeg",
+      "term": "damaged",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The birdhouse has a broken roof — a direct depiction of something damaged."
+    },
+    {
+      "image_name": "Child_thinking_with_question_mark_202608212033.jpeg",
+      "term": "think for a moment",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The child shown thinking with a question mark is a direct depiction of pausing to think for a moment."
+    },
+    {
+      "image_name": "Child_watering_potted_flower_202608212033.jpeg",
+      "term": "taking care of",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Watering a potted flower is a direct depiction of taking care of a plant."
+    },
+    {
+      "image_name": "Children_balancing_on_seesaw_202608212033.jpeg",
+      "term": "stay in balance",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Children balancing on a seesaw is a direct depiction of staying in balance."
+    },
+    {
+      "image_name": "Children_riding_spinning_teacups…_202608212034.jpeg",
+      "term": "theme park",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Kids riding spinning teacup ride — a clear depiction of a theme park attraction."
+    },
+    {
+      "image_name": "Parent_high-fiving_child_doing_h…_202608212034.jpeg",
+      "term": "encouraged",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Parent high-fiving a child is a direct depiction of encouragement."
+    },
+    {
+      "image_name": "People_enduring_summer_heat_wave_202608212034.jpeg",
+      "term": "heat wave",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "People suffering/overheating is a direct depiction of a heat wave."
+    },
+    {
+      "image_name": "Person_biting_potato_chip_202608212033.jpeg",
+      "term": "crunchy / crispy",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Person biting a chip directly illustrates crunchy/crispy food texture."
+    },
+    {
+      "image_name": "Phone_displaying_warning_exclama…_202608212034.jpeg",
+      "term": "warnings",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Phone screen showing an exclamation/warning icon directly depicts 'warnings'."
+    },
+    {
+      "image_name": "Water_flowing_into_crop_field_202608212034.jpeg",
+      "term": "irrigation",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Water being directed into crop fields is a direct depiction of irrigation."
+    },
+    {
+      "image_name": "Wilted_flower_on_cracked_ground_202608212034.jpeg",
+      "term": "drought",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A wilted plant on cracked soil directly depicts drought conditions."
+    },
+    {
+      "image_name": "Ambulance_paramedics_helping_som…_202608212033.jpeg",
+      "term": "responded",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Paramedics helping someone is a direct depiction of emergency responders having responded to a call."
+    },
+    {
+      "image_name": "Bar_chart_showing_upward_increase_202608212033.jpeg",
+      "term": "increase",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "An upward bar chart directly represents an increase."
+    },
+    {
+      "image_name": "Bird_family_in_cozy_birdhouse_202608212033.jpeg",
+      "term": "live",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A bird family settled in a birdhouse directly shows animals living there."
+    },
+    {
+      "image_name": "Comparing_baby_and_child_photos_202608212033.jpeg",
+      "term": "then and now",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Side-by-side baby and child photos directly illustrate 'then and now'."
+    },
+    {
+      "image_name": "Cookies_baking_in_oven_202608212033.jpeg",
+      "term": "bake",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "Cookies in an oven are a direct depiction of baking."
+    },
+    {
+      "image_name": "Diagram_of_blood_vessels_in_202608212033.jpeg",
+      "term": "blood vessels",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A labeled diagram of vessels directly matches the term 'blood vessels'."
+    },
+    {
+      "image_name": "Diagram_of_human_heart_202608212033.jpeg",
+      "term": "organ",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "The human heart is an organ; a diagram directly depicts this."
+    },
+    {
+      "image_name": "Red_blood_drop_under_microscope_202608212033.jpeg",
+      "term": "blood",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A magnified red blood drop directly illustrates 'blood'."
+    },
+    {
+      "image_name": "Room_transformation_split_screen_202608212033.jpeg",
+      "term": "changed",
+      "fit": "exact",
+      "confidence": "high",
+      "reason": "A before-and-after room transformation clearly represents 'changed'."
+    },
+    {
+      "image_name": "Anvil_on_block_with_hammer_202608212034.jpeg",
+      "term": "iron",
+      "fit": "exact",
+      "confidence": "medium",
+      "reason": "An anvil is typically made of iron (or a similar metal), so the tool visually represents 'iron'."
+    },
+    {
+      "image_name": "Boy_holding_gold_coin_202608212033.jpeg",
+      "term": "got",
+      "fit": "exact",
+      "confidence": "medium",
+      "reason": "A child holding a coin directly suggests he 'got' or received it."
+    },
+    {
+      "image_name": "Safety_fence_around_swimming_pool_202608212034.jpeg",
+      "term": "prevent",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A fence around a pool is used to 'prevent' accidents, matching the safety/prevention concept."
+    },
+    {
+      "image_name": "Cartoon_child_pointing_to_themse…_202608212033.jpeg",
+      "term": "personally",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A child pointing to themselves is a direct visual for 'personally' (referring to oneself)."
+    },
+    {
+      "image_name": "Cartoon_coal_and_empty_hourglass_202608212032.jpeg",
+      "term": "take millions of years",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Coal paired with an hourglass symbolizes formation over extremely long time spans—'take millions of years'."
+    },
+    {
+      "image_name": "Tray_with_water_and_medicine_202608212033.jpeg",
+      "term": "treatment",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A tray with medicine and water is a close, educational depiction of medical 'treatment'."
+    },
+    {
+      "image_name": "Child_carrying_box_up_stairs_202608212034.jpeg",
+      "term": "managed",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A child successfully carrying a heavy box up stairs is a clear depiction of having 'managed' a task."
+    },
+    {
+      "image_name": "Child_choosing_fruit_over_candy_202608212033.jpeg",
+      "term": "stay healthy",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Choosing fruit instead of candy illustrates making a healthy choice and supports the concept 'stay healthy.'"
+    },
+    {
+      "image_name": "Child_flexing_muscle_202608212033.jpeg",
+      "term": "make our bodies stronger",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Flexing a muscle is a clear educational depiction of building strength — 'make our bodies stronger.'"
+    },
+    {
+      "image_name": "Child_handing_toy_to_child_202608212033.jpeg",
+      "term": "giving back",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Handing a toy to another child directly depicts giving or returning something — fits 'giving back.'"
+    },
+    {
+      "image_name": "Child_looking_at_rainbow_202608212034.jpeg",
+      "term": "wonders",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A child admiring a rainbow evokes curiosity and amazement, a suitable depiction for 'wonders.'"
+    },
+    {
+      "image_name": "Heroes_standing_together_202608212033.jpeg",
+      "term": "real-life heroes",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Group of hero-like figures can be used to represent real-life heroes (educationally useful depiction)."
+    },
+    {
+      "image_name": "Honeybee_pollinating_a_flower_202608212033.jpeg",
+      "term": "play an important role",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A bee pollinating a flower is a clear, educational example of something that 'plays an important role' in ecosystems."
+    },
+    {
+      "image_name": "Child_meditating_peacefully_202608212033.jpeg",
+      "term": "mental health",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A child meditating is a useful educational depiction related to 'mental health' (calm/mental well-being)."
+    },
+    {
+      "image_name": "Child_reaching_cookie_jar_202608212034.jpeg",
+      "term": "tried",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Child is reaching/attempting to get the cookie jar — a clear depiction of trying."
+    },
+    {
+      "image_name": "Child_reaching_for_cookie_jar_202608212032.jpeg",
+      "term": "try",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Another view of a child attempting to get cookies — useful to teach the verb 'try'."
+    },
+    {
+      "image_name": "Winding_road_through_mountains_202608212033.jpeg",
+      "term": "journey",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A winding road through mountains visually represents travel or a journey — a useful match."
+    },
+    {
+      "image_name": "Child_walking_toward_house_202608212033.jpeg",
+      "term": "come back home",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A child walking toward a house visually suggests returning home — a close depiction of 'come back home'."
+    },
+    {
+      "image_name": "Clock_glowing_for_round-the-cloc…_202608212033.jpeg",
+      "term": "work around the clock",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "A glowing/round-the-clock clock image is a clear visual for the idea of working around the clock."
+    },
+    {
+      "image_name": "Crocodiles_basking_on_river_banks_202608212033.jpeg",
+      "term": "kings of the Nile",
+      "fit": "close",
+      "confidence": "high",
+      "reason": "Image shows crocodiles on river banks — a useful depiction for the phrase 'kings of the Nile' referring to Nile crocodiles."
+    },
+    {
+      "image_name": "Cartoon_bird_flying_over_crops_202608212034.jpeg",
+      "term": "over their fields",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A bird flying above crop rows is a clear, close depiction of being 'over their fields.'"
+    },
+    {
+      "image_name": "Doctor_and_nurse_standing_outside_202608212033.jpeg",
+      "term": "ready to help",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A doctor and nurse standing together visually conveys being prepared to assist — a close match for 'ready to help.'"
+    },
+    {
+      "image_name": "Doctor_explaining_X-ray_results_202608212034.jpeg",
+      "term": "diagnosed",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A doctor explaining X-ray results is a close educational depiction of having 'diagnosed' a condition."
+    },
+    {
+      "image_name": "Runner_starting_race_202608212033.jpeg",
+      "term": "began",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A runner launching from the start line is a clear depiction of an action that has just 'began'."
+    },
+    {
+      "image_name": "Sad_child_losing_marbles_game_202608212033.jpeg",
+      "term": "lost",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A child upset while losing a marbles game represents having 'lost' the game or marbles."
+    },
+    {
+      "image_name": "Small_boat_on_deep_ocean_202608212034.jpeg",
+      "term": "deep",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A small boat on a vast ocean visually conveys the idea of 'deep' water."
+    },
+    {
+      "image_name": "Cartoon_cloud_shaped_like_bird_202608212032.jpeg",
+      "term": "seem",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A cloud that looks like a bird fits the idea of something that 'seems' like something else (appearance/likeness)."
+    },
+    {
+      "image_name": "Cartoon_germs_under_magnifying_g…_202608212033.jpeg",
+      "term": "diseases",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Germs shown under a magnifier are an educational depiction related to 'diseases' (germs cause illnesses)."
+    },
+    {
+      "image_name": "Cartoon_kitchen_stove_burning_flame_202608212034.jpeg",
+      "term": "gas",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A burning stove flame commonly represents a gas flame; close, educational depiction of 'gas'."
+    },
+    {
+      "image_name": "Two_cartoon_children_waving_202608212032.jpeg",
+      "term": "met",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Two children waving is a close depiction of meeting or greeting someone, so 'met' is an educationally useful near match."
+    },
+    {
+      "image_name": "Child_eating_strawberry_202608212033.jpeg",
+      "term": "flavor",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A child tasting a strawberry can be used to teach about flavor; it's a useful, direct association."
+    },
+    {
+      "image_name": "Child_raising_hand_in_classroom_202608212034.jpeg",
+      "term": "respond",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A child raising their hand in class is a common depiction of preparing to respond; close educational match for 'respond'."
+    },
+    {
+      "image_name": "Child_stopping_someone_at_wet_202608212034.jpeg",
+      "term": "keep ... from",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Stopping someone at a wet spot is a close depiction of preventing or keeping someone from doing something."
+    },
+    {
+      "image_name": "Child_viewing_spilled_ice_cream_202608212034.jpeg",
+      "term": "What a pity!",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A child looking at spilled ice cream is a typical 'what a pity' situation — a close, emotionally useful match."
+    },
+    {
+      "image_name": "Child_waving_and_beckoning_202608212033.jpeg",
+      "term": "come with",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Waving and beckoning is commonly used to invite someone to come along — a close match to 'come with'."
+    },
+    {
+      "image_name": "Pictures_emerging_from_open_book_202608212033.jpeg",
+      "term": "knowledge",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Images coming out of a book symbolically represent learning/knowledge — a useful close match."
+    },
+    {
+      "image_name": "Wheat_growing_in_rural_field_202608212034.jpeg",
+      "term": "fertile",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Healthy wheat growth suggests fertile land — a useful educational association."
+    },
+    {
+      "image_name": "Wind_blowing_trees_down_202608212034.jpeg",
+      "term": "severe/extreme",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Strong wind blowing trees down depicts severe/extreme weather — a useful close match."
+    },
+    {
+      "image_name": "Cooking_chicken_drumsticks_in_pan_202608212033.jpeg",
+      "term": "fried",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "Chicken drumsticks cooking in a pan most closely suggests frying (close match to 'fried')."
+    },
+    {
+      "image_name": "Red_X_over_thorny_plant_202608212033.jpeg",
+      "term": "harmful",
+      "fit": "close",
+      "confidence": "medium",
+      "reason": "A thorny plant marked with a red X conveys that the plant is harmful or should be avoided."
+    }
+  ],
+  "summary": {
+    "close_high": 30,
+    "close_medium": 42,
+    "exact_high": 87,
+    "exact_medium": 2,
+    "skip_high": 14,
+    "skip_low": 10,
+    "skip_medium": 4
+  }
+}

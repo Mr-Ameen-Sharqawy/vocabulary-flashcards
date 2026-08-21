@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest';
+import { grade5BroadCartoonImages } from './grade5-broad-images';
 import { grade5CartoonImageFor, grade5CartoonImages } from './grade5-cartoon-images';
-import { grade5CourseLessons } from './grade5-course';
+import { grade5CourseLessons, grade5InteractiveLessons } from './grade5-course';
 
 describe('Grade 5 course module', () => {
   it('ships the complete extracted course with its dedicated image library', () => {
@@ -12,7 +13,7 @@ describe('Grade 5 course module', () => {
 
     expect(grade5CourseLessons).toHaveLength(20);
     expect(cards).toHaveLength(609);
-    expect(Object.keys(grade5CartoonImages)).toHaveLength(351);
+    expect(Object.keys(grade5CartoonImages)).toHaveLength(462);
     expect(grade5CourseLessons.every((lesson) => lesson.id.startsWith('grade5-'))).toBe(true);
     expect(waterWeeds).toBeDefined();
     expect(hunt).toBeDefined();
@@ -22,5 +23,21 @@ describe('Grade 5 course module', () => {
     expect(grade5CartoonImageFor(hunt!)).toBe('/manus-storage/cartoon-188-hunt_a1934796.jpeg');
     expect(grade5CartoonImageFor(roads!)).toMatch(/^\/manus-storage\/grade5-new-001-/);
     expect(grade5CartoonImageFor(awfulTerrible!)).toMatch(/^\/manus-storage\/grade5-new-019-/);
+  });
+
+  it('keeps the empty story lesson out of the interactive deck', () => {
+    expect(grade5CourseLessons.find((lesson) => lesson.id === 'grade5-unit-6-lesson-story')?.cards).toEqual([]);
+    expect(grade5InteractiveLessons.every((lesson) => lesson.cards.length > 0)).toBe(true);
+    expect(grade5InteractiveLessons.some((lesson) => lesson.id === 'grade5-unit-6-lesson-story')).toBe(false);
+  });
+
+  it('makes all broad-review image links available to Grade 5 cards', () => {
+    expect(Object.keys(grade5BroadCartoonImages)).toHaveLength(111);
+    for (const [term, imageUrl] of Object.entries(grade5BroadCartoonImages)) {
+      expect(grade5CartoonImages[term]).toBe(imageUrl);
+    }
+    const fried = grade5InteractiveLessons.flatMap((lesson) => lesson.cards).find((card) => card.term === 'fried');
+    expect(fried).toBeDefined();
+    expect(grade5CartoonImageFor(fried!)).toMatch(/^\/manus-storage\/grade5-broad-/);
   });
 });

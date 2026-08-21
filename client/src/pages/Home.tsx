@@ -19,7 +19,7 @@ import {
 import { useEffect, useMemo, useState } from "react";
 import { buildWordOptions, courseLessons, courseUnits, sentenceWithBlank, type CourseCard } from "@/lib/course";
 import { cartoonImageFor } from "@/lib/cartoon-images";
-import { grade5CourseLessons, grade5CourseUnits } from "@/lib/grade5-course";
+import { grade5CourseUnits, grade5InteractiveLessons } from "@/lib/grade5-course";
 import { grade5CartoonImageFor } from "@/lib/grade5-cartoon-images";
 
 const logoImage = "/manus-storage/vocabulary-logo_5f3f4915.png";
@@ -39,8 +39,14 @@ type HomeProps = {
 
 export default function Home({ grade = "grade4", initialProgress, onProgressChange, studentName, onStudentLogout }: HomeProps) {
   const isGrade5 = grade === "grade5";
-  const activeCourseLessons = isGrade5 ? grade5CourseLessons : courseLessons;
-  const activeCourseUnits = isGrade5 ? grade5CourseUnits : courseUnits;
+  const activeCourseLessons = useMemo(
+    () => isGrade5 ? grade5InteractiveLessons : courseLessons,
+    [isGrade5],
+  );
+  const activeCourseUnits = useMemo(
+    () => (isGrade5 ? grade5CourseUnits : courseUnits).filter((unit) => activeCourseLessons.some((lesson) => lesson.unit === unit.unit)),
+    [activeCourseLessons, isGrade5],
+  );
   const progressStorageKey = isGrade5 ? "sense-lab-primary-5-progress-v1" : "sense-lab-primary-4-progress-v1";
   const [selectedLessonId, setSelectedLessonId] = useState(activeCourseLessons[0].id);
   const selectedLesson = activeCourseLessons.find((lesson) => lesson.id === selectedLessonId) ?? activeCourseLessons[0];

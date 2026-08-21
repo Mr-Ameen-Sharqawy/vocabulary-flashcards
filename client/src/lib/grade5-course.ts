@@ -6965,7 +6965,10 @@ export const grade5CourseLessons: CourseLesson[] = [
   }
 ];
 
-export const grade5CourseUnits = Array.from(new Map(grade5CourseLessons.map((lesson) => [lesson.unit, {
+/** Lessons with vocabulary cards that can safely open in the interactive deck. */
+export const grade5InteractiveLessons = grade5CourseLessons.filter((lesson) => lesson.cards.length > 0);
+
+export const grade5CourseUnits = Array.from(new Map(grade5InteractiveLessons.map((lesson) => [lesson.unit, {
   unit: lesson.unit,
   title: lesson.unitTitle,
   arabic: lesson.unitArabic,

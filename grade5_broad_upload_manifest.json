@@ -1,0 +1,1003 @@
+{
+  "uploads": [
+    {
+      "term": "designed",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cartoon_architect_drawing_house_…_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_architect_drawing_house_…_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-001-4b2b599f30.jpeg"
+    },
+    {
+      "term": "stare",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cartoon_cat_looking_at_square_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_cat_looking_at_square_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-002-c96cf3a003.jpeg"
+    },
+    {
+      "term": "rested",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cartoon_cat_sleeping_on_pillow_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_cat_sleeping_on_pillow_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-003-7b9114d68a.jpeg"
+    },
+    {
+      "term": "treated",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Doctor_bandaging_child_arm_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Doctor_bandaging_child_arm_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-004-c07103afde.jpeg"
+    },
+    {
+      "term": "stethoscope",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Doctor_checking_child_heartbeat_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Doctor_checking_child_heartbeat_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-005-bff2e0dd6d.jpeg"
+    },
+    {
+      "term": "work day and night",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Doctor_working_day_and_night_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Doctor_working_day_and_night_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-006-2937393798.jpeg"
+    },
+    {
+      "term": "affected",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Droopy_plant_affected_by_heat_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Droopy_plant_affected_by_heat_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-007-dd53ac47b6.jpeg"
+    },
+    {
+      "term": "followed by",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Ducklings_following_their_mother_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Ducklings_following_their_mother_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-008-ce34adc799.jpeg"
+    },
+    {
+      "term": "sandstorm",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Sandstorm_in_desert_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Sandstorm_in_desert_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-009-ef7e8da0b1.jpeg"
+    },
+    {
+      "term": "side",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cartoon_cube_with_red_side_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_cube_with_red_side_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-010-5559bd67c2.jpeg"
+    },
+    {
+      "term": "swim",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cartoon_fish_swimming_in_water_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_fish_swimming_in_water_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-011-409e35b30b.jpeg"
+    },
+    {
+      "term": "turn over",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cartoon_gold_coin_flipping_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_gold_coin_flipping_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-012-58e9cae5af.jpeg"
+    },
+    {
+      "term": "bent",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Flexible_straw_bending_curve_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Flexible_straw_bending_curve_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-013-1e21590528.jpeg"
+    },
+    {
+      "term": "flood",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Flood_covering_street_and_houses_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Flood_covering_street_and_houses_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-014-ebf78cb047.jpeg"
+    },
+    {
+      "term": "even in the desert",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Flower_blooming_in_dry_desert_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Flower_blooming_in_dry_desert_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-015-7243b8c548.jpeg"
+    },
+    {
+      "term": "changes",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Four_seasons_changing_around_tree_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Four_seasons_changing_around_tree_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-016-024b6a52a3.jpeg"
+    },
+    {
+      "term": "searched",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Girl_examining_map_with_magnifier_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Girl_examining_map_with_magnifier_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-017-62b0632e40.jpeg"
+    },
+    {
+      "term": "flowed",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Glass_being_filled_with_water_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Glass_being_filled_with_water_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-018-14b6565f32.jpeg"
+    },
+    {
+      "term": "contain",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Glass_jar_containing_colorful_ma…_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Glass_jar_containing_colorful_ma…_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-019-e6c6c567e7.jpeg"
+    },
+    {
+      "term": "shone",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cartoon_moon_shining_over_house_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_moon_shining_over_house_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-020-7f580bf7eb.jpeg"
+    },
+    {
+      "term": "treasured",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cartoon_treasure_chest_on_ocean_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_treasure_chest_on_ocean_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-021-3bac411ea6.jpeg"
+    },
+    {
+      "term": "waiter",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cartoon_waiter_carrying_juice_tray_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_waiter_carrying_juice_tray_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-022-32ad94bc77.jpeg"
+    },
+    {
+      "term": "became",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Caterpillar_transforming_into_bu…_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Caterpillar_transforming_into_bu…_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-023-badaa9ac3d.jpeg"
+    },
+    {
+      "term": "added",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Chef_spreading_jam_on_bread_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Chef_spreading_jam_on_bread_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-024-d8cf47c8c2.jpeg"
+    },
+    {
+      "term": "grilled",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Grilled_corn_and_vegetables_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Grilled_corn_and_vegetables_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-025-c183b3d2cf.jpeg"
+    },
+    {
+      "term": "cut ... into",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Hand_cutting_yellow_bell_pepper_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Hand_cutting_yellow_bell_pepper_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-026-d4143b3b92.jpeg"
+    },
+    {
+      "term": "replaced",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Hand_replacing_broken_toy_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Hand_replacing_broken_toy_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-027-514a260147.jpeg"
+    },
+    {
+      "term": "brightly",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Sun_shining_over_meadow_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Sun_shining_over_meadow_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-028-c5f3999a17.jpeg"
+    },
+    {
+      "term": "give advice",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Teacher_giving_advice_to_student_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Teacher_giving_advice_to_student_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-029-fd625224f8.jpeg"
+    },
+    {
+      "term": "thunderstorm",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Thunderstorm_over_forest_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Thunderstorm_over_forest_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-030-6ed14442c7.jpeg"
+    },
+    {
+      "term": "thin slices",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Tomato_slices_arranged_on_plate_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Tomato_slices_arranged_on_plate_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-031-ff2d29caa5.jpeg"
+    },
+    {
+      "term": "shade",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Tree_shading_park_bench_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Tree_shading_park_bench_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-032-711344e5f7.jpeg"
+    },
+    {
+      "term": "wildfire",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Trees_burning_in_forest_wildfire_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Trees_burning_in_forest_wildfire_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-033-bed2dcf5ae.jpeg"
+    },
+    {
+      "term": "decide",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_choosing_between_paths_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_choosing_between_paths_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-034-1eb29d663f.jpeg"
+    },
+    {
+      "term": "received",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_holding_gift_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_holding_gift_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-035-4b2512bdd0.jpeg"
+    },
+    {
+      "term": "turn right side up",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Hand_turning_cartoon_turtle_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Hand_turning_cartoon_turtle_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-036-919cbc3aaf.jpeg"
+    },
+    {
+      "term": "skills",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Hands_demonstrating_skills_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Hands_demonstrating_skills_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-037-9828dfb4d7.jpeg"
+    },
+    {
+      "term": "tips",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Icons_showing_health_tips_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Icons_showing_health_tips_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-038-04a83c9eac.jpeg"
+    },
+    {
+      "term": "ingredients",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Ingredients_for_cooking_on_counter_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Ingredients_for_cooking_on_counter_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-039-ae599d0ff5.jpeg"
+    },
+    {
+      "term": "Khamsin",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Khamsin_wind_blowing_palm_trees_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Khamsin_wind_blowing_palm_trees_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-040-d130d21a55.jpeg"
+    },
+    {
+      "term": "tiny (adj)",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Ladybug_sitting_on_green_leaf_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Ladybug_sitting_on_green_leaf_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-041-cb8993f113.jpeg"
+    },
+    {
+      "term": "receive",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_opening_colorful_gift_box_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_opening_colorful_gift_box_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-042-9dda529dce.jpeg"
+    },
+    {
+      "term": "hide",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_playing_hide_and_seek_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_playing_hide_and_seek_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-043-116161a32f.jpeg"
+    },
+    {
+      "term": "realized",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_realizing_with_glowing_lig…_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_realizing_with_glowing_lig…_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-044-ac07cf5075.jpeg"
+    },
+    {
+      "term": "life saver",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Lifeguard_saving_person_in_water_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Lifeguard_saving_person_in_water_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-045-1749041027.jpeg"
+    },
+    {
+      "term": "pumped",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Liquid_pumped_upwards_in_tube_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Liquid_pumped_upwards_in_tube_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-046-a7e58673dc.jpeg"
+    },
+    {
+      "term": "pump",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Mechanical_pump_moving_water_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Mechanical_pump_moving_water_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-047-8091d8b1da.jpeg"
+    },
+    {
+      "term": "modern technology",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Modern_city_with_solar_panels_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Modern_city_with_solar_panels_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-048-6b043eaf0d.jpeg"
+    },
+    {
+      "term": "mud bricks",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Mud_bricks_drying_in_sun_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Mud_bricks_drying_in_sun_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-049-a8780384d1.jpeg"
+    },
+    {
+      "term": "recipe",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Open_cookbook_showing_food_recipe_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Open_cookbook_showing_food_recipe_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-050-c669022bb3.jpeg"
+    },
+    {
+      "term": "damaged",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Wooden_birdhouse_with_broken_roof_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Wooden_birdhouse_with_broken_roof_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-051-c66f51abc4.jpeg"
+    },
+    {
+      "term": "think for a moment",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_thinking_with_question_mark_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_thinking_with_question_mark_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-052-7d1756ae5f.jpeg"
+    },
+    {
+      "term": "taking care of",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_watering_potted_flower_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_watering_potted_flower_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-053-f534c1a1a6.jpeg"
+    },
+    {
+      "term": "stay in balance",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Children_balancing_on_seesaw_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Children_balancing_on_seesaw_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-054-f420e0113b.jpeg"
+    },
+    {
+      "term": "theme park",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Children_riding_spinning_teacups…_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Children_riding_spinning_teacups…_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-055-e3edcfc4dd.jpeg"
+    },
+    {
+      "term": "encouraged",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Parent_high-fiving_child_doing_h…_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Parent_high-fiving_child_doing_h…_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-056-b8829c2ed1.jpeg"
+    },
+    {
+      "term": "heat wave",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "People_enduring_summer_heat_wave_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/People_enduring_summer_heat_wave_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-057-3b96eed82e.jpeg"
+    },
+    {
+      "term": "crunchy / crispy",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Person_biting_potato_chip_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Person_biting_potato_chip_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-058-5416b574f4.jpeg"
+    },
+    {
+      "term": "warnings",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Phone_displaying_warning_exclama…_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Phone_displaying_warning_exclama…_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-059-de6d3f7cce.jpeg"
+    },
+    {
+      "term": "irrigation",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Water_flowing_into_crop_field_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Water_flowing_into_crop_field_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-060-5d6f322e0f.jpeg"
+    },
+    {
+      "term": "drought",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Wilted_flower_on_cracked_ground_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Wilted_flower_on_cracked_ground_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-061-fadd4c3f86.jpeg"
+    },
+    {
+      "term": "responded",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Ambulance_paramedics_helping_som…_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Ambulance_paramedics_helping_som…_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-062-81a7198ace.jpeg"
+    },
+    {
+      "term": "increase",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Bar_chart_showing_upward_increase_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Bar_chart_showing_upward_increase_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-063-3209811c68.jpeg"
+    },
+    {
+      "term": "live",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Bird_family_in_cozy_birdhouse_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Bird_family_in_cozy_birdhouse_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-064-5c12a20b72.jpeg"
+    },
+    {
+      "term": "then and now",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Comparing_baby_and_child_photos_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Comparing_baby_and_child_photos_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-065-192936b131.jpeg"
+    },
+    {
+      "term": "bake",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cookies_baking_in_oven_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Cookies_baking_in_oven_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-066-97c6b32fc8.jpeg"
+    },
+    {
+      "term": "blood vessels",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Diagram_of_blood_vessels_in_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Diagram_of_blood_vessels_in_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-067-1a18ab5e30.jpeg"
+    },
+    {
+      "term": "organ",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Diagram_of_human_heart_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Diagram_of_human_heart_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-068-b381934473.jpeg"
+    },
+    {
+      "term": "blood",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Red_blood_drop_under_microscope_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Red_blood_drop_under_microscope_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-069-b5649e6dcf.jpeg"
+    },
+    {
+      "term": "blocked by",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Rock_blocking_forest_path_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Rock_blocking_forest_path_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-070-497dda77ec.jpeg"
+    },
+    {
+      "term": "changed",
+      "fit": "exact",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Room_transformation_split_screen_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Room_transformation_split_screen_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-071-530a55d724.jpeg"
+    },
+    {
+      "term": "iron",
+      "fit": "exact",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Anvil_on_block_with_hammer_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Anvil_on_block_with_hammer_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-072-63830dadb5.jpeg"
+    },
+    {
+      "term": "got",
+      "fit": "exact",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Boy_holding_gold_coin_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Boy_holding_gold_coin_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-073-615d9adff0.jpeg"
+    },
+    {
+      "term": "prevent",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Safety_fence_around_swimming_pool_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Safety_fence_around_swimming_pool_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-074-1b271f616d.jpeg"
+    },
+    {
+      "term": "personally",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cartoon_child_pointing_to_themse…_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_child_pointing_to_themse…_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-075-254f9c772c.jpeg"
+    },
+    {
+      "term": "take millions of years",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cartoon_coal_and_empty_hourglass_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_coal_and_empty_hourglass_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-076-2906e3daee.jpeg"
+    },
+    {
+      "term": "treatment",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Tray_with_water_and_medicine_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Tray_with_water_and_medicine_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-077-dab97c5a3f.jpeg"
+    },
+    {
+      "term": "managed",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_carrying_box_up_stairs_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_carrying_box_up_stairs_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-078-10b1155874.jpeg"
+    },
+    {
+      "term": "stay healthy",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_choosing_fruit_over_candy_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_choosing_fruit_over_candy_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-079-7a1a1f65e7.jpeg"
+    },
+    {
+      "term": "make our bodies stronger",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_flexing_muscle_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_flexing_muscle_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-080-5c13203c51.jpeg"
+    },
+    {
+      "term": "giving back",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_handing_toy_to_child_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_handing_toy_to_child_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-081-32da4a45e3.jpeg"
+    },
+    {
+      "term": "wonders",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_looking_at_rainbow_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_looking_at_rainbow_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-082-8521d508a5.jpeg"
+    },
+    {
+      "term": "real-life heroes",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Heroes_standing_together_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Heroes_standing_together_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-083-633d490aac.jpeg"
+    },
+    {
+      "term": "play an important role",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Honeybee_pollinating_a_flower_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Honeybee_pollinating_a_flower_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-084-1ae444485d.jpeg"
+    },
+    {
+      "term": "mental health",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_meditating_peacefully_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_meditating_peacefully_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-085-8619fae3eb.jpeg"
+    },
+    {
+      "term": "tried",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_reaching_cookie_jar_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_reaching_cookie_jar_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-086-259ae067dd.jpeg"
+    },
+    {
+      "term": "try",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_reaching_for_cookie_jar_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_reaching_for_cookie_jar_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-087-84c02f03d1.jpeg"
+    },
+    {
+      "term": "journey",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Winding_road_through_mountains_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Winding_road_through_mountains_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-088-5e6e01409e.jpeg"
+    },
+    {
+      "term": "come back home",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_walking_toward_house_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_walking_toward_house_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-089-ee642b4fdf.jpeg"
+    },
+    {
+      "term": "work around the clock",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Clock_glowing_for_round-the-cloc…_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Clock_glowing_for_round-the-cloc…_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-090-4ee789cf89.jpeg"
+    },
+    {
+      "term": "kings of the Nile",
+      "fit": "close",
+      "confidence": "high",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Crocodiles_basking_on_river_banks_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Crocodiles_basking_on_river_banks_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-091-509750336a.jpeg"
+    },
+    {
+      "term": "over their fields",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cartoon_bird_flying_over_crops_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_bird_flying_over_crops_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-092-fd30373832.jpeg"
+    },
+    {
+      "term": "ready to help",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Doctor_and_nurse_standing_outside_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Doctor_and_nurse_standing_outside_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-093-e7d8e782fc.jpeg"
+    },
+    {
+      "term": "diagnosed",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Doctor_explaining_X-ray_results_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Doctor_explaining_X-ray_results_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-094-56151e2366.jpeg"
+    },
+    {
+      "term": "began",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Runner_starting_race_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Runner_starting_race_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-095-cefe0b0047.jpeg"
+    },
+    {
+      "term": "lost",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Sad_child_losing_marbles_game_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Sad_child_losing_marbles_game_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-096-cd58048e78.jpeg"
+    },
+    {
+      "term": "deep",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Small_boat_on_deep_ocean_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Small_boat_on_deep_ocean_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-097-5f97bf1a7b.jpeg"
+    },
+    {
+      "term": "seem",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cartoon_cloud_shaped_like_bird_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_cloud_shaped_like_bird_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-098-7dc57f9361.jpeg"
+    },
+    {
+      "term": "diseases",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cartoon_germs_under_magnifying_g…_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_germs_under_magnifying_g…_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-099-4aa6a5968a.jpeg"
+    },
+    {
+      "term": "gas",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cartoon_kitchen_stove_burning_flame_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_kitchen_stove_burning_flame_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-100-3c73cf9bec.jpeg"
+    },
+    {
+      "term": "met",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Two_cartoon_children_waving_202608212032.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Two_cartoon_children_waving_202608212032.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-101-080b9e2e19.jpeg"
+    },
+    {
+      "term": "flavor",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_eating_strawberry_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_eating_strawberry_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-102-d58031869e.jpeg"
+    },
+    {
+      "term": "respond",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_raising_hand_in_classroom_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_raising_hand_in_classroom_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-103-c5369b4426.jpeg"
+    },
+    {
+      "term": "keep ... from",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_stopping_someone_at_wet_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_stopping_someone_at_wet_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-104-16fd17fa8b.jpeg"
+    },
+    {
+      "term": "What a pity!",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_viewing_spilled_ice_cream_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_viewing_spilled_ice_cream_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-105-a8d6fe919e.jpeg"
+    },
+    {
+      "term": "come with",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Child_waving_and_beckoning_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_waving_and_beckoning_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-106-6095c4fbe7.jpeg"
+    },
+    {
+      "term": "knowledge",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Pictures_emerging_from_open_book_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Pictures_emerging_from_open_book_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-107-ed7a6e14ad.jpeg"
+    },
+    {
+      "term": "fertile",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Wheat_growing_in_rural_field_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Wheat_growing_in_rural_field_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-108-76f23a0d7c.jpeg"
+    },
+    {
+      "term": "severe/extreme",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Wind_blowing_trees_down_202608212034.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Wind_blowing_trees_down_202608212034.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-109-d10cbde768.jpeg"
+    },
+    {
+      "term": "fried",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Cooking_chicken_drumsticks_in_pan_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Cooking_chicken_drumsticks_in_pan_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-110-f72f2aa661.jpeg"
+    },
+    {
+      "term": "harmful",
+      "fit": "close",
+      "confidence": "medium",
+      "source": "new_batch_broad_visual_review",
+      "original_image_name": "Red_X_over_thorny_plant_202608212033.jpeg",
+      "original_image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Red_X_over_thorny_plant_202608212033.jpeg",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-broad-ready-upload/grade5-broad-111-1f651eec62.jpeg"
+    }
+  ]
+}
