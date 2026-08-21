@@ -2,6 +2,7 @@ import { BookOpen, KeyRound, Loader2, LogIn, ShieldCheck } from "lucide-react";
 import { FormEvent, useCallback, useEffect, useRef, useState } from "react";
 import { trpc } from "@/lib/trpc";
 import Home from "./Home";
+import GradeSelector from "./GradeSelector";
 
 type StudentPortalProps = { onTeacherAccess: () => void };
 const studentDeviceStorageKey = "primary4-flashcards-device-id";
@@ -22,6 +23,7 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [trialEnded, setTrialEnded] = useState(false);
+  const [selectedGrade, setSelectedGrade] = useState<"grade4" | null>(null);
   const saveTimer = useRef<number | undefined>(undefined);
   const saveProgressRef = useRef(saveProgressMutation.mutate);
 
@@ -48,6 +50,7 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
     loginMutation.mutate({ username, password, deviceId: getStudentDeviceId(), deviceLabel: "جهاز الطالب" }, {
       onSuccess: () => {
         setPassword("");
+        setSelectedGrade(null);
         studentQuery.refetch();
       },
     });
@@ -58,12 +61,19 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
   }
 
   if (studentQuery.data) {
+    if (selectedGrade === null) {
+      return <GradeSelector studentName={studentQuery.data.displayName} onSelectGrade4={() => setSelectedGrade("grade4")} onLogout={() => { setSelectedGrade(null); logoutMutation.mutate(undefined, { onSuccess: () => studentQuery.refetch() }); }} />;
+    }
     return <Home
       initialProgress={studentQuery.data.progress}
       studentName={studentQuery.data.displayName}
       onProgressChange={handleProgressChange}
-      onStudentLogout={() => logoutMutation.mutate(undefined, { onSuccess: () => studentQuery.refetch() })}
+      onStudentLogout={() => { setSelectedGrade(null); logoutMutation.mutate(undefined, { onSuccess: () => studentQuery.refetch() }); }}
     />;
+  }
+
+  if (selectedGrade === null) {
+    return <GradeSelector onSelectGrade4={() => setSelectedGrade("grade4")} />;
   }
 
   return (
@@ -80,6 +90,7 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
           {loginMutation.error && <p className="sf-access-error">{loginMutation.error.message}</p>}
           <button className="sf-access-submit" disabled={loginMutation.isPending} type="submit"><LogIn size={18} /> {loginMutation.isPending ? "جارٍ الدخول..." : "ابدأ التعلم"}</button>
         </form>
+        <button className="sf-teacher-link" onClick={() => setSelectedGrade(null)}>العودة لاختيار الصف</button>
         <button className="sf-teacher-link" onClick={onTeacherAccess}><ShieldCheck size={16} /> دخول المعلم لإدارة الحسابات</button>
       </section>
     </main>
