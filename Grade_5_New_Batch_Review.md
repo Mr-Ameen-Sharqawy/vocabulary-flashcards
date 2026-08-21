@@ -1,0 +1,55 @@
+# Grade 5 — new image batch review
+
+- New extracted images: **250**
+- Grade 5 terms already mapped: **290**
+- Grade 5 terms still unmatched before this batch: **270**
+- Conservative filename matches in this batch: **45**
+- Duplicate image files inside this batch: **0**
+
+## Conservative filename matches awaiting visual review
+
+- roads — `Cars_driving_on_winding_roads_202608212032.jpeg`
+- rides — `Cartoon_amusement_park_rides_202608212034.jpeg`
+- relaxing — `Cartoon_character_relaxing_in_ha…_202608212034.jpeg`
+- affected — `Droopy_plant_affected_by_heat_202608212033.jpeg`
+- sandstorm — `Sandstorm_in_desert_202608212034.jpeg`
+- deep — `Small_boat_on_deep_ocean_202608212034.jpeg`
+- coffee shop — `Cartoon_coffee_shop_with_outdoor…_202608212032.jpeg`
+- side — `Cartoon_cube_with_red_side_202608212032.jpeg`
+- flood — `Flood_covering_street_and_houses_202608212034.jpeg`
+- miners — `Cartoon_miners_holding_picks_in_202608212032.jpeg`
+- supermarket — `Cartoon_supermarket_with_fruits_…_202608212032.jpeg`
+- waiter — `Cartoon_waiter_carrying_juice_tray_202608212034.jpeg`
+- grilled — `Grilled_corn_and_vegetables_202608212033.jpeg`
+- fist — `Hand_showing_fist_shape_202608212033.jpeg`
+- steel — `Steel_beams_building_tall_structure_202608212032.jpeg`
+- stethoscope — `Stethoscope_illustration_202608212033.jpeg`
+- basin — `Stone_basin_filled_with_water_202608212034.jpeg`
+- basin — `Stone_basin_with_water_202608212034.jpeg`
+- stressed — `Stressed_cartoon_character_among…_202608212033.jpeg`
+- supermarket — `Supermarket_shelf_with_products_202608212034.jpeg`
+- thick — `Thick_book_and_thin_pencil_202608212034.jpeg`
+- thick — `Thick_cartoon_book_and_pencil_202608212034.jpeg`
+- thunderstorm — `Thunderstorm_over_forest_202608212034.jpeg`
+- toothpaste — `Toothpaste_and_toothbrush_illust…_202608212033.jpeg`
+- wildfire — `Trees_burning_in_forest_wildfire_202608212034.jpeg`
+- skills — `Hands_demonstrating_skills_202608212033.jpeg`
+- tips — `Icons_showing_health_tips_202608212033.jpeg`
+- ingredients — `Ingredients_for_cooking_on_counter_202608212033.jpeg`
+- Khamsin — `Khamsin_wind_blowing_palm_trees_202608212034.jpeg`
+- hide — `Child_playing_hide_and_seek_202608212033.jpeg`
+- pumped — `Liquid_pumped_upwards_in_tube_202608212033.jpeg`
+- pump — `Mechanical_pump_moving_water_202608212033.jpeg`
+- modern — `Modern_city_with_solar_panels_202608212034.jpeg`
+- mud bricks — `Mud_bricks_drying_in_sun_202608212034.jpeg`
+- recipe — `Open_cookbook_showing_food_recipe_202608212033.jpeg`
+- thought — `Child_thinking_with_thought_bubble_202608212032.jpeg`
+- heat wave — `People_enduring_summer_heat_wave_202608212034.jpeg`
+- airport — `Airplane_taking_off_from_airport_202608212032.jpeg`
+- bakery — `Bakery_window_displaying_bread_c…_202608212032.jpeg`
+- increase — `Bar_chart_showing_upward_increase_202608212033.jpeg`
+- fabric — `Colorful_fabric_rolls_with_patterns_202608212034.jpeg`
+- damaged — `Damaged_toy_car_with_scratches_202608212034.jpeg`
+- blood vessels — `Diagram_of_blood_vessels_in_202608212033.jpeg`
+- blood — `Red_blood_drop_under_microscope_202608212033.jpeg`
+- modern — `Rotary_phone_and_modern_smartphone_202608212033.jpeg`

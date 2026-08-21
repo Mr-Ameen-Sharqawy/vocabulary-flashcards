@@ -1,11 +1,13 @@
 /** Grade 5 cartoon images uploaded by the project owner; no generated watermark assets are used. */
 import type { CourseCard } from '@/lib/course';
+import { grade5NewBatchCartoonImages } from './grade5-new-batch-images';
 
 function normalizeGrade5Term(term: string) {
   return term.toLowerCase().replace(/\([^)]*\)/g, '').replace(/[^a-z0-9]+/g, ' ').trim();
 }
 
 export const grade5CartoonImages: Record<string, string> = {
+  ...grade5NewBatchCartoonImages,
   "new administrative capital": "/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg",
   "ancient egyptians": "/manus-storage/grade5-002-02212aeb2d_8fb0d708.jpeg",
   "hidden treasures": "/manus-storage/grade5-003-2058083c2c_2a8e4459.jpeg",

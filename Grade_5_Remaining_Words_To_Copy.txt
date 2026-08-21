@@ -1,305 +1,227 @@
-# Grade 5 — Remaining Image Words
+# Grade 5 — remaining words to copy for images
 
-**270** English words and phrases still need a dedicated cartoon image after reviewing Grade 5 uploads and the Grade 4 image library.
+**Total:** 209 terms. Each block has up to 50 words.
 
-Copy one code block at a time when preparing a new image batch.
+## Batch 1
 
-## Batch 1 (1–50)
-
-```text
-scary (adj)
-tiny (adj)
-role
-humans
-home to
-play an important role
-kings of the Nile
-What about ... ?
 affect
 affected
-flowed
-come
 came
 find
+flowed
 found
-stay in balance
+humans
+kings of the Nile
+play an important role
+role
+scary (adj)
+tiny (adj)
+What about ... ?
+hid
+hide
 live
 lived
-hide
-hid
-shade
-shiny
-come back home
-blocked by
-taking care of
-giving back
-rested
+stay in balance
 appreciated
-realized
-bent
+became
+become
 began
+bent
+blocked by
+come back home
+giving back
 mean
 meant
-become
-became
-recipe
-ingredients
-grilled
-flavor
-thin slices
-cooked
-sea food
-crunchy / crispy
-fried
-cut ... into
+realized
+rested
+shade
+taking care of
 added
-stressed
+crunchy / crispy
+cut ... into
+flavor
+fried
+grilled
+ingredients
+recipe
+thin slices
+absolutely
+increase
+increased
+lose
+lost
+make our bodies stronger
 mental health
 normal
 organ
-```
 
-## Batch 2 (51–100)
+## Batch 2
 
-```text
-absolutely
-go for a walk
-lose weight
-get tired
 stay healthy
-make our bodies stronger
-increase
-increased
-try
 tried
-lose
-lost
-journey
-changes
-the best way to
-followed by
+try
 all day
-then and now
-used to
+bake
 change
 changed
-bake
+changes
+followed by
+journey
 replaced
+the best way to
+then and now
+used to
 blood
 blood vessels
-fist
-alive
-tips
 gas
-pump
-get sick
-keep ... from
-pumped
 hurt
-beat
-treatment
-healthcare
+keep ... from
+pump
+pumped
+tips
+diagnosed
 diseases
-illnesses
-skills
-harmful
-toothpaste
-knowledge
-stethoscope
-life saver
-real-life heroes
-on the spot
-work day and night
-work around the clock
-show respect
-```
-
-## Batch 3 (101–150)
-
-```text
+encouraged
 give advice
+harmful
+healthcare
+illnesses
+knowledge
+life saver
+on the spot
+real-life heroes
 receive
 received
-treated
 respond
 responded
-diagnosed
-encouraged
-thunderstorm
-sandstorm
-flood
-drought
-wildfire
-heat wave
-damaged
-severe/extreme
-warnings
-wonders
-awful / terrible
-What a pity!
+skills
+stethoscope
+treated
+treatment
+work around the clock
+work day and night
 burn down
-prevent ... from
-prevent
-prevented
 cover
-spread
-hit
+damaged
+drought
+flood
+heat wave
+prevent
+
+## Batch 3
+
+prevent ... from
+prevented
+sandstorm
+severe/extreme
 struck
-mud bricks
-rich soil
-irrigation
-basin
-thick
-modern
-possible
-farming
-Khamsin
-even in the desert
-It was hard to + inf.
-over their fields
-winds with sand
-control
+thunderstorm
+warnings
+What a pity!
+wildfire
+wonders
+brought
 controlled
 damage
-bring
-brought
-deep
-leap
+even in the desert
+irrigation
+It was hard to + inf.
+Khamsin
+modern
+mud bricks
+over their fields
+possible
+rich soil
 [be] able to
 any longer
-```
-
-## Batch 4 (151–200)
-
-```text
-think for a moment
 at the bottom of
-near the edge of
-make a decision
 decide
 decided
-agreed
+deep
+make a decision
+near the edge of
 searched
-swim
 swam
-joy
-weather conditions
-strange
+swim
+think for a moment
 brightly
-side
-think hard
-upside down
-turn right side up
-turn over
-flipped
-floated
-clapped
-whispered
 seem
 seemed
-shine
 shone
-thought
-coffee shop
-bakery
-supermarket
+side
+strange
+turn over
+turn right side up
+upside down
 club
-theme park
-loaf / loaves
-waiter
-rides
-personally
-relaxing
-hang out with
 come with
+personally
+theme park
+waiter
 community center
 main square
-quiet / calm
-keep animals
-shopped
+
+## Batch 4
+
 met
 crowding
-steel
-roads
-airport
-```
-
-## Batch 5 (201–250)
-
-```text
-green areas
-modern technology
-made of
-from the top
 designed
-manage
+from the top
 managed
-electricity
-natural gas
-jewelry
-fabric
-fertile
-iron
-work for
-Well done! = Excellent
-named
-power
-powered
+modern technology
 contain
 contained
-mineral resources
-non-renewable
-miners
-precious
-valuable
-bright/shiny
-rare
-super strong
-materials
-ship
+fertile
+iron
+named
+natural gas
+work for
 cheaper
-the Eastern Desert
 dig deep into the ground
-use .... wisely
-easy to shape
-take millions of years
-wasted
 dug
+easy to shape
 get
 got
-popular
-clear
-grateful
-give up
-doesn't matter
-ready to help
-something went wrong
-take a long time
-stare
-stared
-```
-
-## Batch 6 (251–270)
-
-```text
-rush
+materials
+non-renewable
+precious
+rare
+ship
+super strong
+take millions of years
+the Eastern Desert
+use .... wisely
+valuable
+wasted
 bother
 bothered
+clear
+doesn't matter
+give up
+grateful
+popular
+ready to help
+rush
 sail
 sailed
-still
-wild
-treasured
-have no shape
-search for
-part of
-without me
-destroyed
-cry
+something went wrong
+stare
+stared
+take a long time
 cried
+cry
 danced
+destroyed
+fall
+
+## Batch 5
+
+fell
 freeze
 froze
-fall
-fell
-```
+have no shape
+part of
+still
+treasured
+wild
+without me
