@@ -1,0 +1,5056 @@
+{
+  "grade": 5,
+  "lessons": [
+    {
+      "source_file": "Prim 5 U1 L1.html",
+      "unit": 1,
+      "lesson": "1",
+      "title": "Lesson 1: Life Along the Nile",
+      "unit_title": "🌊 Prim 5 - Unit 1: Life Along the Nile",
+      "cards": [
+        {
+          "term": "water weeds",
+          "arabic": "الأعشاب المائية",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The small fish eat water weeds.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "hunt",
+          "arabic": "يصطاد/بصطاد",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Huge crocodiles are scary! Do any animals hunt them?",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "The Nile River",
+          "arabic": "نهر النيل",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The small fish in the Nile River are so colorful.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "insects",
+          "arabic": "حشرات",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Birds eat small fish, insects, and even plants near the river.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "crocodile",
+          "arabic": "تمساح",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Crocodiles are the kings of the Nile.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "strong (adj)",
+          "arabic": "قوي",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Crocodiles are very strong and scary.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "colorful (adj)",
+          "arabic": "ملون",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The small fish in the Nile River are so colorful.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "scary (adj)",
+          "arabic": "مخيف",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Crocodiles are very strong and scary.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "tiny (adj)",
+          "arabic": "صغير جداً",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Big fish eat smaller fish, insects and tiny creatures in the water.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "large (adj)",
+          "arabic": "كبير",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "They eat fish, birds, and sometimes larger animals that come near the water.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "different (adj)",
+          "arabic": "مختلف",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about different (adj).",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "creatures",
+          "arabic": "مخلوقات/كائنات",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Big fish eat smaller fish, insects and tiny creatures in the water.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "role",
+          "arabic": "دور/وظيفة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Each animal plays an important role - that's why we must protect the river.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "humans",
+          "arabic": "البشر",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about humans.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "birds",
+          "arabic": "الطيور",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Birds eat small fish, insects, and even plants near the river.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "plants",
+          "arabic": "نباتات",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Birds eat small fish, insects, and even plants near the river.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "home to",
+          "arabic": "موطن لـ",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about home to.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "play an important role",
+          "arabic": "يقوم بدور هام",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about play an important role.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "kings of the Nile",
+          "arabic": "ملوك النيل",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Crocodiles are the kings of the Nile.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "along the Nile",
+          "arabic": "على امتداد النيل",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about along the Nile.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "What about ... ?",
+          "arabic": "ماذا عن ...؟",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about What about ... ?.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "survive",
+          "arabic": "يبقى على قيد الحياة",
+          "kind": "verb",
+          "pairedWith": "survived",
+          "sentence": "It's amazing how all animals in the river find food to survive.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "survived",
+          "arabic": "يبقى على قيد الحياة",
+          "kind": "verb",
+          "pairedWith": "survive",
+          "sentence": "This lesson helps us learn about survived.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "affect",
+          "arabic": "يؤثر على",
+          "kind": "verb",
+          "pairedWith": "affected",
+          "sentence": "This lesson helps us learn about affect.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "affected",
+          "arabic": "يؤثر على",
+          "kind": "verb",
+          "pairedWith": "affect",
+          "sentence": "This lesson helps us learn about affected.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "protect",
+          "arabic": "يحمي",
+          "kind": "verb",
+          "pairedWith": "protected",
+          "sentence": "Each animal plays an important role - that's why we must protect the river.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "protected",
+          "arabic": "يحمي",
+          "kind": "verb",
+          "pairedWith": "protect",
+          "sentence": "This lesson helps us learn about protected.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "flow",
+          "arabic": "يتدفق",
+          "kind": "verb",
+          "pairedWith": "flowed",
+          "sentence": "This lesson helps us learn about flow.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "flowed",
+          "arabic": "يتدفق",
+          "kind": "verb",
+          "pairedWith": "flow",
+          "sentence": "This lesson helps us learn about flowed.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "come",
+          "arabic": "يأتي",
+          "kind": "verb",
+          "pairedWith": "came",
+          "sentence": "They eat fish, birds, and sometimes larger animals that come near the water.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "came",
+          "arabic": "يأتي",
+          "kind": "verb",
+          "pairedWith": "come",
+          "sentence": "This lesson helps us learn about came.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "find",
+          "arabic": "يجد",
+          "kind": "verb",
+          "pairedWith": "found",
+          "sentence": "It's amazing how all animals in the river find food to survive.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "found",
+          "arabic": "يجد",
+          "kind": "verb",
+          "pairedWith": "find",
+          "sentence": "This lesson helps us learn about found.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "keep",
+          "arabic": "يحافظ",
+          "kind": "verb",
+          "pairedWith": "kept",
+          "sentence": "This lesson helps us learn about keep.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "kept",
+          "arabic": "يحافظ",
+          "kind": "verb",
+          "pairedWith": "keep",
+          "sentence": "This lesson helps us learn about kept.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "know",
+          "arabic": "يعرف",
+          "kind": "verb",
+          "pairedWith": "knew",
+          "sentence": "Yes! Do you know that small fish eat plants in the water? These are called water weeds.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "knew",
+          "arabic": "يعرف",
+          "kind": "verb",
+          "pairedWith": "know",
+          "sentence": "This lesson helps us learn about knew.",
+          "sentenceSource": "curriculum-fallback"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U1 L2.html",
+      "unit": 1,
+      "lesson": "2",
+      "title": "Lesson 2: Food in the Hot Desert",
+      "unit_title": "🐪 Prim 5 - Unit 1: Food in the Hot Desert",
+      "cards": [
+        {
+          "term": "camel",
+          "arabic": "جمل",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Camels, snakes, and foxes live in the desert.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "snake",
+          "arabic": "ثعبان",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Camels, snakes, and foxes live in the desert.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "fox",
+          "arabic": "ثعلب",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Camels, snakes, and foxes live in the desert.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "lizard",
+          "arabic": "سحلية",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Snakes often eat small animals like rats or lizards.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "owl",
+          "arabic": "بومة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Others, like owls, come out at night when it is cooler.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "hard (adj)",
+          "arabic": "صعب",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about hard (adj).",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "dry (adj)",
+          "arabic": "جاف",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The desert is hot and dry, but many animals live there.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "simple (adj)",
+          "arabic": "بسيط",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about simple (adj).",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "turtle",
+          "arabic": "سلحفاة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about turtle.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "nature",
+          "arabic": "طبيعة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "They help nature stay in balance.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "balance",
+          "arabic": "توازن",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "They help nature stay in balance.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "hippo",
+          "arabic": "فرس النهر",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about hippo.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "energy",
+          "arabic": "طاقة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Lizards eat insects which give them energy.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "rats",
+          "arabic": "فئران",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Snakes often eat small animals like rats or lizards.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "come out",
+          "arabic": "يخرج",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Others, like owls, come out at night when it is cooler.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "to stay cool",
+          "arabic": "للحفاظ على البرودة",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Some animals hide under rocks to stay cool during the day.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "stay in balance",
+          "arabic": "تظل في توازن",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "They help nature stay in balance.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "during the day",
+          "arabic": "أثناء النهار",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Some animals hide under rocks to stay cool during the day.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "live",
+          "arabic": "يعيش",
+          "kind": "verb",
+          "pairedWith": "lived",
+          "sentence": "Camels, snakes, and foxes live in the desert.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "lived",
+          "arabic": "يعيش",
+          "kind": "verb",
+          "pairedWith": "live",
+          "sentence": "This lesson helps us learn about lived.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "store",
+          "arabic": "يخزن",
+          "kind": "verb",
+          "pairedWith": "stored",
+          "sentence": "This lesson helps us learn about store.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "stored",
+          "arabic": "يخزن",
+          "kind": "verb",
+          "pairedWith": "store",
+          "sentence": "This lesson helps us learn about stored.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "give",
+          "arabic": "يعطي",
+          "kind": "verb",
+          "pairedWith": "gave",
+          "sentence": "Lizards eat insects which give them energy.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "gave",
+          "arabic": "يعطي",
+          "kind": "verb",
+          "pairedWith": "give",
+          "sentence": "This lesson helps us learn about gave.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "hide",
+          "arabic": "يختبئ",
+          "kind": "verb",
+          "pairedWith": "hid",
+          "sentence": "Some animals hide under rocks to stay cool during the day.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "hid",
+          "arabic": "يختبئ",
+          "kind": "verb",
+          "pairedWith": "hide",
+          "sentence": "Some animals hide under rocks to stay cool during the day.",
+          "sentenceSource": "book-context"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U1 L3.html",
+      "unit": 1,
+      "lesson": "3",
+      "title": "Lesson 3: Story Time: The Giving Tree",
+      "unit_title": "🌳 Prim 5 - Unit 1: Story Time - The Giving Tree",
+      "cards": [
+        {
+          "term": "trunk",
+          "arabic": "جذع الشجرة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "He rested in its shade and climbed its trunk with his friends.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "branch",
+          "arabic": "فرع/غصن الشجرة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Tom traveled away and when he came back, the tree branches were weak.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "shade",
+          "arabic": "ظل",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "He rested in its shade and climbed its trunk with his friends.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "selfish",
+          "arabic": "شخص أناني",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Tom realized that he had been selfish.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "crown",
+          "arabic": "تاج",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "He made crowns from its leaves and ate its delicious apples.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "leaves",
+          "arabic": "أوراق الشجر",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "He made crowns from its leaves and ate its delicious apples.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "feelings",
+          "arabic": "مشاعر",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "But Tom never thought about the tree's feelings or needs.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "weak",
+          "arabic": "ضعيف",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Tom traveled away and when he came back, the tree branches were weak.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "sunlight",
+          "arabic": "ضوء الشمس",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about sunlight.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "shadow",
+          "arabic": "ظل",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about shadow.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "delicious",
+          "arabic": "لذيذ",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Tom ate the tree's delicious apples.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "needs",
+          "arabic": "احتياجات",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "But Tom never thought about the tree's feelings or needs.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "shiny",
+          "arabic": "لامع/براق",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about shiny.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "gold",
+          "arabic": "ذهب",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about gold.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "care for",
+          "arabic": "يعتني بـ",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Tom started to care for the tree, watering it, and protecting it from the sun.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "come back home",
+          "arabic": "يعود إلى المنزل",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about come back home.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "blocked by",
+          "arabic": "يحجب/يمنع",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about blocked by.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "once upon a time",
+          "arabic": "ذات مرة",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Once upon a time, there was a boy named Tom who loved a big, strong apple tree in his garden.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "taking care of",
+          "arabic": "الاعتناء بـ",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Tom learned that taking care of something meant giving back, and he and the tree became the best of friends.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "giving back",
+          "arabic": "رد الجميل",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Tom learned that taking care of something meant giving back, and he and the tree became the best of friends.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "rest",
+          "arabic": "يسترخي",
+          "kind": "verb",
+          "pairedWith": "rested",
+          "sentence": "He rested in its shade and climbed its trunk with his friends.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "rested",
+          "arabic": "يسترخي",
+          "kind": "verb",
+          "pairedWith": "rest",
+          "sentence": "He rested in its shade and climbed its trunk with his friends.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "appreciate",
+          "arabic": "يقدر",
+          "kind": "verb",
+          "pairedWith": "appreciated",
+          "sentence": "This lesson helps us learn about appreciate.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "appreciated",
+          "arabic": "يقدر",
+          "kind": "verb",
+          "pairedWith": "appreciate",
+          "sentence": "This lesson helps us learn about appreciated.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "realize",
+          "arabic": "يدرك",
+          "kind": "verb",
+          "pairedWith": "realized",
+          "sentence": "Tom realized that he had been selfish.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "realized",
+          "arabic": "يدرك",
+          "kind": "verb",
+          "pairedWith": "realize",
+          "sentence": "Tom realized that he had been selfish.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "water",
+          "arabic": "يروي/يسقي",
+          "kind": "verb",
+          "pairedWith": "watered",
+          "sentence": "He rarely gave it food or water.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "watered",
+          "arabic": "يروي/يسقي",
+          "kind": "verb",
+          "pairedWith": "water",
+          "sentence": "This lesson helps us learn about watered.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "bend",
+          "arabic": "ينحني/يميل",
+          "kind": "verb",
+          "pairedWith": "bent",
+          "sentence": "This lesson helps us learn about bend.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "bent",
+          "arabic": "ينحني/يميل",
+          "kind": "verb",
+          "pairedWith": "bend",
+          "sentence": "Its leaves bent, and its branches were weak.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "begin",
+          "arabic": "يبدأ",
+          "kind": "verb",
+          "pairedWith": "began",
+          "sentence": "This lesson helps us learn about begin.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "began",
+          "arabic": "يبدأ",
+          "kind": "verb",
+          "pairedWith": "begin",
+          "sentence": "The tree began to become better.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "mean",
+          "arabic": "يعني/يقصد",
+          "kind": "verb",
+          "pairedWith": "meant",
+          "sentence": "Tom learned that taking care of something meant giving back, and he and the tree became the best of friends.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "meant",
+          "arabic": "يعني/يقصد",
+          "kind": "verb",
+          "pairedWith": "mean",
+          "sentence": "Tom learned that taking care of something meant giving back, and he and the tree became the best of friends.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "become",
+          "arabic": "يصبح",
+          "kind": "verb",
+          "pairedWith": "became",
+          "sentence": "The tree began to become better.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "became",
+          "arabic": "يصبح",
+          "kind": "verb",
+          "pairedWith": "become",
+          "sentence": "Tom learned that taking care of something meant giving back, and he and the tree became the best of friends.",
+          "sentenceSource": "book-context"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U1 L4&5.html",
+      "unit": 1,
+      "lesson": "4",
+      "title": "Lessons 4 & 5: Writing - Think and Create",
+      "unit_title": "🍝 Prim 5 - Unit 1: Writing - My favorite Egyptian food",
+      "cards": [
+        {
+          "term": "lentils",
+          "arabic": "عدس",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "I like to put lentils and tomato sauce on it.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "vinegar",
+          "arabic": "خل",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "For the red sauce, fry some chopped garlic in oil, add tomato sauce, vinegar, and some spices.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "tasty",
+          "arabic": "لذيذ / شهي",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Koshari is a tasty Egyptian meal with many simple ingredients.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "chickpeas",
+          "arabic": "حمص",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Then, add some chickpeas.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "recipe",
+          "arabic": "وصفة طهي",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about recipe.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "spices",
+          "arabic": "توابل",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "For the red sauce, fry some chopped garlic in oil, add tomato sauce, vinegar, and some spices.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "koshari",
+          "arabic": "كشري (وجبة مصرية)",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Koshari is a tasty Egyptian meal with many simple ingredients.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "ingredients",
+          "arabic": "مكونات / مقادير",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Koshari is a tasty Egyptian meal with many simple ingredients.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "sauce",
+          "arabic": "صلصة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "I like to put lentils and tomato sauce on it.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "chopped garlic",
+          "arabic": "ثوم مفروم",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "For the red sauce, fry some chopped garlic in oil, add tomato sauce, vinegar, and some spices.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "grilled",
+          "arabic": "مشوي",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about grilled.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "flavor",
+          "arabic": "طعم / مذاق",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "You can add more sauces for more flavor and crispy onions on koshari.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "thin slices",
+          "arabic": "شرائح رفيعة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "First, cut them into thin slices.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "cooked",
+          "arabic": "مطبوخ",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about cooked.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "sea food",
+          "arabic": "مأكولات بحرية",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about sea food.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "spicy",
+          "arabic": "حار",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "One is a spicy tomato sauce, and the other is Dakka which is made with garlic and vinegar.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "crunchy / crispy",
+          "arabic": "مقرمش",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about crunchy / crispy.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "vegetable oil",
+          "arabic": "زيت نباتي",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about vegetable oil.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "dakka sauce",
+          "arabic": "صلصة الدقة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about dakka sauce.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "fried",
+          "arabic": "مقلي",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about fried.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "traditional",
+          "arabic": "تقليدي",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Koshari is a traditional Egyptian food.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "put on top",
+          "arabic": "يضع في الأعلى",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about put on top.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "turn brown",
+          "arabic": "يتحول إلى اللون البني",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Next, fry them in oil until they turn brown and crunchy.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "mix of",
+          "arabic": "خليط من / مزيج من",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This mix of foods makes koshari very yummy.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "a pot with water",
+          "arabic": "إناء به ماء",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "First, you need to cook rice in a pot with water.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "cut ... into",
+          "arabic": "يقطع ... إلى",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about cut ... into.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "fry",
+          "arabic": "يقلي",
+          "kind": "verb",
+          "pairedWith": "fried",
+          "sentence": "For the red sauce, fry some chopped garlic in oil, add tomato sauce, vinegar, and some spices.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "prepare",
+          "arabic": "يعد / يجهز",
+          "kind": "verb",
+          "pairedWith": "prepared",
+          "sentence": "In another pot, prepare small pasta.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "prepared",
+          "arabic": "يعد / يجهز",
+          "kind": "verb",
+          "pairedWith": "prepare",
+          "sentence": "This lesson helps us learn about prepared.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "add",
+          "arabic": "يضيف",
+          "kind": "verb",
+          "pairedWith": "added",
+          "sentence": "You can add more sauces for more flavor and crispy onions on koshari.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "added",
+          "arabic": "يضيف",
+          "kind": "verb",
+          "pairedWith": "add",
+          "sentence": "This lesson helps us learn about added.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "pour",
+          "arabic": "يصب / يسكب",
+          "kind": "verb",
+          "pairedWith": "poured",
+          "sentence": "Finally, pour the red sauce all over it, and put the crispy onions on top.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "poured",
+          "arabic": "يصب / يسكب",
+          "kind": "verb",
+          "pairedWith": "pour",
+          "sentence": "This lesson helps us learn about poured.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "boil",
+          "arabic": "يغلي / يسلق",
+          "kind": "verb",
+          "pairedWith": "boiled",
+          "sentence": "Then, boil lentils in water.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "boiled",
+          "arabic": "يغلي / يسلق",
+          "kind": "verb",
+          "pairedWith": "boil",
+          "sentence": "This lesson helps us learn about boiled.",
+          "sentenceSource": "curriculum-fallback"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U2 L1.html",
+      "unit": 2,
+      "lesson": "1",
+      "title": "Lesson 1: Sports for Better Health",
+      "unit_title": "⚽ Prim 5 - Unit 2: Sports for Better Health",
+      "cards": [
+        {
+          "term": "muscles",
+          "arabic": "عضلات",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Football makes our heart strong, and helps our muscles grow.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "lungs",
+          "arabic": "الرئتين",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Swimming makes our lungs strong.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "fit",
+          "arabic": "لائق بدنياً",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Alright. Sports make us fit too, right?",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "stressed",
+          "arabic": "متوتر",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about stressed.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "heart",
+          "arabic": "قلب",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Football makes our heart strong, and helps our muscles grow.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "bones",
+          "arabic": "عظام",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Exactly! Exercise helps you lose weight and makes your bones stronger.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "sports",
+          "arabic": "الرياضة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Sports help us stay healthy and make our bodies stronger.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "swimming",
+          "arabic": "السباحة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Swimming makes our lungs strong.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "chest",
+          "arabic": "صدر",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about chest.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "mental health",
+          "arabic": "الصحة العقلية",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "What about our mental health? Can sports help us with that?",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "normal",
+          "arabic": "طبيعي",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "That's normal. Try eating some fruit before you exercise to give you more energy.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "organ",
+          "arabic": "عضو",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about organ.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "absolutely",
+          "arabic": "إطلاقاً / حتماً",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Absolutely! Exercising regularly helps you sleep better and reduces stress.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "regularly",
+          "arabic": "بانتظام",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Exercising regularly reduces stress.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "exercising",
+          "arabic": "ممارسة التمارين الرياضية",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Exercising regularly reduces stress.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "stress",
+          "arabic": "توتر",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Exercising regularly reduces stress.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "mind",
+          "arabic": "عقل",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about mind.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "go for a walk",
+          "arabic": "يذهب في نزهة سيراً على الأقدام",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about go for a walk.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "in fact",
+          "arabic": "في الحقيقة",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Swimming is very good, too! It makes your lungs strong. In fact, it helps your whole body.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "lose weight",
+          "arabic": "يفقد الوزن",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Exercise helps us lose weight.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "get tired",
+          "arabic": "يتعب",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Good, but sometimes I get tired when I play sports.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "stay healthy",
+          "arabic": "يبقى بصحة جيدة",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Sports help us stay healthy and make our bodies stronger.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "make our bodies stronger",
+          "arabic": "تقوي أجسامنا",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Sports help us stay healthy and make our bodies stronger.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "increase",
+          "arabic": "يزيد",
+          "kind": "verb",
+          "pairedWith": "increased",
+          "sentence": "Yes, it makes your heart strong and helps your muscles grow. It also increases energy.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "increased",
+          "arabic": "يزيد",
+          "kind": "verb",
+          "pairedWith": "increase",
+          "sentence": "This lesson helps us learn about increased.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "try",
+          "arabic": "يجرب / يحاول",
+          "kind": "verb",
+          "pairedWith": "tried",
+          "sentence": "That's normal. Try eating some fruit before you exercise to give you more energy.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "tried",
+          "arabic": "يجرب / يحاول",
+          "kind": "verb",
+          "pairedWith": "try",
+          "sentence": "This lesson helps us learn about tried.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "reduce",
+          "arabic": "يقلل",
+          "kind": "verb",
+          "pairedWith": "reduced",
+          "sentence": "Exercising regularly reduces stress.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "reduced",
+          "arabic": "يقلل",
+          "kind": "verb",
+          "pairedWith": "reduce",
+          "sentence": "This lesson helps us learn about reduced.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "exercise",
+          "arabic": "يتدرب",
+          "kind": "verb",
+          "pairedWith": "exercised",
+          "sentence": "Exercise helps us lose weight.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "exercised",
+          "arabic": "يتدرب",
+          "kind": "verb",
+          "pairedWith": "exercise",
+          "sentence": "This lesson helps us learn about exercised.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "lose",
+          "arabic": "يفقد",
+          "kind": "verb",
+          "pairedWith": "lost",
+          "sentence": "Exercise helps us lose weight.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "lost",
+          "arabic": "يفقد",
+          "kind": "verb",
+          "pairedWith": "lose",
+          "sentence": "This lesson helps us learn about lost.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "sleep",
+          "arabic": "ينام",
+          "kind": "verb",
+          "pairedWith": "slept",
+          "sentence": "Absolutely! Exercising regularly helps you sleep better and reduces stress.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "slept",
+          "arabic": "ينام",
+          "kind": "verb",
+          "pairedWith": "sleep",
+          "sentence": "This lesson helps us learn about slept.",
+          "sentenceSource": "curriculum-fallback"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U2 L2.html",
+      "unit": 2,
+      "lesson": "2",
+      "title": "Lesson 2: My Habits: Then and Now",
+      "unit_title": "🕰️ Prim 5 - Unit 2: My Habits: Then and Now",
+      "cards": [
+        {
+          "term": "journey",
+          "arabic": "رحلة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about journey.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "habit",
+          "arabic": "عادة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Healthy habits are important for our bodies and minds.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "vitamins",
+          "arabic": "فيتامينات",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Fruits and vegetables give us important vitamins.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "changes",
+          "arabic": "تغييرات",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "These changes give me more energy and help me feel better.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "chips",
+          "arabic": "رقائق البطاطس",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Before, I loved chips, burgers, and sweets.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "healthier",
+          "arabic": "أكثر صحة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about healthier.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "soda",
+          "arabic": "مياه غازية",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Adam drinks a lot of water instead of soda.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "vegetables",
+          "arabic": "خضروات",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Fruits and vegetables give us important vitamins.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "fruits",
+          "arabic": "فواكه",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Fruits and vegetables give us important vitamins.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "walk",
+          "arabic": "مشى/تمشية",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "My family's habits changed too - we grill or bake food instead of frying like we used to do in the past, and we eat dinner early, followed by a walk.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "burger",
+          "arabic": "برجر",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Before, I loved chips, burgers, and sweets.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "sweets",
+          "arabic": "حلويات",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Before, I loved chips, burgers, and sweets.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "frying",
+          "arabic": "القلي",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "My family's habits changed too - we grill or bake food instead of frying like we used to do in the past, and we eat dinner early, followed by a walk.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "the best way to",
+          "arabic": "أفضل طريقة لـ",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about the best way to.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "followed by",
+          "arabic": "تتبعه / يليه",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "My family's habits changed too - we grill or bake food instead of frying like we used to do in the past, and we eat dinner early, followed by a walk.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "all day",
+          "arabic": "طول اليوم",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "I used to watch TV all day, but now I play football with friends every Saturday.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "instead of",
+          "arabic": "بدلاً من",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Adam drinks a lot of water instead of soda.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "then and now",
+          "arabic": "بين الماضي والحاضر",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about then and now.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "used to",
+          "arabic": "اعتاد أن",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "I used to watch TV all day, but now I play football with friends every Saturday.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "change",
+          "arabic": "يتغير",
+          "kind": "verb",
+          "pairedWith": "changed",
+          "sentence": "Hello! I'm Adam, and I'd like to share how my habits have changed.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "changed",
+          "arabic": "يتغير",
+          "kind": "verb",
+          "pairedWith": "change",
+          "sentence": "Hello! I'm Adam, and I'd like to share how my habits have changed.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "bake",
+          "arabic": "يخبز / يحمص",
+          "kind": "verb",
+          "pairedWith": "baked",
+          "sentence": "My family's habits changed too - we grill or bake food instead of frying like we used to do in the past, and we eat dinner early, followed by a walk.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "baked",
+          "arabic": "يخبز / يحمص",
+          "kind": "verb",
+          "pairedWith": "bake",
+          "sentence": "This lesson helps us learn about baked.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "grill",
+          "arabic": "يشوي (على شواية)",
+          "kind": "verb",
+          "pairedWith": "grilled",
+          "sentence": "My family's habits changed too - we grill or bake food instead of frying like we used to do in the past, and we eat dinner early, followed by a walk.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "grilled",
+          "arabic": "يشوي (على شواية)",
+          "kind": "verb",
+          "pairedWith": "grill",
+          "sentence": "This lesson helps us learn about grilled.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "replace",
+          "arabic": "يستبدل",
+          "kind": "verb",
+          "pairedWith": "replaced",
+          "sentence": "This lesson helps us learn about replace.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "replaced",
+          "arabic": "يستبدل",
+          "kind": "verb",
+          "pairedWith": "replace",
+          "sentence": "This lesson helps us learn about replaced.",
+          "sentenceSource": "curriculum-fallback"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U2 L3.html",
+      "unit": 2,
+      "lesson": "3",
+      "title": "Lesson 3: Heart and Blood",
+      "unit_title": "🫀 Prim 5 - Unit 2: Heart and Blood",
+      "cards": [
+        {
+          "term": "organ",
+          "arabic": "عضو",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The heart is one of the most important organs of our body.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "nutrients",
+          "arabic": "عناصر غذائية",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Blood carries oxygen and nutrients to every cell.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "oxygen",
+          "arabic": "غاز الأكسجين",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Blood carries oxygen and nutrients to every cell.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "blood",
+          "arabic": "دم",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The heart's job is to pump blood to all parts of the body.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "blood vessels",
+          "arabic": "الأوعية الدموية",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The heart pumps blood through blood vessels.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "cell",
+          "arabic": "خلية",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Blood carries oxygen and nutrients to every cell.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "fist",
+          "arabic": "قبضة/قبضة اليد",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "It is about the size of your fist.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "powerful",
+          "arabic": "قوي/ذو تأثير كبير",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "It may be small, but it is very powerful!",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "tubes",
+          "arabic": "أنابيب",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The heart pumps blood through blood vessels, which are like small tubes.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "alive",
+          "arabic": "على قيد الحياة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The heart is a strong muscle that keeps us alive.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "waste",
+          "arabic": "نفايات/مخلفات",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "It also takes away waste like carbon dioxide.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "tips",
+          "arabic": "نصائح",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "If you follow these tips, your heart will stay strong.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "size",
+          "arabic": "مقاس/حجم",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "It is about the size of your fist.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "gas",
+          "arabic": "غاز",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about gas.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "carbon dioxide",
+          "arabic": "غاز ثاني أكسيد الكربون",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "It also takes away waste like carbon dioxide.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "pump",
+          "arabic": "مضخة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The heart's job is to pump blood to all parts of the body.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "get sick",
+          "arabic": "يمرض",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about get sick.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "take away",
+          "arabic": "يتخلص من / يزيل",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about take away.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "tightly closed",
+          "arabic": "مغلق بإحكام",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about tightly closed.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "keep ... from",
+          "arabic": "يمنع ... من",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about keep ... from.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "pumped",
+          "arabic": "يضخ",
+          "kind": "verb",
+          "pairedWith": "pump",
+          "sentence": "This lesson helps us learn about pumped.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "follow",
+          "arabic": "يتبع",
+          "kind": "verb",
+          "pairedWith": "followed",
+          "sentence": "If you follow these tips, your heart will stay strong.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "followed",
+          "arabic": "يتبع",
+          "kind": "verb",
+          "pairedWith": "follow",
+          "sentence": "This lesson helps us learn about followed.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "hurt",
+          "arabic": "يجرح",
+          "kind": "verb",
+          "pairedWith": "hurt",
+          "sentence": "Too much stress can hurt your heart, so it's important to keep it healthy.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "beat",
+          "arabic": "ينبض",
+          "kind": "verb",
+          "pairedWith": "beat",
+          "sentence": "This lesson helps us learn about beat.",
+          "sentenceSource": "curriculum-fallback"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U2 L4&5.html",
+      "unit": 2,
+      "lesson": "4",
+      "title": "Lessons 4 & 5: Writing - Think and Create",
+      "unit_title": "🏥 Prim 5 - Unit 2: Healthcare Heroes",
+      "cards": [
+        {
+          "term": "emergencies",
+          "arabic": "حالات طوارئ",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Paramedics respond quickly in emergencies.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "diagnose",
+          "arabic": "يشخص (المرض)",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Doctors use their knowledge and skills to check patients, diagnose diseases, and provide treatments.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "treatment",
+          "arabic": "علاج",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Doctors use their knowledge and skills to check patients, diagnose diseases, and provide treatments.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "healthcare",
+          "arabic": "الرعاية الصحية",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Healthcare workers are real-life heroes.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "paramedics",
+          "arabic": "فريق الإسعاف الطبي (مسعفون)",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Paramedics give help on the spot and take patients safely to hospitals.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "pharmacist",
+          "arabic": "صيدلي",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Pharmacists make sure patients receive the correct medicine.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "medicine",
+          "arabic": "دواء",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Pharmacists make sure patients receive the correct medicine.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "diseases",
+          "arabic": "أمراض",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Doctors use their knowledge and skills to check patients, diagnose diseases, and provide treatments.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "illnesses",
+          "arabic": "أمراض",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "They work day and night to keep people healthy and treat illnesses.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "neighbor",
+          "arabic": "جار",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about neighbor.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "skills",
+          "arabic": "مهارات",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Doctors use their knowledge and skills to check patients, diagnose diseases, and provide treatments.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "patient",
+          "arabic": "مريض",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Doctors use their knowledge to check patients.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "harmful",
+          "arabic": "ضار",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Healthcare workers also help us live healthier lives as they encourage us to eat healthy meals, stay active, play sports, and stop harmful habits.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "toothpaste",
+          "arabic": "معجون أسنان",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about toothpaste.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "knowledge",
+          "arabic": "معرفة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Doctors use their knowledge to check patients.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "hero",
+          "arabic": "بطل",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Healthcare workers are real-life heroes.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "stethoscope",
+          "arabic": "سماعة الطبيب",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about stethoscope.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "support",
+          "arabic": "دعم",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Nurses work around the clock to give care and support to patients.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "life saver",
+          "arabic": "منقذ",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about life saver.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "kindness",
+          "arabic": "عطف",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "These heroes work long hours with kindness.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "care",
+          "arabic": "رعاية/عناية/اهتمام",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Healthcare workers are real-life heroes.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "real-life heroes",
+          "arabic": "أبطال من الحياة الواقعية",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Healthcare workers are real-life heroes.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "on the spot",
+          "arabic": "في الحال / فوراً",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Paramedics give help on the spot and take patients safely to hospitals.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "work day and night",
+          "arabic": "العمل ليلاً ونهاراً",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Healthcare workers work day and night to keep people healthy.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "work around the clock",
+          "arabic": "العمل على مدار الساعة",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Nurses work around the clock to give care and support to patients.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "stay active",
+          "arabic": "يبقى نشيطاً",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Healthcare workers also help us live healthier lives as they encourage us to eat healthy meals, stay active, play sports, and stop harmful habits.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "show respect",
+          "arabic": "يظهر الاحترام",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about show respect.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "give advice",
+          "arabic": "يعطي نصيحة",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "They make sure patients receive the correct medicine and give advice on how to use it safely.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "provide",
+          "arabic": "يمد / يوفر",
+          "kind": "verb",
+          "pairedWith": "provided",
+          "sentence": "Doctors use their knowledge and skills to check patients, diagnose diseases, and provide treatments.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "provided",
+          "arabic": "يمد / يوفر",
+          "kind": "verb",
+          "pairedWith": "provide",
+          "sentence": "This lesson helps us learn about provided.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "receive",
+          "arabic": "يستلم",
+          "kind": "verb",
+          "pairedWith": "received",
+          "sentence": "Pharmacists make sure patients receive the correct medicine.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "received",
+          "arabic": "يستلم",
+          "kind": "verb",
+          "pairedWith": "receive",
+          "sentence": "This lesson helps us learn about received.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "treat",
+          "arabic": "يعالج",
+          "kind": "verb",
+          "pairedWith": "treated",
+          "sentence": "They work day and night to keep people healthy and treat illnesses.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "treated",
+          "arabic": "يعالج",
+          "kind": "verb",
+          "pairedWith": "treat",
+          "sentence": "This lesson helps us learn about treated.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "respond",
+          "arabic": "يرد / يستجيب",
+          "kind": "verb",
+          "pairedWith": "responded",
+          "sentence": "Paramedics respond quickly in emergencies.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "responded",
+          "arabic": "يرد / يستجيب",
+          "kind": "verb",
+          "pairedWith": "respond",
+          "sentence": "This lesson helps us learn about responded.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "diagnosed",
+          "arabic": "يشخص",
+          "kind": "verb",
+          "pairedWith": "diagnose",
+          "sentence": "This lesson helps us learn about diagnosed.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "encourage",
+          "arabic": "يشجع",
+          "kind": "verb",
+          "pairedWith": "encouraged",
+          "sentence": "Healthcare workers also help us live healthier lives as they encourage us to eat healthy meals, stay active, play sports, and stop harmful habits.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "encouraged",
+          "arabic": "يشجع",
+          "kind": "verb",
+          "pairedWith": "encourage",
+          "sentence": "This lesson helps us learn about encouraged.",
+          "sentenceSource": "curriculum-fallback"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U3 L1.html",
+      "unit": 3,
+      "lesson": "1",
+      "title": "Lesson 1: Weather Wonders and Warnings!",
+      "unit_title": "🌪️ Prim 5 - Unit 3: Weather Wonders and Warnings!",
+      "cards": [
+        {
+          "term": "thunderstorm",
+          "arabic": "عاصفة رعدية",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about thunderstorm.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "sandstorm",
+          "arabic": "عاصفة رملية",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about sandstorm.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "flood",
+          "arabic": "فيضان / يفيض",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "There was a flood in Mazen's city.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "drought",
+          "arabic": "جفاف",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "There's a drought in China for months.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "wildfire",
+          "arabic": "حرائق الغابات",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "A wildfire is spreading in the forest in the U.S.A.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "heat wave",
+          "arabic": "موجة حارة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about heat wave.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "damaged",
+          "arabic": "مدمر / محطم",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Yes, my uncle's house was damaged. The water flooded his living room, and he had to stay with us for a few days.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "lightning",
+          "arabic": "البرق",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about lightning.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "severe/extreme",
+          "arabic": "قاسٍ/شديد",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about severe/extreme.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "warnings",
+          "arabic": "تحذيرات",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about warnings.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "wonders",
+          "arabic": "عجائب",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about wonders.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "mountain",
+          "arabic": "جبل",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Oh no! Is it close to the mountains?",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "wind",
+          "arabic": "رياح",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Yes, and it spreads quickly because it's dry there, and the winds are so strong. Sadly, many trees burned down, and animals lost their homes.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "planet",
+          "arabic": "كوكب",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "What a pity! Let's learn more about how we can stay safe and help our planet.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "temperature",
+          "arabic": "درجة الحرارة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about temperature.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "dust",
+          "arabic": "غبار",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about dust.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "forest",
+          "arabic": "غابة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "A wildfire is spreading in the forest in the U.S.A.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "weather changes",
+          "arabic": "تغيرات الطقس",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about weather changes.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "awful / terrible",
+          "arabic": "فظيع / سيء للغاية",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about awful / terrible.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "stuck",
+          "arabic": "عالق / متحشر",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The water covered the streets, and many cars got stuck.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "dry",
+          "arabic": "جاف",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The land gets so dry that animals can't find water.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "What a pity!",
+          "arabic": "يا للأسف!",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "What a pity! Let's learn more about how we can stay safe and help our planet.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "on the news",
+          "arabic": "عبر الأخبار",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Yes, Mazen! I saw it on the news. The water covered the streets, and many cars got stuck. It looked scary.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "get stuck",
+          "arabic": "يعلق / يتحشر",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about get stuck.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "close to",
+          "arabic": "بالقرب من",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Oh no! Is it close to the mountains?",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "burn down",
+          "arabic": "يحرق كلياً",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about burn down.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "prevent ... from",
+          "arabic": "يمنع ... من",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about prevent ... from.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "prevent",
+          "arabic": "يمنع",
+          "kind": "verb",
+          "pairedWith": "prevented",
+          "sentence": "This lesson helps us learn about prevent.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "prevented",
+          "arabic": "يمنع",
+          "kind": "verb",
+          "pairedWith": "prevent",
+          "sentence": "This lesson helps us learn about prevented.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "cover",
+          "arabic": "يغطي",
+          "kind": "verb",
+          "pairedWith": "covered",
+          "sentence": "The water covered the streets, and many cars got stuck.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "covered",
+          "arabic": "يغطي",
+          "kind": "verb",
+          "pairedWith": "cover",
+          "sentence": "The water covered the streets, and many cars got stuck.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "affect",
+          "arabic": "يؤثر على",
+          "kind": "verb",
+          "pairedWith": "affected",
+          "sentence": "This lesson helps us learn about affect.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "affected",
+          "arabic": "يؤثر على",
+          "kind": "verb",
+          "pairedWith": "affect",
+          "sentence": "This lesson helps us learn about affected.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "spread",
+          "arabic": "ينتشر",
+          "kind": "verb",
+          "pairedWith": "spread",
+          "sentence": "A wildfire is spreading in the forest in the U.S.A.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "hit",
+          "arabic": "يصطدم",
+          "kind": "verb",
+          "pairedWith": "hit",
+          "sentence": "This lesson helps us learn about hit.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "strike",
+          "arabic": "يضرب / يهاجم",
+          "kind": "verb",
+          "pairedWith": "struck",
+          "sentence": "This lesson helps us learn about strike.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "struck",
+          "arabic": "يضرب / يهاجم",
+          "kind": "verb",
+          "pairedWith": "strike",
+          "sentence": "This lesson helps us learn about struck.",
+          "sentenceSource": "curriculum-fallback"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U3 L2.html",
+      "unit": 3,
+      "lesson": "2",
+      "title": "Lesson 2: Extreme Weather in Ancient Egypt",
+      "unit_title": "🏜️ Prim 5 - Unit 3: Extreme Weather in Ancient Egypt",
+      "cards": [
+        {
+          "term": "mud bricks",
+          "arabic": "قوالب من الطوب اللبن",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "They built their homes with thick mud bricks to protect themselves from the wind and sand.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "canal",
+          "arabic": "قناة مائية",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The Ancient Egyptians built canals and basins to control the water.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "rich soil",
+          "arabic": "تربة خصبة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The Nile River brought water and rich soil to the land.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "irrigation",
+          "arabic": "الري",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "To solve this, the Ancient Egyptians made irrigation systems to bring water to their fields.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "basin",
+          "arabic": "حوض مائي",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The Ancient Egyptians built canals and basins to control the water.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "tools",
+          "arabic": "أدوات",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "They worked hard, used simple tools, and protected themselves from heat, sand, and floods.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "thick",
+          "arabic": "سميك",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "They built their homes with thick mud bricks to protect themselves from the wind and sand.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "modern",
+          "arabic": "حديث",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The Ancient Egyptians didn't have modern machines, but they found smart ways to survive.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "smart",
+          "arabic": "ذكي",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The Ancient Egyptians found smart ways to survive.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "low",
+          "arabic": "منخفض",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The Nile's water became low, and the land became dry.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "Ancient Egyptians",
+          "arabic": "المصريون القدماء",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The Ancient Egyptians built canals and basins to control the water.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "heat",
+          "arabic": "حرارة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "They worked hard, used simple tools, and protected themselves from heat, sand, and floods.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "possible",
+          "arabic": "ممكن / محتمل",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Ancient Egypt had weather that made farming possible.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "farming",
+          "arabic": "الزراعة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Ancient Egypt had weather that made farming possible.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "machines",
+          "arabic": "آلات",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The Ancient Egyptians didn't have modern machines, but they found smart ways to survive.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "Khamsin",
+          "arabic": "رياح الخماسين",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Sandstorms, called Khamsin, brought strong, hot winds with sand.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "even in the desert",
+          "arabic": "حتى في الصحراء",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Ancient Egypt had weather that made farming possible, even in the desert.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "It was hard to + inf.",
+          "arabic": "كان من الصعب أن...",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about It was hard to + inf..",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "over their fields",
+          "arabic": "فوق حقولهم",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "To stop this, the Ancient Egyptians built canals and basins to control the water and spread it over their fields.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "winds with sand",
+          "arabic": "رياح محملة بالرمال",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Sandstorms, called Khamsin, brought strong, hot winds with sand.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "control",
+          "arabic": "يتحكم",
+          "kind": "verb",
+          "pairedWith": "controlled",
+          "sentence": "The Ancient Egyptians built canals and basins to control the water.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "controlled",
+          "arabic": "يتحكم",
+          "kind": "verb",
+          "pairedWith": "control",
+          "sentence": "This lesson helps us learn about controlled.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "survive",
+          "arabic": "يبقى على قيد الحياة",
+          "kind": "verb",
+          "pairedWith": "survived",
+          "sentence": "The Ancient Egyptians found smart ways to survive.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "survived",
+          "arabic": "يبقى على قيد الحياة",
+          "kind": "verb",
+          "pairedWith": "survive",
+          "sentence": "This lesson helps us learn about survived.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "damage",
+          "arabic": "يدمر",
+          "kind": "verb",
+          "pairedWith": "damaged",
+          "sentence": "But sometimes, the floods were too strong and damaged farms.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "damaged",
+          "arabic": "يدمر",
+          "kind": "verb",
+          "pairedWith": "damage",
+          "sentence": "But sometimes, the floods were too strong and damaged farms.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "bring",
+          "arabic": "يجلب / يحضر",
+          "kind": "verb",
+          "pairedWith": "brought",
+          "sentence": "To solve this, the Ancient Egyptians made irrigation systems to bring water to their fields.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "brought",
+          "arabic": "يجلب / يحضر",
+          "kind": "verb",
+          "pairedWith": "bring",
+          "sentence": "The Nile River brought water and rich soil to the land.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "become",
+          "arabic": "يصبح",
+          "kind": "verb",
+          "pairedWith": "became",
+          "sentence": "This lesson helps us learn about become.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "became",
+          "arabic": "يصبح",
+          "kind": "verb",
+          "pairedWith": "become",
+          "sentence": "The Nile's water became low, and the land became dry.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "build",
+          "arabic": "يبني",
+          "kind": "verb",
+          "pairedWith": "built",
+          "sentence": "This lesson helps us learn about build.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "built",
+          "arabic": "يبني",
+          "kind": "verb",
+          "pairedWith": "build",
+          "sentence": "The Ancient Egyptians built canals and basins to control the water.",
+          "sentenceSource": "book-context"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U3 L3.html",
+      "unit": 3,
+      "lesson": "3",
+      "title": "Lesson 3: The Two Frogs",
+      "unit_title": "🐸 Prim 5 - Unit 3: Story Time - The Two Frogs",
+      "cards": [
+        {
+          "term": "pond",
+          "arabic": "بركة مياه",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The two frogs lived together in a small pond.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "well",
+          "arabic": "بئر",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "After a long time, they saw a deep well.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "flies",
+          "arabic": "ذباب",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Every day, they had fun catching flies, swimming in the cool water, and resting under the warm sun.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "quiet",
+          "arabic": "هادئ",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Once upon a time, in a small and quiet village, there were two frogs who were best friends.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "movement",
+          "arabic": "الحركة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about movement.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "hole",
+          "arabic": "حفرة / فتحة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about hole.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "deep",
+          "arabic": "عميق",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "After a long time, they saw a deep well.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "choice",
+          "arabic": "اختيار",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about choice.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "danger",
+          "arabic": "خطر",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about danger.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "safely",
+          "arabic": "بأمان",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "They decided to leave the pond and look for a new home where they could live safely.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "leap",
+          "arabic": "يقفز / ينب",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "They kept leaping and searching for a safe home.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "edge",
+          "arabic": "حافة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "They lived together in a small pond near the edge of the village.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "once upon a time",
+          "arabic": "ذات مرة",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Once upon a time, in a small and quiet village, there were two frogs who were best friends.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "[be] able to",
+          "arabic": "قادر على",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about [be] able to.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "dry up",
+          "arabic": "يجف تماماً",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "One summer, the pond started to dry up.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "any longer",
+          "arabic": "لم يعد",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "They knew they couldn't stay in the pond any longer because there wasn't enough water for them.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "think for a moment",
+          "arabic": "يفكر للحظة",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about think for a moment.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "at the bottom of",
+          "arabic": "في أسفل",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about at the bottom of.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "near the edge of",
+          "arabic": "بالقرب من حافة",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "They lived together in a small pond near the edge of the village.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "make a decision",
+          "arabic": "يتخذ قرار",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about make a decision.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "decide",
+          "arabic": "يقرر",
+          "kind": "verb",
+          "pairedWith": "decided",
+          "sentence": "The two frogs decided to leave the pond.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "decided",
+          "arabic": "يقرر",
+          "kind": "verb",
+          "pairedWith": "decide",
+          "sentence": "The two frogs decided to leave the pond.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "agree",
+          "arabic": "يوافق",
+          "kind": "verb",
+          "pairedWith": "agreed",
+          "sentence": "The first frog thought about what his friend said, then agreed.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "agreed",
+          "arabic": "يوافق",
+          "kind": "verb",
+          "pairedWith": "agree",
+          "sentence": "The first frog thought about what his friend said, then agreed.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "search",
+          "arabic": "يبحث",
+          "kind": "verb",
+          "pairedWith": "searched",
+          "sentence": "They kept leaping and searching for a safe home.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "searched",
+          "arabic": "يبحث",
+          "kind": "verb",
+          "pairedWith": "search",
+          "sentence": "This lesson helps us learn about searched.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "catch",
+          "arabic": "يصطاد",
+          "kind": "verb",
+          "pairedWith": "caught",
+          "sentence": "Every day, they had fun catching flies, swimming in the cool water, and resting under the warm sun.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "caught",
+          "arabic": "يصطاد",
+          "kind": "verb",
+          "pairedWith": "catch",
+          "sentence": "This lesson helps us learn about caught.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "swim",
+          "arabic": "يسبح",
+          "kind": "verb",
+          "pairedWith": "swam",
+          "sentence": "Every day, they had fun catching flies, swimming in the cool water, and resting under the warm sun.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "swam",
+          "arabic": "يسبح",
+          "kind": "verb",
+          "pairedWith": "swim",
+          "sentence": "This lesson helps us learn about swam.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "leave",
+          "arabic": "يغادر / يترك",
+          "kind": "verb",
+          "pairedWith": "left",
+          "sentence": "The two frogs decided to leave the pond.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "left",
+          "arabic": "يغادر / يترك",
+          "kind": "verb",
+          "pairedWith": "leave",
+          "sentence": "This lesson helps us learn about left.",
+          "sentenceSource": "curriculum-fallback"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U3 L4&5.html",
+      "unit": 3,
+      "lesson": "4",
+      "title": "Lessons 4 & 5: Lily's flowers get sunshine!",
+      "unit_title": "☁️ Prim 5 - Unit 3: Writing - Think and Create",
+      "cards": [
+        {
+          "term": "cozy (adj)",
+          "arabic": "مريح / دافئ",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Lily lived in a cozy little house.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "whisper",
+          "arabic": "همسة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Lily's grandma said that a gentle whisper could fix things.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "joy",
+          "arabic": "فرح / سعادة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Lily clapped her hands with joy.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "kindness",
+          "arabic": "لطف / عطف",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Even big problems could be solved with a little bit of kindness.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "gentle (adj)",
+          "arabic": "لطيف",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Lily's grandma said that a gentle whisper could fix things.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "fluffy",
+          "arabic": "ناعم / رقيق",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Lily saw big, fluffy clouds floating upside down.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "clouds",
+          "arabic": "سحب",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Lily saw big, fluffy clouds floating upside down.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "imagination",
+          "arabic": "خيال",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about imagination.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "sunshine",
+          "arabic": "ضوء الشمس",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about sunshine.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "magically",
+          "arabic": "بطريقة ساحرة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Slowly and magically, the clouds began to flip.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "weather conditions",
+          "arabic": "أحوال جوية",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about weather conditions.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "strange",
+          "arabic": "غريب",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "One sunny morning, Lily looked out her window and saw something strange.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "brightly",
+          "arabic": "بشكل ساطع / لامع",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The sun shone brightly, and the flowers smiled.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "collage",
+          "arabic": "فن القص واللصق",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about collage.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "side",
+          "arabic": "جانب",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Lily saw big, fluffy clouds floating upside down.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "one by one",
+          "arabic": "واحداً تلو الآخر",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "One by one, they turned over, showing their bright, sunny sides.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "with a little bit of kindness",
+          "arabic": "بقليل من اللطف",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Even big problems could be solved with a little bit of kindness.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "think hard",
+          "arabic": "يفكر بعمق",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about think hard.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "upside down",
+          "arabic": "في الوضع المقلوب / رأساً على عقب",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Lily saw big, fluffy clouds floating upside down.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "turn right side up",
+          "arabic": "يقلب إلى الجهة الصحيحة",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Lily whispered to the clouds and asked them to turn right side up.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "turn over",
+          "arabic": "يقلب (سينياً)",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about turn over.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "flip",
+          "arabic": "يقلب",
+          "kind": "verb",
+          "pairedWith": "flipped",
+          "sentence": "Slowly and magically, the clouds began to flip.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "flipped",
+          "arabic": "يقلب",
+          "kind": "verb",
+          "pairedWith": "flip",
+          "sentence": "This lesson helps us learn about flipped.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "float",
+          "arabic": "يطفو",
+          "kind": "verb",
+          "pairedWith": "floated",
+          "sentence": "Lily saw big, fluffy clouds floating upside down.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "floated",
+          "arabic": "يطفو",
+          "kind": "verb",
+          "pairedWith": "float",
+          "sentence": "This lesson helps us learn about floated.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "clap",
+          "arabic": "يصفق",
+          "kind": "verb",
+          "pairedWith": "clapped",
+          "sentence": "Lily clapped her hands with joy.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "clapped",
+          "arabic": "يصفق",
+          "kind": "verb",
+          "pairedWith": "clap",
+          "sentence": "Lily clapped her hands with joy.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "whispered",
+          "arabic": "يهمُس",
+          "kind": "verb",
+          "pairedWith": "whisper",
+          "sentence": "Lily whispered to the clouds and asked them to turn right side up.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "seem",
+          "arabic": "يبدو",
+          "kind": "verb",
+          "pairedWith": "seemed",
+          "sentence": "This lesson helps us learn about seem.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "seemed",
+          "arabic": "يبدو",
+          "kind": "verb",
+          "pairedWith": "seem",
+          "sentence": "This lesson helps us learn about seemed.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "shine",
+          "arabic": "يشرق",
+          "kind": "verb",
+          "pairedWith": "shone",
+          "sentence": "This lesson helps us learn about shine.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "shone",
+          "arabic": "يشرق",
+          "kind": "verb",
+          "pairedWith": "shine",
+          "sentence": "The sun shone brightly, and the flowers smiled.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "think",
+          "arabic": "يفكر",
+          "kind": "verb",
+          "pairedWith": "thought",
+          "sentence": "This lesson helps us learn about think.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "thought",
+          "arabic": "يفكر",
+          "kind": "verb",
+          "pairedWith": "think",
+          "sentence": "Lily thought hard.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "begin",
+          "arabic": "يبدأ",
+          "kind": "verb",
+          "pairedWith": "began",
+          "sentence": "This lesson helps us learn about begin.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "began",
+          "arabic": "يبدأ",
+          "kind": "verb",
+          "pairedWith": "begin",
+          "sentence": "Slowly and magically, the clouds began to flip.",
+          "sentenceSource": "book-context"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U4 L1.html",
+      "unit": 4,
+      "lesson": "1",
+      "title": "Lesson 1: Places in Our Community",
+      "unit_title": "🏙️ Prim 5 - Unit 4: Places in Our Community",
+      "cards": [
+        {
+          "term": "restaurant",
+          "arabic": "مطعم",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "We can eat dinner at a restaurant.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "coffee shop",
+          "arabic": "مقهى",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Adel likes going to the coffee shop for coffee and cake.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "bakery",
+          "arabic": "مخبز",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Tamer wants to get some fresh bread from the bakery.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "supermarket",
+          "arabic": "سوبر ماركت",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Tamer enjoys picking out groceries from the supermarket with his family.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "park",
+          "arabic": "حديقة عامة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "We can go on rides at a theme park.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "club",
+          "arabic": "نادي",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Adel likes going to the club to play sports with his friends.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "theme park",
+          "arabic": "مدينة ملاهي",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "We can go on rides at a theme park.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "groceries",
+          "arabic": "البقالة / السلع",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Tamer enjoys picking out groceries from the supermarket with his family.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "fresh",
+          "arabic": "طازج",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Tamer wants to get some fresh bread from the bakery.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "loaf / loaves",
+          "arabic": "رغيف / أرغفة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about loaf / loaves.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "neighborhood",
+          "arabic": "حي",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Tamer and Adel talk about places in their neighborhood.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "waiter",
+          "arabic": "جرسون",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about waiter.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "rides",
+          "arabic": "ألعاب ملاهي",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "We can go on rides at a theme park.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "community",
+          "arabic": "مجتمع",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about community.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "personally",
+          "arabic": "شخصياً",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "That's cool! Personally, I like going to the coffee shop for coffee and cake. It's so relaxing.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "relaxing",
+          "arabic": "مريح",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "That's cool! Personally, I like going to the coffee shop for coffee and cake. It's so relaxing.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "hang out with",
+          "arabic": "يقضي وقتاً مع",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "I like going to the club to play sports, video games, and hang out with my friends. What about you?",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "pass by",
+          "arabic": "يمر بـ",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about pass by.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "come with",
+          "arabic": "يأتي مع",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Listen, I want to get some fresh bread from the bakery near the park. Do you want to come with me?",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "pick out",
+          "arabic": "ينقي / يختار",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about pick out.",
+          "sentenceSource": "curriculum-fallback"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U4 L2.html",
+      "unit": 4,
+      "lesson": "2",
+      "title": "Lesson 2: Egyptian Villages",
+      "unit_title": "🏡 Prim 5 - Unit 4: Egyptian Villages",
+      "cards": [
+        {
+          "term": "field",
+          "arabic": "حقل",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "I live in a small village with green fields.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "barn",
+          "arabic": "حظيرة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Farmers keep their animals in the barns.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "community center",
+          "arabic": "مركز مجتمعي",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "I meet my friends and play games at the community center.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "cottage",
+          "arabic": "كوخ / بيت ريفي",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "I live in a cozy cottage with my family.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "village",
+          "arabic": "قرية",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "I live in a small village with green fields.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "main square",
+          "arabic": "الساحة الرئيسية",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The main square is the busiest place in my village.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "hill",
+          "arabic": "تل / هضبة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "I live in a small village with green fields, tall trees, and quiet hills.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "fresh air",
+          "arabic": "هواء نقي",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about fresh air.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "busy",
+          "arabic": "مزدحم / مشغول",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about busy.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "quiet / calm",
+          "arabic": "هادئ / صامت",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about quiet / calm.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "peaceful",
+          "arabic": "هادئ / مسالم",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about peaceful.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "cozy",
+          "arabic": "دافئ / مريح",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "I live in a cozy cottage with my family.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "the busiest place",
+          "arabic": "المكان الأكثر ازدحاماً",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "The main square is the busiest place in my village.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "full of",
+          "arabic": "مليء بـ",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "The people are friendly, and the village is full of life.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "surrounded by",
+          "arabic": "محاط بـ",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about surrounded by.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "keep animals",
+          "arabic": "يربي حيوانات",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Farmers keep animals like cows, sheep, and chickens in the barns.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "shop",
+          "arabic": "يتسوق",
+          "kind": "verb",
+          "pairedWith": "shopped",
+          "sentence": "The main square is the busiest place. On Saturdays, people meet there to shop at the market.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "shopped",
+          "arabic": "يتسوق",
+          "kind": "verb",
+          "pairedWith": "shop",
+          "sentence": "This lesson helps us learn about shopped.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "gather",
+          "arabic": "يجتمع",
+          "kind": "verb",
+          "pairedWith": "gathered",
+          "sentence": "This lesson helps us learn about gather.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "gathered",
+          "arabic": "يجتمع",
+          "kind": "verb",
+          "pairedWith": "gather",
+          "sentence": "This lesson helps us learn about gathered.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "celebrate",
+          "arabic": "يحتفل",
+          "kind": "verb",
+          "pairedWith": "celebrated",
+          "sentence": "This lesson helps us learn about celebrate.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "celebrated",
+          "arabic": "يحتفل",
+          "kind": "verb",
+          "pairedWith": "celebrate",
+          "sentence": "This lesson helps us learn about celebrated.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "hear",
+          "arabic": "يسمع",
+          "kind": "verb",
+          "pairedWith": "heard",
+          "sentence": "Every morning, I hear birds singing and see farmers working in the fields.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "heard",
+          "arabic": "يسمع",
+          "kind": "verb",
+          "pairedWith": "hear",
+          "sentence": "This lesson helps us learn about heard.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "meet",
+          "arabic": "يقابل",
+          "kind": "verb",
+          "pairedWith": "met",
+          "sentence": "I meet my friends and play games at the community center.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "met",
+          "arabic": "يقابل",
+          "kind": "verb",
+          "pairedWith": "meet",
+          "sentence": "This lesson helps us learn about met.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "feed",
+          "arabic": "يطعم",
+          "kind": "verb",
+          "pairedWith": "fed",
+          "sentence": "I visit my uncle's barn to help feed the animals.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "fed",
+          "arabic": "يطعم",
+          "kind": "verb",
+          "pairedWith": "feed",
+          "sentence": "This lesson helps us learn about fed.",
+          "sentenceSource": "curriculum-fallback"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U4 L4&5.html",
+      "unit": 4,
+      "lesson": "4",
+      "title": "Lessons 4 & 5: Writing - Think and Create",
+      "unit_title": "🏙️ Prim 5 - Unit 4: Writing - The New Administrative Capital",
+      "cards": [
+        {
+          "term": "crowding",
+          "arabic": "ازدحام",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The New Administrative Capital helps reduce crowding in Cairo.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "steel",
+          "arabic": "فولاذ / صلب",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The Iconic Tower is made of strong glass and steel.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "New Administrative Capital",
+          "arabic": "العاصمة الإدارية الجديدة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The New Administrative Capital helps reduce crowding in Cairo.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "government offices",
+          "arabic": "مكاتب حكومية",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "It has also government offices and important buildings.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "smart",
+          "arabic": "ذكي / متطور",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The city is designed to be very smart.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "floor",
+          "arabic": "طابق",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The Iconic Tower is 385 meters high and has 80 floors.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "roads",
+          "arabic": "طرق",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Modern technology is used to manage roads, water, energy, and almost everything.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "platypus",
+          "arabic": "حيوان خلد الماء",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about platypus.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "buildings",
+          "arabic": "مبانٍ",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "It has also government offices and important buildings.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "the Iconic Tower",
+          "arabic": "البرج الأيقوني",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The Iconic Tower is made of strong glass and steel.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "airport",
+          "arabic": "مطار",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The city where I live has the tallest building in Africa, the Iconic Tower, and a new airport!",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "green areas",
+          "arabic": "مساحات خضراء",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The city has green areas everywhere.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "modern technology",
+          "arabic": "التكنولوجيا الحديثة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Modern technology is used to manage roads, water, energy, and almost everything.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "made of",
+          "arabic": "مصنوع من",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "The Iconic Tower is made of strong glass and steel.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "from the top",
+          "arabic": "من الأعلى",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "From the top, I can see the whole city!",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "design",
+          "arabic": "يصمم",
+          "kind": "verb",
+          "pairedWith": "designed",
+          "sentence": "The city is designed to be very smart.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "designed",
+          "arabic": "يصمم",
+          "kind": "verb",
+          "pairedWith": "design",
+          "sentence": "The city is designed to be very smart.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "manage",
+          "arabic": "يتحكم / يدير",
+          "kind": "verb",
+          "pairedWith": "managed",
+          "sentence": "Modern technology is used to manage roads, water, energy, and almost everything.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "managed",
+          "arabic": "يتحكم / يدير",
+          "kind": "verb",
+          "pairedWith": "manage",
+          "sentence": "This lesson helps us learn about managed.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "reduce",
+          "arabic": "يقلل / يقلص",
+          "kind": "verb",
+          "pairedWith": "reduced",
+          "sentence": "The New Administrative Capital helps reduce crowding in Cairo.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "reduced",
+          "arabic": "يقلل / يقلص",
+          "kind": "verb",
+          "pairedWith": "reduce",
+          "sentence": "This lesson helps us learn about reduced.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "build",
+          "arabic": "يبني",
+          "kind": "verb",
+          "pairedWith": "built",
+          "sentence": "Egypt builds new cities almost everywhere.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "built",
+          "arabic": "يبني",
+          "kind": "verb",
+          "pairedWith": "build",
+          "sentence": "This lesson helps us learn about built.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "find",
+          "arabic": "يجد",
+          "kind": "verb",
+          "pairedWith": "found",
+          "sentence": "People can find great jobs and have a peaceful life there.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "found",
+          "arabic": "يجد",
+          "kind": "verb",
+          "pairedWith": "find",
+          "sentence": "This lesson helps us learn about found.",
+          "sentenceSource": "curriculum-fallback"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U5 L1.html",
+      "unit": 5,
+      "lesson": "1",
+      "title": "Lesson 1: The Gifts of Nature",
+      "unit_title": "🌿 Prim 5 - Unit 5: The Gifts of Nature",
+      "cards": [
+        {
+          "term": "sunlight",
+          "arabic": "ضوء الشمس",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about sunlight.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "fossil fuel",
+          "arabic": "وقود حفري",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about fossil fuel.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "water",
+          "arabic": "ماء",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The Nile River is the most important water resource in Egypt.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "soil",
+          "arabic": "تربة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about soil.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "minerals",
+          "arabic": "معادن",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Egypt's deserts contain gold, iron, and other minerals, as well.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "wind",
+          "arabic": "رياح",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about wind.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "electricity",
+          "arabic": "كهرباء",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Oil and natural gas are used to make fuel and electricity.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "natural gas",
+          "arabic": "الغاز الطبيعي",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Oil and natural gas are used to make fuel and electricity.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "treasures",
+          "arabic": "كنوز",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Excellent! The Nile is the most important water resource in Egypt. What other treasures does Egypt have?",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "cotton",
+          "arabic": "قطن",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "We grow cotton, wheat, and many kinds of fruit.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "wheat",
+          "arabic": "قمح",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "We grow cotton, wheat, and many kinds of fruit.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "jewelry",
+          "arabic": "مجوهرات",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "They're used to make jewelry, make buildings, and help our country grow.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "gold",
+          "arabic": "ذهب",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Egypt's deserts contain gold, iron, and other minerals, as well.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "copper",
+          "arabic": "نحاس",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about copper.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "farming",
+          "arabic": "الزراعة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The Nile River! It provides water for drinking and farming.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "oil",
+          "arabic": "نفط / بترول",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Oil and natural gas are used to make fuel and electricity.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "fabric",
+          "arabic": "قماش",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about fabric.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "fertile",
+          "arabic": "خصب",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Well done! The fertile land along the Nile and in the Delta region helps us grow food.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "country",
+          "arabic": "بلد / دولة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "They're used to make jewelry, make buildings, and help our country grow.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "Delta region",
+          "arabic": "منطقة الدلتا",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Well done! The fertile land along the Nile and in the Delta region helps us grow food.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "iron",
+          "arabic": "حديد",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Egypt's deserts contain gold, iron, and other minerals, as well.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "work for",
+          "arabic": "يعمل لدى / في",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about work for.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "along the Nile",
+          "arabic": "على امتداد النيل",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Well done! The fertile land along the Nile and in the Delta region helps us grow food.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "Well done! = Excellent",
+          "arabic": "أحسنت!",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about Well done! = Excellent.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "name",
+          "arabic": "يذكر/يسمي",
+          "kind": "verb",
+          "pairedWith": "named",
+          "sentence": "Very good! Natural resources help us in our daily lives. Can you name a natural resource we can find in Egypt?",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "named",
+          "arabic": "يذكر/يسمي",
+          "kind": "verb",
+          "pairedWith": "name",
+          "sentence": "This lesson helps us learn about named.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "power",
+          "arabic": "يزود بالطاقة",
+          "kind": "verb",
+          "pairedWith": "powered",
+          "sentence": "This lesson helps us learn about power.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "powered",
+          "arabic": "يزود بالطاقة",
+          "kind": "verb",
+          "pairedWith": "power",
+          "sentence": "This lesson helps us learn about powered.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "provide",
+          "arabic": "يمد",
+          "kind": "verb",
+          "pairedWith": "provided",
+          "sentence": "The Nile River! It provides water for drinking and farming.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "provided",
+          "arabic": "يمد",
+          "kind": "verb",
+          "pairedWith": "provide",
+          "sentence": "This lesson helps us learn about provided.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "contain",
+          "arabic": "يحتوي على",
+          "kind": "verb",
+          "pairedWith": "contained",
+          "sentence": "Egypt's deserts contain gold, iron, and other minerals, as well.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "contained",
+          "arabic": "يحتوي على",
+          "kind": "verb",
+          "pairedWith": "contain",
+          "sentence": "This lesson helps us learn about contained.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "find",
+          "arabic": "يجد",
+          "kind": "verb",
+          "pairedWith": "found",
+          "sentence": "Natural resources are things we find in nature.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "found",
+          "arabic": "يجد",
+          "kind": "verb",
+          "pairedWith": "find",
+          "sentence": "This lesson helps us learn about found.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "grow",
+          "arabic": "ينمو",
+          "kind": "verb",
+          "pairedWith": "grew",
+          "sentence": "We grow cotton, wheat, and many kinds of fruit.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "grew",
+          "arabic": "ينمو",
+          "kind": "verb",
+          "pairedWith": "grow",
+          "sentence": "This lesson helps us learn about grew.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "give",
+          "arabic": "يمنح/يزود",
+          "kind": "verb",
+          "pairedWith": "gave",
+          "sentence": "This lesson helps us learn about give.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "gave",
+          "arabic": "يمنح/يزود",
+          "kind": "verb",
+          "pairedWith": "give",
+          "sentence": "This lesson helps us learn about gave.",
+          "sentenceSource": "curriculum-fallback"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U5 L2.html",
+      "unit": 5,
+      "lesson": "2",
+      "title": "Lesson 2: Metals and Minerals in Our World",
+      "unit_title": "💎 Prim 5 - Unit 5: Metals and Minerals in Our World",
+      "cards": [
+        {
+          "term": "mineral resources",
+          "arabic": "موارد معدنية",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Under the earth, we find precious mineral resources like gold, diamond, copper, and iron.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "coins",
+          "arabic": "عملات معدنية",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "People use it for coins and jewelry.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "non-renewable",
+          "arabic": "غير متجدد",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "We must use minerals wisely because they are non-renewable.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "electrical wires",
+          "arabic": "أسلاك كهربائية",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Copper is great for making electrical wires.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "tools",
+          "arabic": "أدوات",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Copper is a strong metal which we use for electrical wires, pipes, and tools.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "pipes",
+          "arabic": "مواسير",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Copper is a strong metal which we use for electrical wires, pipes, and tools.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "miners",
+          "arabic": "عمال المناجم",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "To get minerals, miners dig deep into the ground.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "precious",
+          "arabic": "ثمين/نفيس",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Minerals are precious materials that we find underground.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "valuable",
+          "arabic": "ذو قيمة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Diamond is a rare mineral-even more valuable than gold!",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "expensive",
+          "arabic": "غالي الثمن",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about expensive.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "bright/shiny",
+          "arabic": "لامع / ذو بريق",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about bright/shiny.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "rare",
+          "arabic": "نادر",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Diamond is a rare mineral-even more valuable than gold!",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "super strong",
+          "arabic": "فائق القوة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Iron is super strong.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "gold",
+          "arabic": "ذهب",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Gold is soft, shiny, perfect for jewelry.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "diamond",
+          "arabic": "ألماس",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Under the earth, we find precious mineral resources like gold, diamond, copper, and iron.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "copper",
+          "arabic": "نحاس",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Copper is great for making electrical wires.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "iron",
+          "arabic": "حديد",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Iron is used to make cars, ships, airplanes and bridges.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "ring",
+          "arabic": "خاتم",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "I love gold rings!",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "airplane",
+          "arabic": "طائرة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Iron is used to make cars, ships, airplanes and bridges.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "hidden treasures",
+          "arabic": "ثروات / كنوز خفية",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about hidden treasures.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "materials",
+          "arabic": "مواد خام",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Minerals are precious materials that we find underground.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "ship",
+          "arabic": "سفينة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Iron is used to make cars, ships, airplanes and bridges.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "cheaper",
+          "arabic": "أرخص ثمناً",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "It's cheaper than gold.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "bridge",
+          "arabic": "كوبري",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Iron is used to make cars, ships, airplanes and bridges.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "the Eastern Desert",
+          "arabic": "الصحراء الشرقية",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Egypt gets most of its copper and gold from the Eastern Desert.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "dig deep into the ground",
+          "arabic": "يحفر بعمق تحت الأرض",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "To get minerals, miners dig deep into the ground.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "use .... wisely",
+          "arabic": "يستخدم .... بحكمة",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about use .... wisely.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "easy to shape",
+          "arabic": "سهل التشكيل",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Gold is soft, shiny, and easy to shape.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "take millions of years",
+          "arabic": "تستغرق ملايين السنين",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "But minerals are non-renewable - they take millions of years to form!",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "shape",
+          "arabic": "يتشكل",
+          "kind": "verb",
+          "pairedWith": "shaped",
+          "sentence": "Gold is soft, shiny, and easy to shape.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "shaped",
+          "arabic": "يتشكل",
+          "kind": "verb",
+          "pairedWith": "shape",
+          "sentence": "This lesson helps us learn about shaped.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "form",
+          "arabic": "يتكون",
+          "kind": "verb",
+          "pairedWith": "formed",
+          "sentence": "But minerals are non-renewable - they take millions of years to form!",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "formed",
+          "arabic": "يتكون",
+          "kind": "verb",
+          "pairedWith": "form",
+          "sentence": "This lesson helps us learn about formed.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "waste",
+          "arabic": "يهدر",
+          "kind": "verb",
+          "pairedWith": "wasted",
+          "sentence": "So we must use them wisely and never waste them.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "wasted",
+          "arabic": "يهدر",
+          "kind": "verb",
+          "pairedWith": "waste",
+          "sentence": "This lesson helps us learn about wasted.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "dig",
+          "arabic": "يحفر",
+          "kind": "verb",
+          "pairedWith": "dug",
+          "sentence": "To get minerals, miners dig deep into the ground.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "dug",
+          "arabic": "يحفر",
+          "kind": "verb",
+          "pairedWith": "dig",
+          "sentence": "This lesson helps us learn about dug.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "cost",
+          "arabic": "يكلف",
+          "kind": "verb",
+          "pairedWith": "cost",
+          "sentence": "This lesson helps us learn about cost.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "get",
+          "arabic": "يحصل على",
+          "kind": "verb",
+          "pairedWith": "got",
+          "sentence": "Egypt gets most of its copper and gold from the Eastern Desert.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "got",
+          "arabic": "يحصل على",
+          "kind": "verb",
+          "pairedWith": "get",
+          "sentence": "This lesson helps us learn about got.",
+          "sentenceSource": "curriculum-fallback"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U5 L3.html",
+      "unit": 5,
+      "lesson": "3",
+      "title": "Lesson 3: Story Time : 'Just Watch!' – a story by the Little Digger",
+      "unit_title": "🚢 Prim 5 - Unit 5: Story Time - Just Watch!",
+      "cards": [
+        {
+          "term": "strength",
+          "arabic": "قوة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about strength.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "digger",
+          "arabic": "آلة الحفار",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The little digger dug around the ship and cleared the mud.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "cargo",
+          "arabic": "حمولة / شحنة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "One morning, I watched the big ship come close to shore to load some cargo.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "mud",
+          "arabic": "وحل / طين",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "One morning, the big ship got stuck in the thick, heavy mud.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "path",
+          "arabic": "طريق / مسار",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "The path was clear, and the big ship floated free!",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "load",
+          "arabic": "يحمل / يشحن",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "One morning, I watched the big ship come close to shore to load some cargo.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "thick",
+          "arabic": "سميك",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "One morning, the big ship got stuck in the thick, heavy mud.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "shore",
+          "arabic": "شاطئ",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "I was just a little digger on the shore - not big, not popular - but always ready to help.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "stuck",
+          "arabic": "عالق",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "One morning, the big ship got stuck in the thick, heavy mud.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "ocean",
+          "arabic": "محيط",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The ship was huge, and proud as it sailed across the ocean.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "machines",
+          "arabic": "آلات",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The big machines rushed to help, but none of them could pull it out.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "popular",
+          "arabic": "مشهور / معروف",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "I was just a little digger on the shore - not big, not popular - but always ready to help.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "deep",
+          "arabic": "عميق",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about deep.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "clear",
+          "arabic": "نظيف / واضح",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The little digger dug around the ship and cleared the mud.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "grateful",
+          "arabic": "شاكر / ممتن",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "The big ship was grateful and thanked the little digger.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "give up",
+          "arabic": "يستسلم",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Then I saw everyone starting to give up.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "doesn't matter",
+          "arabic": "لا يهم",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about doesn't matter.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "pull out",
+          "arabic": "يسحب",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about pull out.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "ready to help",
+          "arabic": "مستعد للمساعدة",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "I was just a little digger on the shore - not big, not popular - but always ready to help.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "something went wrong",
+          "arabic": "حدث خطأ ما",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "But then, something went wrong.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "get stuck",
+          "arabic": "يعلق",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about get stuck.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "take a long time",
+          "arabic": "يستغرق وقتاً طويلاً",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about take a long time.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "admire",
+          "arabic": "يُعجب بـ",
+          "kind": "verb",
+          "pairedWith": "admired",
+          "sentence": "Everyone admired the big ship.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "admired",
+          "arabic": "يُعجب بـ",
+          "kind": "verb",
+          "pairedWith": "admire",
+          "sentence": "Everyone admired the big ship.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "stare",
+          "arabic": "يحدق",
+          "kind": "verb",
+          "pairedWith": "stared",
+          "sentence": "The big machines stared at me and laughed.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "stared",
+          "arabic": "يحدق",
+          "kind": "verb",
+          "pairedWith": "stare",
+          "sentence": "The big machines stared at me and laughed.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "rush",
+          "arabic": "يسرع",
+          "kind": "verb",
+          "pairedWith": "rushed",
+          "sentence": "The big machines rushed to help, but none of them could pull it out.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "rushed",
+          "arabic": "يسرع",
+          "kind": "verb",
+          "pairedWith": "rush",
+          "sentence": "The big machines rushed to help, but none of them could pull it out.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "bother",
+          "arabic": "يزعج / يضايق",
+          "kind": "verb",
+          "pairedWith": "bothered",
+          "sentence": "But I didn't let that bother me.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "bothered",
+          "arabic": "يزعج / يضايق",
+          "kind": "verb",
+          "pairedWith": "bother",
+          "sentence": "This lesson helps us learn about bothered.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "float",
+          "arabic": "يطفو",
+          "kind": "verb",
+          "pairedWith": "floated",
+          "sentence": "The path was clear, and the big ship floated free!",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "floated",
+          "arabic": "يطفو",
+          "kind": "verb",
+          "pairedWith": "float",
+          "sentence": "The path was clear, and the big ship floated free!",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "sail",
+          "arabic": "يبحر",
+          "kind": "verb",
+          "pairedWith": "sailed",
+          "sentence": "The ship was huge, and proud as it sailed across the ocean.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "sailed",
+          "arabic": "يبحر",
+          "kind": "verb",
+          "pairedWith": "sail",
+          "sentence": "The ship was huge, and proud as it sailed across the ocean.",
+          "sentenceSource": "book-context"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U5 L4&5.html",
+      "unit": 5,
+      "lesson": "4",
+      "title": "Lessons 4 & 5: Writing - I Am Water",
+      "unit_title": "💧 Prim 5 - Unit 5: I Am Water",
+      "cards": [
+        {
+          "term": "tear",
+          "arabic": "دمعة",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "We see water in a glass, a river, a cloud, or a tear.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "sweat",
+          "arabic": "عرق",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "But I never stop moving. I am always part of something greater - clouds, oceans, even sweat.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "bathe",
+          "arabic": "يستحم",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "People drink water, bathe in it and cry when they're hurt.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "still",
+          "arabic": "ساكن",
+          "kind": "main",
+          "pairedWith": null,
+          "sentence": "Water can be quiet and still, or wild and crashing.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "thirsty",
+          "arabic": "عطشان",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "People drink me when they're thirsty, bathe in me when they're dirty and cry me when they're hurt.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "dirty",
+          "arabic": "غير نظيف",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "People drink me when they're thirsty, bathe in me when they're dirty and cry me when they're hurt.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "quiet",
+          "arabic": "هادئ",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Water can be quiet and still, or wild and crashing.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "shape",
+          "arabic": "شكل",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Water can shape the world.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "lake",
+          "arabic": "بحيرة",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "I sleep in lakes and dance in the rain.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "wild",
+          "arabic": "شديد / قاسي",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Water can be quiet and still, or wild and crashing.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "clouds",
+          "arabic": "سحب",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "But I never stop moving. I am always part of something greater - clouds, oceans, even sweat.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "treasured",
+          "arabic": "مقدر / غال",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "This lesson helps us learn about treasured.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "crashing",
+          "arabic": "عنيف / مضطرب",
+          "kind": "extra",
+          "pairedWith": null,
+          "sentence": "Water can be quiet and still, or wild and crashing.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "have no shape",
+          "arabic": "ليس له شكل",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "I am water. I have no shape, but I can shape the world.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "search for",
+          "arabic": "يبحث عن",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Plants need me, animals search for me, and without me-life would stop.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "part of",
+          "arabic": "جزء من",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "But I never stop moving. I am always part of something greater - clouds, oceans, even sweat.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "without me",
+          "arabic": "بدوني",
+          "kind": "expression",
+          "pairedWith": null,
+          "sentence": "Plants need me, animals search for me, and without me-life would stop.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "destroy",
+          "arabic": "يدمر",
+          "kind": "verb",
+          "pairedWith": "destroyed",
+          "sentence": "Sometimes, water destroys, floods and freezes.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "destroyed",
+          "arabic": "يدمر",
+          "kind": "verb",
+          "pairedWith": "destroy",
+          "sentence": "This lesson helps us learn about destroyed.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "cry",
+          "arabic": "يبكي",
+          "kind": "verb",
+          "pairedWith": "cried",
+          "sentence": "People drink water, bathe in it and cry when they're hurt.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "cried",
+          "arabic": "يبكي",
+          "kind": "verb",
+          "pairedWith": "cry",
+          "sentence": "This lesson helps us learn about cried.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "dance",
+          "arabic": "يرقص",
+          "kind": "verb",
+          "pairedWith": "danced",
+          "sentence": "I sleep in lakes and dance in the rain.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "danced",
+          "arabic": "يرقص",
+          "kind": "verb",
+          "pairedWith": "dance",
+          "sentence": "This lesson helps us learn about danced.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "freeze",
+          "arabic": "يجمد",
+          "kind": "verb",
+          "pairedWith": "froze",
+          "sentence": "Sometimes, water destroys, floods and freezes.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "froze",
+          "arabic": "يجمد",
+          "kind": "verb",
+          "pairedWith": "freeze",
+          "sentence": "This lesson helps us learn about froze.",
+          "sentenceSource": "curriculum-fallback"
+        },
+        {
+          "term": "fall",
+          "arabic": "يسقط",
+          "kind": "verb",
+          "pairedWith": "fell",
+          "sentence": "Sometimes, I destroy. I flood. I freeze. I fall too hard.",
+          "sentenceSource": "book-context"
+        },
+        {
+          "term": "fell",
+          "arabic": "يسقط",
+          "kind": "verb",
+          "pairedWith": "fall",
+          "sentence": "This lesson helps us learn about fell.",
+          "sentenceSource": "curriculum-fallback"
+        }
+      ]
+    },
+    {
+      "source_file": "Prim 5 U6 Story.html",
+      "unit": 6,
+      "lesson": "Story",
+      "title": "The Beginning, Middle & End",
+      "unit_title": "🗺️ Story Map - Billie Wind",
+      "cards": []
+    }
+  ]
+}

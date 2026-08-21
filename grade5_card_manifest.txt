@@ -1,0 +1,609 @@
+U1 · L1	water weeds	الأعشاب المائية
+U1 · L1	hunt	يصطاد/بصطاد
+U1 · L1	The Nile River	نهر النيل
+U1 · L1	insects	حشرات
+U1 · L1	crocodile	تمساح
+U1 · L1	strong (adj)	قوي
+U1 · L1	colorful (adj)	ملون
+U1 · L1	scary (adj)	مخيف
+U1 · L1	tiny (adj)	صغير جداً
+U1 · L1	large (adj)	كبير
+U1 · L1	different (adj)	مختلف
+U1 · L1	creatures	مخلوقات/كائنات
+U1 · L1	role	دور/وظيفة
+U1 · L1	humans	البشر
+U1 · L1	birds	الطيور
+U1 · L1	plants	نباتات
+U1 · L1	home to	موطن لـ
+U1 · L1	play an important role	يقوم بدور هام
+U1 · L1	kings of the Nile	ملوك النيل
+U1 · L1	along the Nile	على امتداد النيل
+U1 · L1	What about ... ?	ماذا عن ...؟
+U1 · L1	survive	يبقى على قيد الحياة
+U1 · L1	survived	يبقى على قيد الحياة
+U1 · L1	affect	يؤثر على
+U1 · L1	affected	يؤثر على
+U1 · L1	protect	يحمي
+U1 · L1	protected	يحمي
+U1 · L1	flow	يتدفق
+U1 · L1	flowed	يتدفق
+U1 · L1	come	يأتي
+U1 · L1	came	يأتي
+U1 · L1	find	يجد
+U1 · L1	found	يجد
+U1 · L1	keep	يحافظ
+U1 · L1	kept	يحافظ
+U1 · L1	know	يعرف
+U1 · L1	knew	يعرف
+U1 · L2	camel	جمل
+U1 · L2	snake	ثعبان
+U1 · L2	fox	ثعلب
+U1 · L2	lizard	سحلية
+U1 · L2	owl	بومة
+U1 · L2	hard (adj)	صعب
+U1 · L2	dry (adj)	جاف
+U1 · L2	simple (adj)	بسيط
+U1 · L2	turtle	سلحفاة
+U1 · L2	nature	طبيعة
+U1 · L2	balance	توازن
+U1 · L2	hippo	فرس النهر
+U1 · L2	energy	طاقة
+U1 · L2	rats	فئران
+U1 · L2	come out	يخرج
+U1 · L2	to stay cool	للحفاظ على البرودة
+U1 · L2	stay in balance	تظل في توازن
+U1 · L2	during the day	أثناء النهار
+U1 · L2	live	يعيش
+U1 · L2	lived	يعيش
+U1 · L2	store	يخزن
+U1 · L2	stored	يخزن
+U1 · L2	give	يعطي
+U1 · L2	gave	يعطي
+U1 · L2	hide	يختبئ
+U1 · L2	hid	يختبئ
+U1 · L3	trunk	جذع الشجرة
+U1 · L3	branch	فرع/غصن الشجرة
+U1 · L3	shade	ظل
+U1 · L3	selfish	شخص أناني
+U1 · L3	crown	تاج
+U1 · L3	leaves	أوراق الشجر
+U1 · L3	feelings	مشاعر
+U1 · L3	weak	ضعيف
+U1 · L3	sunlight	ضوء الشمس
+U1 · L3	shadow	ظل
+U1 · L3	delicious	لذيذ
+U1 · L3	needs	احتياجات
+U1 · L3	shiny	لامع/براق
+U1 · L3	gold	ذهب
+U1 · L3	care for	يعتني بـ
+U1 · L3	come back home	يعود إلى المنزل
+U1 · L3	blocked by	يحجب/يمنع
+U1 · L3	once upon a time	ذات مرة
+U1 · L3	taking care of	الاعتناء بـ
+U1 · L3	giving back	رد الجميل
+U1 · L3	rest	يسترخي
+U1 · L3	rested	يسترخي
+U1 · L3	appreciate	يقدر
+U1 · L3	appreciated	يقدر
+U1 · L3	realize	يدرك
+U1 · L3	realized	يدرك
+U1 · L3	water	يروي/يسقي
+U1 · L3	watered	يروي/يسقي
+U1 · L3	bend	ينحني/يميل
+U1 · L3	bent	ينحني/يميل
+U1 · L3	begin	يبدأ
+U1 · L3	began	يبدأ
+U1 · L3	mean	يعني/يقصد
+U1 · L3	meant	يعني/يقصد
+U1 · L3	become	يصبح
+U1 · L3	became	يصبح
+U1 · L4	lentils	عدس
+U1 · L4	vinegar	خل
+U1 · L4	tasty	لذيذ / شهي
+U1 · L4	chickpeas	حمص
+U1 · L4	recipe	وصفة طهي
+U1 · L4	spices	توابل
+U1 · L4	koshari	كشري (وجبة مصرية)
+U1 · L4	ingredients	مكونات / مقادير
+U1 · L4	sauce	صلصة
+U1 · L4	chopped garlic	ثوم مفروم
+U1 · L4	grilled	مشوي
+U1 · L4	flavor	طعم / مذاق
+U1 · L4	thin slices	شرائح رفيعة
+U1 · L4	cooked	مطبوخ
+U1 · L4	sea food	مأكولات بحرية
+U1 · L4	spicy	حار
+U1 · L4	crunchy / crispy	مقرمش
+U1 · L4	vegetable oil	زيت نباتي
+U1 · L4	dakka sauce	صلصة الدقة
+U1 · L4	fried	مقلي
+U1 · L4	traditional	تقليدي
+U1 · L4	put on top	يضع في الأعلى
+U1 · L4	turn brown	يتحول إلى اللون البني
+U1 · L4	mix of	خليط من / مزيج من
+U1 · L4	a pot with water	إناء به ماء
+U1 · L4	cut ... into	يقطع ... إلى
+U1 · L4	fry	يقلي
+U1 · L4	prepare	يعد / يجهز
+U1 · L4	prepared	يعد / يجهز
+U1 · L4	add	يضيف
+U1 · L4	added	يضيف
+U1 · L4	pour	يصب / يسكب
+U1 · L4	poured	يصب / يسكب
+U1 · L4	boil	يغلي / يسلق
+U1 · L4	boiled	يغلي / يسلق
+U2 · L1	muscles	عضلات
+U2 · L1	lungs	الرئتين
+U2 · L1	fit	لائق بدنياً
+U2 · L1	stressed	متوتر
+U2 · L1	heart	قلب
+U2 · L1	bones	عظام
+U2 · L1	sports	الرياضة
+U2 · L1	swimming	السباحة
+U2 · L1	chest	صدر
+U2 · L1	mental health	الصحة العقلية
+U2 · L1	normal	طبيعي
+U2 · L1	organ	عضو
+U2 · L1	absolutely	إطلاقاً / حتماً
+U2 · L1	regularly	بانتظام
+U2 · L1	exercising	ممارسة التمارين الرياضية
+U2 · L1	stress	توتر
+U2 · L1	mind	عقل
+U2 · L1	go for a walk	يذهب في نزهة سيراً على الأقدام
+U2 · L1	in fact	في الحقيقة
+U2 · L1	lose weight	يفقد الوزن
+U2 · L1	get tired	يتعب
+U2 · L1	stay healthy	يبقى بصحة جيدة
+U2 · L1	make our bodies stronger	تقوي أجسامنا
+U2 · L1	increase	يزيد
+U2 · L1	increased	يزيد
+U2 · L1	try	يجرب / يحاول
+U2 · L1	tried	يجرب / يحاول
+U2 · L1	reduce	يقلل
+U2 · L1	reduced	يقلل
+U2 · L1	exercise	يتدرب
+U2 · L1	exercised	يتدرب
+U2 · L1	lose	يفقد
+U2 · L1	lost	يفقد
+U2 · L1	sleep	ينام
+U2 · L1	slept	ينام
+U2 · L2	journey	رحلة
+U2 · L2	habit	عادة
+U2 · L2	vitamins	فيتامينات
+U2 · L2	changes	تغييرات
+U2 · L2	chips	رقائق البطاطس
+U2 · L2	healthier	أكثر صحة
+U2 · L2	soda	مياه غازية
+U2 · L2	vegetables	خضروات
+U2 · L2	fruits	فواكه
+U2 · L2	walk	مشى/تمشية
+U2 · L2	burger	برجر
+U2 · L2	sweets	حلويات
+U2 · L2	frying	القلي
+U2 · L2	the best way to	أفضل طريقة لـ
+U2 · L2	followed by	تتبعه / يليه
+U2 · L2	all day	طول اليوم
+U2 · L2	instead of	بدلاً من
+U2 · L2	then and now	بين الماضي والحاضر
+U2 · L2	used to	اعتاد أن
+U2 · L2	change	يتغير
+U2 · L2	changed	يتغير
+U2 · L2	bake	يخبز / يحمص
+U2 · L2	baked	يخبز / يحمص
+U2 · L2	grill	يشوي (على شواية)
+U2 · L2	grilled	يشوي (على شواية)
+U2 · L2	replace	يستبدل
+U2 · L2	replaced	يستبدل
+U2 · L3	organ	عضو
+U2 · L3	nutrients	عناصر غذائية
+U2 · L3	oxygen	غاز الأكسجين
+U2 · L3	blood	دم
+U2 · L3	blood vessels	الأوعية الدموية
+U2 · L3	cell	خلية
+U2 · L3	fist	قبضة/قبضة اليد
+U2 · L3	powerful	قوي/ذو تأثير كبير
+U2 · L3	tubes	أنابيب
+U2 · L3	alive	على قيد الحياة
+U2 · L3	waste	نفايات/مخلفات
+U2 · L3	tips	نصائح
+U2 · L3	size	مقاس/حجم
+U2 · L3	gas	غاز
+U2 · L3	carbon dioxide	غاز ثاني أكسيد الكربون
+U2 · L3	pump	مضخة
+U2 · L3	get sick	يمرض
+U2 · L3	take away	يتخلص من / يزيل
+U2 · L3	tightly closed	مغلق بإحكام
+U2 · L3	keep ... from	يمنع ... من
+U2 · L3	pumped	يضخ
+U2 · L3	follow	يتبع
+U2 · L3	followed	يتبع
+U2 · L3	hurt	يجرح
+U2 · L3	beat	ينبض
+U2 · L4	emergencies	حالات طوارئ
+U2 · L4	diagnose	يشخص (المرض)
+U2 · L4	treatment	علاج
+U2 · L4	healthcare	الرعاية الصحية
+U2 · L4	paramedics	فريق الإسعاف الطبي (مسعفون)
+U2 · L4	pharmacist	صيدلي
+U2 · L4	medicine	دواء
+U2 · L4	diseases	أمراض
+U2 · L4	illnesses	أمراض
+U2 · L4	neighbor	جار
+U2 · L4	skills	مهارات
+U2 · L4	patient	مريض
+U2 · L4	harmful	ضار
+U2 · L4	toothpaste	معجون أسنان
+U2 · L4	knowledge	معرفة
+U2 · L4	hero	بطل
+U2 · L4	stethoscope	سماعة الطبيب
+U2 · L4	support	دعم
+U2 · L4	life saver	منقذ
+U2 · L4	kindness	عطف
+U2 · L4	care	رعاية/عناية/اهتمام
+U2 · L4	real-life heroes	أبطال من الحياة الواقعية
+U2 · L4	on the spot	في الحال / فوراً
+U2 · L4	work day and night	العمل ليلاً ونهاراً
+U2 · L4	work around the clock	العمل على مدار الساعة
+U2 · L4	stay active	يبقى نشيطاً
+U2 · L4	show respect	يظهر الاحترام
+U2 · L4	give advice	يعطي نصيحة
+U2 · L4	provide	يمد / يوفر
+U2 · L4	provided	يمد / يوفر
+U2 · L4	receive	يستلم
+U2 · L4	received	يستلم
+U2 · L4	treat	يعالج
+U2 · L4	treated	يعالج
+U2 · L4	respond	يرد / يستجيب
+U2 · L4	responded	يرد / يستجيب
+U2 · L4	diagnosed	يشخص
+U2 · L4	encourage	يشجع
+U2 · L4	encouraged	يشجع
+U3 · L1	thunderstorm	عاصفة رعدية
+U3 · L1	sandstorm	عاصفة رملية
+U3 · L1	flood	فيضان / يفيض
+U3 · L1	drought	جفاف
+U3 · L1	wildfire	حرائق الغابات
+U3 · L1	heat wave	موجة حارة
+U3 · L1	damaged	مدمر / محطم
+U3 · L1	lightning	البرق
+U3 · L1	severe/extreme	قاسٍ/شديد
+U3 · L1	warnings	تحذيرات
+U3 · L1	wonders	عجائب
+U3 · L1	mountain	جبل
+U3 · L1	wind	رياح
+U3 · L1	planet	كوكب
+U3 · L1	temperature	درجة الحرارة
+U3 · L1	dust	غبار
+U3 · L1	forest	غابة
+U3 · L1	weather changes	تغيرات الطقس
+U3 · L1	awful / terrible	فظيع / سيء للغاية
+U3 · L1	stuck	عالق / متحشر
+U3 · L1	dry	جاف
+U3 · L1	What a pity!	يا للأسف!
+U3 · L1	on the news	عبر الأخبار
+U3 · L1	get stuck	يعلق / يتحشر
+U3 · L1	close to	بالقرب من
+U3 · L1	burn down	يحرق كلياً
+U3 · L1	prevent ... from	يمنع ... من
+U3 · L1	prevent	يمنع
+U3 · L1	prevented	يمنع
+U3 · L1	cover	يغطي
+U3 · L1	covered	يغطي
+U3 · L1	affect	يؤثر على
+U3 · L1	affected	يؤثر على
+U3 · L1	spread	ينتشر
+U3 · L1	hit	يصطدم
+U3 · L1	strike	يضرب / يهاجم
+U3 · L1	struck	يضرب / يهاجم
+U3 · L2	mud bricks	قوالب من الطوب اللبن
+U3 · L2	canal	قناة مائية
+U3 · L2	rich soil	تربة خصبة
+U3 · L2	irrigation	الري
+U3 · L2	basin	حوض مائي
+U3 · L2	tools	أدوات
+U3 · L2	thick	سميك
+U3 · L2	modern	حديث
+U3 · L2	smart	ذكي
+U3 · L2	low	منخفض
+U3 · L2	Ancient Egyptians	المصريون القدماء
+U3 · L2	heat	حرارة
+U3 · L2	possible	ممكن / محتمل
+U3 · L2	farming	الزراعة
+U3 · L2	machines	آلات
+U3 · L2	Khamsin	رياح الخماسين
+U3 · L2	even in the desert	حتى في الصحراء
+U3 · L2	It was hard to + inf.	كان من الصعب أن...
+U3 · L2	over their fields	فوق حقولهم
+U3 · L2	winds with sand	رياح محملة بالرمال
+U3 · L2	control	يتحكم
+U3 · L2	controlled	يتحكم
+U3 · L2	survive	يبقى على قيد الحياة
+U3 · L2	survived	يبقى على قيد الحياة
+U3 · L2	damage	يدمر
+U3 · L2	damaged	يدمر
+U3 · L2	bring	يجلب / يحضر
+U3 · L2	brought	يجلب / يحضر
+U3 · L2	become	يصبح
+U3 · L2	became	يصبح
+U3 · L2	build	يبني
+U3 · L2	built	يبني
+U3 · L3	pond	بركة مياه
+U3 · L3	well	بئر
+U3 · L3	flies	ذباب
+U3 · L3	quiet	هادئ
+U3 · L3	movement	الحركة
+U3 · L3	hole	حفرة / فتحة
+U3 · L3	deep	عميق
+U3 · L3	choice	اختيار
+U3 · L3	danger	خطر
+U3 · L3	safely	بأمان
+U3 · L3	leap	يقفز / ينب
+U3 · L3	edge	حافة
+U3 · L3	once upon a time	ذات مرة
+U3 · L3	[be] able to	قادر على
+U3 · L3	dry up	يجف تماماً
+U3 · L3	any longer	لم يعد
+U3 · L3	think for a moment	يفكر للحظة
+U3 · L3	at the bottom of	في أسفل
+U3 · L3	near the edge of	بالقرب من حافة
+U3 · L3	make a decision	يتخذ قرار
+U3 · L3	decide	يقرر
+U3 · L3	decided	يقرر
+U3 · L3	agree	يوافق
+U3 · L3	agreed	يوافق
+U3 · L3	search	يبحث
+U3 · L3	searched	يبحث
+U3 · L3	catch	يصطاد
+U3 · L3	caught	يصطاد
+U3 · L3	swim	يسبح
+U3 · L3	swam	يسبح
+U3 · L3	leave	يغادر / يترك
+U3 · L3	left	يغادر / يترك
+U3 · L4	cozy (adj)	مريح / دافئ
+U3 · L4	whisper	همسة
+U3 · L4	joy	فرح / سعادة
+U3 · L4	kindness	لطف / عطف
+U3 · L4	gentle (adj)	لطيف
+U3 · L4	fluffy	ناعم / رقيق
+U3 · L4	clouds	سحب
+U3 · L4	imagination	خيال
+U3 · L4	sunshine	ضوء الشمس
+U3 · L4	magically	بطريقة ساحرة
+U3 · L4	weather conditions	أحوال جوية
+U3 · L4	strange	غريب
+U3 · L4	brightly	بشكل ساطع / لامع
+U3 · L4	collage	فن القص واللصق
+U3 · L4	side	جانب
+U3 · L4	one by one	واحداً تلو الآخر
+U3 · L4	with a little bit of kindness	بقليل من اللطف
+U3 · L4	think hard	يفكر بعمق
+U3 · L4	upside down	في الوضع المقلوب / رأساً على عقب
+U3 · L4	turn right side up	يقلب إلى الجهة الصحيحة
+U3 · L4	turn over	يقلب (سينياً)
+U3 · L4	flip	يقلب
+U3 · L4	flipped	يقلب
+U3 · L4	float	يطفو
+U3 · L4	floated	يطفو
+U3 · L4	clap	يصفق
+U3 · L4	clapped	يصفق
+U3 · L4	whispered	يهمُس
+U3 · L4	seem	يبدو
+U3 · L4	seemed	يبدو
+U3 · L4	shine	يشرق
+U3 · L4	shone	يشرق
+U3 · L4	think	يفكر
+U3 · L4	thought	يفكر
+U3 · L4	begin	يبدأ
+U3 · L4	began	يبدأ
+U4 · L1	restaurant	مطعم
+U4 · L1	coffee shop	مقهى
+U4 · L1	bakery	مخبز
+U4 · L1	supermarket	سوبر ماركت
+U4 · L1	park	حديقة عامة
+U4 · L1	club	نادي
+U4 · L1	theme park	مدينة ملاهي
+U4 · L1	groceries	البقالة / السلع
+U4 · L1	fresh	طازج
+U4 · L1	loaf / loaves	رغيف / أرغفة
+U4 · L1	neighborhood	حي
+U4 · L1	waiter	جرسون
+U4 · L1	rides	ألعاب ملاهي
+U4 · L1	community	مجتمع
+U4 · L1	personally	شخصياً
+U4 · L1	relaxing	مريح
+U4 · L1	hang out with	يقضي وقتاً مع
+U4 · L1	pass by	يمر بـ
+U4 · L1	come with	يأتي مع
+U4 · L1	pick out	ينقي / يختار
+U4 · L2	field	حقل
+U4 · L2	barn	حظيرة
+U4 · L2	community center	مركز مجتمعي
+U4 · L2	cottage	كوخ / بيت ريفي
+U4 · L2	village	قرية
+U4 · L2	main square	الساحة الرئيسية
+U4 · L2	hill	تل / هضبة
+U4 · L2	fresh air	هواء نقي
+U4 · L2	busy	مزدحم / مشغول
+U4 · L2	quiet / calm	هادئ / صامت
+U4 · L2	peaceful	هادئ / مسالم
+U4 · L2	cozy	دافئ / مريح
+U4 · L2	the busiest place	المكان الأكثر ازدحاماً
+U4 · L2	full of	مليء بـ
+U4 · L2	surrounded by	محاط بـ
+U4 · L2	keep animals	يربي حيوانات
+U4 · L2	shop	يتسوق
+U4 · L2	shopped	يتسوق
+U4 · L2	gather	يجتمع
+U4 · L2	gathered	يجتمع
+U4 · L2	celebrate	يحتفل
+U4 · L2	celebrated	يحتفل
+U4 · L2	hear	يسمع
+U4 · L2	heard	يسمع
+U4 · L2	meet	يقابل
+U4 · L2	met	يقابل
+U4 · L2	feed	يطعم
+U4 · L2	fed	يطعم
+U4 · L4	crowding	ازدحام
+U4 · L4	steel	فولاذ / صلب
+U4 · L4	New Administrative Capital	العاصمة الإدارية الجديدة
+U4 · L4	government offices	مكاتب حكومية
+U4 · L4	smart	ذكي / متطور
+U4 · L4	floor	طابق
+U4 · L4	roads	طرق
+U4 · L4	platypus	حيوان خلد الماء
+U4 · L4	buildings	مبانٍ
+U4 · L4	the Iconic Tower	البرج الأيقوني
+U4 · L4	airport	مطار
+U4 · L4	green areas	مساحات خضراء
+U4 · L4	modern technology	التكنولوجيا الحديثة
+U4 · L4	made of	مصنوع من
+U4 · L4	from the top	من الأعلى
+U4 · L4	design	يصمم
+U4 · L4	designed	يصمم
+U4 · L4	manage	يتحكم / يدير
+U4 · L4	managed	يتحكم / يدير
+U4 · L4	reduce	يقلل / يقلص
+U4 · L4	reduced	يقلل / يقلص
+U4 · L4	build	يبني
+U4 · L4	built	يبني
+U4 · L4	find	يجد
+U4 · L4	found	يجد
+U5 · L1	sunlight	ضوء الشمس
+U5 · L1	fossil fuel	وقود حفري
+U5 · L1	water	ماء
+U5 · L1	soil	تربة
+U5 · L1	minerals	معادن
+U5 · L1	wind	رياح
+U5 · L1	electricity	كهرباء
+U5 · L1	natural gas	الغاز الطبيعي
+U5 · L1	treasures	كنوز
+U5 · L1	cotton	قطن
+U5 · L1	wheat	قمح
+U5 · L1	jewelry	مجوهرات
+U5 · L1	gold	ذهب
+U5 · L1	copper	نحاس
+U5 · L1	farming	الزراعة
+U5 · L1	oil	نفط / بترول
+U5 · L1	fabric	قماش
+U5 · L1	fertile	خصب
+U5 · L1	country	بلد / دولة
+U5 · L1	Delta region	منطقة الدلتا
+U5 · L1	iron	حديد
+U5 · L1	work for	يعمل لدى / في
+U5 · L1	along the Nile	على امتداد النيل
+U5 · L1	Well done! = Excellent	أحسنت!
+U5 · L1	name	يذكر/يسمي
+U5 · L1	named	يذكر/يسمي
+U5 · L1	power	يزود بالطاقة
+U5 · L1	powered	يزود بالطاقة
+U5 · L1	provide	يمد
+U5 · L1	provided	يمد
+U5 · L1	contain	يحتوي على
+U5 · L1	contained	يحتوي على
+U5 · L1	find	يجد
+U5 · L1	found	يجد
+U5 · L1	grow	ينمو
+U5 · L1	grew	ينمو
+U5 · L1	give	يمنح/يزود
+U5 · L1	gave	يمنح/يزود
+U5 · L2	mineral resources	موارد معدنية
+U5 · L2	coins	عملات معدنية
+U5 · L2	non-renewable	غير متجدد
+U5 · L2	electrical wires	أسلاك كهربائية
+U5 · L2	tools	أدوات
+U5 · L2	pipes	مواسير
+U5 · L2	miners	عمال المناجم
+U5 · L2	precious	ثمين/نفيس
+U5 · L2	valuable	ذو قيمة
+U5 · L2	expensive	غالي الثمن
+U5 · L2	bright/shiny	لامع / ذو بريق
+U5 · L2	rare	نادر
+U5 · L2	super strong	فائق القوة
+U5 · L2	gold	ذهب
+U5 · L2	diamond	ألماس
+U5 · L2	copper	نحاس
+U5 · L2	iron	حديد
+U5 · L2	ring	خاتم
+U5 · L2	airplane	طائرة
+U5 · L2	hidden treasures	ثروات / كنوز خفية
+U5 · L2	materials	مواد خام
+U5 · L2	ship	سفينة
+U5 · L2	cheaper	أرخص ثمناً
+U5 · L2	bridge	كوبري
+U5 · L2	the Eastern Desert	الصحراء الشرقية
+U5 · L2	dig deep into the ground	يحفر بعمق تحت الأرض
+U5 · L2	use .... wisely	يستخدم .... بحكمة
+U5 · L2	easy to shape	سهل التشكيل
+U5 · L2	take millions of years	تستغرق ملايين السنين
+U5 · L2	shape	يتشكل
+U5 · L2	shaped	يتشكل
+U5 · L2	form	يتكون
+U5 · L2	formed	يتكون
+U5 · L2	waste	يهدر
+U5 · L2	wasted	يهدر
+U5 · L2	dig	يحفر
+U5 · L2	dug	يحفر
+U5 · L2	cost	يكلف
+U5 · L2	get	يحصل على
+U5 · L2	got	يحصل على
+U5 · L3	strength	قوة
+U5 · L3	digger	آلة الحفار
+U5 · L3	cargo	حمولة / شحنة
+U5 · L3	mud	وحل / طين
+U5 · L3	path	طريق / مسار
+U5 · L3	load	يحمل / يشحن
+U5 · L3	thick	سميك
+U5 · L3	shore	شاطئ
+U5 · L3	stuck	عالق
+U5 · L3	ocean	محيط
+U5 · L3	machines	آلات
+U5 · L3	popular	مشهور / معروف
+U5 · L3	deep	عميق
+U5 · L3	clear	نظيف / واضح
+U5 · L3	grateful	شاكر / ممتن
+U5 · L3	give up	يستسلم
+U5 · L3	doesn't matter	لا يهم
+U5 · L3	pull out	يسحب
+U5 · L3	ready to help	مستعد للمساعدة
+U5 · L3	something went wrong	حدث خطأ ما
+U5 · L3	get stuck	يعلق
+U5 · L3	take a long time	يستغرق وقتاً طويلاً
+U5 · L3	admire	يُعجب بـ
+U5 · L3	admired	يُعجب بـ
+U5 · L3	stare	يحدق
+U5 · L3	stared	يحدق
+U5 · L3	rush	يسرع
+U5 · L3	rushed	يسرع
+U5 · L3	bother	يزعج / يضايق
+U5 · L3	bothered	يزعج / يضايق
+U5 · L3	float	يطفو
+U5 · L3	floated	يطفو
+U5 · L3	sail	يبحر
+U5 · L3	sailed	يبحر
+U5 · L4	tear	دمعة
+U5 · L4	sweat	عرق
+U5 · L4	bathe	يستحم
+U5 · L4	still	ساكن
+U5 · L4	thirsty	عطشان
+U5 · L4	dirty	غير نظيف
+U5 · L4	quiet	هادئ
+U5 · L4	shape	شكل
+U5 · L4	lake	بحيرة
+U5 · L4	wild	شديد / قاسي
+U5 · L4	clouds	سحب
+U5 · L4	treasured	مقدر / غال
+U5 · L4	crashing	عنيف / مضطرب
+U5 · L4	have no shape	ليس له شكل
+U5 · L4	search for	يبحث عن
+U5 · L4	part of	جزء من
+U5 · L4	without me	بدوني
+U5 · L4	destroy	يدمر
+U5 · L4	destroyed	يدمر
+U5 · L4	cry	يبكي
+U5 · L4	cried	يبكي
+U5 · L4	dance	يرقص
+U5 · L4	danced	يرقص
+U5 · L4	freeze	يجمد
+U5 · L4	froze	يجمد
+U5 · L4	fall	يسقط
+U5 · L4	fell	يسقط
