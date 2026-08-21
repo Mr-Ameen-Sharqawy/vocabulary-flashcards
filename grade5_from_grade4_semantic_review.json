@@ -1,0 +1,2380 @@
+{
+  "reviewed_mappings": [
+    {
+      "term": "scary (adj)",
+      "arabic": "مخيف",
+      "unit": 1,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "tiny (adj)",
+      "arabic": "صغير جداً",
+      "unit": 1,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "role",
+      "arabic": "دور/وظيفة",
+      "unit": 1,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "humans",
+      "arabic": "البشر",
+      "unit": 1,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "play an important role",
+      "arabic": "يقوم بدور هام",
+      "unit": 1,
+      "lesson": "1",
+      "grade4_term": "make a difference",
+      "image": "/manus-storage/cartoon-229-make-a-difference_ef99f23f.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "kings of the Nile",
+      "arabic": "ملوك النيل",
+      "unit": 1,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "What about ... ?",
+      "arabic": "ماذا عن ...؟",
+      "unit": 1,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "affect",
+      "arabic": "يؤثر على",
+      "unit": 1,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "affected",
+      "arabic": "يؤثر على",
+      "unit": 1,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "flowed",
+      "arabic": "يتدفق",
+      "unit": 1,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "come",
+      "arabic": "يأتي",
+      "unit": 1,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "came",
+      "arabic": "يأتي",
+      "unit": 1,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "find",
+      "arabic": "يجد",
+      "unit": 1,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "found",
+      "arabic": "يجد",
+      "unit": 1,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "stay in balance",
+      "arabic": "تظل في توازن",
+      "unit": 1,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "live",
+      "arabic": "يعيش",
+      "unit": 1,
+      "lesson": "2",
+      "grade4_term": "lives",
+      "image": "/manus-storage/cartoon-221-lives_16f166cc.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "lived",
+      "arabic": "يعيش",
+      "unit": 1,
+      "lesson": "2",
+      "grade4_term": "lives",
+      "image": "/manus-storage/cartoon-221-lives_16f166cc.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "hide",
+      "arabic": "يختبئ",
+      "unit": 1,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "hid",
+      "arabic": "يختبئ",
+      "unit": 1,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "shade",
+      "arabic": "ظل",
+      "unit": 1,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "shiny",
+      "arabic": "لامع/براق",
+      "unit": 1,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "blocked by",
+      "arabic": "يحجب/يمنع",
+      "unit": 1,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "giving back",
+      "arabic": "رد الجميل",
+      "unit": 1,
+      "lesson": "3",
+      "grade4_term": "volunteer",
+      "image": "/manus-storage/cartoon-444-volunteer_ecc5cfe7.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "rested",
+      "arabic": "يسترخي",
+      "unit": 1,
+      "lesson": "3",
+      "grade4_term": "slept",
+      "image": "/manus-storage/cartoon-346-slept_0aeb4602.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "appreciated",
+      "arabic": "يقدر",
+      "unit": 1,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "realized",
+      "arabic": "يدرك",
+      "unit": 1,
+      "lesson": "3",
+      "grade4_term": "noticed",
+      "image": "/manus-storage/cartoon-256-noticed_cfd72a73.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "bent",
+      "arabic": "ينحني/يميل",
+      "unit": 1,
+      "lesson": "3",
+      "grade4_term": "crooked",
+      "image": "/manus-storage/cartoon-077-crooked_6b6ca893.jpeg",
+      "confidence": "medium"
+    },
+    {
+      "term": "began",
+      "arabic": "يبدأ",
+      "unit": 1,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "mean",
+      "arabic": "يعني/يقصد",
+      "unit": 1,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "meant",
+      "arabic": "يعني/يقصد",
+      "unit": 1,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "become",
+      "arabic": "يصبح",
+      "unit": 1,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "became",
+      "arabic": "يصبح",
+      "unit": 1,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "tasty",
+      "arabic": "لذيذ / شهي",
+      "unit": 1,
+      "lesson": "4",
+      "grade4_term": "yummy",
+      "image": "/manus-storage/cartoon-468-yummy_5ed44910.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "recipe",
+      "arabic": "وصفة طهي",
+      "unit": 1,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "ingredients",
+      "arabic": "مكونات / مقادير",
+      "unit": 1,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "grilled",
+      "arabic": "مشوي",
+      "unit": 1,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "flavor",
+      "arabic": "طعم / مذاق",
+      "unit": 1,
+      "lesson": "4",
+      "grade4_term": "taste better",
+      "image": "/manus-storage/cartoon-394-taste-better_2df27525.jpeg",
+      "confidence": "medium"
+    },
+    {
+      "term": "thin slices",
+      "arabic": "شرائح رفيعة",
+      "unit": 1,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "cooked",
+      "arabic": "مطبوخ",
+      "unit": 1,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "sea food",
+      "arabic": "مأكولات بحرية",
+      "unit": 1,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "fried",
+      "arabic": "مقلي",
+      "unit": 1,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "cut ... into",
+      "arabic": "يقطع ... إلى",
+      "unit": 1,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "added",
+      "arabic": "يضيف",
+      "unit": 1,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "stressed",
+      "arabic": "متوتر",
+      "unit": 2,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "normal",
+      "arabic": "طبيعي",
+      "unit": 2,
+      "lesson": "1",
+      "grade4_term": "usual",
+      "image": "/manus-storage/cartoon-435-usual_8157d771.jpeg",
+      "confidence": "high"
+    },
+    {
+      "term": "organ",
+      "arabic": "عضو",
+      "unit": 2,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "absolutely",
+      "arabic": "إطلاقاً / حتماً",
+      "unit": 2,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "regularly",
+      "arabic": "بانتظام",
+      "unit": 2,
+      "lesson": "1",
+      "grade4_term": "daily",
+      "image": "/manus-storage/cartoon-081-daily_358f2721.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "exercising",
+      "arabic": "ممارسة التمارين الرياضية",
+      "unit": 2,
+      "lesson": "1",
+      "grade4_term": "do exercises",
+      "image": "/manus-storage/cartoon-098-do-exercises_07d46d9c.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "lose weight",
+      "arabic": "يفقد الوزن",
+      "unit": 2,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "get tired",
+      "arabic": "يتعب",
+      "unit": 2,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "increase",
+      "arabic": "يزيد",
+      "unit": 2,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "increased",
+      "arabic": "يزيد",
+      "unit": 2,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "try",
+      "arabic": "يجرب / يحاول",
+      "unit": 2,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "tried",
+      "arabic": "يجرب / يحاول",
+      "unit": 2,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "exercised",
+      "arabic": "يتدرب",
+      "unit": 2,
+      "lesson": "1",
+      "grade4_term": "do exercises",
+      "image": "/manus-storage/cartoon-098-do-exercises_07d46d9c.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "lose",
+      "arabic": "يفقد",
+      "unit": 2,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "lost",
+      "arabic": "يفقد",
+      "unit": 2,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "journey",
+      "arabic": "رحلة",
+      "unit": 2,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "changes",
+      "arabic": "تغييرات",
+      "unit": 2,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "healthier",
+      "arabic": "أكثر صحة",
+      "unit": 2,
+      "lesson": "2",
+      "grade4_term": "healthy",
+      "image": "/manus-storage/cartoon-174-healthy_d0128e5a.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "the best way to",
+      "arabic": "أفضل طريقة لـ",
+      "unit": 2,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "all day",
+      "arabic": "طول اليوم",
+      "unit": 2,
+      "lesson": "2",
+      "grade4_term": "during the day",
+      "image": "/manus-storage/cartoon-107-during-the-day_6ce6b79c.jpeg",
+      "confidence": "high"
+    },
+    {
+      "term": "then and now",
+      "arabic": "بين الماضي والحاضر",
+      "unit": 2,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "used to",
+      "arabic": "اعتاد أن",
+      "unit": 2,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "change",
+      "arabic": "يتغير",
+      "unit": 2,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "changed",
+      "arabic": "يتغير",
+      "unit": 2,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "bake",
+      "arabic": "يخبز / يحمص",
+      "unit": 2,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "replaced",
+      "arabic": "يستبدل",
+      "unit": 2,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "blood",
+      "arabic": "دم",
+      "unit": 2,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "blood vessels",
+      "arabic": "الأوعية الدموية",
+      "unit": 2,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "fist",
+      "arabic": "قبضة/قبضة اليد",
+      "unit": 2,
+      "lesson": "3",
+      "grade4_term": "by hand",
+      "image": "/manus-storage/cartoon-034-by-hand_79634716.jpeg",
+      "confidence": "low"
+    },
+    {
+      "term": "powerful",
+      "arabic": "قوي/ذو تأثير كبير",
+      "unit": 2,
+      "lesson": "3",
+      "grade4_term": "strong",
+      "image": "/manus-storage/cartoon-377-strong_b40a3b4c.jpeg",
+      "confidence": "high"
+    },
+    {
+      "term": "alive",
+      "arabic": "على قيد الحياة",
+      "unit": 2,
+      "lesson": "3",
+      "grade4_term": "lives",
+      "image": "/manus-storage/cartoon-221-lives_16f166cc.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "tips",
+      "arabic": "نصائح",
+      "unit": 2,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "gas",
+      "arabic": "غاز",
+      "unit": 2,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "pump",
+      "arabic": "مضخة",
+      "unit": 2,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "pumped",
+      "arabic": "يضخ",
+      "unit": 2,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "hurt",
+      "arabic": "يجرح",
+      "unit": 2,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "beat",
+      "arabic": "ينبض",
+      "unit": 2,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "treatment",
+      "arabic": "علاج",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "doctor",
+      "image": "/manus-storage/cartoon-100-doctor_29d45109.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "healthcare",
+      "arabic": "الرعاية الصحية",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "hospital",
+      "image": "/manus-storage/cartoon-186-hospital_1e4ac06f.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "diseases",
+      "arabic": "أمراض",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "sick",
+      "image": "/manus-storage/cartoon-337-sick_dfebfa03.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "illnesses",
+      "arabic": "أمراض",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "sick people",
+      "image": "/manus-storage/cartoon-338-sick-people_9c7db741.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "skills",
+      "arabic": "مهارات",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "skilled",
+      "image": "/manus-storage/cartoon-344-skilled_7f96644b.jpeg",
+      "confidence": "medium"
+    },
+    {
+      "term": "harmful",
+      "arabic": "ضار",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "danger",
+      "image": "/manus-storage/cartoon-083-danger_3fa14f76.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "toothpaste",
+      "arabic": "معجون أسنان",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "brush teeth",
+      "image": "/manus-storage/cartoon-027-brush-teeth_ea2fbb39.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "knowledge",
+      "arabic": "معرفة",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "know",
+      "image": "/manus-storage/cartoon-205-know_b486dbd7.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "stethoscope",
+      "arabic": "سماعة الطبيب",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "life saver",
+      "arabic": "منقذ",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "hero",
+      "image": "/manus-storage/cartoon-182-hero_082645a0.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "kindness",
+      "arabic": "عطف",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "acts of kindness",
+      "image": "/manus-storage/cartoon-003-acts-of-kindness_5381a778.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "on the spot",
+      "arabic": "في الحال / فوراً",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "work day and night",
+      "arabic": "العمل ليلاً ونهاراً",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "work around the clock",
+      "arabic": "العمل على مدار الساعة",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "stay active",
+      "arabic": "يبقى نشيطاً",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "do exercises",
+      "image": "/manus-storage/cartoon-098-do-exercises_07d46d9c.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "show respect",
+      "arabic": "يظهر الاحترام",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "provide",
+      "arabic": "يمد / يوفر",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "offer",
+      "image": "/manus-storage/cartoon-259-offer_adc11f08.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "provided",
+      "arabic": "يمد / يوفر",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "offered",
+      "image": "/manus-storage/cartoon-260-offered_f618ddee.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "receive",
+      "arabic": "يستلم",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "received",
+      "arabic": "يستلم",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "treated",
+      "arabic": "يعالج",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "doctor",
+      "image": "/manus-storage/cartoon-100-doctor_29d45109.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "respond",
+      "arabic": "يرد / يستجيب",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "responded",
+      "arabic": "يرد / يستجيب",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "diagnosed",
+      "arabic": "يشخص",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "doctor",
+      "image": "/manus-storage/cartoon-100-doctor_29d45109.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "encouraged",
+      "arabic": "يشجع",
+      "unit": 2,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "thunderstorm",
+      "arabic": "عاصفة رعدية",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "sandstorm",
+      "arabic": "عاصفة رملية",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "flood",
+      "arabic": "فيضان / يفيض",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "drought",
+      "arabic": "جفاف",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "wildfire",
+      "arabic": "حرائق الغابات",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "heat wave",
+      "arabic": "موجة حارة",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "damaged",
+      "arabic": "مدمر / محطم",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "severe/extreme",
+      "arabic": "قاسٍ/شديد",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "warnings",
+      "arabic": "تحذيرات",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "wonders",
+      "arabic": "عجائب",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "awful / terrible",
+      "arabic": "فظيع / سيء للغاية",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "What a pity!",
+      "arabic": "يا للأسف!",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "regret",
+      "image": "/manus-storage/cartoon-311-regret_0fef4da1.jpeg",
+      "confidence": "medium"
+    },
+    {
+      "term": "close to",
+      "arabic": "بالقرب من",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "near",
+      "image": "/manus-storage/cartoon-247-near_824d7419.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "burn down",
+      "arabic": "يحرق كلياً",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "prevent ... from",
+      "arabic": "يمنع ... من",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "protect",
+      "image": "/manus-storage/cartoon-295-protect_3537d597.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "prevent",
+      "arabic": "يمنع",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "protect",
+      "image": "/manus-storage/cartoon-295-protect_3537d597.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "prevented",
+      "arabic": "يمنع",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "protected",
+      "image": "/manus-storage/cartoon-296-protected_eee312e5.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "cover",
+      "arabic": "يغطي",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "covered with",
+      "image": "/manus-storage/cartoon-073-covered-with_03616b97.jpeg",
+      "confidence": "high"
+    },
+    {
+      "term": "spread",
+      "arabic": "ينتشر",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "hit",
+      "arabic": "يصطدم",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "struck",
+      "arabic": "يضرب / يهاجم",
+      "unit": 3,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "mud bricks",
+      "arabic": "قوالب من الطوب اللبن",
+      "unit": 3,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "irrigation",
+      "arabic": "الري",
+      "unit": 3,
+      "lesson": "2",
+      "grade4_term": "water hoses",
+      "image": "/manus-storage/cartoon-452-water-hoses_a1ac90f7.jpeg",
+      "confidence": "medium"
+    },
+    {
+      "term": "basin",
+      "arabic": "حوض مائي",
+      "unit": 3,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "thick",
+      "arabic": "سميك",
+      "unit": 3,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "modern",
+      "arabic": "حديث",
+      "unit": 3,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "possible",
+      "arabic": "ممكن / محتمل",
+      "unit": 3,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "farming",
+      "arabic": "الزراعة",
+      "unit": 3,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "Khamsin",
+      "arabic": "رياح الخماسين",
+      "unit": 3,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "even in the desert",
+      "arabic": "حتى في الصحراء",
+      "unit": 3,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "over their fields",
+      "arabic": "فوق حقولهم",
+      "unit": 3,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "winds with sand",
+      "arabic": "رياح محملة بالرمال",
+      "unit": 3,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "control",
+      "arabic": "يتحكم",
+      "unit": 3,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "controlled",
+      "arabic": "يتحكم",
+      "unit": 3,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "damage",
+      "arabic": "يدمر",
+      "unit": 3,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "bring",
+      "arabic": "يجلب / يحضر",
+      "unit": 3,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "brought",
+      "arabic": "يجلب / يحضر",
+      "unit": 3,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "movement",
+      "arabic": "الحركة",
+      "unit": 3,
+      "lesson": "3",
+      "grade4_term": "move",
+      "image": "/manus-storage/cartoon-240-move_00c5de4e.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "deep",
+      "arabic": "عميق",
+      "unit": 3,
+      "lesson": "3",
+      "grade4_term": "deep breath",
+      "image": "/manus-storage/cartoon-087-deep-breath_baa0121e.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "leap",
+      "arabic": "يقفز / ينب",
+      "unit": 3,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "[be] able to",
+      "arabic": "قادر على",
+      "unit": 3,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "any longer",
+      "arabic": "لم يعد",
+      "unit": 3,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "think for a moment",
+      "arabic": "يفكر للحظة",
+      "unit": 3,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "at the bottom of",
+      "arabic": "في أسفل",
+      "unit": 3,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "make a decision",
+      "arabic": "يتخذ قرار",
+      "unit": 3,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "decide",
+      "arabic": "يقرر",
+      "unit": 3,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "decided",
+      "arabic": "يقرر",
+      "unit": 3,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "agreed",
+      "arabic": "يوافق",
+      "unit": 3,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "searched",
+      "arabic": "يبحث",
+      "unit": 3,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "swim",
+      "arabic": "يسبح",
+      "unit": 3,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "swam",
+      "arabic": "يسبح",
+      "unit": 3,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "joy",
+      "arabic": "فرح / سعادة",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "weather conditions",
+      "arabic": "أحوال جوية",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "strange",
+      "arabic": "غريب",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "brightly",
+      "arabic": "بشكل ساطع / لامع",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "side",
+      "arabic": "جانب",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "with a little bit of kindness",
+      "arabic": "بقليل من اللطف",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "acts of kindness",
+      "image": "/manus-storage/cartoon-003-acts-of-kindness_5381a778.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "upside down",
+      "arabic": "في الوضع المقلوب / رأساً على عقب",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "turn right side up",
+      "arabic": "يقلب إلى الجهة الصحيحة",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "turn over",
+      "arabic": "يقلب (سينياً)",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "flipped",
+      "arabic": "يقلب",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "floated",
+      "arabic": "يطفو",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "clapped",
+      "arabic": "يصفق",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "whispered",
+      "arabic": "يهمُس",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "seem",
+      "arabic": "يبدو",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "seemed",
+      "arabic": "يبدو",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "shine",
+      "arabic": "يشرق",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "shone",
+      "arabic": "يشرق",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "thought",
+      "arabic": "يفكر",
+      "unit": 3,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "coffee shop",
+      "arabic": "مقهى",
+      "unit": 4,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "bakery",
+      "arabic": "مخبز",
+      "unit": 4,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "supermarket",
+      "arabic": "سوبر ماركت",
+      "unit": 4,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "club",
+      "arabic": "نادي",
+      "unit": 4,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "theme park",
+      "arabic": "مدينة ملاهي",
+      "unit": 4,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "loaf / loaves",
+      "arabic": "رغيف / أرغفة",
+      "unit": 4,
+      "lesson": "1",
+      "grade4_term": "brown bread",
+      "image": "/manus-storage/cartoon-026-brown-bread_702004c9.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "waiter",
+      "arabic": "جرسون",
+      "unit": 4,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "rides",
+      "arabic": "ألعاب ملاهي",
+      "unit": 4,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "community",
+      "arabic": "مجتمع",
+      "unit": 4,
+      "lesson": "1",
+      "grade4_term": "neighborhood",
+      "image": "/manus-storage/cartoon-251-neighborhood_314ccae1.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "personally",
+      "arabic": "شخصياً",
+      "unit": 4,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "relaxing",
+      "arabic": "مريح",
+      "unit": 4,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "hang out with",
+      "arabic": "يقضي وقتاً مع",
+      "unit": 4,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "come with",
+      "arabic": "يأتي مع",
+      "unit": 4,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "main square",
+      "arabic": "الساحة الرئيسية",
+      "unit": 4,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "peaceful",
+      "arabic": "هادئ / مسالم",
+      "unit": 4,
+      "lesson": "2",
+      "grade4_term": "quiet",
+      "image": "/manus-storage/cartoon-302-quiet_a43cac7a.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "the busiest place",
+      "arabic": "المكان الأكثر ازدحاماً",
+      "unit": 4,
+      "lesson": "2",
+      "grade4_term": "busy market",
+      "image": "/manus-storage/cartoon-032-busy-market_b2365434.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "shop",
+      "arabic": "يتسوق",
+      "unit": 4,
+      "lesson": "2",
+      "grade4_term": "stores",
+      "image": "/manus-storage/cartoon-374-stores_201796d1.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "shopped",
+      "arabic": "يتسوق",
+      "unit": 4,
+      "lesson": "2",
+      "grade4_term": "shopping mall",
+      "image": "/manus-storage/cartoon-335-shopping-mall_0b8914cd.jpeg",
+      "confidence": "medium"
+    },
+    {
+      "term": "gather",
+      "arabic": "يجتمع",
+      "unit": 4,
+      "lesson": "2",
+      "grade4_term": "collect",
+      "image": "/manus-storage/cartoon-065-collect_6d6afa14.jpeg",
+      "confidence": "high"
+    },
+    {
+      "term": "met",
+      "arabic": "يقابل",
+      "unit": 4,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "fed",
+      "arabic": "يطعم",
+      "unit": 4,
+      "lesson": "2",
+      "grade4_term": "feed",
+      "image": "/manus-storage/cartoon-130-feed_3c4fd0a0.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "crowding",
+      "arabic": "ازدحام",
+      "unit": 4,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "steel",
+      "arabic": "فولاذ / صلب",
+      "unit": 4,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "roads",
+      "arabic": "طرق",
+      "unit": 4,
+      "lesson": "4",
+      "grade4_term": "street",
+      "image": "/manus-storage/cartoon-375-street_304b91f7.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "airport",
+      "arabic": "مطار",
+      "unit": 4,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "modern technology",
+      "arabic": "التكنولوجيا الحديثة",
+      "unit": 4,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "made of",
+      "arabic": "مصنوع من",
+      "unit": 4,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "from the top",
+      "arabic": "من الأعلى",
+      "unit": 4,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "designed",
+      "arabic": "يصمم",
+      "unit": 4,
+      "lesson": "4",
+      "grade4_term": "designs",
+      "image": "/manus-storage/cartoon-088-designs_4ed17184.jpeg",
+      "confidence": "medium"
+    },
+    {
+      "term": "manage",
+      "arabic": "يتحكم / يدير",
+      "unit": 4,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "managed",
+      "arabic": "يتحكم / يدير",
+      "unit": 4,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "electricity",
+      "arabic": "كهرباء",
+      "unit": 5,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "jewelry",
+      "arabic": "مجوهرات",
+      "unit": 5,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "fabric",
+      "arabic": "قماش",
+      "unit": 5,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "fertile",
+      "arabic": "خصب",
+      "unit": 5,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "iron",
+      "arabic": "حديد",
+      "unit": 5,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "work for",
+      "arabic": "يعمل لدى / في",
+      "unit": 5,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "named",
+      "arabic": "يذكر/يسمي",
+      "unit": 5,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "power",
+      "arabic": "يزود بالطاقة",
+      "unit": 5,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "powered",
+      "arabic": "يزود بالطاقة",
+      "unit": 5,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "contain",
+      "arabic": "يحتوي على",
+      "unit": 5,
+      "lesson": "1",
+      "grade4_term": "including",
+      "image": "/manus-storage/cartoon-194-including_eb05ad29.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "contained",
+      "arabic": "يحتوي على",
+      "unit": 5,
+      "lesson": "1",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "mineral resources",
+      "arabic": "موارد معدنية",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "non-renewable",
+      "arabic": "غير متجدد",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "miners",
+      "arabic": "عمال المناجم",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "precious",
+      "arabic": "ثمين/نفيس",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "treasures",
+      "image": "/manus-storage/cartoon-422-treasures_ef7f1faa.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "valuable",
+      "arabic": "ذو قيمة",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "expensive",
+      "image": "/manus-storage/cartoon-123-expensive_aebec735.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "bright/shiny",
+      "arabic": "لامع / ذو بريق",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "rare",
+      "arabic": "نادر",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "materials",
+      "arabic": "مواد خام",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "ship",
+      "arabic": "سفينة",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "cheaper",
+      "arabic": "أرخص ثمناً",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "the Eastern Desert",
+      "arabic": "الصحراء الشرقية",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "easy to shape",
+      "arabic": "سهل التشكيل",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "form",
+      "arabic": "يتكون",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "create",
+      "image": "/manus-storage/cartoon-075-create_7147cdf0.jpeg",
+      "confidence": "high"
+    },
+    {
+      "term": "formed",
+      "arabic": "يتكون",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "created",
+      "image": "/manus-storage/cartoon-076-created_accd805d.jpeg",
+      "confidence": "high"
+    },
+    {
+      "term": "wasted",
+      "arabic": "يهدر",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "dug",
+      "arabic": "يحفر",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "cost",
+      "arabic": "يكلف",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "price",
+      "image": "/manus-storage/cartoon-293-price_fe14158c.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "get",
+      "arabic": "يحصل على",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "got",
+      "arabic": "يحصل على",
+      "unit": 5,
+      "lesson": "2",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "popular",
+      "arabic": "مشهور / معروف",
+      "unit": 5,
+      "lesson": "3",
+      "grade4_term": "known for",
+      "image": "/manus-storage/cartoon-206-known-for_c155ae6d.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "clear",
+      "arabic": "نظيف / واضح",
+      "unit": 5,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "grateful",
+      "arabic": "شاكر / ممتن",
+      "unit": 5,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "doesn't matter",
+      "arabic": "لا يهم",
+      "unit": 5,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "something went wrong",
+      "arabic": "حدث خطأ ما",
+      "unit": 5,
+      "lesson": "3",
+      "grade4_term": "problems",
+      "image": "/manus-storage/cartoon-294-problems_013ffb10.jpeg",
+      "confidence": "medium"
+    },
+    {
+      "term": "admire",
+      "arabic": "يُعجب بـ",
+      "unit": 5,
+      "lesson": "3",
+      "grade4_term": "impressed by",
+      "image": "/manus-storage/cartoon-190-impressed-by_196c0ed1.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "admired",
+      "arabic": "يُعجب بـ",
+      "unit": 5,
+      "lesson": "3",
+      "grade4_term": "impressed by",
+      "image": "/manus-storage/cartoon-190-impressed-by_196c0ed1.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "stare",
+      "arabic": "يحدق",
+      "unit": 5,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "stared",
+      "arabic": "يحدق",
+      "unit": 5,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "rush",
+      "arabic": "يسرع",
+      "unit": 5,
+      "lesson": "3",
+      "grade4_term": "run",
+      "image": "/manus-storage/cartoon-316-run_82eff507.jpg",
+      "confidence": "medium"
+    },
+    {
+      "term": "rushed",
+      "arabic": "يسرع",
+      "unit": 5,
+      "lesson": "3",
+      "grade4_term": "ran",
+      "image": "/manus-storage/cartoon-303-ran_e47f5c1a.jpg",
+      "confidence": "high"
+    },
+    {
+      "term": "bother",
+      "arabic": "يزعج / يضايق",
+      "unit": 5,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "bothered",
+      "arabic": "يزعج / يضايق",
+      "unit": 5,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "sail",
+      "arabic": "يبحر",
+      "unit": 5,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "sailed",
+      "arabic": "يبحر",
+      "unit": 5,
+      "lesson": "3",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "bathe",
+      "arabic": "يستحم",
+      "unit": 5,
+      "lesson": "4",
+      "grade4_term": "take a shower",
+      "image": "/manus-storage/cartoon-389-take-a-shower_bb1af7fb.jpeg",
+      "confidence": "high"
+    },
+    {
+      "term": "still",
+      "arabic": "ساكن",
+      "unit": 5,
+      "lesson": "4",
+      "grade4_term": "still stand",
+      "image": "/manus-storage/cartoon-371-still-stand_5c3c3829.jpeg",
+      "confidence": "medium"
+    },
+    {
+      "term": "treasured",
+      "arabic": "مقدر / غال",
+      "unit": 5,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "have no shape",
+      "arabic": "ليس له شكل",
+      "unit": 5,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "search for",
+      "arabic": "يبحث عن",
+      "unit": 5,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "without me",
+      "arabic": "بدوني",
+      "unit": 5,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "destroyed",
+      "arabic": "يدمر",
+      "unit": 5,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "cry",
+      "arabic": "يبكي",
+      "unit": 5,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "cried",
+      "arabic": "يبكي",
+      "unit": 5,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "danced",
+      "arabic": "يرقص",
+      "unit": 5,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "freeze",
+      "arabic": "يجمد",
+      "unit": 5,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "froze",
+      "arabic": "يجمد",
+      "unit": 5,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "fall",
+      "arabic": "يسقط",
+      "unit": 5,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    },
+    {
+      "term": "fell",
+      "arabic": "يسقط",
+      "unit": 5,
+      "lesson": "4",
+      "grade4_term": "",
+      "image": "",
+      "confidence": "low"
+    }
+  ]
+}

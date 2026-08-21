@@ -1,19 +1,21 @@
-# Grade 5 image-match report
+# Grade 5 images still needed
 
 - Distinct Grade 5 terms: **560**
-- Safely linked images: **232**
-- Terms still without an image: **328**
+- Linked images after reviewing Grade 4: **290**
+- Reused Grade 4 images accepted after review: **58**
+- Terms still needing a dedicated picture: **270**
 
-## Match sources
+## Reused Grade 4 image sources
 
-| Source | Linked images |
+| Source | Linked terms |
 | --- | ---: |
 | exact_filename | 142 |
+| grade4_reuse_exact | 32 |
+| grade4_reuse_semantic | 26 |
 | semantic_filename | 90 |
 
-## Terms still needing a dedicated image
+## Terms still needing a dedicated picture
 
-- hunt — يصطاد/بصطاد
 - scary (adj) — مخيف
 - tiny (adj) — صغير جداً
 - role — دور/وظيفة
@@ -29,19 +31,12 @@
 - came — يأتي
 - find — يجد
 - found — يجد
-- keep — يحافظ
-- kept — يحافظ
-- know — يعرف
-- knew — يعرف
-- simple (adj) — بسيط
 - stay in balance — تظل في توازن
 - live — يعيش
 - lived — يعيش
-- gave — يعطي
 - hide — يختبئ
 - hid — يختبئ
 - shade — ظل
-- weak — ضعيف
 - shiny — لامع/براق
 - come back home — يعود إلى المنزل
 - blocked by — يحجب/يمنع
@@ -56,7 +51,6 @@
 - meant — يعني/يقصد
 - become — يصبح
 - became — يصبح
-- tasty — لذيذ / شهي
 - recipe — وصفة طهي
 - ingredients — مكونات / مقادير
 - grilled — مشوي
@@ -66,18 +60,13 @@
 - sea food — مأكولات بحرية
 - crunchy / crispy — مقرمش
 - fried — مقلي
-- traditional — تقليدي
 - cut ... into — يقطع ... إلى
-- prepare — يعد / يجهز
-- prepared — يعد / يجهز
 - added — يضيف
 - stressed — متوتر
 - mental health — الصحة العقلية
 - normal — طبيعي
 - organ — عضو
 - absolutely — إطلاقاً / حتماً
-- regularly — بانتظام
-- exercising — ممارسة التمارين الرياضية
 - go for a walk — يذهب في نزهة سيراً على الأقدام
 - lose weight — يفقد الوزن
 - get tired — يتعب
@@ -87,16 +76,10 @@
 - increased — يزيد
 - try — يجرب / يحاول
 - tried — يجرب / يحاول
-- reduce — يقلل
-- reduced — يقلل
-- exercised — يتدرب
 - lose — يفقد
 - lost — يفقد
-- slept — ينام
 - journey — رحلة
-- vitamins — فيتامينات
 - changes — تغييرات
-- healthier — أكثر صحة
 - the best way to — أفضل طريقة لـ
 - followed by — تتبعه / يليه
 - all day — طول اليوم
@@ -109,7 +92,6 @@
 - blood — دم
 - blood vessels — الأوعية الدموية
 - fist — قبضة/قبضة اليد
-- powerful — قوي/ذو تأثير كبير
 - alive — على قيد الحياة
 - tips — نصائح
 - gas — غاز
@@ -117,7 +99,6 @@
 - get sick — يمرض
 - keep ... from — يمنع ... من
 - pumped — يضخ
-- followed — يتبع
 - hurt — يجرح
 - beat — ينبض
 - treatment — علاج
@@ -130,17 +111,12 @@
 - knowledge — معرفة
 - stethoscope — سماعة الطبيب
 - life saver — منقذ
-- kindness — عطف
-- care — رعاية/عناية/اهتمام
 - real-life heroes — أبطال من الحياة الواقعية
 - on the spot — في الحال / فوراً
 - work day and night — العمل ليلاً ونهاراً
 - work around the clock — العمل على مدار الساعة
-- stay active — يبقى نشيطاً
 - show respect — يظهر الاحترام
 - give advice — يعطي نصيحة
-- provide — يمد / يوفر
-- provided — يمد / يوفر
 - receive — يستلم
 - received — يستلم
 - treated — يعالج
@@ -160,7 +136,6 @@
 - wonders — عجائب
 - awful / terrible — فظيع / سيء للغاية
 - What a pity! — يا للأسف!
-- close to — بالقرب من
 - burn down — يحرق كلياً
 - prevent ... from — يمنع ... من
 - prevent — يمنع
@@ -175,7 +150,6 @@
 - basin — حوض مائي
 - thick — سميك
 - modern — حديث
-- smart — ذكي
 - possible — ممكن / محتمل
 - farming — الزراعة
 - Khamsin — رياح الخماسين
@@ -188,10 +162,7 @@
 - damage — يدمر
 - bring — يجلب / يحضر
 - brought — يجلب / يحضر
-- movement — الحركة
 - deep — عميق
-- danger — خطر
-- safely — بأمان
 - leap — يقفز / ينب
 - [be] able to — قادر على
 - any longer — لم يعد
@@ -205,16 +176,11 @@
 - searched — يبحث
 - swim — يسبح
 - swam — يسبح
-- left — يغادر / يترك
 - joy — فرح / سعادة
-- gentle (adj) — لطيف
 - weather conditions — أحوال جوية
 - strange — غريب
 - brightly — بشكل ساطع / لامع
-- collage — فن القص واللصق
 - side — جانب
-- one by one — واحداً تلو الآخر
-- with a little bit of kindness — بقليل من اللطف
 - think hard — يفكر بعمق
 - upside down — في الوضع المقلوب / رأساً على عقب
 - turn right side up — يقلب إلى الجهة الصحيحة
@@ -228,17 +194,14 @@
 - shine — يشرق
 - shone — يشرق
 - thought — يفكر
-- restaurant — مطعم
 - coffee shop — مقهى
 - bakery — مخبز
 - supermarket — سوبر ماركت
 - club — نادي
 - theme park — مدينة ملاهي
 - loaf / loaves — رغيف / أرغفة
-- neighborhood — حي
 - waiter — جرسون
 - rides — ألعاب ملاهي
-- community — مجتمع
 - personally — شخصياً
 - relaxing — مريح
 - hang out with — يقضي وقتاً مع
@@ -246,17 +209,9 @@
 - community center — مركز مجتمعي
 - main square — الساحة الرئيسية
 - quiet / calm — هادئ / صامت
-- peaceful — هادئ / مسالم
-- the busiest place — المكان الأكثر ازدحاماً
 - keep animals — يربي حيوانات
-- shop — يتسوق
 - shopped — يتسوق
-- gather — يجتمع
-- celebrated — يحتفل
-- hear — يسمع
-- heard — يسمع
 - met — يقابل
-- fed — يطعم
 - crowding — ازدحام
 - steel — فولاذ / صلب
 - roads — طرق
@@ -281,13 +236,11 @@
 - powered — يزود بالطاقة
 - contain — يحتوي على
 - contained — يحتوي على
-- grew — ينمو
 - mineral resources — موارد معدنية
 - non-renewable — غير متجدد
 - miners — عمال المناجم
 - precious — ثمين/نفيس
 - valuable — ذو قيمة
-- expensive — غالي الثمن
 - bright/shiny — لامع / ذو بريق
 - rare — نادر
 - super strong — فائق القوة
@@ -299,11 +252,8 @@
 - use .... wisely — يستخدم .... بحكمة
 - easy to shape — سهل التشكيل
 - take millions of years — تستغرق ملايين السنين
-- form — يتكون
-- formed — يتكون
 - wasted — يهدر
 - dug — يحفر
-- cost — يكلف
 - get — يحصل على
 - got — يحصل على
 - popular — مشهور / معروف
@@ -314,19 +264,14 @@
 - ready to help — مستعد للمساعدة
 - something went wrong — حدث خطأ ما
 - take a long time — يستغرق وقتاً طويلاً
-- admire — يُعجب بـ
-- admired — يُعجب بـ
 - stare — يحدق
 - stared — يحدق
 - rush — يسرع
-- rushed — يسرع
 - bother — يزعج / يضايق
 - bothered — يزعج / يضايق
 - sail — يبحر
 - sailed — يبحر
-- bathe — يستحم
 - still — ساكن
-- dirty — غير نظيف
 - wild — شديد / قاسي
 - treasured — مقدر / غال
 - have no shape — ليس له شكل

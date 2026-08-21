@@ -2,7 +2,9 @@ import fs from 'node:fs';
 
 const root = '/home/ubuntu/vocabulary-flashcards';
 const raw = JSON.parse(fs.readFileSync(`${root}/grade5_course_raw.json`, 'utf8'));
-const matches = JSON.parse(fs.readFileSync(`${root}/grade5_final_image_matches.json`, 'utf8')).matches;
+const combinedMatchesPath = `${root}/grade5_combined_image_matches.json`;
+const matchesPath = fs.existsSync(combinedMatchesPath) ? combinedMatchesPath : `${root}/grade5_final_image_matches.json`;
+const matches = JSON.parse(fs.readFileSync(matchesPath, 'utf8')).matches;
 const uploadOutput = fs.readFileSync(`${root}/grade5_upload_output.txt`, 'utf8');
 
 const pathToUrl = new Map();
@@ -17,6 +19,10 @@ function normalize(value) {
 
 const imageByTerm = {};
 for (const item of matches) {
+  if (item.source?.startsWith('grade4_reuse')) {
+    imageByTerm[normalize(item.term)] = item.image_path;
+    continue;
+  }
   const localUploadPath = JSON.parse(fs.readFileSync(`${root}/grade5_upload_manifest.json`, 'utf8')).assets
     .find((asset) => asset.image_name === item.image_name)?.local_upload_path;
   const url = localUploadPath ? pathToUrl.get(localUploadPath) : undefined;
