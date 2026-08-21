@@ -4,6 +4,15 @@ import { trpc } from "@/lib/trpc";
 import Home from "./Home";
 
 type StudentPortalProps = { onTeacherAccess: () => void };
+const studentDeviceStorageKey = "primary4-flashcards-device-id";
+
+function getStudentDeviceId() {
+  const existing = window.localStorage.getItem(studentDeviceStorageKey);
+  if (existing) return existing;
+  const deviceId = crypto.randomUUID();
+  window.localStorage.setItem(studentDeviceStorageKey, deviceId);
+  return deviceId;
+}
 
 export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
   const studentQuery = trpc.student.me.useQuery(undefined, { retry: false });
@@ -25,7 +34,7 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
 
   function login(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
-    loginMutation.mutate({ username, password }, {
+    loginMutation.mutate({ username, password, deviceId: getStudentDeviceId(), deviceLabel: "جهاز الطالب" }, {
       onSuccess: () => {
         setPassword("");
         studentQuery.refetch();

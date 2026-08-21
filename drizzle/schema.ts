@@ -1,4 +1,4 @@
-import { boolean, int, json, mysqlEnum, mysqlTable, text, timestamp, varchar } from "drizzle-orm/mysql-core";
+import { boolean, int, json, mysqlEnum, mysqlTable, text, timestamp, uniqueIndex, varchar } from "drizzle-orm/mysql-core";
 
 /**
  * Core user table backing auth flow.
@@ -32,10 +32,23 @@ export const studentAccounts = mysqlTable("student_accounts", {
   username: varchar("username", { length: 48 }).notNull().unique(),
   passwordHash: varchar("password_hash", { length: 255 }).notNull(),
   sessionVersion: int("session_version").default(1).notNull(),
+  maxDevices: int("max_devices").default(1).notNull(),
   enabled: boolean("enabled").default(true).notNull(),
   createdAt: timestamp("created_at").defaultNow().notNull(),
   updatedAt: timestamp("updated_at").defaultNow().onUpdateNow().notNull(),
 });
+
+/** A device is trusted only after a successful password login for its student account. */
+export const studentDevices = mysqlTable("student_devices", {
+  id: int("id").autoincrement().primaryKey(),
+  studentId: int("student_id").notNull(),
+  deviceId: varchar("device_id", { length: 80 }).notNull(),
+  deviceLabel: varchar("device_label", { length: 120 }).notNull(),
+  createdAt: timestamp("created_at").defaultNow().notNull(),
+  lastSeenAt: timestamp("last_seen_at").defaultNow().onUpdateNow().notNull(),
+}, table => ({
+  studentDeviceUnique: uniqueIndex("student_devices_student_device_unique").on(table.studentId, table.deviceId),
+}));
 
 export const studentProgress = mysqlTable("student_progress", {
   studentId: int("student_id").primaryKey(),

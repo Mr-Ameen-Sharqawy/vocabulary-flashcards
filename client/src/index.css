@@ -202,6 +202,7 @@ button { -webkit-tap-highlight-color: transparent; }
 .sf-access-form, .sf-teacher-panel { display: grid; gap: 14px; text-align: right; }
 .sf-access-form label, .sf-teacher-panel label { display: grid; gap: 6px; color: var(--ink-deep); font: 800 12px/1.3 "Noto Kufi Arabic", sans-serif; }
 .sf-access-form input, .sf-teacher-panel input, .sf-reset-panel input { width: 100%; min-height: 45px; padding: 10px 12px; border: 1px solid #cbd9e6; border-radius: 8px; background: #fff; color: var(--ink-deep); font: 700 14px/1 "Nunito Sans", sans-serif; outline: none; }
+.sf-teacher-panel select, .sf-student-actions select { min-height: 39px; padding: 7px 10px; border: 1px solid #cbd9e6; border-radius: 8px; background: #fff; color: var(--ink-deep); font: 800 12px/1 "Noto Kufi Arabic", sans-serif; }
 .sf-access-form input:focus, .sf-teacher-panel input:focus, .sf-reset-panel input:focus { border-color: var(--blue); box-shadow: 0 0 0 3px rgba(30,95,168,.12); }
 .sf-access-submit { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 47px; border: 0; border-radius: 9px; background: var(--ink-deep); color: #fff; font: 900 13px/1 "Noto Kufi Arabic", sans-serif; transition: transform 160ms var(--ease-out), background 160ms var(--ease-out); }
 .sf-access-submit:hover:not(:disabled) { background: var(--blue); transform: translateY(-2px); }
@@ -219,6 +220,8 @@ button { -webkit-tap-highlight-color: transparent; }
 .sf-student-row strong, .sf-student-row span { display: block; }
 .sf-student-row strong { color: var(--ink-deep); font: 800 16px/1.2 "Baloo 2", sans-serif; }
 .sf-student-row span, .sf-muted-copy { margin-top: 4px; color: #6d859c; font: 700 12px/1 "Nunito Sans", sans-serif; }
+.sf-device-count { display: inline-flex; align-items: center; gap: 5px; margin-top: 8px; color: #52718c; font: 800 11px/1 "Noto Kufi Arabic", sans-serif; }
+.sf-student-actions { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 7px; }
 .sf-student-row button { display: inline-flex; align-items: center; gap: 6px; border: 1px solid #cbd9e6; border-radius: 7px; padding: 8px 10px; background: #fff; color: var(--blue); font: 800 11px/1 "Noto Kufi Arabic", sans-serif; }
 .sf-reset-panel { position: fixed; inset: 0; z-index: 50; display: grid; place-content: center; gap: 15px; padding: 28px; background: rgba(15,45,76,.5); }
 .sf-reset-panel > * { width: min(100%, 360px); }

@@ -4,11 +4,12 @@ import { COOKIE_NAME } from "../shared/const";
 import { getSessionCookieOptions } from "./_core/cookies";
 import { systemRouter } from "./_core/systemRouter";
 import { adminProcedure, publicProcedure, router } from "./_core/trpc";
-import { createStudentAccount, getStudentProgress, getStudentByUsername, listStudentAccounts, saveStudentProgress, updateStudentPassword } from "./db";
+import { createStudentAccount, getStudentProgress, getStudentByUsername, listStudentAccounts, registerStudentDevice, resetStudentDevices, saveStudentProgress, updateStudentDeviceLimit, updateStudentPassword } from "./db";
 import { clearStudentSession, getStudentSession, hashStudentPassword, setStudentSession, verifyStudentPassword } from "./studentAuth";
 
 const usernameSchema = z.string().trim().toLowerCase().regex(/^[a-z0-9_]{3,32}$/);
 const passwordSchema = z.string().min(8).max(128);
+const deviceIdSchema = z.string().regex(/^[a-zA-Z0-9_-]{12,80}$/);
 const progressSchema = z.object({
   selectedLessonId: z.string().max(48).optional(),
   lessonAnswers: z.record(z.string(), z.record(z.string(), z.string())),
@@ -34,16 +35,18 @@ export const appRouter = router({
   }),
   student: router({
     me: publicProcedure.query(async ({ ctx }) => {
-      const student = await getStudentSession(ctx.req);
-      if (!student) return null;
-      return { ...studentView(student), progress: await getStudentProgress(student.id) };
+      const session = await getStudentSession(ctx.req);
+      if (!session) return null;
+      return { ...studentView(session.student), progress: await getStudentProgress(session.student.id) };
     }),
-    login: publicProcedure.input(z.object({ username: usernameSchema, password: passwordSchema })).mutation(async ({ ctx, input }) => {
+    login: publicProcedure.input(z.object({ username: usernameSchema, password: passwordSchema, deviceId: deviceIdSchema, deviceLabel: z.string().trim().min(2).max(120) })).mutation(async ({ ctx, input }) => {
       const student = await getStudentByUsername(input.username);
       if (!student || !student.enabled || !(await verifyStudentPassword(input.password, student.passwordHash))) {
         throw new TRPCError({ code: "UNAUTHORIZED", message: "اسم المستخدم أو كلمة المرور غير صحيحة" });
       }
-      await setStudentSession(ctx.res, ctx.req, student.id, student.sessionVersion);
+      const device = await registerStudentDevice(student.id, input.deviceId, input.deviceLabel);
+      if (!device.allowed) throw new TRPCError({ code: "FORBIDDEN", message: `وصل هذا الحساب إلى الحد الأقصى: ${device.maxDevices} جهاز/أجهزة. اطلب من المعلم إعادة ضبط الأجهزة.` });
+      await setStudentSession(ctx.res, ctx.req, student.id, student.sessionVersion, input.deviceId);
       return { ...studentView(student), progress: await getStudentProgress(student.id) };
     }),
     logout: publicProcedure.mutation(({ ctx }) => {
@@ -51,15 +54,15 @@ export const appRouter = router({
       return { success: true };
     }),
     saveProgress: publicProcedure.input(progressSchema).mutation(async ({ ctx, input }) => {
-      const student = await getStudentSession(ctx.req);
-      if (!student) throw new TRPCError({ code: "UNAUTHORIZED", message: "يرجى تسجيل الدخول كطالب" });
-      await saveStudentProgress(student.id, input);
+      const session = await getStudentSession(ctx.req);
+      if (!session) throw new TRPCError({ code: "UNAUTHORIZED", message: "يرجى تسجيل الدخول كطالب" });
+      await saveStudentProgress(session.student.id, input);
       return { success: true };
     }),
   }),
   students: router({
     list: adminProcedure.query(() => listStudentAccounts()),
-    create: adminProcedure.input(z.object({ displayName: z.string().trim().min(2).max(120), username: usernameSchema, password: passwordSchema })).mutation(async ({ input }) => {
+    create: adminProcedure.input(z.object({ displayName: z.string().trim().min(2).max(120), username: usernameSchema, password: passwordSchema, maxDevices: z.number().int().min(1).max(10).default(1) })).mutation(async ({ input }) => {
       const existing = await getStudentByUsername(input.username);
       if (existing) throw new TRPCError({ code: "CONFLICT", message: "اسم المستخدم مستخدم بالفعل" });
       const student = await createStudentAccount({ ...input, passwordHash: await hashStudentPassword(input.password) });
@@ -67,6 +70,14 @@ export const appRouter = router({
     }),
     resetPassword: adminProcedure.input(z.object({ studentId: z.number().int().positive(), password: passwordSchema })).mutation(async ({ input }) => {
       await updateStudentPassword(input.studentId, await hashStudentPassword(input.password));
+      return { success: true };
+    }),
+    updateDeviceLimit: adminProcedure.input(z.object({ studentId: z.number().int().positive(), maxDevices: z.number().int().min(1).max(10) })).mutation(async ({ input }) => {
+      await updateStudentDeviceLimit(input.studentId, input.maxDevices);
+      return { success: true };
+    }),
+    resetDevices: adminProcedure.input(z.object({ studentId: z.number().int().positive() })).mutation(async ({ input }) => {
+      await resetStudentDevices(input.studentId);
       return { success: true };
     }),
   }),

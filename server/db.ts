@@ -1,6 +1,6 @@
-import { eq, sql } from "drizzle-orm";
+import { and, count, eq, sql } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
-import { InsertUser, studentAccounts, studentProgress, users } from "../drizzle/schema";
+import { InsertUser, studentAccounts, studentDevices, studentProgress, users } from "../drizzle/schema";
 import { ENV } from './_core/env';
 
 let _db: ReturnType<typeof drizzle> | null = null;
@@ -111,7 +111,7 @@ export async function getStudentById(id: number) {
   return result[0] ?? null;
 }
 
-export async function createStudentAccount(input: { displayName: string; username: string; passwordHash: string }) {
+export async function createStudentAccount(input: { displayName: string; username: string; passwordHash: string; maxDevices: number }) {
   const db = await getDb();
   if (!db) throw new Error("Database is unavailable");
   await db.insert(studentAccounts).values(input);
@@ -123,20 +123,66 @@ export async function createStudentAccount(input: { displayName: string; usernam
 export async function listStudentAccounts() {
   const db = await getDb();
   if (!db) throw new Error("Database is unavailable");
-  return db.select({
+  const accounts = await db.select({
     id: studentAccounts.id,
     displayName: studentAccounts.displayName,
     username: studentAccounts.username,
     enabled: studentAccounts.enabled,
+    maxDevices: studentAccounts.maxDevices,
     createdAt: studentAccounts.createdAt,
     progressUpdatedAt: studentProgress.updatedAt,
   }).from(studentAccounts).leftJoin(studentProgress, eq(studentProgress.studentId, studentAccounts.id));
+  const deviceCounts = await db.select({ studentId: studentDevices.studentId, total: count() }).from(studentDevices).groupBy(studentDevices.studentId);
+  const countByStudent = new Map(deviceCounts.map(row => [row.studentId, Number(row.total)]));
+  return accounts.map(account => ({ ...account, deviceCount: countByStudent.get(account.id) ?? 0 }));
 }
 
 export async function updateStudentPassword(id: number, passwordHash: string) {
   const db = await getDb();
   if (!db) throw new Error("Database is unavailable");
   await db.update(studentAccounts).set({ passwordHash, sessionVersion: sql`${studentAccounts.sessionVersion} + 1` }).where(eq(studentAccounts.id, id));
+}
+
+export async function updateStudentDeviceLimit(id: number, maxDevices: number) {
+  const db = await getDb();
+  if (!db) throw new Error("Database is unavailable");
+  await db.update(studentAccounts).set({ maxDevices }).where(eq(studentAccounts.id, id));
+}
+
+export type DeviceRegistration = { allowed: true } | { allowed: false; maxDevices: number };
+
+export async function registerStudentDevice(studentId: number, deviceId: string, deviceLabel: string): Promise<DeviceRegistration> {
+  const db = await getDb();
+  if (!db) throw new Error("Database is unavailable");
+  return db.transaction(async tx => {
+    const existing = await tx.select().from(studentDevices).where(and(eq(studentDevices.studentId, studentId), eq(studentDevices.deviceId, deviceId))).limit(1);
+    if (existing[0]) {
+      await tx.update(studentDevices).set({ lastSeenAt: new Date(), deviceLabel }).where(eq(studentDevices.id, existing[0].id));
+      return { allowed: true };
+    }
+    const account = await tx.select({ maxDevices: studentAccounts.maxDevices }).from(studentAccounts).where(eq(studentAccounts.id, studentId)).limit(1);
+    const maxDevices = account[0]?.maxDevices ?? 1;
+    const deviceCount = await tx.select({ total: count() }).from(studentDevices).where(eq(studentDevices.studentId, studentId));
+    if (Number(deviceCount[0]?.total ?? 0) >= maxDevices) return { allowed: false, maxDevices };
+    await tx.insert(studentDevices).values({ studentId, deviceId, deviceLabel });
+    return { allowed: true };
+  });
+}
+
+export async function studentDeviceExists(studentId: number, deviceId: string) {
+  const db = await getDb();
+  if (!db) throw new Error("Database is unavailable");
+  const result = await db.select({ id: studentDevices.id }).from(studentDevices).where(and(eq(studentDevices.studentId, studentId), eq(studentDevices.deviceId, deviceId))).limit(1);
+  return Boolean(result[0]);
+}
+
+export async function resetStudentDevices(studentId: number) {
+  const db = await getDb();
+  if (!db) throw new Error("Database is unavailable");
+  await db.transaction(async tx => {
+    await tx.delete(studentDevices).where(eq(studentDevices.studentId, studentId));
+    await tx.update(studentAccounts).set({ sessionVersion: sql`${studentAccounts.sessionVersion} + 1` }).where(eq(studentAccounts.id, studentId));
+  });
 }
 
 export async function getStudentProgress(studentId: number): Promise<StudentProgressPayload> {

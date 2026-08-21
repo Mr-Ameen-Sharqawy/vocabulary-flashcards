@@ -5,7 +5,7 @@ import { parse } from "cookie";
 import type { Request, Response } from "express";
 import { getSessionCookieOptions } from "./_core/cookies";
 import { ENV } from "./_core/env";
-import { getStudentById } from "./db";
+import { getStudentById, studentDeviceExists } from "./db";
 
 const scrypt = promisify(scryptCallback);
 export const STUDENT_SESSION_COOKIE = "student_session";
@@ -30,8 +30,8 @@ export async function verifyStudentPassword(password: string, storedHash: string
   return expectedBuffer.length === actual.length && timingSafeEqual(expectedBuffer, actual);
 }
 
-async function signStudentSession(studentId: number, sessionVersion: number) {
-  return new SignJWT({ role: "student", sessionVersion })
+async function signStudentSession(studentId: number, sessionVersion: number, deviceId: string) {
+  return new SignJWT({ role: "student", sessionVersion, deviceId })
     .setProtectedHeader({ alg: "HS256" })
     .setSubject(String(studentId))
     .setIssuedAt()
@@ -39,8 +39,8 @@ async function signStudentSession(studentId: number, sessionVersion: number) {
     .sign(sessionKey());
 }
 
-export async function setStudentSession(res: Response, req: Request, studentId: number, sessionVersion: number) {
-  const token = await signStudentSession(studentId, sessionVersion);
+export async function setStudentSession(res: Response, req: Request, studentId: number, sessionVersion: number, deviceId: string) {
+  const token = await signStudentSession(studentId, sessionVersion, deviceId);
   res.cookie(STUDENT_SESSION_COOKIE, token, {
     ...getSessionCookieOptions(req),
     maxAge: sessionMaxAgeSeconds * 1000,
@@ -56,10 +56,11 @@ export async function getStudentSession(req: Request) {
   if (!token) return null;
   try {
     const { payload } = await jwtVerify(token, sessionKey());
-    if (payload.role !== "student" || !payload.sub || typeof payload.sessionVersion !== "number") return null;
+    if (payload.role !== "student" || !payload.sub || typeof payload.sessionVersion !== "number" || typeof payload.deviceId !== "string") return null;
     const student = await getStudentById(Number(payload.sub));
     if (!student || !student.enabled || student.sessionVersion !== payload.sessionVersion) return null;
-    return student;
+    if (!(await studentDeviceExists(student.id, payload.deviceId))) return null;
+    return { student, deviceId: payload.deviceId };
   } catch {
     return null;
   }
