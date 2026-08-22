@@ -185,3 +185,7 @@ The same review principle supports seven more close links: the wind-turbine scen
 The existing cartoon gate is also a clear visual for `entrance`. The accepted crops scene visibly shows a planted field and growing corn, so it is mapped conservatively to `grain` and `good soil`. These additions similarly use only reviewed Grade 6 artwork.
 
 The reviewed bracelet image is also a clear instance of `jewelry`, while the cartoon lamp is a direct visual for `light`. The accepted suitcase is mapped to the synonym `luggage`; the wind-turbine scene to `make electricity`; and the crops scene to `harvest`. These five links retain the same asset-quality standard and do not add unreviewed sources.
+
+## Accepted Pixabay hat candidate
+
+The Pixabay illustration `https://pixabay.com/illustrations/hat-ribbon-cartoon-cutout-fashion-7605221/` was reviewed as `pixabay-hat-ribbon-7605221.png`. It is a bright, detailed cartoon sun hat with a pink ribbon and bow, with no written words, watermark, logo, or rendering artifact. It is accepted as a direct visual for the Grade 6 term `hat`.
