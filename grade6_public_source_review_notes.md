@@ -164,6 +164,10 @@ The Pixabay vector `https://pixabay.com/vectors/flood-disaster-house-water-56577
 
 The Pixabay illustration `https://pixabay.com/illustrations/drought-cracked-earth-sole-flower-9702745/` was downloaded as `pixabay-drought-cracked-earth-9702745.jpg`. It clearly shows dry cracked ground and a solitary flower, but its realistic, photographic treatment is outside the project’s colourful cartoon teaching style. It is not accepted for Grade 6 cards.
 
+## Accepted Pixabay garbage candidate
+
+The Pixabay vector `https://pixabay.com/vectors/garbage-container-recycling-trash-157110/` was downloaded as `pixabay-garbage-container-157110.png`. It shows four bright, recognisable waste containers and clear recycling symbols, with no written words, watermark, logo, or rendering artifact. It is accepted as a child-friendly, pedagogically close image for the Grade 6 term `garbage`.
+
 ## Approved pedagogical reuse of existing Grade 6 art
 
 The accepted wind-turbine scene visibly shows several child-friendly white clouds, so it is also mapped to `clouds`. The accepted beach scene visibly shows blue sea water, so it is also mapped to `water`. The accepted stacked-coins image is also a direct visual for `gold`, and the accepted bench scene clearly depicts a wooden bench, so it is also used for `wooden`. These four links reuse reviewed artwork only; no additional source asset was counted or accepted.

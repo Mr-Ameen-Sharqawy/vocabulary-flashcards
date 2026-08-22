@@ -59,6 +59,7 @@ export const grade6CartoonImages: Record<string, string> = {
   "water": "/manus-storage/pixabay-summer-beach-8618894_ea8cbb3d.jpg",
   "wooden": "/manus-storage/pixabay-school-children-park-bench-9837892_dc2d32ca.png",
   "furniture": "/manus-storage/grade6-017-make-furniture_17323615.png",
+  "garbage": "/manus-storage/pixabay-garbage-container-157110_3bf4d38a.png",
 };
 
 export function grade6CartoonImageForTerm(term: string, fallback: string) {
