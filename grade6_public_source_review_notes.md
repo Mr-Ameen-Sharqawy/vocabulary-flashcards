@@ -274,3 +274,7 @@ The Creazilla asset `https://creazilla.com/media/clipart/15776/basil-herb-leaves
 ## Accepted Creazilla watering-can candidate for irrigation
 
 The Creazilla asset `https://creazilla.com/media/clipart/78561/watering-can` is indexed under the Creazilla Open License, permitting educational and commercial use without attribution. The reviewed 800×610 original clearly shows a complete purple watering can, including its water-filled opening and sprinkler rose, with no visible text, logos, watermarks, or artifacts. It is accepted as a documented pedagogical close-match for `irrigation`: it shows the child-recognisable tool used to irrigate plants, rather than falsely depicting a different agricultural process.
+
+## Herbs CC0 candidate — rejected for overly simple rendering
+
+The Creazilla asset `https://creazilla.com/media/clipart/3151438/herb` is indexed as Public Domain (CC0). Its 1150×1920 original was inspected and does depict a potted herb, but the flat lime-green, low-detail form with large horizontal striping is too visually simplistic for the platform’s established colourful cartoon standard. It was not accepted for `herbs`.
