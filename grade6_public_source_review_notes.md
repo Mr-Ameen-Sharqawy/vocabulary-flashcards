@@ -310,3 +310,7 @@ The Creazilla vector `https://creazilla.com/media/clipart/77790/red-perch` is in
 ## Creazilla alligator candidate — rejected for visible watermark
 
 The Creazilla vector `https://creazilla.com/media/clipart/3174549/alligator` appears initially as a clear, complete green cartoon alligator. However, a second in-context review after the card was revealed in the app showed the visible `PICTURE CLUB` mark at the top-left of the artwork. This violates the project’s strict no-watermark rule, so the asset was removed from the Grade 6 map and must not be used for `crocodile`.
+
+## Creazilla dandelion candidates — rejected for background artifacts and low-detail rendering
+
+Two colourful Creazilla dandelion search candidates were reviewed as potential pedagogical images for `weeds`. The two-flower candidate has conspicuous horizontal yellow-grey bands extending through the transparent background, while the single-flower candidate has rough grey edge fringing and a very low-detail, flat plant form. Neither asset satisfies the project’s clean-alpha and polished colourful-cartoon standards, so neither is accepted or mapped to `weeds`.
