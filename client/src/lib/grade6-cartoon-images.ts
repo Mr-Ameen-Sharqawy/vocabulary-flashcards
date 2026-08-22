@@ -47,6 +47,7 @@ export const grade6CartoonImages: Record<string, string> = {
   "landscape": "/manus-storage/openclipart-rural-landscape-268296_a984fbac.png",
   "bench": "/manus-storage/pixabay-school-children-park-bench-9837892_dc2d32ca.png",
   "coins": "/manus-storage/pixabay-coins-gold-stacked-29516_91cd2b96.png",
+  "beach": "/manus-storage/pixabay-summer-beach-8618894_ea8cbb3d.jpg",
 };
 
 export function grade6CartoonImageForTerm(term: string, fallback: string) {

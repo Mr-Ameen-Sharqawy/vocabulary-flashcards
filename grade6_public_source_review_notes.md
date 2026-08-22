@@ -135,3 +135,7 @@ The Pixabay vector `https://pixabay.com/vectors/school-children-park-bench-backp
 ## Accepted Pixabay coins candidate
 
 The Pixabay vector `https://pixabay.com/vectors/coins-gold-stacked-metal-treasure-29516/` was downloaded as `pixabay-coins-gold-stacked-29516.png`. It shows a prominent stack of shaded gold coins with a clean transparent background. The object is clear, colourful, text-free, and has no visible logo, watermark, or artifact. It is accepted as a direct educational visual for the Grade 6 term `coins`.
+
+## Accepted Pixabay beach candidate
+
+The Pixabay illustration `https://pixabay.com/illustrations/summer-beach-water-nature-travel-8618894/` was downloaded as `pixabay-summer-beach-8618894.jpg`. It is a vivid cartoon beach scene with sand, blue water, palm trees, rocks, clouds, and no visible text, logo, watermark, or rendering artifact. It is accepted as a direct, child-friendly Grade 6 visual for the term `beach`.

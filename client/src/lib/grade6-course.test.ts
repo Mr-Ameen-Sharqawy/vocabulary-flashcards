@@ -17,10 +17,11 @@ describe("Grade 6 course data", () => {
   });
 
   it("maps all reviewed Grade 6 visual assets without losing the lesson fallback", () => {
-    expect(Object.keys(grade6CartoonImages)).toHaveLength(41);
+    expect(Object.keys(grade6CartoonImages)).toHaveLength(42);
     expect(grade6CartoonImageForTerm("coral reefs", "/fallback.png")).toContain("coral-reef");
     expect(grade6CartoonImageForTerm("bench", "/fallback.png")).toContain("park-bench");
     expect(grade6CartoonImageForTerm("coins", "/fallback.png")).toContain("coins-gold");
+    expect(grade6CartoonImageForTerm("beach", "/fallback.png")).toContain("summer-beach");
     expect(grade6CartoonImageForTerm("unmapped Grade 6 term", "/fallback.png")).toBe("/fallback.png");
   });
 });
