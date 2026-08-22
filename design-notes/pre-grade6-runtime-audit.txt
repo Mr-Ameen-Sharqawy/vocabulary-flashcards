@@ -1,0 +1,20 @@
+=== audit timestamp ===
+2026-08-22T00:43:07Z
+=== build assets ===
+1088223 dist/public/assets/index-szUXcSXc.js
+368208 dist/public/index.html
+129075 dist/public/assets/index-BFjTSo1c.css
+25168 dist/public/__manus__/debug-collector.js
+57 dist/public/__manus__/version.json
+0 dist/public/.gitkeep
+=== dev server recent errors ===
+[2026-08-21T00:05:33.653Z] SyntaxError: The requested module './db' does not provide an export named 'studentDeviceExists'
+[2026-08-21T00:34:23.250Z] SyntaxError: The requested module './db' does not provide an export named 'isTrialSessionActive'
+[2026-08-21T15:03:22.892Z] ELIFECYCLE  Command failed.
+[2026-08-21T15:44:06.611Z] SyntaxError: The requested module './db' does not provide an export named 'getTrialDeviceAccess'
+[2026-08-21T15:45:16.321Z] SyntaxError: The requested module './db' does not provide an export named 'getTrialDeviceAccess'
+[2026-08-21T15:46:46.633Z] ELIFECYCLE  Command failed.
+[2026-08-21T19:22:41.911Z] ELIFECYCLE  Command failed.
+[2026-08-22T00:03:44.383Z] ELIFECYCLE  Command failed.
+=== browser console recent errors ===
+=== failed network requests ===

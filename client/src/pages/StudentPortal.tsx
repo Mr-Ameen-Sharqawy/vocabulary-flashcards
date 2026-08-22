@@ -1,8 +1,9 @@
 import { BookOpen, KeyRound, Loader2, LogIn, ShieldCheck } from "lucide-react";
-import { FormEvent, useCallback, useEffect, useRef, useState } from "react";
+import { FormEvent, lazy, Suspense, useCallback, useEffect, useRef, useState } from "react";
 import { trpc } from "@/lib/trpc";
-import Home from "./Home";
 import GradeSelector from "./GradeSelector";
+
+const Home = lazy(() => import("./Home"));
 
 type StudentPortalProps = { onTeacherAccess: () => void };
 const studentDeviceStorageKey = "primary4-flashcards-device-id";
@@ -72,13 +73,13 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
     if (selectedGrade === null) {
       return <GradeSelector studentName={studentQuery.data.displayName} allowedGrades={studentQuery.data.allowedGrades} onSelectGrade4={() => setSelectedGrade("grade4")} onSelectGrade5={() => setSelectedGrade("grade5")} onLogout={() => { setSelectedGrade(null); logoutMutation.mutate(undefined, { onSuccess: () => studentQuery.refetch() }); }} />;
     }
-    return <Home
+    return <Suspense fallback={<main className="sf-access-shell" dir="rtl"><div className="sf-access-card sf-access-loading"><Loader2 className="animate-spin" /> جاري فتح بطاقات الدرس...</div></main>}><Home
       grade={selectedGrade}
       initialProgress={studentQuery.data.progress[selectedGrade]}
       studentName={studentQuery.data.displayName}
       onProgressChange={handleProgressChange}
       onStudentLogout={() => { setSelectedGrade(null); logoutMutation.mutate(undefined, { onSuccess: () => studentQuery.refetch() }); }}
-    />;
+    /></Suspense>;
   }
 
   if (selectedGrade === null) {
