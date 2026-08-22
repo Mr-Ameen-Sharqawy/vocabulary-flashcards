@@ -189,3 +189,7 @@ The reviewed bracelet image is also a clear instance of `jewelry`, while the car
 ## Accepted Pixabay hat candidate
 
 The Pixabay illustration `https://pixabay.com/illustrations/hat-ribbon-cartoon-cutout-fashion-7605221/` was reviewed as `pixabay-hat-ribbon-7605221.png`. It is a bright, detailed cartoon sun hat with a pink ribbon and bow, with no written words, watermark, logo, or rendering artifact. It is accepted as a direct visual for the Grade 6 term `hat`.
+
+## Heron candidate — rejected for broken line-art rendering
+
+The Pixabay vector `https://pixabay.com/vectors/great-blue-heron-bird-animal-8043707/` loaded only as a small, incomplete black line-art fragment rather than a complete colourful bird. It does not meet the project’s child-friendly cartoon or visual-quality standard and is not accepted for `heron`.
