@@ -197,3 +197,7 @@ The Pixabay vector `https://pixabay.com/vectors/great-blue-heron-bird-animal-804
 ## Hibiscus candidate — rejected for incomplete transparent rendering
 
 The Pixabay vector `https://pixabay.com/vectors/tropical-hibiscus-flower-nature-8341544/` loaded as scattered blue and green fragments on a transparent background, rather than a complete visible hibiscus flower. It is not acceptable for a student-facing visual and is rejected for `hibiscus`.
+
+## Jasmine candidate — rejected for incomplete and photographic rendering
+
+The Pixabay illustration `https://pixabay.com/illustrations/ai-generated-jasmine-white-flowers-8661848/` loaded as a tiny cropped sliver on a transparent background. Its source treatment is also photo-like rather than a colourful cartoon. It is therefore not accepted for `jasmine`.
