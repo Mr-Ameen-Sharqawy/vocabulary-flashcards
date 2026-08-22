@@ -1,0 +1,669 @@
+{
+  "unused_images": [
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Abandoned_stone_cottage_with_ivy_202608212034.jpeg",
+      "filename": "Abandoned_stone_cottage_with_ivy_202608212034.jpeg",
+      "sha256": "0aa5f8726171df37b3dbf42dd72d1378f73eb8e7e40ad042e8e888249bb96e02",
+      "bytes": 1233963
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Ant_carrying_leaf_202608212034.jpeg",
+      "filename": "Ant_carrying_leaf_202608212034.jpeg",
+      "sha256": "8077250a3c7abceb0e698fc5808fa811a65239889e25a823e77f5fd9e9bbc197",
+      "bytes": 791233
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Baker_handing_bread_to_child_202608212032.jpeg",
+      "filename": "Baker_handing_bread_to_child_202608212032.jpeg",
+      "sha256": "dcb65f61d1a9ff59d463dfeeb26b0637eb983d17302bbdeea81311554a4a9b23",
+      "bytes": 776400
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Bird_flying_over_forest_202608212034.jpeg",
+      "filename": "Bird_flying_over_forest_202608212034.jpeg",
+      "sha256": "d54a1d288afe8972c2f017a45ca4498698e103dc49b4db2e7c011f6071ac7620",
+      "bytes": 1025192
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Burned_wooden_birdhouse_202608212034.jpeg",
+      "filename": "Burned_wooden_birdhouse_202608212034.jpeg",
+      "sha256": "bad5938653b20257e905e72ec305fb67782586d1070900493a94b7ebd6fe34ed",
+      "bytes": 957709
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Butterfly_flying_over_flower_202608212033.jpeg",
+      "filename": "Butterfly_flying_over_flower_202608212033.jpeg",
+      "sha256": "02e3376092e9a9a4dff7c69d0f855539cc1014234038cda74160f439de888938",
+      "bytes": 716708
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cactus_blooming_with_pink_flower_202608212034.jpeg",
+      "filename": "Cactus_blooming_with_pink_flower_202608212034.jpeg",
+      "sha256": "3f0bfd9231b7a076ed4d6a5ab88c680b08bc9e8c5870532c773087ffdc4c06d1",
+      "bytes": 669777
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_anchor_in_ocean_202608212032.jpeg",
+      "filename": "Cartoon_anchor_in_ocean_202608212032.jpeg",
+      "sha256": "8cf2f3978e72f63ae42eff2e40acee543a6175e599808509cf92e664239e013c",
+      "bytes": 992961
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_ball_hitting_wall_202608212034.jpeg",
+      "filename": "Cartoon_ball_hitting_wall_202608212034.jpeg",
+      "sha256": "822f7e8994d970706f277c0c7bddb0e93052fe6d48c31ce6a0f61f68516b2a57",
+      "bytes": 875141
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_bat_hanging_from_branch_202608212032.jpeg",
+      "filename": "Cartoon_bat_hanging_from_branch_202608212032.jpeg",
+      "sha256": "e1c11c549d7fe8795d32d7211bba2fd6357a135fd6de2305d13532c57e8536c4",
+      "bytes": 651333
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_character_pushing_boulder_202608212034.jpeg",
+      "filename": "Cartoon_character_pushing_boulder_202608212034.jpeg",
+      "sha256": "abe3e84fee7005267d37deabd4bddc834eb03194657abb04878d14f5fb8f9a21",
+      "bytes": 728908
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Cartoon_character_wiping_sweat_202608212033.jpeg",
+      "filename": "Cartoon_character_wiping_sweat_202608212033.jpeg",
+      "sha256": "833f5266cc74cb64999be6983bd41e94e2c82a52eb458a3b42effdd8676b6a79",
+      "bytes": 752133
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_girl_choosing_fruit_202608212032.jpeg",
+      "filename": "Cartoon_girl_choosing_fruit_202608212032.jpeg",
+      "sha256": "3c75d0302b79b0ed265c114198f54db2d62d344a900e8b54f4491ee6f186169d",
+      "bytes": 590892
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_house_with_robot_and_202608212034.jpeg",
+      "filename": "Cartoon_house_with_robot_and_202608212034.jpeg",
+      "sha256": "de93fcbd6b6ef6dc208aadddc031d1c38b30428393a2e21a1def6d98d8d04297",
+      "bytes": 870973
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Cartoon_kitten_sitting_on_table_202608212032.jpeg",
+      "filename": "Cartoon_kitten_sitting_on_table_202608212032.jpeg",
+      "sha256": "1e341c00c8766d97eb9d4f911025a1ca54def51953ebbbebb1b1aa4f01f4bdfe",
+      "bytes": 680078
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_monster_making_silly_face_202608212033.jpeg",
+      "filename": "Cartoon_monster_making_silly_face_202608212033.jpeg",
+      "sha256": "ef7258173cc3a5b59c2092eab3f12c143bf3b0bd90f57931d3f172b1d4fc3fe5",
+      "bytes": 934197
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_puppy_wearing_red_collar_202608212032.jpeg",
+      "filename": "Cartoon_puppy_wearing_red_collar_202608212032.jpeg",
+      "sha256": "852077f3c57d40f2272678d84a4adc7873201ac66d2d61ca39924238cc96d2bd",
+      "bytes": 504051
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_water_watering_plants_202608212034.jpeg",
+      "filename": "Cartoon_water_watering_plants_202608212034.jpeg",
+      "sha256": "c73b898265962109c3bab706760c0b91486d2c562eab29fa9a8c59fed48094bb",
+      "bytes": 858576
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Cartoon_wind_blowing_sand_202608212034.jpeg",
+      "filename": "Cartoon_wind_blowing_sand_202608212034.jpeg",
+      "sha256": "8f15ac37bd65019fea21fc7a1df4e153abfb5834c5314db4320dc94fd2fd057c",
+      "bytes": 900743
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Characters_building_wall_near_river_202608212034.jpeg",
+      "filename": "Characters_building_wall_near_river_202608212034.jpeg",
+      "sha256": "bd9b8ac259725a7ae99a337aab3ee301cdbef1913d4d29244ec7b05b022231b5",
+      "bytes": 938845
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_bringing_apples_inside_202608212034.jpeg",
+      "filename": "Child_bringing_apples_inside_202608212034.jpeg",
+      "sha256": "5bdf24484593a6da88f1109cc2d6247696639c79588c948a38c338b3cdf50eb7",
+      "bytes": 849375
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_carrying_fruit_basket_202608212032.jpeg",
+      "filename": "Child_carrying_fruit_basket_202608212032.jpeg",
+      "sha256": "cffbde7cd475b901999d639f19020b9cb824c10819a4d04c35fcc9c30506503b",
+      "bytes": 1046280
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_controlling_cartoon_robot_202608212032.jpeg",
+      "filename": "Child_controlling_cartoon_robot_202608212032.jpeg",
+      "sha256": "50a58ccb0e3bf5836b4f6b6386accb3d66b7663eae6b0323d9bb13aa20b0c116",
+      "bytes": 778137
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_eating_apple_202608212033.jpeg",
+      "filename": "Child_eating_apple_202608212033.jpeg",
+      "sha256": "a4093129f72fa2520d3b53f906ef2dcfe49dbe05273e48c4859467b64814049c",
+      "bytes": 936750
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_giving_thumbs_up_202608212033.jpeg",
+      "filename": "Child_giving_thumbs_up_202608212033.jpeg",
+      "sha256": "816bca5f3914454c2ad82a6f4a7c5c6d6080b2348849868ba708533eccf25373",
+      "bytes": 800352
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_holding_letter_from_mailbox_202608212034.jpeg",
+      "filename": "Child_holding_letter_from_mailbox_202608212034.jpeg",
+      "sha256": "2be026445bbafe35fdc4f26154301281603a799ebfe868b2d6f39c899af22255",
+      "bytes": 806123
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Child_jumping_over_puddle_202608212034.jpeg",
+      "filename": "Child_jumping_over_puddle_202608212034.jpeg",
+      "sha256": "a6d36a3f61279f59fa1d44ac0bac36f83a92a649086523b715d58b09defe377c",
+      "bytes": 1036294
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_playing_doctor_illustration_202608212033.jpeg",
+      "filename": "Child_playing_doctor_illustration_202608212033.jpeg",
+      "sha256": "a0df0992be6263afad2d910b4cce280ac91b2825ffa233ae0d932c4f99c3add8",
+      "bytes": 743420
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_pointing_at_bush_shadow_202608212032.jpeg",
+      "filename": "Child_pointing_at_bush_shadow_202608212032.jpeg",
+      "sha256": "e83adf663c7ef1042982bb26c0dbaf87f28a58d378a4419c427b55ef3604450d",
+      "bytes": 928129
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_pointing_at_sign_202608212033.jpeg",
+      "filename": "Child_pointing_at_sign_202608212033.jpeg",
+      "sha256": "7aa30fe2503d95814426ae582559ec516cb5be106b40697ada12123ec7d43081",
+      "bytes": 820333
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_riding_bike_first_time_202608212033.jpeg",
+      "filename": "Child_riding_bike_first_time_202608212033.jpeg",
+      "sha256": "c7c70a1be2e5b5568b820228898417a9a33c217f16bada20e6b66a0b26269501",
+      "bytes": 917300
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_riding_bike_successfully_202608212033.jpeg",
+      "filename": "Child_riding_bike_successfully_202608212033.jpeg",
+      "sha256": "e37c57c6dfa4238ebb60c220af106aa46e23a92097d3e164b4cc674456300b44",
+      "bytes": 874578
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_searching_under_bed_202608212033.jpeg",
+      "filename": "Child_searching_under_bed_202608212033.jpeg",
+      "sha256": "8e531e9c30c49419f0bd94d6380313f1bf1ec37ead8ab1d3fcf7e8c47dbce413",
+      "bytes": 949568
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_showing_drawing_to_teacher_202608212034.jpeg",
+      "filename": "Child_showing_drawing_to_teacher_202608212034.jpeg",
+      "sha256": "26245b6e1221389569881ded55a73802edbe9807f97cea3a58c584e324b5858a",
+      "bytes": 795408
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_showing_knee_bandage_202608212033.jpeg",
+      "filename": "Child_showing_knee_bandage_202608212033.jpeg",
+      "sha256": "0f308537bb690f11866d9197bd10b9123209c00c444ba94652a6e0ba0824834d",
+      "bytes": 899182
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Child_sitting_by_pool_202608212034.jpeg",
+      "filename": "Child_sitting_by_pool_202608212034.jpeg",
+      "sha256": "4943285935ed2ed9d8b5a6bfcd3031489ebbe3495f2ed0061bba02f15fe93f9d",
+      "bytes": 784577
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_sneezing_into_tissue_202608212033.jpeg",
+      "filename": "Child_sneezing_into_tissue_202608212033.jpeg",
+      "sha256": "d10425142801a137e89276a94f34c8379626b1ecec5f1424381326f5966b850f",
+      "bytes": 673720
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_staying_awake_late_202608212034.jpeg",
+      "filename": "Child_staying_awake_late_202608212034.jpeg",
+      "sha256": "a16fd69b1abb4255af328b7adb963ff94216562a8f69fb79f8e42b5798046b61",
+      "bytes": 832562
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Child_walking_with_dog_202608212033.jpeg",
+      "filename": "Child_walking_with_dog_202608212033.jpeg",
+      "sha256": "69b1809807ee61ed6b0668ca72bb8627e59a8ea7b2b0e29b585ccc734d98ec13",
+      "bytes": 989141
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Children_playing_soccer_and_tennis_202608212034.jpeg",
+      "filename": "Children_playing_soccer_and_tennis_202608212034.jpeg",
+      "sha256": "873426e454f1b0c8688bb75ed2e7f2b616a1151b7fa01227f9fbb8ba43b5dcf4",
+      "bytes": 868042
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Children_talking_on_toy_phones_202608212034.jpeg",
+      "filename": "Children_talking_on_toy_phones_202608212034.jpeg",
+      "sha256": "8e243ab4b97cb943bb642d7bf83a183b52a93f93659cbdbe48807728b1f2b325",
+      "bytes": 778614
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Cracked_smartphone_screen_repres…_202608212034.jpeg",
+      "filename": "Cracked_smartphone_screen_repres…_202608212034.jpeg",
+      "sha256": "bbc993639c82b8ed1901c69f187bc8a5e5062310e11938333806ab4454f00068",
+      "bytes": 686366
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Damaged_toy_car_with_scratches_202608212034.jpeg",
+      "filename": "Damaged_toy_car_with_scratches_202608212034.jpeg",
+      "sha256": "15e62607263007f396f65294a302a0be1cf26a702e8d556a12e6dac9537767cb",
+      "bytes": 760154
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Farmer_driving_red_tractor_202608212034.jpeg",
+      "filename": "Farmer_driving_red_tractor_202608212034.jpeg",
+      "sha256": "247eec9fd97d38a90a02ba4141458d9bb74d1b38cf59370d52fe0bdf86ff5923",
+      "bytes": 996339
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (2)/Frog_leaping_between_lily_pads_202608212034.jpeg",
+      "filename": "Frog_leaping_between_lily_pads_202608212034.jpeg",
+      "sha256": "c72006bad181fc596ec9a8b18081134db3eb6061b7d385b753e5377d16fa51b5",
+      "bytes": 815871
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Green_plant_growing_towards_sun_202608212033.jpeg",
+      "filename": "Green_plant_growing_towards_sun_202608212033.jpeg",
+      "sha256": "da6ccea2436d566078688a082c5244ba0d961327b44e08b44f989ed96e52bb3f",
+      "bytes": 469748
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Green_plants_growing_in_soil_202608212034.jpeg",
+      "filename": "Green_plants_growing_in_soil_202608212034.jpeg",
+      "sha256": "2aa04b726d3cc072beb00260d5baf914dd0ca6f14de6f94d91f0416960061b3e",
+      "bytes": 941883
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Hammer_striking_golden_bell_202608212034.jpeg",
+      "filename": "Hammer_striking_golden_bell_202608212034.jpeg",
+      "sha256": "0eb7a40afdeb115ab4c6ebf2dae0a4e0d95756aad4c752876c9e8fa330075c5a",
+      "bytes": 873036
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Hammer_striking_metal_bell_202608212034.jpeg",
+      "filename": "Hammer_striking_metal_bell_202608212034.jpeg",
+      "sha256": "f84b8c88fd54a1351a8f38239b5eb246e87ca1783db6b092e040c21ac9d09777",
+      "bytes": 787234
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Hand_adding_salt_to_salad_202608212033.jpeg",
+      "filename": "Hand_adding_salt_to_salad_202608212033.jpeg",
+      "sha256": "4e697fb2c0fa1a6e2ea4432ea30294515034c5a9298be51f979dd110161a7ba2",
+      "bytes": 760318
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Hand_pushing_domino_piece_202608212033.jpeg",
+      "filename": "Hand_pushing_domino_piece_202608212033.jpeg",
+      "sha256": "75ac06d058b52ad66f65825de6b9f1e6f4af28dacb2e1dce12bd46ef0073fc61",
+      "bytes": 688869
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (4)/Kids_painting_and_reading_together_202608212032.jpeg",
+      "filename": "Kids_painting_and_reading_together_202608212032.jpeg",
+      "sha256": "e131e89875f382154755028b66dcd57e9098d463987d00f6943de0cd3751c6fc",
+      "bytes": 762176
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Locked_gate_preventing_entry_202608212034.jpeg",
+      "filename": "Locked_gate_preventing_entry_202608212034.jpeg",
+      "sha256": "5f54b7722e5660a38d40ac496c2f0847ef24749d4ba3d10a015441ac96bda907",
+      "bytes": 863307
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Medical_oxygen_tank_illustration_202608212033.jpeg",
+      "filename": "Medical_oxygen_tank_illustration_202608212033.jpeg",
+      "sha256": "55e37b251324e27387d2c5073345781dddb3fac6444e4af3bcddd752a026fefb",
+      "bytes": 656681
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Open_lunchbox_with_sandwich_and_202608212032.jpeg",
+      "filename": "Open_lunchbox_with_sandwich_and_202608212032.jpeg",
+      "sha256": "1baaaf71e478356c09cd07b11c32b84f51b201ffcba04d22de7a8e30de333265",
+      "bytes": 748939
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (5)/Package_delivered_on_doorstep_202608212033.jpeg",
+      "filename": "Package_delivered_on_doorstep_202608212033.jpeg",
+      "sha256": "5c61c9798e8b9df051df7e1f1fa8b79b6b3ee411da0622e04e40ed002a1aea30",
+      "bytes": 793477
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/People_standing_and_waving_202608212033.jpeg",
+      "filename": "People_standing_and_waving_202608212033.jpeg",
+      "sha256": "ee1c813444f80c687142d8ca8755c40359cbca3902b53a194c265e97c94eed8e",
+      "bytes": 826587
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/People_standing_on_cartoon_street_202608212032.jpeg",
+      "filename": "People_standing_on_cartoon_street_202608212032.jpeg",
+      "sha256": "830c0c9e37af1b714abb223026551dd223c2e3e0d6542db3ce75fbd8091249ba",
+      "bytes": 1031570
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Person_controlling_toy_drone_202608212034.jpeg",
+      "filename": "Person_controlling_toy_drone_202608212034.jpeg",
+      "sha256": "4a12adf7a8145c0d8f204dc3197c6978127f0925798cc12059e0c735b8409456",
+      "bytes": 710132
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Person_covering_with_blanket_on_202608212034.jpeg",
+      "filename": "Person_covering_with_blanket_on_202608212034.jpeg",
+      "sha256": "5a37b4030d7f539a8819fc569195e5a233e59e6b87eb56fb2b96748de6abdd45",
+      "bytes": 773043
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Player_controlling_video_game_ch…_202608212034.jpeg",
+      "filename": "Player_controlling_video_game_ch…_202608212034.jpeg",
+      "sha256": "f2db2fc4402ef728b0e4a8191cd800d7b7a490c87908cbc935b1f0eaa0cb7ee0",
+      "bytes": 776387
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Red_heart_illustration_202608212033.jpeg",
+      "filename": "Red_heart_illustration_202608212033.jpeg",
+      "sha256": "1927eef8998006dfb51ebe34e060f7ea5ebf9a1e81346da99d57f44fec1dba35",
+      "bytes": 793498
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/River_flowing_through_green_valley_202608212033.jpeg",
+      "filename": "River_flowing_through_green_valley_202608212033.jpeg",
+      "sha256": "e34062ed2157dcc3af3d51aeaf2c348976525be66a39945e3b78dcfc1253a8d5",
+      "bytes": 1088289
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Robot_holding_tablet_near_home_202608212032.jpeg",
+      "filename": "Robot_holding_tablet_near_home_202608212032.jpeg",
+      "sha256": "bfe5c5ad96f7dbaa8d461fa1f067f524407050e96a5cd72d608b9170f51cae29",
+      "bytes": 817636
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (7)/Rotary_phone_and_modern_smartphone_202608212033.jpeg",
+      "filename": "Rotary_phone_and_modern_smartphone_202608212033.jpeg",
+      "sha256": "8986c0fb7637da019248c69e41ea485785c7c9f23fbc2cf8e732df1ff1872a9a",
+      "bytes": 786927
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Sand_blowing_across_desert_202608212034.jpeg",
+      "filename": "Sand_blowing_across_desert_202608212034.jpeg",
+      "sha256": "0348fca56403f9bebb8f232a136bffaa5f11f6a68740eb1a56154b407435c29d",
+      "bytes": 931351
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Sprout_growing_from_soil_202608212034.jpeg",
+      "filename": "Sprout_growing_from_soil_202608212034.jpeg",
+      "sha256": "d1f66fb546fc09d568529161576ae3466ec2bfc6f02a569cced4e070a6e7763a",
+      "bytes": 808409
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder/Squirrel_burying_a_nut_202608212033.jpeg",
+      "filename": "Squirrel_burying_a_nut_202608212033.jpeg",
+      "sha256": "8d2c848c7e3b8347581e0aa5d07d1dbb9edf2572955e7bca2d3a04e77e9b5f69",
+      "bytes": 988796
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Stethoscope_illustration_202608212033.jpeg",
+      "filename": "Stethoscope_illustration_202608212033.jpeg",
+      "sha256": "5a7991b6c5a742f3ecc5e156f37226a0d58a97400042c19f142801f9cf42e935",
+      "bytes": 504920
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Stone_basin_filled_with_water_202608212034.jpeg",
+      "filename": "Stone_basin_filled_with_water_202608212034.jpeg",
+      "sha256": "bb8a61c827c4ac1bdf4bee562f7edbdd836b37a0628bed27a256f7c7e022b3ec",
+      "bytes": 1098527
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Sun_moving_across_sky_202608212033.jpeg",
+      "filename": "Sun_moving_across_sky_202608212033.jpeg",
+      "sha256": "89eef888865b5845c0901ac52a059dd8fb1f73afa09407df238069b82e389849",
+      "bytes": 625406
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Supermarket_shelf_with_products_202608212034.jpeg",
+      "filename": "Supermarket_shelf_with_products_202608212034.jpeg",
+      "sha256": "339263699295b833ac870a5c8fbfbeaaca7fee5b3c944e2081be3ae8f0d0d051",
+      "bytes": 776613
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Teacher_grading_student_homework…_202608212032.jpeg",
+      "filename": "Teacher_grading_student_homework…_202608212032.jpeg",
+      "sha256": "512c3e97b159b9b67056e41c9722b677129d82cf40bc5de504f1d58c9d4cc545",
+      "bytes": 787061
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Thick_book_and_thin_pencil_202608212034.jpeg",
+      "filename": "Thick_book_and_thin_pencil_202608212034.jpeg",
+      "sha256": "3bc0740f389c06aa2a348fb63281554fe48852f5aee8984bb0f8a7224ca8cf92",
+      "bytes": 833096
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Toy_car_track_with_cars_202608212032.jpeg",
+      "filename": "Toy_car_track_with_cars_202608212032.jpeg",
+      "sha256": "c066eb025660aff89d809f6e5be6a0d8a162e5d14317b32ecac03fd07fb2c617",
+      "bytes": 839143
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Treasure_chest_with_gold_coins_202608212032.jpeg",
+      "filename": "Treasure_chest_with_gold_coins_202608212032.jpeg",
+      "sha256": "ff55564767b82e0dd339503f5544f5c38f91c19f0cf4ec120cb4389efb2e6df0",
+      "bytes": 716281
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (3)/Umbrella_protecting_children_fro…_202608212033.jpeg",
+      "filename": "Umbrella_protecting_children_fro…_202608212033.jpeg",
+      "sha256": "026a74e3be0113756884a15bf04dffdce3bdddfb6a498048fb2e9c024fef0875",
+      "bytes": 917549
+    },
+    {
+      "source_group": "August 21 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260821/New folder (6)/Weather_vane_spinning_in_wind_202608212033.jpeg",
+      "filename": "Weather_vane_spinning_in_wind_202608212033.jpeg",
+      "sha256": "066718df0e70cad9cc8e4547ea59e48e74310087f57f00c4a813f3d58622adfd",
+      "bytes": 899133
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Animals_gathering_around_storyte…_202608220239.jpeg",
+      "filename": "Animals_gathering_around_storyte…_202608220239.jpeg",
+      "sha256": "3af55da78dd55bffe5ed679a82178af7166e83f1eb7b00f8e00d56bdd6a4bf66",
+      "bytes": 1091797
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_character_playing_with_f…_202608220238.jpeg",
+      "filename": "Cartoon_character_playing_with_f…_202608220238.jpeg",
+      "sha256": "98bb2125361cbfcfdc4c23af28c79321e58baf7aeb985b9391f96b3da6242d87",
+      "bytes": 778314
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_character_pointing_at_kite_202608220239.jpeg",
+      "filename": "Cartoon_character_pointing_at_kite_202608220239.jpeg",
+      "sha256": "5c8de1176590cb6f08956fae21e40749b892f9a7c2333df9ade9d24250744eef",
+      "bytes": 774617
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_rabbit_holding_tiny_carrot_202608220238.jpeg",
+      "filename": "Cartoon_rabbit_holding_tiny_carrot_202608220238.jpeg",
+      "sha256": "d1639ba9d1b7e794ce0b52647fed667f4691c81f632ab21ab1cb72069acfbcd4",
+      "bytes": 780295
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_brushing_teeth_202608220238.jpeg",
+      "filename": "Child_brushing_teeth_202608220238.jpeg",
+      "sha256": "069ef22739ee78cb2368e85d1fd7011fe8562d59dc4992a378313fbca156c55b",
+      "bytes": 866313
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_catching_falling_ball_202608220239.jpeg",
+      "filename": "Child_catching_falling_ball_202608220239.jpeg",
+      "sha256": "2c2e9f0807c998383e64edfabac7b335caea2e64a8757005a70f2953fca3bcef",
+      "bytes": 757826
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_flying_toy_helicopter_202608220239.jpeg",
+      "filename": "Child_flying_toy_helicopter_202608220239.jpeg",
+      "sha256": "1dbd995089d9f0ff8c3aa094eec4f8f596a038254f3eff205e4abe0b223c120e",
+      "bytes": 797041
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_on_playground_see-saw_202608220238.jpeg",
+      "filename": "Child_on_playground_see-saw_202608220238.jpeg",
+      "sha256": "6a36dcbc6742c63d6221dfafca8535ee1f36e91788ce177cd4e6ed7c0c9d3cfd",
+      "bytes": 669292
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_playing_doctor_202608220239.jpeg",
+      "filename": "Child_playing_doctor_202608220239.jpeg",
+      "sha256": "7bcde4ea1bc5c6e3fd8166ac98a0a7c16174d97433024e8eb29496d459306b31",
+      "bytes": 816955
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Colorful_alien_with_three_eyes_202608220239.jpeg",
+      "filename": "Colorful_alien_with_three_eyes_202608220239.jpeg",
+      "sha256": "4d7cfee6292bc05bde6ddbba4516794b31c536efd2584c8c1e2e684001b7de58",
+      "bytes": 802044
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Doctor_giving_child_high-five_202608220238.jpeg",
+      "filename": "Doctor_giving_child_high-five_202608220238.jpeg",
+      "sha256": "6d79ce3d061b0e13f70925d3870a840e792e4eb05c34066a696f056830c3c267",
+      "bytes": 966193
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Golden_flower_growing_among_whit…_202608220238.jpeg",
+      "filename": "Golden_flower_growing_among_whit…_202608220238.jpeg",
+      "sha256": "d152174836324330bbd0ed087c67bcf08eb4417d928012d65567cfd5da6de155",
+      "bytes": 919544
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Hand_placing_puzzle_piece_202608220238.jpeg",
+      "filename": "Hand_placing_puzzle_piece_202608220238.jpeg",
+      "sha256": "2499047a556570eaca62eb831da10ec6626ebb593c06ec1de15dffcec5b9dfb3",
+      "bytes": 798556
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Puppy_wearing_heart_tag_202608220239.jpeg",
+      "filename": "Puppy_wearing_heart_tag_202608220239.jpeg",
+      "sha256": "661badbe03572214860f4995c00f88194a212c084012e6c5cbb057d845b2dac6",
+      "bytes": 620018
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Scattered_building_blocks_on_floor_202608220238.jpeg",
+      "filename": "Scattered_building_blocks_on_floor_202608220238.jpeg",
+      "sha256": "f688ea86954e458fdd02885e207cc1b6ef227b8813b6dbae48e9f85dda36f6c1",
+      "bytes": 752382
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Wand_turning_rock_into_gemstone_202608220238.jpeg",
+      "filename": "Wand_turning_rock_into_gemstone_202608220238.jpeg",
+      "sha256": "fa2291c7ba64889326fc5a97057982beba14d735d6db618d620c73059c8542f5",
+      "bytes": 861379
+    },
+    {
+      "source_group": "August 22 Grade 5 archives",
+      "path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Wooden_toy_horse_and_car_202608220238.jpeg",
+      "filename": "Wooden_toy_horse_and_car_202608220238.jpeg",
+      "sha256": "eee1f7325d5581ba36a6c7f84e2c34337453482d0efb0c80cf1864f968e8978b",
+      "bytes": 798523
+    }
+  ]
+}

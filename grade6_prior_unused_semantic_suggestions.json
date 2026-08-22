@@ -1,0 +1,61 @@
+{
+  "model": "gpt-5-mini",
+  "suggestions": [
+    {
+      "filename": "Ant_carrying_leaf_202608212034.jpeg",
+      "term": "creature",
+      "confidence": "high",
+      "reason": "Clear photo of an insect (ant); directly illustrates the term 'creature' as a living animal."
+    },
+    {
+      "filename": "Butterfly_flying_over_flower_202608212033.jpeg",
+      "term": "petals",
+      "confidence": "high",
+      "reason": "Close scene of a butterfly on a flower showing the flower's petals — direct visual of 'petals'."
+    },
+    {
+      "filename": "Cactus_blooming_with_pink_flower_202608212034.jpeg",
+      "term": "cactus",
+      "confidence": "high",
+      "reason": "Obvious image of a cactus in bloom — a direct depiction of the term 'cactus'."
+    },
+    {
+      "filename": "Child_riding_bike_successfully_202608212033.jpeg",
+      "term": "ride a bike",
+      "confidence": "high",
+      "reason": "Shows a child riding a bicycle successfully — directly matches 'ride a bike'."
+    },
+    {
+      "filename": "Child_pointing_at_sign_202608212033.jpeg",
+      "term": "signs",
+      "confidence": "high",
+      "reason": "Child is pointing at a posted sign; a clear, unambiguous illustration of 'signs'."
+    },
+    {
+      "filename": "Cartoon_wind_blowing_sand_202608212034.jpeg",
+      "term": "windy",
+      "confidence": "high",
+      "reason": "Visualizes wind moving sand — directly represents the weather condition 'windy'."
+    },
+    {
+      "filename": "Bird_flying_over_forest_202608212034.jpeg",
+      "term": "environment",
+      "confidence": "medium",
+      "reason": "A bird over a forest conveys natural surroundings and ecosystems; useable to illustrate 'environment' though a bit general."
+    },
+    {
+      "filename": "Baker_handing_bread_to_child_202608212032.jpeg",
+      "term": "jobs",
+      "confidence": "medium",
+      "reason": "Depicts a baker at work serving bread; useable as an example when teaching the category 'jobs'."
+    },
+    {
+      "filename": "Child_jumping_over_puddle_202608212034.jpeg",
+      "term": "rainy",
+      "confidence": "medium",
+      "reason": "Child jumping over a puddle suggests recent rain and can illustrate the concept 'rainy', though puddles can occur for other reasons."
+    }
+  ],
+  "images_reviewed_by_filename": 95,
+  "grade6_terms_considered": 450
+}
