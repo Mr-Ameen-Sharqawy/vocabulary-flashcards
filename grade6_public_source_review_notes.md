@@ -55,3 +55,11 @@ The Pixabay page `https://pixabay.com/illustrations/wind-energy-wind-farm-wind-t
 ## Fridge candidate — rejected for visual simplicity
 
 The Openclipart page `https://openclipart.org/detail/343499/simple-fridge` is a clean, text-free refrigerator icon, but it is only a black outline. It is too minimal to match the colourful cartoon teaching style used in the accepted Grade 6 assets, so it is not accepted.
+
+## Fossil candidate — rejected for visual style
+
+The Pixabay asset `https://pixabay.com/illustrations/dinosaur-fossil-fukui-city-2525441/` was downloaded as `pixabay-dinosaur-fossil-2525441.png`. It is clean and free of visible text or watermarks, but it is a detailed monochrome scientific skeleton drawing rather than a child-friendly colour cartoon. It is therefore not accepted for the Grade 6 card set.
+
+## Accepted Pixabay suitcase candidate
+
+The Pixabay asset `https://pixabay.com/illustrations/suitcase-luggage-world-travel-sky-8023523/` was downloaded as `pixabay-suitcase-8023523.png`. It is a colourful, clean flat-cartoon scene centred on three clearly recognisable suitcases, with a travel route graphic but no readable text, logo, or watermark. It is accepted for the Grade 6 term `suitcase`.
