@@ -6,7 +6,7 @@
 - **Pixabay**: license summary permits free use and adaptation, but individual assets may still require a third-party-rights check; it is a secondary source only.
 - **Wikimedia Commons**: files are individually licensed and commonly require attribution; use only when the asset page clearly provides a compatible license and attribution data.
 - **Public Domain Vectors**: states that its vectors are CC0/public domain; inspect any final download for suitability and visible writing.
-- **Creazilla**: the selected tilapia asset page identifies the Creazilla Open License as permitting editorial, educational, commercial, and personal use without attribution; use only where the local artwork can be visually checked and contains no visible mark.
+- **Creazilla**: the selected pages identify either the Creazilla Open License or Public Domain (CC0) as permitting editorial, educational, commercial, and personal use without attribution; use only where the local artwork can be visually checked and contains no visible mark.
 
 ## First Openclipart trial
 
@@ -258,3 +258,7 @@ The search result for a Pixabay `Vegetables, Garden, Organic Fertilizer` illustr
 ## Compost-bin candidate — not accepted for natural fertilizer
 
 The Pixabay organic-compost search page was reviewed directly. Its only colourful cartoon candidate in the visible results is a brown compost bin focused on a black cat, while the compost material itself is largely obscured. It is neither a clear image of natural fertilizer nor a child-focused teaching visual for that term, so it was not downloaded or accepted.
+
+## Accepted Creazilla peppermint-herb candidate
+
+The Creazilla page `https://creazilla.com/media/clipart/15795/peppermint-herb` is listed in the search index as Public Domain (CC0), allowing educational and commercial use without attribution. Its direct page was CAPTCHA-blocked, so it was not relied on for visual evaluation. The downloaded 800×742 original search asset was independently reviewed: it is a complete bright-green peppermint sprig with five veined leaves, no visible text, logos, watermarks, or colour artifacts. It is accepted as a direct educational visual for `mint`.
