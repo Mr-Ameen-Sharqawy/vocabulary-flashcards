@@ -229,3 +229,11 @@ The Pixabay vector `https://pixabay.com/vectors/insects-bugs-cartoon-ant-bee-680
 ## Heron public-domain candidate — not accepted pending retrievable original
 
 The Public Domain Vectors page `https://publicdomainvectors.org/en/free-clipart/Heron-color-graphics/34068.html` identifies a coloured long-legged heron vector as public domain, and its search thumbnail looks visually relevant. However, the page triggered a CAPTCHA and both the advertised PNG preview and SVG download endpoint returned `403` during retrieval. Without a full original file to inspect for final visual quality, it is not accepted or mapped to `heron`.
+
+## Hibiscus photographic candidate — rejected for visual style
+
+The Pixabay illustration `https://pixabay.com/illustrations/flower-hibiscus-botany-nature-8752709/` clearly displays a hibiscus, but the visible asset uses a photographic, close-up flower treatment rather than the requested colourful cartoon teaching style. It was not downloaded or accepted.
+
+## Accepted Pixabay hibiscus candidate
+
+The Pixabay vector `https://pixabay.com/vectors/hibiscus-blossom-leaf-red-blooming-306805/` was saved as `pixabay-hibiscus-blossom-leaf-306805.png`. Visual review confirmed a complete red hibiscus flower with a bright yellow stamen and green leaves on a transparent background. It is colourful, immediately recognisable, free of visible words, logos, watermarks, and rendering artifacts, and is accepted as a direct educational visual for `hibiscus`.

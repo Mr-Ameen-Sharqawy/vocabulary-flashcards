@@ -46,7 +46,7 @@ export default function GradeSelector({ studentName, allowedGrades = ["grade4", 
           <p>PRIMARY 6</p>
           <h2 dir="ltr">Grade 6</h2>
           <span>20 درسًا · 609 مفردة وعبارة</span>
-          <small>46 صورة مراجَعة حاليًا · اختبارات لكل وحدة.</small>
+          <small>47 صورة مراجَعة حاليًا · اختبارات لكل وحدة.</small>
           <button onClick={onSelectGrade6}>ابدأ Grade 6 <ArrowLeft size={18} /></button>
         </article>}
       </section>

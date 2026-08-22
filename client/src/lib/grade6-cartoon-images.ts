@@ -71,6 +71,7 @@ export const grade6CartoonImages: Record<string, string> = {
   "garbage bags": "/manus-storage/pixabay-garbage-bag-10207886_badf2e30.png",
   "hat": "/manus-storage/pixabay-hat-ribbon-7605221_fb504d1c.png",
   "kingfisher": "/manus-storage/pixabay-kingfisher-nature-branch-2393409_f6cbacb0.png",
+  "hibiscus": "/manus-storage/pixabay-hibiscus-blossom-leaf-306805_1e1ab8b2.png",
 };
 
 export function grade6CartoonImageForTerm(term: string, fallback: string) {
