@@ -75,3 +75,7 @@ The Pixabay asset `https://pixabay.com/illustrations/loom-handcraft-textiles-han
 ## Accepted Pixabay loom candidate
 
 The Pixabay asset `https://pixabay.com/illustrations/woman-weaving-traditional-craft-10371190/` was downloaded as `pixabay-woman-weaving-10371190.jpg`. It is a clean stylised illustration of a woman actively weaving on a large upright loom; the loom structure and coloured threads are prominent. The artwork contains no readable text, logo, or watermark, so it is accepted as a pedagogically close visual for the Grade 6 term `loom`.
+
+## Accepted Openclipart dolphins candidate
+
+The Openclipart detail page `https://openclipart.org/detail/216002/dolphin-blue-tandem` provides a direct PNG download with no account required. The saved candidate `openclipart-dolphins-216002.png` clearly depicts two blue dolphins jumping together above stylised water, without writing, logo, or watermark. It is accepted for the Grade 6 term `dolphins`.
