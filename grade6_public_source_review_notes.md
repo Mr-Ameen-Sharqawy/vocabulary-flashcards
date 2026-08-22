@@ -314,3 +314,11 @@ The Creazilla vector `https://creazilla.com/media/clipart/3174549/alligator` app
 ## Creazilla dandelion candidates — rejected for background artifacts and low-detail rendering
 
 Two colourful Creazilla dandelion search candidates were reviewed as potential pedagogical images for `weeds`. The two-flower candidate has conspicuous horizontal yellow-grey bands extending through the transparent background, while the single-flower candidate has rough grey edge fringing and a very low-detail, flat plant form. Neither asset satisfies the project’s clean-alpha and polished colourful-cartoon standards, so neither is accepted or mapped to `weeds`.
+
+## Pixabay parsley candidate — rejected for incomplete rendering
+
+The Pixabay vector `https://pixabay.com/vectors/parsley-green-spice-french-parsley-161940/` is marked on its page as a free-to-download parsley vector, but its artwork area rendered only as a blank transparent checkerboard during review. Because the full illustration could not be visually checked for completeness, artefacts, or a visible mark, it is not downloaded, accepted, or mapped to `parsley`.
+
+## Pixabay ducks candidate — rejected for visible watermark
+
+The Pixabay vector `https://pixabay.com/vectors/duck-ducklings-pond-water-birds-9868480/` initially looks like a complete, colourful cartoon scene of a mother duck and four ducklings. However, the in-context review after revealing the image in the card showed a visible `PICTURE CLUB` mark in the top-left corner, alongside a small mark at the lower-right. This violates the strict no-watermark rule, so the asset was removed and must not be used for `ducks`.
