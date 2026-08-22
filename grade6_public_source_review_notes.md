@@ -294,3 +294,7 @@ The Creazilla vector `https://creazilla.com/media/clipart/7754655/compost-pit` i
 ## Accepted Creazilla jasmine candidate
 
 The Creazilla vector `https://creazilla.com/media/clipart/7937777/jasmine` is indexed under the Creazilla Open License, permitting educational and commercial use without attribution. The reviewed 1920×1255 original shows a complete white five-petal jasmine flower with a warm yellow-orange centre and several green leaves. It is colourful, clean, free of visible words, logos, watermarks, and rendering artifacts, and is accepted as a direct visual for `jasmine`. This supersedes only the prior incomplete Pixabay jasmine candidates that were correctly rejected.
+
+## Parsley CC0 candidate — rejected for edge artifacts
+
+The Creazilla asset `https://creazilla.com/media/clipart/13368/parsley` is indexed as Public Domain (CC0), and a 416×800 search-result original was retrieved for review. It does show a bunch of parsley, but its pale turquoise matte/halo around the stems and leaf edges creates visible transparent-background colour artifacts. It was not accepted for `parsley` because the project excludes such edge distortions.
