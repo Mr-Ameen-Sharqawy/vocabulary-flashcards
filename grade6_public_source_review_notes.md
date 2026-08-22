@@ -246,3 +246,15 @@ The Pixabay vector `https://pixabay.com/vectors/flowers-jasmine-white-leaves-575
 ## Accepted Creazilla tilapia candidate
 
 The Creazilla clipart page `https://creazilla.com/media/clipart/15568889/tilapia` identifies its asset as covered by the Creazilla Open License for educational and commercial use without attribution. The page and the 800×427 downloaded original were inspected directly. They show one complete, clear cartoon tilapia with peach scales, dark green vertical stripes, a green dorsal fin, orange tail and fins, and no visible words, logos, watermarks, or rendering artifacts. It is accepted as a direct educational visual for `tilapia`.
+
+## Gardener candidate — not accepted for weeds
+
+The Pixabay illustration `https://pixabay.com/illustrations/old-man-gardener-gardening-cartoon-5483047/` is a colourful, clean cartoon, but it shows a gardener watering flowers and small crop rows rather than unwanted plants or an unmistakable weeding action. Since it would teach gardening or watering rather than the target term `weeds`, it is not mapped to Grade 6.
+
+## Natural-fertilizer candidate — rejected for visible writing
+
+The search result for a Pixabay `Vegetables, Garden, Organic Fertilizer` illustration visibly displays the word `BIOHUMUS` on the fertilizer bag. Regardless of its colourful garden scene, this breaches the project’s no-visible-text rule, so it was not opened, downloaded, or accepted for `natural fertilizer`.
+
+## Compost-bin candidate — not accepted for natural fertilizer
+
+The Pixabay organic-compost search page was reviewed directly. Its only colourful cartoon candidate in the visible results is a brown compost bin focused on a black cat, while the compost material itself is largely obscured. It is neither a clear image of natural fertilizer nor a child-focused teaching visual for that term, so it was not downloaded or accepted.
