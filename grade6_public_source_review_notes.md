@@ -298,3 +298,7 @@ The Creazilla vector `https://creazilla.com/media/clipart/7937777/jasmine` is in
 ## Parsley CC0 candidate — rejected for edge artifacts
 
 The Creazilla asset `https://creazilla.com/media/clipart/13368/parsley` is indexed as Public Domain (CC0), and a 416×800 search-result original was retrieved for review. It does show a bunch of parsley, but its pale turquoise matte/halo around the stems and leaf edges creates visible transparent-background colour artifacts. It was not accepted for `parsley` because the project excludes such edge distortions.
+
+## Potted-plants basil candidate — rejected as non-specific
+
+The reviewed Pixabay potted-plants animation candidate shows three unrelated houseplants, including a trailing vine and a large-leaf plant, not an identifiable basil plant. Although it is clean and colourful, it would teach a generic indoor-plant concept rather than the Grade 6 term `basil`, so it was not accepted.
