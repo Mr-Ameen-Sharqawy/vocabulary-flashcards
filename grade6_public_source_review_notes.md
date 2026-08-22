@@ -6,6 +6,7 @@
 - **Pixabay**: license summary permits free use and adaptation, but individual assets may still require a third-party-rights check; it is a secondary source only.
 - **Wikimedia Commons**: files are individually licensed and commonly require attribution; use only when the asset page clearly provides a compatible license and attribution data.
 - **Public Domain Vectors**: states that its vectors are CC0/public domain; inspect any final download for suitability and visible writing.
+- **Creazilla**: the selected tilapia asset page identifies the Creazilla Open License as permitting editorial, educational, commercial, and personal use without attribution; use only where the local artwork can be visually checked and contains no visible mark.
 
 ## First Openclipart trial
 
@@ -237,3 +238,11 @@ The Pixabay illustration `https://pixabay.com/illustrations/flower-hibiscus-bota
 ## Accepted Pixabay hibiscus candidate
 
 The Pixabay vector `https://pixabay.com/vectors/hibiscus-blossom-leaf-red-blooming-306805/` was saved as `pixabay-hibiscus-blossom-leaf-306805.png`. Visual review confirmed a complete red hibiscus flower with a bright yellow stamen and green leaves on a transparent background. It is colourful, immediately recognisable, free of visible words, logos, watermarks, and rendering artifacts, and is accepted as a direct educational visual for `hibiscus`.
+
+## Jasmine flower candidate — rejected for incomplete transparent rendering
+
+The Pixabay vector `https://pixabay.com/vectors/flowers-jasmine-white-leaves-575450/` was opened directly. Only a thin cropped strip of leaves and small white flowers rendered at the top of a large transparent checkerboard area; the intended arrangement was not complete or teachable. It was not downloaded or accepted for `jasmine`.
+
+## Accepted Creazilla tilapia candidate
+
+The Creazilla clipart page `https://creazilla.com/media/clipart/15568889/tilapia` identifies its asset as covered by the Creazilla Open License for educational and commercial use without attribution. The page and the 800×427 downloaded original were inspected directly. They show one complete, clear cartoon tilapia with peach scales, dark green vertical stripes, a green dorsal fin, orange tail and fins, and no visible words, logos, watermarks, or rendering artifacts. It is accepted as a direct educational visual for `tilapia`.
