@@ -63,3 +63,7 @@ The Pixabay asset `https://pixabay.com/illustrations/dinosaur-fossil-fukui-city-
 ## Accepted Pixabay suitcase candidate
 
 The Pixabay asset `https://pixabay.com/illustrations/suitcase-luggage-world-travel-sky-8023523/` was downloaded as `pixabay-suitcase-8023523.png`. It is a colourful, clean flat-cartoon scene centred on three clearly recognisable suitcases, with a travel route graphic but no readable text, logo, or watermark. It is accepted for the Grade 6 term `suitcase`.
+
+## Accepted Pixabay oasis candidate
+
+The Pixabay asset `https://pixabay.com/illustrations/oasis-desert-sand-nature-landscape-9018077/` was downloaded as `pixabay-oasis-9018077.jpg`. It is a clean flat-cartoon desert scene clearly showing water, palm trees, sand dunes, camels, and a tent. No writing, logo, or watermark is visible, so it is accepted for the Grade 6 term `oasis`.
