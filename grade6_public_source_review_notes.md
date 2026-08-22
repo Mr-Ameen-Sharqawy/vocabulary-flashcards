@@ -107,3 +107,7 @@ The Pixabay vector `https://pixabay.com/vectors/fishing-man-water-fisherman-3635
 ## Accepted Pixabay repair candidate
 
 The Pixabay illustration `https://pixabay.com/illustrations/mechanic-car-repair-thoughtful-8265470/` was saved as `pixabay-repair-mechanic-8265470.jpg`. It is a clean cartoon-style scene showing a mechanic actively using a tool to repair a car in a workshop. There is no visible writing, logo, or watermark, so it is accepted as a direct educational visual for the Grade 6 term `repair`.
+
+## Accepted Pixabay wool candidate
+
+The Pixabay illustration `https://pixabay.com/illustrations/crochet-yarn-knitting-craft-hobby-7846455/` was saved as `pixabay-wool-yarn-7846455.jpg`. It is a clean, child-friendly cartoon showing a ball of yarn and an adult crocheting with yarn. No writing, logo, or watermark is visible, so it is accepted as a pedagogically close visual for the Grade 6 term `wool`.
