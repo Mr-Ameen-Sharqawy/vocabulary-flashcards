@@ -139,3 +139,11 @@ The Pixabay vector `https://pixabay.com/vectors/coins-gold-stacked-metal-treasur
 ## Accepted Pixabay beach candidate
 
 The Pixabay illustration `https://pixabay.com/illustrations/summer-beach-water-nature-travel-8618894/` was downloaded as `pixabay-summer-beach-8618894.jpg`. It is a vivid cartoon beach scene with sand, blue water, palm trees, rocks, clouds, and no visible text, logo, watermark, or rendering artifact. It is accepted as a direct, child-friendly Grade 6 visual for the term `beach`.
+
+## Carpenter candidate — rejected for rendering artifacts
+
+The Pixabay illustration `https://pixabay.com/illustrations/carpenter-woodworking-hammer-9972760/` was downloaded as `pixabay-carpenter-woodworking-9972760.png`. Its central cartoon carpenter is visually relevant, but the transparent file contains extensive black, red, green, and grey horizontal rendering strips behind the subject. The artifact is highly visible against a flashcard background, so the image is not accepted.
+
+## Approved pedagogical reuse of existing Grade 6 art
+
+The accepted wind-turbine scene visibly shows several child-friendly white clouds, so it is also mapped to `clouds`. The accepted beach scene visibly shows blue sea water, so it is also mapped to `water`. The accepted stacked-coins image is also a direct visual for `gold`, and the accepted bench scene clearly depicts a wooden bench, so it is also used for `wooden`. These four links reuse reviewed artwork only; no additional source asset was counted or accepted.

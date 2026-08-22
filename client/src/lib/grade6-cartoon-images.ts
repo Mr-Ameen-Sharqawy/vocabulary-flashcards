@@ -33,6 +33,7 @@ export const grade6CartoonImages: Record<string, string> = {
   "coral reefs": "/manus-storage/pixabay-angelfish-coral-reef-10374088_57a306d5.png",
   "camera": "/manus-storage/openclipart-camera-189527_79378393.png",
   "wind turbine": "/manus-storage/pixabay-wind-turbine-7107364_5e04a487.jpg",
+  "clouds": "/manus-storage/pixabay-wind-turbine-7107364_5e04a487.jpg",
   "suitcase": "/manus-storage/pixabay-suitcase-8023523_1a68db00.png",
   "oasis": "/manus-storage/pixabay-oasis-9018077_cfd3c121.jpg",
   "loom": "/manus-storage/pixabay-woman-weaving-10371190_b69348d2.jpg",
@@ -47,7 +48,10 @@ export const grade6CartoonImages: Record<string, string> = {
   "landscape": "/manus-storage/openclipart-rural-landscape-268296_a984fbac.png",
   "bench": "/manus-storage/pixabay-school-children-park-bench-9837892_dc2d32ca.png",
   "coins": "/manus-storage/pixabay-coins-gold-stacked-29516_91cd2b96.png",
+  "gold": "/manus-storage/pixabay-coins-gold-stacked-29516_91cd2b96.png",
   "beach": "/manus-storage/pixabay-summer-beach-8618894_ea8cbb3d.jpg",
+  "water": "/manus-storage/pixabay-summer-beach-8618894_ea8cbb3d.jpg",
+  "wooden": "/manus-storage/pixabay-school-children-park-bench-9837892_dc2d32ca.png",
 };
 
 export function grade6CartoonImageForTerm(term: string, fallback: string) {
