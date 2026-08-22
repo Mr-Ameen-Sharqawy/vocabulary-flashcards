@@ -290,3 +290,7 @@ The Creazilla vector `https://creazilla.com/media/clipart/15568959/great-blue-he
 ## Accepted Creazilla compost-pit candidate for natural fertilizer
 
 The Creazilla vector `https://creazilla.com/media/clipart/7754655/compost-pit` is indexed under the Creazilla Open License, permitting educational and commercial use without attribution. The reviewed 800×489 original depicts a complete cross-section compost pit containing recognisable food scraps such as a banana peel, carrot, and eggshells. It has no visible words, logos, watermarks, or colour artifacts. It is accepted as a documented pedagogical close-match for `natural fertilizer` because compost is made from natural waste and used as a natural fertilizer.
+
+## Accepted Creazilla jasmine candidate
+
+The Creazilla vector `https://creazilla.com/media/clipart/7937777/jasmine` is indexed under the Creazilla Open License, permitting educational and commercial use without attribution. The reviewed 1920×1255 original shows a complete white five-petal jasmine flower with a warm yellow-orange centre and several green leaves. It is colourful, clean, free of visible words, logos, watermarks, and rendering artifacts, and is accepted as a direct visual for `jasmine`. This supersedes only the prior incomplete Pixabay jasmine candidates that were correctly rejected.
