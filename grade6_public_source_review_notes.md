@@ -270,3 +270,7 @@ The Creazilla page `https://creazilla.com/media/clipart/13368/parsley` is indexe
 ## Basil CC0 candidate — rejected as visually indistinguishable from mint
 
 The Creazilla asset `https://creazilla.com/media/clipart/15776/basil-herb-leaves` is indexed as Public Domain (CC0), and its downloaded 800×742 candidate is clean and complete. However, its five bright-green leaves are visually identical to the CC0 peppermint-herb asset already accepted for `mint`; it does not offer a reliable visual distinction for learners. To avoid teaching two different terms with the same artwork, it was not mapped to `basil`.
+
+## Accepted Creazilla watering-can candidate for irrigation
+
+The Creazilla asset `https://creazilla.com/media/clipart/78561/watering-can` is indexed under the Creazilla Open License, permitting educational and commercial use without attribution. The reviewed 800×610 original clearly shows a complete purple watering can, including its water-filled opening and sprinkler rose, with no visible text, logos, watermarks, or artifacts. It is accepted as a documented pedagogical close-match for `irrigation`: it shows the child-recognisable tool used to irrigate plants, rather than falsely depicting a different agricultural process.
