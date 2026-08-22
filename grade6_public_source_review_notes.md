@@ -119,3 +119,19 @@ The Openclipart image `https://openclipart.org/detail/268296/colorful-rural-land
 ## National park candidate — not accepted
 
 The Openclipart candidate `https://openclipart.org/detail/189709/yellow-stone-park` describes a bear viewing a waterfall in Yellowstone National Park, but the associated bitmap download timed out before a visual review could be completed. It is therefore not accepted for Grade 6.
+
+## Cable-car candidates — not accepted
+
+The currently available Pixabay search candidates for `cable car` were either a black pictogram, a sparse black gondola silhouette, or small outline icons. They are free-source candidates but do not meet the platform’s colourful child-friendly cartoon requirement. Other colourful search results were hosted by commercial vector marketplaces with no confirmed compatible use path for this project. No cable-car asset was downloaded or accepted.
+
+## Amulet candidate — rejected for visible artifacts
+
+The Pixabay vector `https://pixabay.com/vectors/amulet-pendant-twig-branch-wood-575829/` was downloaded as `pixabay-amulet-pendant-575829.png`. Although the pendant is recognisable and has no text or watermark, the transparent artwork contains large multicolour horizontal rendering artifacts behind and below the hanging charms. It is not clean enough for a primary-school flashcard and is not accepted.
+
+## Accepted Pixabay bench candidate
+
+The Pixabay vector `https://pixabay.com/vectors/school-children-park-bench-backpack-9837892/` was downloaded as `pixabay-school-children-park-bench-9837892.png`. It is a clear, colourful cartoon of two children seated on a large wooden park bench, making the target object immediately recognisable. The inspected artwork has no visible text, logo, watermark, or rendering artifact. It is accepted as a child-friendly visual for the Grade 6 term `bench`.
+
+## Accepted Pixabay coins candidate
+
+The Pixabay vector `https://pixabay.com/vectors/coins-gold-stacked-metal-treasure-29516/` was downloaded as `pixabay-coins-gold-stacked-29516.png`. It shows a prominent stack of shaded gold coins with a clean transparent background. The object is clear, colourful, text-free, and has no visible logo, watermark, or artifact. It is accepted as a direct educational visual for the Grade 6 term `coins`.
