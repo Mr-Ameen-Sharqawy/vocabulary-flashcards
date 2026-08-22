@@ -302,3 +302,7 @@ The Creazilla asset `https://creazilla.com/media/clipart/13368/parsley` is index
 ## Potted-plants basil candidate — rejected as non-specific
 
 The reviewed Pixabay potted-plants animation candidate shows three unrelated houseplants, including a trailing vine and a large-leaf plant, not an identifiable basil plant. Although it is clean and colourful, it would teach a generic indoor-plant concept rather than the Grade 6 term `basil`, so it was not accepted.
+
+## Red-perch CC0 candidate — rejected as too simplified for Nile perch
+
+The Creazilla vector `https://creazilla.com/media/clipart/77790/red-perch` is indexed as Public Domain (CC0), and its 800×317 original was reviewed. It is clean and has no writing, but the flat red fish with an oversized eye is overly simplistic and does not convey the form or colouring of a Nile perch. It was not accepted as either a direct or pedagogically close visual for `Nile perch`.
