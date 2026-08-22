@@ -1,0 +1,2183 @@
+{
+  "direct_matches": [
+    {
+      "unit": 1,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "building",
+      "arabic": "مبنى",
+      "grade4_sources": [
+        {
+          "term": "building",
+          "url": "/manus-storage/cartoon-029-building_d7ce275a.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "carpenter",
+      "arabic": "نجار",
+      "grade4_sources": [
+        {
+          "term": "carpenter",
+          "url": "/manus-storage/cartoon-042-carpenter_87e7a48d.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "coins",
+      "arabic": "عمالت",
+      "grade4_sources": [
+        {
+          "term": "coins",
+          "url": "/manus-storage/cartoon-063-coins_67c7ef1a.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "coins",
+          "url": "/manus-storage/grade5-103-a2c5b848af_8a83c996.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "colorful",
+      "arabic": "ملون",
+      "grade4_sources": [
+        {
+          "term": "colorful",
+          "url": "/manus-storage/cartoon-066-colorful_37623236.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "colorful",
+          "url": "/manus-storage/grade5-039-371d84b8ba_93b150f9.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "culture",
+      "arabic": "ثقافة",
+      "grade4_sources": [
+        {
+          "term": "culture",
+          "url": "/manus-storage/cartoon-078-culture_855cac7c.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "design",
+      "arabic": "يصمم/ تصميم",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "design",
+          "url": "/manus-storage/grade5-163-9a79adadf1_035c118d.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "exciting",
+      "arabic": "مثير",
+      "grade4_sources": [
+        {
+          "term": "exciting",
+          "url": "/manus-storage/cartoon-122-exciting_300e6620.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "furniture",
+      "arabic": "أثاث",
+      "grade4_sources": [
+        {
+          "term": "furniture",
+          "url": "/manus-storage/cartoon-157-furniture_494e513f.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "history",
+      "arabic": "تاريخ",
+      "grade4_sources": [
+        {
+          "term": "history",
+          "url": "/manus-storage/cartoon-184-history_2467fd10.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "local",
+      "arabic": "محلی",
+      "grade4_sources": [
+        {
+          "term": "local",
+          "url": "/manus-storage/cartoon-222-local_75ff0960.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "market",
+      "arabic": "سوق",
+      "grade4_sources": [
+        {
+          "term": "market",
+          "url": "/manus-storage/cartoon-231-market_def3d009.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "museum",
+      "arabic": "متحف",
+      "grade4_sources": [
+        {
+          "term": "museum",
+          "url": "/manus-storage/cartoon-243-museum_03a6f9e5.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "wooden",
+      "arabic": "خشبى",
+      "grade4_sources": [
+        {
+          "term": "wooden",
+          "url": "/manus-storage/cartoon-463-wooden_4eaadded.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L1",
+      "section": "Important Expressions and Prepositions",
+      "english": "by hand",
+      "arabic": "يدويا",
+      "grade4_sources": [
+        {
+          "term": "by hand",
+          "url": "/manus-storage/cartoon-034-by-hand_79634716.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L1",
+      "section": "Important Expressions and Prepositions",
+      "english": "walk through",
+      "arabic": "يمشي عبر",
+      "grade4_sources": [
+        {
+          "term": "walk through",
+          "url": "/manus-storage/cartoon-448-walk-through_a718409b.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "clear",
+      "arabic": "صافى",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "clear",
+          "url": "/manus-storage/grade5-aug22-075-glass-of-water-with-lemon-202608220238_d4183b0f.jpeg",
+          "map_file": "grade5-aug22-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "local",
+      "arabic": "محلى",
+      "grade4_sources": [
+        {
+          "term": "local",
+          "url": "/manus-storage/cartoon-222-local_75ff0960.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "nature",
+      "arabic": "طبيعة",
+      "grade4_sources": [
+        {
+          "term": "nature",
+          "url": "/manus-storage/cartoon-246-nature_2419000f.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "nature",
+          "url": "/manus-storage/grade5-062-7c1d3d7b78_37d023a4.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "peaceful",
+      "arabic": "مسالم",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "peaceful",
+          "url": "/manus-storage/cartoon-302-quiet_a43cac7a.jpg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "safe",
+      "arabic": "آمن",
+      "grade4_sources": [
+        {
+          "term": "safe",
+          "url": "/manus-storage/cartoon-318-safe_b215f5d0.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "visitors",
+      "arabic": "زائرين",
+      "grade4_sources": [
+        {
+          "term": "visitors",
+          "url": "/manus-storage/cartoon-439-visitors_2c523b13.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L2",
+      "section": "Important Expressions and Prepositions",
+      "english": "full of",
+      "arabic": "ملئ بـ",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "full of",
+          "url": "/manus-storage/grade5-130-a2e31895f2_f4356ba5.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "lesson": "L2",
+      "section": "Important Expressions and Prepositions",
+      "english": "home to",
+      "arabic": "موطن لـ",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "home to",
+          "url": "/manus-storage/grade5-new-037-deae7f6b81_999805b7.jpeg",
+          "map_file": "grade5-new-batch-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "lesson": "L2",
+      "section": "Important Expressions and Prepositions",
+      "english": "known for",
+      "arabic": "معروف بـ",
+      "grade4_sources": [
+        {
+          "term": "known for",
+          "url": "/manus-storage/cartoon-206-known-for_c155ae6d.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L3",
+      "section": "Main Vocabulary",
+      "english": "fishing net",
+      "arabic": "شبكة صيد",
+      "grade4_sources": [
+        {
+          "term": "fishing net",
+          "url": "/manus-storage/cartoon-139-fishing-net_0b47a4e3.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L3",
+      "section": "Main Vocabulary",
+      "english": "harvest",
+      "arabic": "يحصد",
+      "grade4_sources": [
+        {
+          "term": "harvest",
+          "url": "/manus-storage/cartoon-172-harvest_cfeabfc3.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L3",
+      "section": "Main Vocabulary",
+      "english": "village",
+      "arabic": "قرية",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "village",
+          "url": "/manus-storage/grade5-043-542494fb38_57e0243e.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "crafts",
+      "arabic": "أعمال يدوية",
+      "grade4_sources": [
+        {
+          "term": "crafts",
+          "url": "/manus-storage/cartoon-074-crafts_8fa305b6.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "natural",
+      "arabic": "طبيعى",
+      "grade4_sources": [
+        {
+          "term": "natural",
+          "url": "/manus-storage/cartoon-245-natural_404b160b.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 1,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "normal",
+      "arabic": "عادی- طبيعی",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "normal",
+          "url": "/manus-storage/Child_resting_on_bench_202608220319_edc802ab.jpeg",
+          "map_file": "grade5-final-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 1,
+      "lesson": "L4&5",
+      "section": "Important Expressions and Prepositions",
+      "english": "get dressed",
+      "arabic": "يرتدى المالبس",
+      "grade4_sources": [
+        {
+          "term": "get dressed",
+          "url": "/manus-storage/cartoon-161-get-dressed_4c82f744.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 2,
+      "lesson": "L1",
+      "section": "Main Vocabulary",
+      "english": "pull out",
+      "arabic": "ينزع/يشد",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "pull out",
+          "url": "/manus-storage/grade5-207-236f88fcb2_b9296109.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L1",
+      "section": "Main Vocabulary",
+      "english": "water",
+      "arabic": "يروى",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "water",
+          "url": "/manus-storage/grade5-081-df25fb21ef_7e847644.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "flavor",
+      "arabic": "طعم/نكهة",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "flavor",
+          "url": "/manus-storage/grade5-broad-102-d58031869e_6de9f6ab.jpeg",
+          "map_file": "grade5-broad-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "insects",
+      "arabic": "حشرات",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "insects",
+          "url": "/manus-storage/grade5-048-8f97b02217_2e94cff0.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "plants",
+      "arabic": "نباتات",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "plants",
+          "url": "/manus-storage/grade5-060-0e720d0cb7_415a4ac8.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "soil",
+      "arabic": "تربة",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "soil",
+          "url": "/manus-storage/grade5-113-0f3ce349f8_e12f839f.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "sunlight",
+      "arabic": "ضوء الشمس",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "sunlight",
+          "url": "/manus-storage/grade5-031-fa48061d34_a9abfcc6.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "tasty",
+      "arabic": "لذيذ",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "tasty",
+          "url": "/manus-storage/cartoon-468-yummy_5ed44910.jpg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L1",
+      "section": "Important Expressions and Prepositions",
+      "english": "That's cool!",
+      "arabic": "!هذا رائع",
+      "grade4_sources": [
+        {
+          "term": "that s cool",
+          "url": "/manus-storage/cartoon-400-that-s-cool_7b0e0827.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 2,
+      "lesson": "L2",
+      "section": "Main Vocabulary",
+      "english": "clouds",
+      "arabic": "سحب",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "clouds",
+          "url": "/manus-storage/grade5-074-224b642c85_c0093664.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L2",
+      "section": "Main Vocabulary",
+      "english": "shade",
+      "arabic": "ظل",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "shade",
+          "url": "/manus-storage/grade5-broad-032-711344e5f7_47a0508d.jpeg",
+          "map_file": "grade5-broad-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "clear",
+      "arabic": "واضح/ صافى",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "clear",
+          "url": "/manus-storage/grade5-aug22-075-glass-of-water-with-lemon-202608220238_d4183b0f.jpeg",
+          "map_file": "grade5-aug22-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "heat",
+      "arabic": "حرارة",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "heat",
+          "url": "/manus-storage/grade5-172-51064ec2df_2763fba4.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "strong",
+      "arabic": "قوى",
+      "grade4_sources": [
+        {
+          "term": "strong",
+          "url": "/manus-storage/cartoon-377-strong_b40a3b4c.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "strong",
+          "url": "/manus-storage/grade5-195-00927ea754_9fed10f9.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L3",
+      "section": "Main Vocabulary",
+      "english": "crocodile",
+      "arabic": "تمساح",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "crocodile",
+          "url": "/manus-storage/grade5-026-f57890af41_62b879d7.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "country",
+      "arabic": "دولة",
+      "grade4_sources": [
+        {
+          "term": "country",
+          "url": "/manus-storage/cartoon-072-country_971e42d5.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "country",
+          "url": "/manus-storage/grade5-217-f32675329b_44129e12.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "north",
+      "arabic": "الشمال",
+      "grade4_sources": [
+        {
+          "term": "north",
+          "url": "/manus-storage/cartoon-254-north_c04a8613.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 2,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "south",
+      "arabic": "الجنوب",
+      "grade4_sources": [
+        {
+          "term": "south",
+          "url": "/manus-storage/cartoon-358-south_d12ca1c5.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 2,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "special",
+      "arabic": "خاص/مميز",
+      "grade4_sources": [
+        {
+          "term": "special",
+          "url": "/manus-storage/cartoon-361-special_7637f82c.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 2,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "wheat",
+      "arabic": "قمح",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "wheat",
+          "url": "/manus-storage/grade5-080-a9bdca8973_54da3edb.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L4&5",
+      "section": "Main Vocabulary",
+      "english": "history",
+      "arabic": "تاريخ",
+      "grade4_sources": [
+        {
+          "term": "history",
+          "url": "/manus-storage/cartoon-184-history_2467fd10.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 2,
+      "lesson": "L4&5",
+      "section": "Main Vocabulary",
+      "english": "lake",
+      "arabic": "بحيرة",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "lake",
+          "url": "/manus-storage/grade5-123-f55bad7253_46fed2b8.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L4&5",
+      "section": "Main Vocabulary",
+      "english": "rare",
+      "arabic": "نادر",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "rare",
+          "url": "/manus-storage/grade5-aug22-072-gemstone-sitting-on-velvet-pillow-202608220238_b33070e4.jpeg",
+          "map_file": "grade5-aug22-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "bones",
+      "arabic": "عظام",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "bones",
+          "url": "/manus-storage/grade5-221-8c88280315_8f20d865.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "nature",
+      "arabic": "الطبيعة",
+      "grade4_sources": [
+        {
+          "term": "nature",
+          "url": "/manus-storage/cartoon-246-nature_2419000f.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "nature",
+          "url": "/manus-storage/grade5-062-7c1d3d7b78_37d023a4.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "palm trees",
+      "arabic": "أشجار النخيل",
+      "grade4_sources": [
+        {
+          "term": "palm trees",
+          "url": "/manus-storage/cartoon-274-palm-trees_f79236a4.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 2,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "real",
+      "arabic": "حقيقى",
+      "grade4_sources": [
+        {
+          "term": "real",
+          "url": "/manus-storage/cartoon-306-real_e268a08f.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 2,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "wooden",
+      "arabic": "خشبى",
+      "grade4_sources": [
+        {
+          "term": "wooden",
+          "url": "/manus-storage/cartoon-463-wooden_4eaadded.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 3,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "community",
+      "arabic": "مجتمع",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "community",
+          "url": "/manus-storage/cartoon-251-neighborhood_314ccae1.jpg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "packages",
+      "arabic": ")طرود (بريدية",
+      "grade4_sources": [
+        {
+          "term": "packages",
+          "url": "/manus-storage/cartoon-270-packages_f8ddb1b9.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 3,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "scary",
+      "arabic": "مخيف",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "scary",
+          "url": "/manus-storage/grade5-aug22-025-purple-monster-hiding-behind-cur-202608220238_2717a8d0.jpeg",
+          "map_file": "grade5-aug22-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "uniform",
+      "arabic": "زى موحد",
+      "grade4_sources": [
+        {
+          "term": "uniform",
+          "url": "/manus-storage/cartoon-430-uniform_89fc8cab.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 3,
+      "lesson": "L2",
+      "section": "Main Vocabulary",
+      "english": "bin",
+      "arabic": "سلة مهمالت",
+      "grade4_sources": [
+        {
+          "term": "bin",
+          "url": "/manus-storage/cartoon-020-bin_c802fec5.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 3,
+      "lesson": "L2",
+      "section": "Main Vocabulary",
+      "english": "safely",
+      "arabic": "بأمان",
+      "grade4_sources": [
+        {
+          "term": "safely",
+          "url": "/manus-storage/cartoon-319-safely_972c2380.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "safely",
+          "url": "/manus-storage/cartoon-319-safely_972c2380.jpg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "lesson": "L2",
+      "section": "Main Vocabulary",
+      "english": "traffic",
+      "arabic": "المرور",
+      "grade4_sources": [
+        {
+          "term": "traffic",
+          "url": "/manus-storage/cartoon-419-traffic_432a1c80.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 3,
+      "lesson": "L2",
+      "section": "Main Vocabulary",
+      "english": "waste",
+      "arabic": "يسرف/ يهدر",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "waste",
+          "url": "/manus-storage/grade5-197-64c1094641_91e6d76b.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "lesson": "L2",
+      "section": "Important Expressions and Prepositions",
+      "english": "instead of",
+      "arabic": "بدًال من",
+      "grade4_sources": [
+        {
+          "term": "instead of",
+          "url": "/manus-storage/cartoon-195-instead-of_d4e6c918.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "instead of",
+          "url": "/manus-storage/grade5-144-a3a8e4a65e_bd5029c3.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "lesson": "L3",
+      "section": "Main Vocabulary",
+      "english": "weak",
+      "arabic": "ضعيف",
+      "grade4_sources": [
+        {
+          "term": "weak",
+          "url": "/manus-storage/cartoon-453-weak_a43a2887.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "weak",
+          "url": "/manus-storage/cartoon-453-weak_a43a2887.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "mean",
+      "arabic": "قاسي / غير لطيف",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "mean",
+          "url": "/manus-storage/grade5-aug22-020-cartoon-dictionary-explaining-wo-202608220239_b2947208.jpeg",
+          "map_file": "grade5-aug22-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "lesson": "L3",
+      "section": "Important Expressions and Prepositions",
+      "english": "once upon a time",
+      "arabic": "ذات مرة",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "once upon a time",
+          "url": "/manus-storage/grade5-170-093c4769e6_d69b3de2.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "hero",
+      "arabic": "بطل",
+      "grade4_sources": [
+        {
+          "term": "hero",
+          "url": "/manus-storage/cartoon-182-hero_082645a0.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "hero",
+          "url": "/manus-storage/grade5-224-80c9d33c0e_893b18fe.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "medal",
+      "arabic": "ميدالية",
+      "grade4_sources": [
+        {
+          "term": "medal",
+          "url": "/manus-storage/cartoon-233-medal_357871ea.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 3,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "pollution",
+      "arabic": "تلوث",
+      "grade4_sources": [
+        {
+          "term": "pollution",
+          "url": "/manus-storage/cartoon-285-pollution_b556007a.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 3,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "tiny",
+      "arabic": "ضئيل الحجم",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "tiny",
+          "url": "/manus-storage/grade5-broad-041-cb8993f113_c01a9423.jpeg",
+          "map_file": "grade5-broad-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L1",
+      "section": "Main Vocabulary",
+      "english": "gold",
+      "arabic": "ذهب",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "gold",
+          "url": "/manus-storage/grade5-129-f1ca343047_4a26ac47.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "building",
+      "arabic": "مبنى",
+      "grade4_sources": [
+        {
+          "term": "building",
+          "url": "/manus-storage/cartoon-029-building_d7ce275a.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 4,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "culture",
+      "arabic": "ثقافة",
+      "grade4_sources": [
+        {
+          "term": "culture",
+          "url": "/manus-storage/cartoon-078-culture_855cac7c.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 4,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "jewelry",
+      "arabic": "مجوهرات",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "jewelry",
+          "url": "/manus-storage/grade5-new-038-e9677247c4_759e1e24.jpeg",
+          "map_file": "grade5-new-batch-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "natural",
+      "arabic": "طبيعى",
+      "grade4_sources": [
+        {
+          "term": "natural",
+          "url": "/manus-storage/cartoon-245-natural_404b160b.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 4,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "simple",
+      "arabic": "بسيط",
+      "grade4_sources": [
+        {
+          "term": "simple",
+          "url": "/manus-storage/cartoon-341-simple_d37622e0.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "simple",
+          "url": "/manus-storage/cartoon-341-simple_d37622e0.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "survive",
+      "arabic": "ينجو",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "survive",
+          "url": "/manus-storage/grade5-182-f70f379d46_dc9dc05b.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L2",
+      "section": "Main Vocabulary",
+      "english": "protect",
+      "arabic": "يحمى",
+      "grade4_sources": [
+        {
+          "term": "protect",
+          "url": "/manus-storage/cartoon-295-protect_3537d597.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "protect",
+          "url": "/manus-storage/grade5-166-ff352184e7_3226f13a.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L2",
+      "section": "Main Vocabulary",
+      "english": "waste",
+      "arabic": "يهدر",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "waste",
+          "url": "/manus-storage/grade5-197-64c1094641_91e6d76b.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "electricity",
+      "arabic": "كهرباء",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "electricity",
+          "url": "/manus-storage/grade5-new-027-3ef5f2bec7_a84b0a72.jpeg",
+          "map_file": "grade5-new-batch-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "energy",
+      "arabic": "طاقة",
+      "grade4_sources": [
+        {
+          "term": "energy",
+          "url": "/manus-storage/cartoon-112-energy_c4c698e2.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "energy",
+          "url": "/manus-storage/grade5-070-1cb2a7cb2d_33fe8526.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "gas",
+      "arabic": "غاز",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "gas",
+          "url": "/manus-storage/grade5-broad-100-3c73cf9bec_bf94a801.jpeg",
+          "map_file": "grade5-broad-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "light",
+      "arabic": "يضئ/ ضوء",
+      "grade4_sources": [
+        {
+          "term": "light",
+          "url": "/manus-storage/cartoon-219-light_f26ca937.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 4,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "nature",
+      "arabic": "الطبيعة",
+      "grade4_sources": [
+        {
+          "term": "nature",
+          "url": "/manus-storage/cartoon-246-nature_2419000f.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "nature",
+          "url": "/manus-storage/grade5-062-7c1d3d7b78_37d023a4.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "oil",
+      "arabic": "بترول",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "oil",
+          "url": "/manus-storage/grade5-138-6ba30886db_3de3dc07.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "pollution",
+      "arabic": "تلوث",
+      "grade4_sources": [
+        {
+          "term": "pollution",
+          "url": "/manus-storage/cartoon-285-pollution_b556007a.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 4,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "sunshine",
+      "arabic": "ضوء الشمس",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "sunshine",
+          "url": "/manus-storage/grade5-154-9e597ea05f_caffc3bd.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L2",
+      "section": "Important Expressions and Prepositions",
+      "english": "make a difference",
+      "arabic": "يحدث تغيير",
+      "grade4_sources": [
+        {
+          "term": "make a difference",
+          "url": "/manus-storage/cartoon-229-make-a-difference_ef99f23f.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Main Vocabulary",
+      "english": "gifts",
+      "arabic": "هدايا",
+      "grade4_sources": [
+        {
+          "term": "gifts",
+          "url": "/manus-storage/cartoon-163-gifts_edea51dc.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Main Vocabulary",
+      "english": "gold",
+      "arabic": "معدن الذهب",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "gold",
+          "url": "/manus-storage/grade5-129-f1ca343047_4a26ac47.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Main Vocabulary",
+      "english": "iron",
+      "arabic": "معدن الحديد",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "iron",
+          "url": "/manus-storage/grade5-broad-072-63830dadb5_98fd7c6c.jpeg",
+          "map_file": "grade5-broad-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Main Vocabulary",
+      "english": "jewelry",
+      "arabic": "مجوهرات",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "jewelry",
+          "url": "/manus-storage/grade5-new-038-e9677247c4_759e1e24.jpeg",
+          "map_file": "grade5-new-batch-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Main Vocabulary",
+      "english": "minerals",
+      "arabic": "معادن",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "minerals",
+          "url": "/manus-storage/grade5-229-3361727244_7e0fac79.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Main Vocabulary",
+      "english": "natural gas",
+      "arabic": "غاز طبيعى",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "natural gas",
+          "url": "/manus-storage/grade5-aug22-046-cartoon-stove-with-blue-flame-202608220239_8ee50364.jpeg",
+          "map_file": "grade5-aug22-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Main Vocabulary",
+      "english": "rocks",
+      "arabic": "صخور",
+      "grade4_sources": [
+        {
+          "term": "rocks",
+          "url": "/manus-storage/cartoon-315-rocks_d868627e.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "buildings",
+      "arabic": "مبانى",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "buildings",
+          "url": "/manus-storage/grade5-029-102d065f40_847ad1a4.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "deep",
+      "arabic": "عميق",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "deep",
+          "url": "/manus-storage/grade5-broad-097-5f97bf1a7b_e26dc91f.jpeg",
+          "map_file": "grade5-broad-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "ground",
+      "arabic": "أرض",
+      "grade4_sources": [
+        {
+          "term": "ground",
+          "url": "/manus-storage/cartoon-168-ground_7eeadc57.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "oil",
+      "arabic": "البترول",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "oil",
+          "url": "/manus-storage/grade5-138-6ba30886db_3de3dc07.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "shiny",
+      "arabic": "زاهى/لامع",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "shiny",
+          "url": "/manus-storage/grade5-new-053-7bbeba1537_c85ef8b4.jpeg",
+          "map_file": "grade5-new-batch-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "soil",
+      "arabic": "تربة",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "soil",
+          "url": "/manus-storage/grade5-113-0f3ce349f8_e12f839f.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "steel",
+      "arabic": "صلب",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "steel",
+          "url": "/manus-storage/grade5-new-008-680360e40e_d14c0ad0.jpeg",
+          "map_file": "grade5-new-batch-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "strong",
+      "arabic": "قوى",
+      "grade4_sources": [
+        {
+          "term": "strong",
+          "url": "/manus-storage/cartoon-377-strong_b40a3b4c.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "strong",
+          "url": "/manus-storage/grade5-195-00927ea754_9fed10f9.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "valuable",
+      "arabic": "قيم",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "valuable",
+          "url": "/manus-storage/grade5-aug22-039-wooden-treasure-chest-with-gold-202608220238_d7f11e37.jpeg",
+          "map_file": "grade5-aug22-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L3",
+      "section": "Important Expressions and Prepositions",
+      "english": "use wisely",
+      "arabic": "يستخدم بحكمة",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "use wisely",
+          "url": "/manus-storage/grade5-aug22-061-child-turning-off-dripping-faucet-202608220238_664fcdab.jpeg",
+          "map_file": "grade5-aug22-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L4&5",
+      "section": "Main Vocabulary",
+      "english": "electricity",
+      "arabic": "الكهرباء",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "electricity",
+          "url": "/manus-storage/grade5-new-027-3ef5f2bec7_a84b0a72.jpeg",
+          "map_file": "grade5-new-batch-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L4&5",
+      "section": "Main Vocabulary",
+      "english": "irrigation",
+      "arabic": ")رى (األرض",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "irrigation",
+          "url": "/manus-storage/grade5-broad-060-5d6f322e0f_ea54c72b.jpeg",
+          "map_file": "grade5-broad-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "bottles",
+      "arabic": "زجاجات",
+      "grade4_sources": [
+        {
+          "term": "bottles",
+          "url": "/manus-storage/cartoon-022-bottles_c8e93f94.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 4,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "drought",
+      "arabic": "جفاف",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "drought",
+          "url": "/manus-storage/grade5-broad-061-fadd4c3f86_dc2d7e7f.jpeg",
+          "map_file": "grade5-broad-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "facts",
+      "arabic": "حقائق",
+      "grade4_sources": [
+        {
+          "term": "facts",
+          "url": "/manus-storage/cartoon-127-facts_1b0b0c8c.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 4,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "low",
+      "arabic": "منخفض",
+      "grade4_sources": [
+        {
+          "term": "low",
+          "url": "/manus-storage/cartoon-227-low_58f05476.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "low",
+          "url": "/manus-storage/grade5-140-d222566292_7570baf6.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "tips",
+      "arabic": "نصائح",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "tips",
+          "url": "/manus-storage/grade5-broad-038-04a83c9eac_7b6423d2.jpeg",
+          "map_file": "grade5-broad-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "lesson": "L1",
+      "section": "Main Vocabulary",
+      "english": "board",
+      "arabic": "يركب الطائرة",
+      "grade4_sources": [
+        {
+          "term": "board",
+          "url": "/manus-storage/cartoon-021-board_4c389a4e.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 5,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "modern technology",
+      "arabic": "التكنولوجيا الحديثة",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "modern technology",
+          "url": "/manus-storage/grade5-broad-048-6b043eaf0d_432e358c.jpeg",
+          "map_file": "grade5-broad-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "tools",
+      "arabic": "أدوات",
+      "grade4_sources": [
+        {
+          "term": "tools",
+          "url": "/manus-storage/cartoon-412-tools_d1fa8979.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "tools",
+          "url": "/manus-storage/grade5-084-f4ad1f7ff0_4c794ffb.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "tourists",
+      "arabic": "سياح",
+      "grade4_sources": [
+        {
+          "term": "tourists",
+          "url": "/manus-storage/cartoon-416-tourists_c7c7097b.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 5,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "visitors",
+      "arabic": "زوار",
+      "grade4_sources": [
+        {
+          "term": "visitors",
+          "url": "/manus-storage/cartoon-439-visitors_2c523b13.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 5,
+      "lesson": "L1",
+      "section": "Extra Vocabulary",
+      "english": "wonders",
+      "arabic": "عجائب",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "wonders",
+          "url": "/manus-storage/grade5-broad-082-8521d508a5_fe480983.jpeg",
+          "map_file": "grade5-broad-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "lesson": "L2",
+      "section": "Main Vocabulary",
+      "english": "peaceful",
+      "arabic": "آمن-هادئ",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "peaceful",
+          "url": "/manus-storage/cartoon-302-quiet_a43cac7a.jpg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "crowding",
+      "arabic": "االزدحام",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "crowding",
+          "url": "/manus-storage/City_street_with_traffic_congestion_202608220319_d29a305f.jpeg",
+          "map_file": "grade5-final-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "lesson": "L2",
+      "section": "Extra Vocabulary",
+      "english": "medicine",
+      "arabic": "الطب",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "medicine",
+          "url": "/manus-storage/grade5-036-da09a6d4fe_8a114d45.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "lesson": "L2",
+      "section": "Important Expressions and Prepositions",
+      "english": "part of",
+      "arabic": "جزء من",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "part of",
+          "url": "/manus-storage/grade5-aug22-063-children-sharing-storybooks-in-c-202608220239_f4d69a07.jpeg",
+          "map_file": "grade5-aug22-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "lesson": "L3",
+      "section": "Main Vocabulary",
+      "english": "strength",
+      "arabic": "قوة",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "strength",
+          "url": "/manus-storage/grade5-032-e2232d7ec6_24b27d0c.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "village",
+      "arabic": "قرية",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "village",
+          "url": "/manus-storage/grade5-043-542494fb38_57e0243e.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "weak",
+      "arabic": "ضعيف",
+      "grade4_sources": [
+        {
+          "term": "weak",
+          "url": "/manus-storage/cartoon-453-weak_a43a2887.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "weak",
+          "url": "/manus-storage/cartoon-453-weak_a43a2887.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "lesson": "L3",
+      "section": "Extra Vocabulary",
+      "english": "wise",
+      "arabic": "حكيم",
+      "grade4_sources": [
+        {
+          "term": "wise",
+          "url": "/manus-storage/cartoon-461-wise_b55e0f54.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": []
+    },
+    {
+      "unit": 5,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "electricity",
+      "arabic": "الكهرباء",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "electricity",
+          "url": "/manus-storage/grade5-new-027-3ef5f2bec7_a84b0a72.jpeg",
+          "map_file": "grade5-new-batch-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "expensive",
+      "arabic": "غالى",
+      "grade4_sources": [
+        {
+          "term": "expensive",
+          "url": "/manus-storage/cartoon-123-expensive_aebec735.jpg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "expensive",
+          "url": "/manus-storage/cartoon-123-expensive_aebec735.jpg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "skills",
+      "arabic": "مهارات",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "skills",
+          "url": "/manus-storage/grade5-broad-037-9828dfb4d7_4b74b598.jpeg",
+          "map_file": "grade5-broad-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "smart",
+      "arabic": "ذكى",
+      "grade4_sources": [
+        {
+          "term": "smart",
+          "url": "/manus-storage/cartoon-347-smart_4df58f43.jpeg",
+          "map_file": "uploaded-cartoon-images.ts"
+        }
+      ],
+      "grade5_sources": [
+        {
+          "term": "smart",
+          "url": "/manus-storage/cartoon-347-smart_4df58f43.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "sunlight",
+      "arabic": "ضوء الشمس",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "sunlight",
+          "url": "/manus-storage/grade5-031-fa48061d34_a9abfcc6.jpeg",
+          "map_file": "grade5-cartoon-images.ts"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "lesson": "L4&5",
+      "section": "Extra Vocabulary",
+      "english": "valuable",
+      "arabic": "قيم",
+      "grade4_sources": [],
+      "grade5_sources": [
+        {
+          "term": "valuable",
+          "url": "/manus-storage/grade5-aug22-039-wooden-treasure-chest-with-gold-202608220238_d7f11e37.jpeg",
+          "map_file": "grade5-aug22-images.ts"
+        }
+      ]
+    }
+  ],
+  "grade6_records": 609,
+  "grade6_distinct_terms": 563,
+  "grade4_distinct_image_terms": 427,
+  "grade5_distinct_image_terms": 560
+}
