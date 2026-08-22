@@ -1,0 +1,28 @@
+{
+  "status": "generated-reviewed-accepted-pending-curriculum-mapping",
+  "model": "default",
+  "style": "child-friendly 3D storybook cartoon, no text, no watermark",
+  "review_file": "grade6_generated_batch01_review.md",
+  "images": [
+    {"id": 1, "term": "activity", "url": "/manus-storage/grade6-001-activity_0154e51c.png"},
+    {"id": 2, "term": "bracelet", "url": "/manus-storage/grade6-002-bracelet_e8268a4b.png"},
+    {"id": 3, "term": "Egyptian", "url": "/manus-storage/grade6-003-egyptian_40146aa5.png"},
+    {"id": 4, "term": "gate", "url": "/manus-storage/grade6-004-gate_e78bf264.png"},
+    {"id": 5, "term": "lamp", "url": "/manus-storage/grade6-005-lamp_0013ec02.png"},
+    {"id": 6, "term": "necklace", "url": "/manus-storage/grade6-006-necklace_8284ed0f.png"},
+    {"id": 7, "term": "skirt", "url": "/manus-storage/grade6-007-skirt_7ef66df3.png"},
+    {"id": 8, "term": "tool", "url": "/manus-storage/grade6-008-tool_1100eb0e.png"},
+    {"id": 9, "term": "tourist", "url": "/manus-storage/grade6-009-tourist_7a9a70ca.png"},
+    {"id": 10, "term": "do activities", "url": "/manus-storage/grade6-010-do-activities_4490feae.png"},
+    {"id": 11, "term": "for a few minutes", "url": "/manus-storage/grade6-011-for-a-few-minutes_dab00a01.png"},
+    {"id": 12, "term": "It is fun to", "url": "/manus-storage/grade6-012-it-is-fun-to_20113848.png"},
+    {"id": 13, "term": "play with drums", "url": "/manus-storage/grade6-013-play-with-drums_57e2260a.png"},
+    {"id": 14, "term": "spend time", "url": "/manus-storage/grade6-014-spend-time_f68f3dcc.png"},
+    {"id": 15, "term": "with Arabic designs", "url": "/manus-storage/grade6-015-with-arabic-designs_e5f26ada.png"},
+    {"id": 16, "term": "buy souvenirs", "url": "/manus-storage/grade6-016-buy-souvenirs_277bbce3.png"},
+    {"id": 17, "term": "make furniture", "url": "/manus-storage/grade6-017-make-furniture_17323615.png"},
+    {"id": 18, "term": "play music", "url": "/manus-storage/grade6-018-play-music_c4a218f2.png"},
+    {"id": 19, "term": "take photos", "url": "/manus-storage/grade6-019-take-photos_4f1f23fb.png"},
+    {"id": 20, "term": "visit ancient sites", "url": "/manus-storage/grade6-020-visit-ancient-sites_7a05147c.png"}
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "purpose": "Approved Grade 6 visual assets pending upload and curriculum mapping",
+  "review_policy": "Every asset was checked for direct or pedagogically close meaning, visible text, logos, and watermarks. No asset in this manifest has been mapped into the live application yet.",
+  "assets": [
+    {"term": "activity", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-001-activity.png", "review": "accepted"},
+    {"term": "bracelet", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-002-bracelet.png", "review": "accepted"},
+    {"term": "Egyptian", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-003-egyptian.png", "review": "accepted"},
+    {"term": "gate", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-004-gate.png", "review": "accepted"},
+    {"term": "lamp", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-005-lamp.png", "review": "accepted"},
+    {"term": "necklace", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-006-necklace.png", "review": "accepted"},
+    {"term": "skirt", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-007-skirt.png", "review": "accepted"},
+    {"term": "tool", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-008-tool.png", "review": "accepted"},
+    {"term": "tourist", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-009-tourist.png", "review": "accepted"},
+    {"term": "do activities", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-010-do-activities.png", "review": "accepted"},
+    {"term": "for a few minutes", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-011-for-a-few-minutes.png", "review": "accepted"},
+    {"term": "It is fun to", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-012-it-is-fun-to.png", "review": "accepted"},
+    {"term": "play with drums", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-013-play-with-drums.png", "review": "accepted"},
+    {"term": "spend time", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-014-spend-time.png", "review": "accepted"},
+    {"term": "with Arabic designs", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-015-with-arabic-designs.png", "review": "accepted"},
+    {"term": "buy souvenirs", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-016-buy-souvenirs.png", "review": "accepted"},
+    {"term": "make furniture", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-017-make-furniture.png", "review": "accepted"},
+    {"term": "play music", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-018-play-music.png", "review": "accepted"},
+    {"term": "take photos", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-019-take-photos.png", "review": "accepted"},
+    {"term": "visit ancient sites", "source_type": "generated", "local_path": "/home/ubuntu/webdev-static-assets/grade6-generated-batch-01/grade6-020-visit-ancient-sites.png", "review": "accepted"},
+    {"term": "cactus", "source_type": "Openclipart CC0", "source_url": "https://openclipart.org/image/800px/274970", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/openclipart-cactus-274970.png", "review": "accepted"},
+    {"term": "sea turtles", "source_type": "Openclipart CC0", "source_url": "https://openclipart.org/detail/17592/cartoon-turtle", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/openclipart-cartoon-turtle-17592.png", "review": "accepted", "match_type": "pedagogically close singular cartoon turtle"},
+    {"term": "mountains", "source_type": "Openclipart CC0", "source_url": "https://openclipart.org/detail/310056/geometric-serene-mountain-landscape", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/openclipart-mountains-310056.png", "review": "accepted"},
+    {"term": "waterfall", "source_type": "Pixabay", "source_url": "https://pixabay.com/illustrations/waterfall-cartoon-colorful-isolated-10104533/", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/pixabay-cartoon-waterfall-search-result.png", "review": "accepted"},
+    {"term": "coral reefs", "source_type": "Pixabay", "source_url": "https://pixabay.com/illustrations/angelfish-coral-reef-cute-kawaii-10374088/", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/pixabay-angelfish-coral-reef-10374088.png", "review": "accepted", "match_type": "pedagogically close angelfish-and-coral scene"}
+  ]
+}
