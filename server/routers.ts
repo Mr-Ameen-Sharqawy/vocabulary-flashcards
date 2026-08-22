@@ -18,7 +18,7 @@ const courseProgressSchema = z.object({
   lessonAnswers: z.record(z.string(), z.record(z.string(), z.string())),
   quizScores: z.record(z.string(), z.number().int().min(0).max(5)),
 });
-const progressSchema = z.object({ grade4: courseProgressSchema, grade5: courseProgressSchema });
+const progressSchema = z.object({ grade4: courseProgressSchema, grade5: courseProgressSchema, grade6: courseProgressSchema });
 
 function studentView(student: { id: number; displayName: string; username: string; accessType: "standard" | "trial"; allowedGrades: string; trialLocked: boolean }, trialEndsAt: number | null = null) {
   return { id: student.id, displayName: student.displayName, username: student.username, isTrial: student.accessType === "trial", allowedGrades: normalizeAllowedGrades(student.allowedGrades), trialEndsAt: student.accessType === "trial" ? trialEndsAt : null, trialLocked: student.accessType === "trial" ? false : student.trialLocked };
@@ -28,6 +28,7 @@ function visibleProgress(progress: Awaited<ReturnType<typeof getStudentProgress>
   return {
     grade4: canAccessGrade(allowedGrades, "grade4") ? progress.grade4 : emptyCourseProgress(),
     grade5: canAccessGrade(allowedGrades, "grade5") ? progress.grade5 : emptyCourseProgress(),
+    grade6: canAccessGrade(allowedGrades, "grade6") ? progress.grade6 : emptyCourseProgress(),
   };
 }
 
@@ -86,7 +87,7 @@ export const appRouter = router({
   }),
   students: router({
     list: adminProcedure.query(() => listStudentAccounts()),
-    create: adminProcedure.input(z.object({ displayName: z.string().trim().min(2).max(120), username: usernameSchema, password: passwordSchema, maxDevices: z.number().int().min(1).max(10).default(1), accessType: z.enum(["standard", "trial"]).default("standard"), allowedGrades: z.array(gradeSchema).min(1).max(2).default(["grade4", "grade5"]) })).mutation(async ({ input }) => {
+    create: adminProcedure.input(z.object({ displayName: z.string().trim().min(2).max(120), username: usernameSchema, password: passwordSchema, maxDevices: z.number().int().min(1).max(10).default(1), accessType: z.enum(["standard", "trial"]).default("standard"), allowedGrades: z.array(gradeSchema).min(1).max(3).default(["grade4", "grade5"]) })).mutation(async ({ input }) => {
       const existing = await getStudentByUsername(input.username);
       if (existing) throw new TRPCError({ code: "CONFLICT", message: "اسم المستخدم مستخدم بالفعل" });
       const student = await createStudentAccount({ ...input, passwordHash: await hashStudentPassword(input.password) });
@@ -100,7 +101,7 @@ export const appRouter = router({
       await updateStudentDeviceLimit(input.studentId, input.maxDevices);
       return { success: true };
     }),
-    updateAllowedGrades: adminProcedure.input(z.object({ studentId: z.number().int().positive(), allowedGrades: z.array(gradeSchema).min(1).max(2) })).mutation(async ({ input }) => {
+    updateAllowedGrades: adminProcedure.input(z.object({ studentId: z.number().int().positive(), allowedGrades: z.array(gradeSchema).min(1).max(3) })).mutation(async ({ input }) => {
       await updateStudentAllowedGrades(input.studentId, input.allowedGrades);
       return { success: true };
     }),

@@ -21,6 +21,8 @@ import { buildWordOptions, courseLessons, courseUnits, sentenceWithBlank, type C
 import { cartoonImageFor } from "@/lib/cartoon-images";
 import { grade5CourseUnits, grade5InteractiveLessons } from "@/lib/grade5-course";
 import { grade5CartoonImageFor } from "@/lib/grade5-cartoon-images";
+import { grade6CourseUnits, grade6InteractiveLessons } from "@/lib/grade6-course";
+import { grade6CartoonImageFor } from "@/lib/grade6-cartoon-images";
 
 const logoImage = "/manus-storage/vocabulary-logo_5f3f4915.png";
 type SavedProgress = {
@@ -30,7 +32,7 @@ type SavedProgress = {
 };
 
 type HomeProps = {
-  grade?: "grade4" | "grade5";
+  grade?: "grade4" | "grade5" | "grade6";
   initialProgress?: SavedProgress;
   onProgressChange?: (progress: SavedProgress) => void;
   studentName?: string;
@@ -39,15 +41,17 @@ type HomeProps = {
 
 export default function Home({ grade = "grade4", initialProgress, onProgressChange, studentName, onStudentLogout }: HomeProps) {
   const isGrade5 = grade === "grade5";
+  const isGrade6 = grade === "grade6";
+  const gradeLabel = isGrade6 ? "PRIMARY 6" : isGrade5 ? "PRIMARY 5" : "PRIMARY 4";
   const activeCourseLessons = useMemo(
-    () => isGrade5 ? grade5InteractiveLessons : courseLessons,
-    [isGrade5],
+    () => isGrade6 ? grade6InteractiveLessons : isGrade5 ? grade5InteractiveLessons : courseLessons,
+    [isGrade5, isGrade6],
   );
   const activeCourseUnits = useMemo(
-    () => (isGrade5 ? grade5CourseUnits : courseUnits).filter((unit) => activeCourseLessons.some((lesson) => lesson.unit === unit.unit)),
-    [activeCourseLessons, isGrade5],
+    () => (isGrade6 ? grade6CourseUnits : isGrade5 ? grade5CourseUnits : courseUnits).filter((unit) => activeCourseLessons.some((lesson) => lesson.unit === unit.unit)),
+    [activeCourseLessons, isGrade5, isGrade6],
   );
-  const progressStorageKey = isGrade5 ? "sense-lab-primary-5-progress-v1" : "sense-lab-primary-4-progress-v1";
+  const progressStorageKey = `sense-lab-primary-${isGrade6 ? "6" : isGrade5 ? "5" : "4"}-progress-v1`;
   const [selectedLessonId, setSelectedLessonId] = useState(activeCourseLessons[0].id);
   const selectedLesson = activeCourseLessons.find((lesson) => lesson.id === selectedLessonId) ?? activeCourseLessons[0];
   const [deck, setDeck] = useState<CourseCard[]>(selectedLesson.cards);
@@ -241,7 +245,7 @@ export default function Home({ grade = "grade4", initialProgress, onProgressChan
         <div className="sf-brand" dir="ltr">
           <img className="sf-brand-logo" src={logoImage} alt="Vocabulary Flashcards logo" />
           <div>
-            <p className="sf-brand-kicker">{isGrade5 ? "PRIMARY 5" : "PRIMARY 4"} · LITTLE WORD EXPLORERS</p>
+            <p className="sf-brand-kicker">{gradeLabel} · LITTLE WORD EXPLORERS</p>
             <p className="sf-brand-name">Vocabulary Flashcards <span>Workbook</span></p>
           </div>
         </div>
@@ -269,7 +273,7 @@ export default function Home({ grade = "grade4", initialProgress, onProgressChan
           </div>
 
           <div className="sf-rail-copy">
-            <p className="sf-rail-eyebrow">{isGrade5 ? "PRIMARY 5" : "PRIMARY 4"} · COURSE MAP</p>
+            <p className="sf-rail-eyebrow">{gradeLabel} · COURSE MAP</p>
             <h1>{selectedLesson.unitArabic}</h1>
             <p dir="ltr">{selectedLesson.title}</p>
           </div>
@@ -350,7 +354,7 @@ export default function Home({ grade = "grade4", initialProgress, onProgressChan
                     <span className="sf-guess-count" dir="ltr">{String(currentIndex + 1).padStart(2, "0")}</span>
                   </section>
                   <section className="sf-flip-face sf-flip-back" aria-label={`${currentCard.term} flipped card`}>
-                    <img src={isGrade5 ? grade5CartoonImageFor(currentCard) : cartoonImageFor(currentCard)} alt={`Cartoon illustration for ${currentCard.term}`} />
+                    <img src={isGrade6 ? grade6CartoonImageFor(currentCard) : isGrade5 ? grade5CartoonImageFor(currentCard) : cartoonImageFor(currentCard)} alt={`Cartoon illustration for ${currentCard.term}`} />
                     <button className="sf-word-below-photo" onClick={pronounceWord} aria-label={`Listen to ${currentCard.term} again`}>
                       <strong dir="ltr">{currentCard.term}</strong>
                       <span>{currentCard.arabic}</span>

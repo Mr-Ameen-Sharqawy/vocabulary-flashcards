@@ -24,7 +24,7 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [trialEnded, setTrialEnded] = useState(false);
-  const [selectedGrade, setSelectedGrade] = useState<"grade4" | "grade5" | null>(null);
+  const [selectedGrade, setSelectedGrade] = useState<"grade4" | "grade5" | "grade6" | null>(null);
   const saveTimer = useRef<number | undefined>(undefined);
   const saveProgressRef = useRef(saveProgressMutation.mutate);
 
@@ -50,6 +50,7 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
       activeGrade: selectedGrade,
       grade4: selectedGrade === "grade4" ? progress : studentQuery.data?.progress.grade4 ?? { lessonAnswers: {}, quizScores: {} },
       grade5: selectedGrade === "grade5" ? progress : studentQuery.data?.progress.grade5 ?? { lessonAnswers: {}, quizScores: {} },
+      grade6: selectedGrade === "grade6" ? progress : studentQuery.data?.progress.grade6 ?? { lessonAnswers: {}, quizScores: {} },
     }), 700);
   }, [selectedGrade, studentQuery.data?.progress]);
 
@@ -71,7 +72,7 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
 
   if (studentQuery.data) {
     if (selectedGrade === null) {
-      return <GradeSelector studentName={studentQuery.data.displayName} allowedGrades={studentQuery.data.allowedGrades} onSelectGrade4={() => setSelectedGrade("grade4")} onSelectGrade5={() => setSelectedGrade("grade5")} onLogout={() => { setSelectedGrade(null); logoutMutation.mutate(undefined, { onSuccess: () => studentQuery.refetch() }); }} />;
+      return <GradeSelector studentName={studentQuery.data.displayName} allowedGrades={studentQuery.data.allowedGrades} onSelectGrade4={() => setSelectedGrade("grade4")} onSelectGrade5={() => setSelectedGrade("grade5")} onSelectGrade6={() => setSelectedGrade("grade6")} onLogout={() => { setSelectedGrade(null); logoutMutation.mutate(undefined, { onSuccess: () => studentQuery.refetch() }); }} />;
     }
     return <Suspense fallback={<main className="sf-access-shell" dir="rtl"><div className="sf-access-card sf-access-loading"><Loader2 className="animate-spin" /> جاري فتح بطاقات الدرس...</div></main>}><Home
       grade={selectedGrade}
@@ -83,14 +84,14 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
   }
 
   if (selectedGrade === null) {
-    return <GradeSelector onSelectGrade4={() => setSelectedGrade("grade4")} onSelectGrade5={() => setSelectedGrade("grade5")} />;
+    return <GradeSelector onSelectGrade4={() => setSelectedGrade("grade4")} onSelectGrade5={() => setSelectedGrade("grade5")} onSelectGrade6={() => setSelectedGrade("grade6")} />;
   }
 
   return (
     <main className="sf-access-shell" dir="rtl">
       <section className="sf-access-card">
         <div className="sf-access-mark"><BookOpen size={31} /></div>
-        <p className="sf-access-overline">{selectedGrade === "grade5" ? "PRIMARY 5" : "PRIMARY 4"} · VOCABULARY JOURNEY</p>
+        <p className="sf-access-overline">{selectedGrade === "grade6" ? "PRIMARY 6" : selectedGrade === "grade5" ? "PRIMARY 5" : "PRIMARY 4"} · VOCABULARY JOURNEY</p>
         <h1>مرحبًا يا بطل</h1>
         <p className="sf-access-copy">اكتب اسم المستخدم وكلمة المرور التي أعطاها لك المعلم لتبدأ وتحفظ تقدمك.</p>
         <form className="sf-access-form" onSubmit={login}>

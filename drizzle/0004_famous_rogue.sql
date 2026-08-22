@@ -1,0 +1,1 @@
+ALTER TABLE `student_accounts` MODIFY COLUMN `allowed_grades` varchar(48) NOT NULL DEFAULT 'grade4,grade5,grade6';

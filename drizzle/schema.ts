@@ -33,7 +33,7 @@ export const studentAccounts = mysqlTable("student_accounts", {
   passwordHash: varchar("password_hash", { length: 255 }).notNull(),
   sessionVersion: int("session_version").default(1).notNull(),
   maxDevices: int("max_devices").default(1).notNull(),
-  allowedGrades: varchar("allowed_grades", { length: 32 }).default("grade4,grade5").notNull(),
+  allowedGrades: varchar("allowed_grades", { length: 48 }).default("grade4,grade5,grade6").notNull(),
   accessType: mysqlEnum("access_type", ["standard", "trial"]).default("standard").notNull(),
   trialStartedAt: timestamp("trial_started_at"),
   trialEndsAt: timestamp("trial_ends_at"),

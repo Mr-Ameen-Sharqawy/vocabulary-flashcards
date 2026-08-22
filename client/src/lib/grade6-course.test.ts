@@ -1,0 +1,24 @@
+import { describe, expect, it } from "vitest";
+import { grade6CartoonImageForTerm, grade6CartoonImages } from "./grade6-cartoon-images";
+import { grade6CourseLessons, grade6CourseUnits } from "./grade6-course";
+
+describe("Grade 6 course data", () => {
+  it("contains only the approved 609 vocabulary and expression records across 20 lessons", () => {
+    expect(grade6CourseLessons).toHaveLength(20);
+    expect(grade6CourseUnits).toHaveLength(5);
+    expect(grade6CourseLessons.flatMap((lesson) => lesson.cards)).toHaveLength(609);
+  });
+
+  it("keeps every card displayable with a sentence and fallback image", () => {
+    for (const card of grade6CourseLessons.flatMap((lesson) => lesson.cards)) {
+      expect(card.sentence).toContain(card.term);
+      expect(card.image).toMatch(/^\/manus-storage\//);
+    }
+  });
+
+  it("maps all reviewed Grade 6 visual assets without losing the lesson fallback", () => {
+    expect(Object.keys(grade6CartoonImages)).toHaveLength(39);
+    expect(grade6CartoonImageForTerm("coral reefs", "/fallback.png")).toContain("coral-reef");
+    expect(grade6CartoonImageForTerm("unmapped Grade 6 term", "/fallback.png")).toBe("/fallback.png");
+  });
+});

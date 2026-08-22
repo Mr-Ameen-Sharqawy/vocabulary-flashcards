@@ -7,13 +7,16 @@ export type CourseProgress = {
 export type StudentProgressPayload = {
   grade4: CourseProgress;
   grade5: CourseProgress;
+  grade6: CourseProgress;
 };
 
 export const emptyCourseProgress = (): CourseProgress => ({ lessonAnswers: {}, quizScores: {} });
-export const emptyStudentProgress = (): StudentProgressPayload => ({ grade4: emptyCourseProgress(), grade5: emptyCourseProgress() });
+export const emptyStudentProgress = (): StudentProgressPayload => ({ grade4: emptyCourseProgress(), grade5: emptyCourseProgress(), grade6: emptyCourseProgress() });
 
-export function mergeCourseProgressForGrade(current: StudentProgressPayload, grade: "grade4" | "grade5", next: CourseProgress): StudentProgressPayload {
-  return grade === "grade4" ? { grade4: next, grade5: current.grade5 } : { grade4: current.grade4, grade5: next };
+export function mergeCourseProgressForGrade(current: StudentProgressPayload, grade: "grade4" | "grade5" | "grade6", next: CourseProgress): StudentProgressPayload {
+  if (grade === "grade4") return { grade4: next, grade5: current.grade5, grade6: current.grade6 };
+  if (grade === "grade5") return { grade4: current.grade4, grade5: next, grade6: current.grade6 };
+  return { grade4: current.grade4, grade5: current.grade5, grade6: next };
 }
 
 type LegacyProgressColumns = {
@@ -40,12 +43,15 @@ export function readStudentProgress(columns?: LegacyProgressColumns | null): Stu
   const storedScores = columns.quizScores ?? {};
   const storedGrade4 = storedAnswers.grade4;
   const storedGrade5 = storedAnswers.grade5;
-  if (storedGrade4 || storedGrade5) {
+  const storedGrade6 = storedAnswers.grade6;
+  if (storedGrade4 || storedGrade5 || storedGrade6) {
     const grade4 = cleanCourseProgress(storedGrade4);
     const grade5 = cleanCourseProgress(storedGrade5);
+    const grade6 = cleanCourseProgress(storedGrade6);
     grade4.quizScores = cleanCourseProgress({ quizScores: storedScores.grade4 }).quizScores;
     grade5.quizScores = cleanCourseProgress({ quizScores: storedScores.grade5 }).quizScores;
-    return { grade4, grade5 };
+    grade6.quizScores = cleanCourseProgress({ quizScores: storedScores.grade6 }).quizScores;
+    return { grade4, grade5, grade6 };
   }
   return {
     grade4: {
@@ -54,6 +60,7 @@ export function readStudentProgress(columns?: LegacyProgressColumns | null): Stu
       quizScores: storedScores as Record<string, number>,
     },
     grade5: emptyCourseProgress(),
+    grade6: emptyCourseProgress(),
   };
 }
 
@@ -63,7 +70,8 @@ export function progressColumns(progress: StudentProgressPayload) {
     lessonAnswers: {
       grade4: { selectedLessonId: progress.grade4.selectedLessonId, lessonAnswers: progress.grade4.lessonAnswers },
       grade5: { selectedLessonId: progress.grade5.selectedLessonId, lessonAnswers: progress.grade5.lessonAnswers },
+      grade6: { selectedLessonId: progress.grade6.selectedLessonId, lessonAnswers: progress.grade6.lessonAnswers },
     },
-    quizScores: { grade4: progress.grade4.quizScores, grade5: progress.grade5.quizScores },
+    quizScores: { grade4: progress.grade4.quizScores, grade5: progress.grade5.quizScores, grade6: progress.grade6.quizScores },
   };
 }

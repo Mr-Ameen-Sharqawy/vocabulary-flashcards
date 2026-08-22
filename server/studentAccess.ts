@@ -1,4 +1,4 @@
-export const studentGrades = ["grade4", "grade5"] as const;
+export const studentGrades = ["grade4", "grade5", "grade6"] as const;
 export type StudentGrade = (typeof studentGrades)[number];
 
 export function normalizeAllowedGrades(value?: string | readonly string[] | null): StudentGrade[] {

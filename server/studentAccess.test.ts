@@ -2,12 +2,13 @@ import { describe, expect, it } from "vitest";
 import { canAccessGrade, normalizeAllowedGrades, serializeAllowedGrades, trialDeviceState } from "./studentAccess";
 
 describe("student access rules", () => {
-  it("keeps valid assigned grades and safely defaults legacy accounts to both grades", () => {
-    expect(normalizeAllowedGrades("grade5,grade4,grade5")).toEqual(["grade4", "grade5"]);
-    expect(normalizeAllowedGrades("unexpected")).toEqual(["grade4", "grade5"]);
+  it("keeps valid assigned grades and safely defaults legacy accounts to all supported grades", () => {
+    expect(normalizeAllowedGrades("grade6,grade5,grade4,grade5")).toEqual(["grade4", "grade5", "grade6"]);
+    expect(normalizeAllowedGrades("unexpected")).toEqual(["grade4", "grade5", "grade6"]);
     expect(serializeAllowedGrades(["grade5"])).toBe("grade5");
     expect(canAccessGrade(["grade5"], "grade4")).toBe(false);
     expect(canAccessGrade(["grade5"], "grade5")).toBe(true);
+    expect(canAccessGrade(["grade6"], "grade6")).toBe(true);
   });
 
   it("treats a trial window as independent state for one device", () => {
