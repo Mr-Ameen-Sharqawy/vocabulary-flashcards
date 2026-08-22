@@ -278,3 +278,7 @@ The Creazilla asset `https://creazilla.com/media/clipart/78561/watering-can` is 
 ## Herbs CC0 candidate — rejected for overly simple rendering
 
 The Creazilla asset `https://creazilla.com/media/clipart/3151438/herb` is indexed as Public Domain (CC0). Its 1150×1920 original was inspected and does depict a potted herb, but the flat lime-green, low-detail form with large horizontal striping is too visually simplistic for the platform’s established colourful cartoon standard. It was not accepted for `herbs`.
+
+## Accepted Pixabay insects candidate
+
+The Pixabay vector `https://pixabay.com/vectors/insects-bugs-cartoon-ant-bee-6809694/` was saved as `pixabay-insects-bugs-cartoon-6809694.png`. The reviewed 720×720 transparent PNG cleanly shows four complete, cheerful cartoon insects—an ant, bee, grasshopper, and cockroach—with no words, logos, watermarks, or colour artifacts. It provides a direct, varied visual representation for the Grade 6 term `insects` and is accepted.

@@ -75,6 +75,7 @@ export const grade6CartoonImages: Record<string, string> = {
   "tilapia": "/manus-storage/creazilla-tilapia-15568889_015c397d.png",
   "mint": "/manus-storage/creazilla-peppermint-herb-15795_f3e82363.png",
   "irrigation": "/manus-storage/creazilla-watering-can-78561_eaa385ec.png",
+  "insects": "/manus-storage/pixabay-insects-bugs-cartoon-6809694_b9170ffb.png",
 };
 
 export function grade6CartoonImageForTerm(term: string, fallback: string) {
