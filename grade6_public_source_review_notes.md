@@ -103,3 +103,7 @@ The Pixabay vector `https://pixabay.com/vectors/cartoon-computer-tooned-in-20268
 ## Accepted Pixabay fishermen candidate
 
 The Pixabay vector `https://pixabay.com/vectors/fishing-man-water-fisherman-3635221/` was saved as `pixabay-fisherman-3635221.png`. It is a clean cartoon scene showing a fisherman in a boat on the water with several visible fish below. No writing, logo, or watermark is visible, so it is accepted as a pedagogically close visual for the Grade 6 term `fishermen`.
+
+## Accepted Pixabay repair candidate
+
+The Pixabay illustration `https://pixabay.com/illustrations/mechanic-car-repair-thoughtful-8265470/` was saved as `pixabay-repair-mechanic-8265470.jpg`. It is a clean cartoon-style scene showing a mechanic actively using a tool to repair a car in a workshop. There is no visible writing, logo, or watermark, so it is accepted as a direct educational visual for the Grade 6 term `repair`.
