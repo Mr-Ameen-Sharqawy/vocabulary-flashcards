@@ -95,3 +95,7 @@ The Pixabay illustration `https://pixabay.com/illustrations/factory-industry-war
 ## Accepted Pixabay crops candidate
 
 The Pixabay illustration `https://pixabay.com/illustrations/cartoon-landscape-farm-river-nature-10119224/` was saved as `pixabay-crops-farm-10119224.png`. It is a bright, clean cartoon farm scene that clearly shows planted corn rows and a vegetable field with carrots. No writing, logo, or watermark is visible, so it is accepted for the Grade 6 term `crops`.
+
+## Accepted Pixabay computer candidate
+
+The Pixabay vector `https://pixabay.com/vectors/cartoon-computer-tooned-in-2026805/` was saved as `pixabay-computer-2026805.png`. It is a simple, recognisable cartoon desktop computer with a screen, keyboard, and power cable. No writing, logo, or watermark is visible, so it is accepted for the Grade 6 term `computer`.
