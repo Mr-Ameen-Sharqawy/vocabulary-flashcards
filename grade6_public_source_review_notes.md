@@ -193,3 +193,7 @@ The Pixabay illustration `https://pixabay.com/illustrations/hat-ribbon-cartoon-c
 ## Heron candidate — rejected for broken line-art rendering
 
 The Pixabay vector `https://pixabay.com/vectors/great-blue-heron-bird-animal-8043707/` loaded only as a small, incomplete black line-art fragment rather than a complete colourful bird. It does not meet the project’s child-friendly cartoon or visual-quality standard and is not accepted for `heron`.
+
+## Hibiscus candidate — rejected for incomplete transparent rendering
+
+The Pixabay vector `https://pixabay.com/vectors/tropical-hibiscus-flower-nature-8341544/` loaded as scattered blue and green fragments on a transparent background, rather than a complete visible hibiscus flower. It is not acceptable for a student-facing visual and is rejected for `hibiscus`.
