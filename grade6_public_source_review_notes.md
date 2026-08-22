@@ -91,3 +91,7 @@ The Openclipart candidate `https://openclipart.org/detail/157969/colorful-carpet
 ## Accepted Pixabay factory candidate
 
 The Pixabay illustration `https://pixabay.com/illustrations/factory-industry-warehouse-3550551/` was saved as `pixabay-factory-3550551.png`. It is a clear flat-cartoon factory building with a chimney, warehouse roof, windows, and no visible writing, logo, or watermark. It is accepted for the Grade 6 term `factory`.
+
+## Accepted Pixabay crops candidate
+
+The Pixabay illustration `https://pixabay.com/illustrations/cartoon-landscape-farm-river-nature-10119224/` was saved as `pixabay-crops-farm-10119224.png`. It is a bright, clean cartoon farm scene that clearly shows planted corn rows and a vegetable field with carrots. No writing, logo, or watermark is visible, so it is accepted for the Grade 6 term `crops`.
