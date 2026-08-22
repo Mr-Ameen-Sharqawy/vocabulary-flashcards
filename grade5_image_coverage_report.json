@@ -1,57 +1,9 @@
 {
   "distinct_terms": 560,
-  "mapped_terms": 552,
+  "mapped_terms": 560,
   "earlier_reviewed_batch_linked_terms": 61,
   "broad_review_linked_terms": 111,
   "aug22_archives_linked_terms": 90,
-  "missing_terms": [
-    {
-      "term": "affect",
-      "arabic": "يؤثر على",
-      "unit": 1,
-      "lesson": "1"
-    },
-    {
-      "term": "What about ... ?",
-      "arabic": "ماذا عن ...؟",
-      "unit": 1,
-      "lesson": "1"
-    },
-    {
-      "term": "normal",
-      "arabic": "طبيعي",
-      "unit": 2,
-      "lesson": "1"
-    },
-    {
-      "term": "used to",
-      "arabic": "اعتاد أن",
-      "unit": 2,
-      "lesson": "2"
-    },
-    {
-      "term": "controlled",
-      "arabic": "يتحكم",
-      "unit": 3,
-      "lesson": "2"
-    },
-    {
-      "term": "crowding",
-      "arabic": "ازدحام",
-      "unit": 4,
-      "lesson": "4"
-    },
-    {
-      "term": "named",
-      "arabic": "يذكر/يسمي",
-      "unit": 5,
-      "lesson": "1"
-    },
-    {
-      "term": "without me",
-      "arabic": "بدوني",
-      "unit": 5,
-      "lesson": "4"
-    }
-  ]
+  "final_archive_linked_terms": 8,
+  "missing_terms": []
 }

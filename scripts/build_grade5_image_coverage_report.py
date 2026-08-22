@@ -8,9 +8,11 @@ MAP_PATH = ROOT / 'client/src/lib/grade5-cartoon-images.ts'
 NEW_MAP_PATH = ROOT / 'client/src/lib/grade5-new-batch-images.ts'
 BROAD_MAP_PATH = ROOT / 'client/src/lib/grade5-broad-images.ts'
 AUG22_MAP_PATH = ROOT / 'client/src/lib/grade5-aug22-images.ts'
+FINAL_MAP_PATH = ROOT / 'client/src/lib/grade5-final-images.ts'
 NEW_LINKS_PATH = ROOT / 'grade5_new_batch_uploaded_links.json'
 BROAD_MANIFEST_PATH = ROOT / 'grade5_broad_upload_manifest.json'
 AUG22_MATCHES_PATH = ROOT / 'grade5_aug22_accepted_matches.json'
+FINAL_MATCHES_PATH = ROOT / 'grade5_final_archive_accepted_matches.json'
 REPORT_PATH = ROOT / 'Grade_5_Images_Still_Needed.md'
 COPY_PATH = ROOT / 'Grade_5_Remaining_Words_To_Copy.txt'
 JSON_PATH = ROOT / 'grade5_image_coverage_report.json'
@@ -38,12 +40,15 @@ mapped = {normalize(term): url for term, url in entry_pattern.findall(MAP_PATH.r
 mapped.update({normalize(term): url for term, url in entry_pattern.findall(NEW_MAP_PATH.read_text(encoding='utf-8'))})
 mapped.update({normalize(term): url for term, url in entry_pattern.findall(BROAD_MAP_PATH.read_text(encoding='utf-8'))})
 mapped.update({normalize(term): url for term, url in entry_pattern.findall(AUG22_MAP_PATH.read_text(encoding='utf-8'))})
+mapped.update({normalize(term): url for term, url in entry_pattern.findall(FINAL_MAP_PATH.read_text(encoding='utf-8'))})
 new_links = json.loads(NEW_LINKS_PATH.read_text(encoding='utf-8'))['links']
 broad_links = json.loads(BROAD_MANIFEST_PATH.read_text(encoding='utf-8'))['uploads']
 aug22_links = json.loads(AUG22_MATCHES_PATH.read_text(encoding='utf-8'))['matches']
+final_links = json.loads(FINAL_MATCHES_PATH.read_text(encoding='utf-8'))['links']
 new_terms = {normalize(item['term']) for item in new_links}
 broad_terms = {normalize(item['term']) for item in broad_links}
 aug22_terms = {normalize(item['term']) for item in aug22_links}
+final_terms = {normalize(item['term']) for item in final_links}
 missing = [record for term_key, record in terms.items() if term_key not in mapped]
 missing.sort(key=lambda item: (item['unit'], item['lesson'], item['term'].lower()))
 
@@ -55,6 +60,7 @@ report = [
     f'- Linked from the earlier reviewed batch: **{len(new_terms)}**',
     f'- Linked from the expanded close-match review: **{len(broad_terms)}**',
     f'- Linked from the August 22 user-provided archives: **{len(aug22_terms)}**',
+    f'- Linked from the final Newfolder archive: **{len(final_terms)}**',
     f'- Terms still needing a dedicated child-friendly cartoon image: **{len(missing)}**',
     '',
     '> Images with a direct or educationally close meaning were accepted after visual review, including selected photographs or simple diagrams when no nearer cartoon was available. Images that were far from the term, visually unclear, or visibly watermarked were excluded.',
@@ -87,6 +93,7 @@ JSON_PATH.write_text(json.dumps({
     'earlier_reviewed_batch_linked_terms': len(new_terms),
     'broad_review_linked_terms': len(broad_terms),
     'aug22_archives_linked_terms': len(aug22_terms),
+    'final_archive_linked_terms': len(final_terms),
     'missing_terms': missing,
 }, ensure_ascii=False, indent=2), encoding='utf-8')
 
