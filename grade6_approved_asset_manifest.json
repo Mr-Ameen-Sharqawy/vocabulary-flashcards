@@ -30,6 +30,7 @@
     {"term": "camera", "source_type": "Openclipart CC0", "source_url": "https://openclipart.org/detail/189527/camera", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/openclipart-camera-189527.png", "review": "accepted"},
     {"term": "wind turbine", "source_type": "Pixabay", "source_url": "https://pixabay.com/illustrations/wind-energy-wind-farm-wind-turbine-7107364/", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/pixabay-wind-turbine-7107364.jpg", "review": "accepted"},
     {"term": "suitcase", "source_type": "Pixabay", "source_url": "https://pixabay.com/illustrations/suitcase-luggage-world-travel-sky-8023523/", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/pixabay-suitcase-8023523.png", "review": "accepted"},
-    {"term": "oasis", "source_type": "Pixabay", "source_url": "https://pixabay.com/illustrations/oasis-desert-sand-nature-landscape-9018077/", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/pixabay-oasis-9018077.jpg", "review": "accepted"}
+    {"term": "oasis", "source_type": "Pixabay", "source_url": "https://pixabay.com/illustrations/oasis-desert-sand-nature-landscape-9018077/", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/pixabay-oasis-9018077.jpg", "review": "accepted"},
+    {"term": "loom", "source_type": "Pixabay", "source_url": "https://pixabay.com/illustrations/woman-weaving-traditional-craft-10371190/", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/pixabay-woman-weaving-10371190.jpg", "review": "accepted", "match_type": "pedagogically close woman weaving on an upright loom"}
   ]
 }

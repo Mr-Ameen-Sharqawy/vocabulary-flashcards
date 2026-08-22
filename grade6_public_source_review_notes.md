@@ -67,3 +67,11 @@ The Pixabay asset `https://pixabay.com/illustrations/suitcase-luggage-world-trav
 ## Accepted Pixabay oasis candidate
 
 The Pixabay asset `https://pixabay.com/illustrations/oasis-desert-sand-nature-landscape-9018077/` was downloaded as `pixabay-oasis-9018077.jpg`. It is a clean flat-cartoon desert scene clearly showing water, palm trees, sand dunes, camels, and a tent. No writing, logo, or watermark is visible, so it is accepted for the Grade 6 term `oasis`.
+
+## Loom candidate — rejected for photographic style
+
+The Pixabay asset `https://pixabay.com/illustrations/loom-handcraft-textiles-handmade-10345450/` was downloaded as `pixabay-loom-10345450.jpg`. It clearly shows a loom, but it is a photorealistic image rather than the required cartoon teaching style. It is therefore not accepted for Grade 6 cards.
+
+## Accepted Pixabay loom candidate
+
+The Pixabay asset `https://pixabay.com/illustrations/woman-weaving-traditional-craft-10371190/` was downloaded as `pixabay-woman-weaving-10371190.jpg`. It is a clean stylised illustration of a woman actively weaving on a large upright loom; the loom structure and coloured threads are prominent. The artwork contains no readable text, logo, or watermark, so it is accepted as a pedagogically close visual for the Grade 6 term `loom`.
