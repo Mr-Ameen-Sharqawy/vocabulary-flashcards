@@ -156,6 +156,14 @@ The Pixabay vector `https://pixabay.com/vectors/duck-swim-brown-gray-green-funny
 
 The Pixabay vector `https://pixabay.com/vectors/cute-duckling-winter-duck-10014141/` was downloaded as `pixabay-cute-duckling-10014141.png`. Its main character is colourful and text-free, but the transparent image contains pronounced black and multicolour horizontal strips around the duckling. This makes it unsuitable for the flashcard backgrounds, so it is not accepted.
 
+## Flooding candidate — rejected for rendering artifacts
+
+The Pixabay vector `https://pixabay.com/vectors/flood-disaster-house-water-5657777/` clearly represents a flooded house and was saved as `pixabay-flood-disaster-house-5657777.png`. However, the downloaded transparent image has large black and multicolour horizontal stripes across the sky around the rain drops. It is therefore not accepted despite the otherwise relevant subject.
+
+## Drought candidate — rejected for photographic style
+
+The Pixabay illustration `https://pixabay.com/illustrations/drought-cracked-earth-sole-flower-9702745/` was downloaded as `pixabay-drought-cracked-earth-9702745.jpg`. It clearly shows dry cracked ground and a solitary flower, but its realistic, photographic treatment is outside the project’s colourful cartoon teaching style. It is not accepted for Grade 6 cards.
+
 ## Approved pedagogical reuse of existing Grade 6 art
 
 The accepted wind-turbine scene visibly shows several child-friendly white clouds, so it is also mapped to `clouds`. The accepted beach scene visibly shows blue sea water, so it is also mapped to `water`. The accepted stacked-coins image is also a direct visual for `gold`, and the accepted bench scene clearly depicts a wooden bench, so it is also used for `wooden`. These four links reuse reviewed artwork only; no additional source asset was counted or accepted.
