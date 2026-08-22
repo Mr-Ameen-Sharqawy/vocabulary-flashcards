@@ -1,5 +1,6 @@
 /** Grade 5 cartoon images uploaded by the project owner; no generated watermark assets are used. */
 import type { CourseCard } from '@/lib/course';
+import { grade5Aug22CartoonImages } from './grade5-aug22-images';
 import { grade5BroadCartoonImages } from './grade5-broad-images';
 import { grade5NewBatchCartoonImages } from './grade5-new-batch-images';
 
@@ -8,6 +9,7 @@ function normalizeGrade5Term(term: string) {
 }
 
 export const grade5CartoonImages: Record<string, string> = {
+  ...grade5Aug22CartoonImages,
   ...grade5BroadCartoonImages,
   ...grade5NewBatchCartoonImages,
   "new administrative capital": "/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg",

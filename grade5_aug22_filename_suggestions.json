@@ -1,0 +1,791 @@
+{
+  "model": "gpt-5-mini",
+  "terms": [
+    "affect",
+    "came",
+    "find",
+    "found",
+    "humans",
+    "role",
+    "scary (adj)",
+    "What about ... ?",
+    "hid",
+    "lived",
+    "appreciated",
+    "become",
+    "mean",
+    "meant",
+    "absolutely",
+    "increased",
+    "lose",
+    "normal",
+    "all day",
+    "change",
+    "the best way to",
+    "used to",
+    "hurt",
+    "healthcare",
+    "illnesses",
+    "on the spot",
+    "burn down",
+    "cover",
+    "prevent ... from",
+    "prevented",
+    "struck",
+    "brought",
+    "controlled",
+    "damage",
+    "It was hard to + inf.",
+    "modern",
+    "possible",
+    "rich soil",
+    "[be] able to",
+    "any longer",
+    "at the bottom of",
+    "decided",
+    "make a decision",
+    "near the edge of",
+    "swam",
+    "seemed",
+    "strange",
+    "upside down",
+    "club",
+    "community center",
+    "main square",
+    "crowding",
+    "from the top",
+    "contained",
+    "named",
+    "natural gas",
+    "work for",
+    "cheaper",
+    "dig deep into the ground",
+    "dug",
+    "easy to shape",
+    "get",
+    "materials",
+    "non-renewable",
+    "precious",
+    "rare",
+    "ship",
+    "super strong",
+    "the Eastern Desert",
+    "use .... wisely",
+    "valuable",
+    "wasted",
+    "bother",
+    "bothered",
+    "clear",
+    "doesn't matter",
+    "give up",
+    "grateful",
+    "popular",
+    "rush",
+    "sail",
+    "sailed",
+    "something went wrong",
+    "stared",
+    "take a long time",
+    "cried",
+    "cry",
+    "danced",
+    "destroyed",
+    "fall",
+    "fell",
+    "freeze",
+    "froze",
+    "have no shape",
+    "part of",
+    "still",
+    "wild",
+    "without me"
+  ],
+  "suggestions": [
+    {
+      "image_filename": "Animals_gathering_around_storyte…_202608220239.jpeg",
+      "term": "community center",
+      "confidence": "medium",
+      "reason": "Animals gathered together listening to a storyteller suggests a community meeting place.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Animals_gathering_around_storyte…_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Autumn_leaf_drifting_from_branch_202608220238.jpeg",
+      "term": "fall",
+      "confidence": "high",
+      "reason": "A leaf drifting down from a branch directly shows falling.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Autumn_leaf_drifting_from_branch_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Band-aid_healing_cartoon_knee_202608220238.jpeg",
+      "term": "hurt",
+      "confidence": "high",
+      "reason": "A band-aid on a knee indicates someone was hurt and is being cared for.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Band-aid_healing_cartoon_knee_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Bell_struck_with_small_mallet_202608220238.jpeg",
+      "term": "struck",
+      "confidence": "high",
+      "reason": "The bell is being struck with a mallet — a direct match to 'struck.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Bell_struck_with_small_mallet_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Birthday_candle_burning_low_202608220238.jpeg",
+      "term": "burn down",
+      "confidence": "medium",
+      "reason": "The candle is burning; chosen as a visual match to the idea of burning (though smaller scale).",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Birthday_candle_burning_low_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Blanket_tucked_over_teddy_bear_202608220238.jpeg",
+      "term": "cover",
+      "confidence": "high",
+      "reason": "The blanket covers the teddy bear directly illustrates 'cover.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Blanket_tucked_over_teddy_bear_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Blue_puddle_changing_shape_202608220238.jpeg",
+      "term": "have no shape",
+      "confidence": "high",
+      "reason": "A puddle changing shape shows a liquid with no fixed shape.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Blue_puddle_changing_shape_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Boy_carrying_gift_box_202608220239.jpeg",
+      "term": "brought",
+      "confidence": "high",
+      "reason": "A boy carrying a gift suggests he brought it somewhere — clear match to 'brought.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Boy_carrying_gift_box_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Boy_discovering_lost_toy_202608220239.jpeg",
+      "term": "found",
+      "confidence": "high",
+      "reason": "The boy discovering a lost toy is a direct depiction of 'found.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Boy_discovering_lost_toy_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Camel_in_desert_with_mountains_202608220239.jpeg",
+      "term": "the Eastern Desert",
+      "confidence": "medium",
+      "reason": "A camel in a desert scene visually matches a desert name; used as a geographic match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Camel_in_desert_with_mountains_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Caring_for_sick_person_202608220238.jpeg",
+      "term": "healthcare",
+      "confidence": "high",
+      "reason": "Someone caring for a sick person clearly represents healthcare.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Caring_for_sick_person_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_ant_lifting_apple_202608220238.jpeg",
+      "term": "super strong",
+      "confidence": "high",
+      "reason": "An ant lifting a large apple visually shows extraordinary strength.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_ant_lifting_apple_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_ants_carrying_leaf_202608220239.jpeg",
+      "term": "work for",
+      "confidence": "medium",
+      "reason": "Ants carrying a leaf depict working for their colony — a sensible educational match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_ants_carrying_leaf_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_bat_hanging_from_branch_202608220239.jpeg",
+      "term": "upside down",
+      "confidence": "high",
+      "reason": "A bat hanging from a branch is clearly upside down.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_bat_hanging_from_branch_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_bunny_annoyed_by_alarm_202608220238.jpeg",
+      "term": "bothered",
+      "confidence": "high",
+      "reason": "The bunny annoyed by an alarm is a clear depiction of being bothered.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_bunny_annoyed_by_alarm_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_character_frozen_in_ice_202608220238.jpeg",
+      "term": "froze",
+      "confidence": "high",
+      "reason": "A character frozen in ice depicts the past action 'froze.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_character_frozen_in_ice_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_character_playing_with_f…_202608220238.jpeg",
+      "term": "danced",
+      "confidence": "medium",
+      "reason": "The truncated filename suggests playful activity; 'danced' is a reasonable visual match for playful movement.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_character_playing_with_f…_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_character_pointing_at_kite_202608220239.jpeg",
+      "term": "stared",
+      "confidence": "medium",
+      "reason": "Pointing at a kite often involves looking or staring at it; chosen as a close visual match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_character_pointing_at_kite_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_character_pushing_boulder_202608220239.jpeg",
+      "term": "It was hard to + inf.",
+      "confidence": "high",
+      "reason": "Pushing a heavy boulder illustrates something that was hard to do.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_character_pushing_boulder_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_character_standing_on_spot_202608220239.jpeg",
+      "term": "on the spot",
+      "confidence": "high",
+      "reason": "A character standing on a single spot directly matches 'on the spot.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_character_standing_on_spot_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_child_walking_through_door_202608220239.jpeg",
+      "term": "came",
+      "confidence": "high",
+      "reason": "A child entering through a door is a straightforward example of 'came.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_child_walking_through_door_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_clock_running_fast_202608220238.jpeg",
+      "term": "rush",
+      "confidence": "medium",
+      "reason": "A fast-running clock suggests rushing or haste — a reasonable match to 'rush.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_clock_running_fast_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_dictionary_explaining_wo…_202608220239.jpeg",
+      "term": "mean",
+      "confidence": "high",
+      "reason": "A dictionary explaining a word directly represents the idea 'mean.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_dictionary_explaining_wo…_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_elephant_dancing_in_tutu_202608220238.jpeg",
+      "term": "strange",
+      "confidence": "medium",
+      "reason": "An elephant in a tutu is odd or strange — a good visual match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_elephant_dancing_in_tutu_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Paper_boat_floating_on_puddle_202608220238.jpeg",
+      "term": "sail",
+      "confidence": "medium",
+      "reason": "A paper boat floating evokes sailing as a child-friendly match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Paper_boat_floating_on_puddle_202608220238.jpeg"
+    },
+    {
+      "image_filename": "People_walking_in_town_square_202608220239.jpeg",
+      "term": "main square",
+      "confidence": "high",
+      "reason": "People walking in a town square directly matches 'main square.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/People_walking_in_town_square_202608220239.jpeg"
+    },
+    {
+      "image_filename": "People_waving_hello_202608220239.jpeg",
+      "term": "popular",
+      "confidence": "medium",
+      "reason": "People waving hello to someone can indicate that person is popular; chosen as a reasonable social match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/People_waving_hello_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Puppy_wearing_heart_tag_202608220239.jpeg",
+      "term": "precious",
+      "confidence": "high",
+      "reason": "A puppy with a heart tag suggests something loved and precious.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Puppy_wearing_heart_tag_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Purple_monster_hiding_behind_cur…_202608220238.jpeg",
+      "term": "hid",
+      "confidence": "high",
+      "reason": "A monster hiding behind a curtain directly shows 'hid.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Purple_monster_hiding_behind_cur…_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Puzzled_robot_with_loose_gear_202608220238.jpeg",
+      "term": "something went wrong",
+      "confidence": "high",
+      "reason": "A puzzled robot with a loose gear clearly depicts that something went wrong.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Puzzled_robot_with_loose_gear_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Ripple_moving_paper_boat_202608220239.jpeg",
+      "term": "change",
+      "confidence": "medium",
+      "reason": "Ripples moving a boat show a change in position — a reasonable match to 'change.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Ripple_moving_paper_boat_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Sad_rain_cloud_dropping_raindrops_202608220238.jpeg",
+      "term": "cried",
+      "confidence": "high",
+      "reason": "A sad cloud dropping raindrops is a common metaphor for crying; 'cried' fits well.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Sad_rain_cloud_dropping_raindrops_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Scattered_building_blocks_on_floor_202608220238.jpeg",
+      "term": "materials",
+      "confidence": "medium",
+      "reason": "Building blocks are play materials; 'materials' is a reasonable match for scattered blocks.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Scattered_building_blocks_on_floor_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Shield_stopping_spilled_juice_202608220239.jpeg",
+      "term": "prevent ... from",
+      "confidence": "high",
+      "reason": "The shield stopping juice from spilling directly illustrates preventing something from happening.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Shield_stopping_spilled_juice_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Ship_sailing_on_ocean_202608220238.jpeg",
+      "term": "ship",
+      "confidence": "high",
+      "reason": "A ship sailing on the ocean is a direct match to 'ship.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Ship_sailing_on_ocean_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Sprout_growing_in_rich_soil_202608220239.jpeg",
+      "term": "rich soil",
+      "confidence": "high",
+      "reason": "A sprout in good soil directly matches 'rich soil.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Sprout_growing_in_rich_soil_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Student_giving_card_to_teacher_202608220238.jpeg",
+      "term": "appreciated",
+      "confidence": "high",
+      "reason": "A student giving a card suggests appreciation; 'appreciated' fits well.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Student_giving_card_to_teacher_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Sun_moving_across_sky_202608220239.jpeg",
+      "term": "all day",
+      "confidence": "high",
+      "reason": "The sun moving across the sky represents something happening all day.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Sun_moving_across_sky_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Toy_blocks_growing_taller_202608220238.jpeg",
+      "term": "increased",
+      "confidence": "high",
+      "reason": "A tower of toy blocks getting taller shows an increase — direct match to 'increased.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Toy_blocks_growing_taller_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Toy_box_filled_with_toys_202608220239.jpeg",
+      "term": "contained",
+      "confidence": "high",
+      "reason": "A toy box holding toys illustrates 'contained.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Toy_box_filled_with_toys_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Treasure_chest_on_ocean_floor_202608220239.jpeg",
+      "term": "at the bottom of",
+      "confidence": "high",
+      "reason": "A chest on the ocean floor is literally at the bottom of the sea.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Treasure_chest_on_ocean_floor_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Wand_turning_rock_into_gemstone_202608220238.jpeg",
+      "term": "become",
+      "confidence": "high",
+      "reason": "Turning a rock into a gemstone shows one thing becoming another.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Wand_turning_rock_into_gemstone_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Wooden_boat_sailing_on_ocean_202608220238.jpeg",
+      "term": "sailed",
+      "confidence": "high",
+      "reason": "A wooden boat moving on the ocean directly shows it sailed.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Wooden_boat_sailing_on_ocean_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Wooden_gate_stopping_ball_202608220238.jpeg",
+      "term": "prevented",
+      "confidence": "high",
+      "reason": "A gate stopping a ball prevents it from passing — direct match to 'prevented.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Wooden_gate_stopping_ball_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Wooden_toy_horse_and_car_202608220238.jpeg",
+      "term": "easy to shape",
+      "confidence": "high",
+      "reason": "Wood is a material that can be shaped into toys; 'easy to shape' fits a wooden toy.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Wooden_toy_horse_and_car_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Wooden_treasure_chest_with_gold_202608220238.jpeg",
+      "term": "valuable",
+      "confidence": "high",
+      "reason": "A treasure chest with gold clearly represents something valuable.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Wooden_treasure_chest_with_gold_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_fish_swimming_in_water_202608220239.jpeg",
+      "term": "swam",
+      "confidence": "high",
+      "reason": "A fish in water swimming matches the past action 'swam.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_fish_swimming_in_water_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_illustrating_non-renewab…_202608220238.jpeg",
+      "term": "non-renewable",
+      "confidence": "high",
+      "reason": "The illustration is explicitly about non-renewable resources — direct match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_illustrating_non-renewab…_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_lion_running_in_jungle_202608220238.jpeg",
+      "term": "wild",
+      "confidence": "high",
+      "reason": "A lion running in the jungle represents wildlife and being wild.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_lion_running_in_jungle_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_mole_digging_tunnel_202608220239.jpeg",
+      "term": "dug",
+      "confidence": "high",
+      "reason": "A mole actively digging a tunnel is a clear depiction of digging/dug.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_mole_digging_tunnel_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_rabbit_holding_tiny_carrot_202608220238.jpeg",
+      "term": "grateful",
+      "confidence": "medium",
+      "reason": "Rabbit holding a small carrot suggests appreciation or being grateful for the food.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_rabbit_holding_tiny_carrot_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_runner_waving_white_towel_202608220238.jpeg",
+      "term": "rush",
+      "confidence": "medium",
+      "reason": "Runner implies hurried activity or rushing after exercise; a close visual match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_runner_waving_white_towel_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_snail_crawling_on_ruler_202608220238.jpeg",
+      "term": "take a long time",
+      "confidence": "high",
+      "reason": "A snail is a classic visual for something that takes a long time (slow).",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_snail_crawling_on_ruler_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_stove_with_blue_flame_202608220239.jpeg",
+      "term": "natural gas",
+      "confidence": "high",
+      "reason": "Blue flame on a stove commonly indicates a gas stove, matching natural gas.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_stove_with_blue_flame_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_toy_car_damaged_202608220239.jpeg",
+      "term": "damage",
+      "confidence": "high",
+      "reason": "A toy car shown broken/damaged directly matches the term damage.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_toy_car_damaged_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Cartoon_turtle_sitting_on_rock_202608220238.jpeg",
+      "term": "still",
+      "confidence": "high",
+      "reason": "A turtle calmly sitting on a rock conveys stillness.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_turtle_sitting_on_rock_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Cat_looking_at_goldfish_202608220238.jpeg",
+      "term": "stared",
+      "confidence": "high",
+      "reason": "A cat intently watching a goldfish is clearly staring.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cat_looking_at_goldfish_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Cat_sitting_on_dock_202608220239.jpeg",
+      "term": "near the edge of",
+      "confidence": "high",
+      "reason": "A cat sitting on a dock is typically positioned near the edge of the dock.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cat_sitting_on_dock_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Caterpillar_turning_into_butterfly_202608220238.jpeg",
+      "term": "become",
+      "confidence": "high",
+      "reason": "A caterpillar turning into a butterfly illustrates change into another form — become.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Caterpillar_turning_into_butterfly_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Character_choosing_ice_cream_fla…_202608220239.jpeg",
+      "term": "decided",
+      "confidence": "high",
+      "reason": "Choosing an ice cream flavor shows making a decision or having decided.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Character_choosing_ice_cream_fla…_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Character_choosing_path_with_lig…_202608220239.jpeg",
+      "term": "make a decision",
+      "confidence": "high",
+      "reason": "A character choosing a path is a direct visual for making a decision.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Character_choosing_path_with_lig…_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Character_shrugging_wearing_diff…_202608220238.jpeg",
+      "term": "doesn't matter",
+      "confidence": "high",
+      "reason": "A shrugging character visually conveys 'doesn't matter' or indifference.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Character_shrugging_wearing_diff…_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Child_brushing_teeth_202608220238.jpeg",
+      "term": "prevent ... from",
+      "confidence": "medium",
+      "reason": "Brushing teeth is an action that helps prevent cavities/illnesses — a close educational match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_brushing_teeth_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Child_catching_falling_ball_202608220239.jpeg",
+      "term": "on the spot",
+      "confidence": "high",
+      "reason": "Catching a falling ball immediately implies doing something on the spot.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_catching_falling_ball_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Child_flying_toy_helicopter_202608220239.jpeg",
+      "term": "sail",
+      "confidence": "low",
+      "reason": "A flying toy moves through the air; sail is a loose/educationally close match for movement in the air.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_flying_toy_helicopter_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Child_holding_broken_toy_202608220238.jpeg",
+      "term": "destroyed",
+      "confidence": "high",
+      "reason": "A child holding a clearly broken toy visually matches destroyed.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_holding_broken_toy_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Child_hugging_teddy_bear_202608220238.jpeg",
+      "term": "appreciated",
+      "confidence": "medium",
+      "reason": "Hugging a teddy conveys feeling loved or appreciated — a close match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_hugging_teddy_bear_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Child_looking_at_empty_hand_202608220238.jpeg",
+      "term": "lose",
+      "confidence": "high",
+      "reason": "An empty hand suggests the child has lost something; this directly matches lose.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_looking_at_empty_hand_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Child_on_playground_see-saw_202608220238.jpeg",
+      "term": "crowding",
+      "confidence": "low",
+      "reason": "Playground scenes can suggest many children and crowding; this is an uncertain but possible match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_on_playground_see-saw_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Child_playing_doctor_202608220239.jpeg",
+      "term": "healthcare",
+      "confidence": "high",
+      "reason": "Playing doctor is a clear representation of healthcare or medical play.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_playing_doctor_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Child_reaching_for_star_202608220239.jpeg",
+      "term": "get",
+      "confidence": "medium",
+      "reason": "Reaching for a star visually suggests trying to get or obtain something (get).",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_reaching_for_star_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Child_shaping_colorful_playdough_202608220239.jpeg",
+      "term": "easy to shape",
+      "confidence": "high",
+      "reason": "Shaping playdough illustrates that the material is easy to shape.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_shaping_colorful_playdough_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Child_slips_on_banana_peel_202608220238.jpeg",
+      "term": "fell",
+      "confidence": "high",
+      "reason": "Slipping on a banana peel commonly results in falling — fell matches directly.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_slips_on_banana_peel_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Child_turning_off_dripping_faucet_202608220238.jpeg",
+      "term": "use .... wisely",
+      "confidence": "high",
+      "reason": "Turning off a dripping faucet illustrates using water wisely (conservation).",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_turning_off_dripping_faucet_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Child_understanding_secret_code_202608220238.jpeg",
+      "term": "meant",
+      "confidence": "medium",
+      "reason": "Understanding a secret code relates to what the code meant — a conceptual match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_understanding_secret_code_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Children_sharing_storybooks_in_c…_202608220239.jpeg",
+      "term": "part of",
+      "confidence": "medium",
+      "reason": "Children sharing books in a group suggests being part of a group or activity.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Children_sharing_storybooks_in_c…_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Clock_with_stop_sign_202608220239.jpeg",
+      "term": "any longer",
+      "confidence": "medium",
+      "reason": "A stop sign next to a clock suggests 'no more time' or 'any longer' — a contextual match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Clock_with_stop_sign_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Cloud_resembling_toy_bear_202608220239.jpeg",
+      "term": "seemed",
+      "confidence": "high",
+      "reason": "A cloud that looks like a toy bear conveys 'it seemed like' a bear.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cloud_resembling_toy_bear_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Colorful_alien_with_three_eyes_202608220239.jpeg",
+      "term": "strange",
+      "confidence": "high",
+      "reason": "A three-eyed alien is an obvious visual for something strange.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Colorful_alien_with_three_eyes_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Comparing_prices_with_gold_coins_202608220239.jpeg",
+      "term": "cheaper",
+      "confidence": "high",
+      "reason": "Comparing prices directly relates to finding which is cheaper.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Comparing_prices_with_gold_coins_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Cozy_house_with_smoking_chimney_202608220238.jpeg",
+      "term": "lived",
+      "confidence": "high",
+      "reason": "A cozy house with smoke from the chimney suggests someone lived there (home).",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cozy_house_with_smoking_chimney_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Craft_materials_on_workbench_202608220238.jpeg",
+      "term": "materials",
+      "confidence": "high",
+      "reason": "A workbench with craft supplies directly represents materials.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Craft_materials_on_workbench_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Doctor_giving_child_high-five_202608220238.jpeg",
+      "term": "work for",
+      "confidence": "medium",
+      "reason": "A doctor interacting with a child suggests the idea of a job or people who work for healthcare — an approximate match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Doctor_giving_child_high-five_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Eyes_peeking_from_under_blankets_202608220238.jpeg",
+      "term": "hid",
+      "confidence": "high",
+      "reason": "Eyes peeking from under blankets clearly show someone hiding — hid is a direct match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Eyes_peeking_from_under_blankets_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Fly_buzzing_around_reading_chara…_202608220238.jpeg",
+      "term": "bother",
+      "confidence": "medium",
+      "reason": "A fly buzzing around a reader is annoying and bothers the person — a reasonable match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Fly_buzzing_around_reading_chara…_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Futuristic_building_with_flying_car_202608220239.jpeg",
+      "term": "modern",
+      "confidence": "high",
+      "reason": "A futuristic building with flying cars is a clear representation of modern or advanced technology.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Futuristic_building_with_flying_car_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Gemstone_sitting_on_velvet_pillow_202608220238.jpeg",
+      "term": "precious",
+      "confidence": "high",
+      "reason": "A gemstone on a velvet pillow visually signals that it is precious.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Gemstone_sitting_on_velvet_pillow_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Girl_examining_butterfly_with_ma…_202608220239.jpeg",
+      "term": "find",
+      "confidence": "medium",
+      "reason": "Examining a butterfly suggests the child found it and is looking closely — an educationally close match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Girl_examining_butterfly_with_ma…_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Girl_riding_bicycle_successfully_202608220239.jpeg",
+      "term": "[be] able to",
+      "confidence": "high",
+      "reason": "Riding a bicycle successfully shows the child is able to do it — matches '[be] able to'.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Girl_riding_bicycle_successfully_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Glass_of_water_with_lemon_202608220238.jpeg",
+      "term": "clear",
+      "confidence": "high",
+      "reason": "A clear glass of water (with lemon) visually represents clear water.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Glass_of_water_with_lemon_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Golden_flower_growing_among_whit…_202608220238.jpeg",
+      "term": "valuable",
+      "confidence": "medium",
+      "reason": "A golden flower standing out among others suggests it is valuable or special.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Golden_flower_growing_among_whit…_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Golden_path_leading_to_goal_202608220238.jpeg",
+      "term": "the best way to",
+      "confidence": "medium",
+      "reason": "A golden path to a goal suggests the best or ideal route — 'the best way to' fits conceptually.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Golden_path_leading_to_goal_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Green_checkmark_sparkling_202608220238.jpeg",
+      "term": "absolutely",
+      "confidence": "medium",
+      "reason": "A sparkling green checkmark expresses strong affirmation, matching 'absolutely.'",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Green_checkmark_sparkling_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Hand_placing_puzzle_piece_202608220238.jpeg",
+      "term": "It was hard to + inf.",
+      "confidence": "medium",
+      "reason": "Completing a puzzle can be difficult; 'It was hard to + inf.' matches the effort of fitting pieces.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Hand_placing_puzzle_piece_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Ice_cream_melting_on_sidewalk_202608220238.jpeg",
+      "term": "wasted",
+      "confidence": "medium",
+      "reason": "A melting ice cream that falls or melts on the sidewalk can be seen as wasted.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Ice_cream_melting_on_sidewalk_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Ice_skates_on_frozen_lake_202608220238.jpeg",
+      "term": "freeze",
+      "confidence": "medium",
+      "reason": "Ice skates on a frozen lake indicate freezing conditions; freeze is a contextual match.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Ice_skates_on_frozen_lake_202608220238.jpeg"
+    },
+    {
+      "image_filename": "Kids_painting_and_dancing_together_202608220239.jpeg",
+      "term": "danced",
+      "confidence": "high",
+      "reason": "Kids dancing together directly matches the term danced.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Kids_painting_and_dancing_together_202608220239.jpeg"
+    },
+    {
+      "image_filename": "Mountain_peak_overlooking_green_…_202608220239.jpeg",
+      "term": "from the top",
+      "confidence": "high",
+      "reason": "A mountain peak viewpoint clearly represents a view from the top.",
+      "image_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Mountain_peak_overlooking_green_…_202608220239.jpeg"
+    }
+  ]
+}

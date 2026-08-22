@@ -1,4 +1,5 @@
 import { describe, expect, it } from 'vitest';
+import { grade5Aug22CartoonImages } from './grade5-aug22-images';
 import { grade5BroadCartoonImages } from './grade5-broad-images';
 import { grade5CartoonImageFor, grade5CartoonImages } from './grade5-cartoon-images';
 import { grade5CourseLessons, grade5InteractiveLessons } from './grade5-course';
@@ -13,7 +14,7 @@ describe('Grade 5 course module', () => {
 
     expect(grade5CourseLessons).toHaveLength(20);
     expect(cards).toHaveLength(609);
-    expect(Object.keys(grade5CartoonImages)).toHaveLength(462);
+    expect(Object.keys(grade5CartoonImages)).toHaveLength(552);
     expect(grade5CourseLessons.every((lesson) => lesson.id.startsWith('grade5-'))).toBe(true);
     expect(waterWeeds).toBeDefined();
     expect(hunt).toBeDefined();
@@ -39,5 +40,15 @@ describe('Grade 5 course module', () => {
     const fried = grade5InteractiveLessons.flatMap((lesson) => lesson.cards).find((card) => card.term === 'fried');
     expect(fried).toBeDefined();
     expect(grade5CartoonImageFor(fried!)).toMatch(/^\/manus-storage\/grade5-broad-/);
+  });
+
+  it('makes all August 22 archive image links available to Grade 5 cards', () => {
+    expect(Object.keys(grade5Aug22CartoonImages)).toHaveLength(90);
+    for (const [term, imageUrl] of Object.entries(grade5Aug22CartoonImages)) {
+      expect(grade5CartoonImages[term]).toBe(imageUrl);
+    }
+    const valuable = grade5InteractiveLessons.flatMap((lesson) => lesson.cards).find((card) => card.term === 'valuable');
+    expect(valuable).toBeDefined();
+    expect(grade5CartoonImageFor(valuable!)).toMatch(/^\/manus-storage\/grade5-aug22-/);
   });
 });

@@ -1,0 +1,724 @@
+{
+  "matches": [
+    {
+      "review_index": 2,
+      "term": "fall",
+      "image_filename": "Autumn_leaf_drifting_from_branch_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Autumn_leaf_drifting_from_branch_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-001-autumn-leaf-drifting-from-branch-202608220238.jpeg"
+    },
+    {
+      "review_index": 3,
+      "term": "hurt",
+      "image_filename": "Band-aid_healing_cartoon_knee_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Band-aid_healing_cartoon_knee_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-002-band-aid-healing-cartoon-knee-202608220238.jpeg"
+    },
+    {
+      "review_index": 4,
+      "term": "struck",
+      "image_filename": "Bell_struck_with_small_mallet_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Bell_struck_with_small_mallet_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-003-bell-struck-with-small-mallet-202608220238.jpeg"
+    },
+    {
+      "review_index": 5,
+      "term": "burn down",
+      "image_filename": "Birthday_candle_burning_low_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Birthday_candle_burning_low_202608220238.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-004-birthday-candle-burning-low-202608220238.jpeg"
+    },
+    {
+      "review_index": 6,
+      "term": "cover",
+      "image_filename": "Blanket_tucked_over_teddy_bear_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Blanket_tucked_over_teddy_bear_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-005-blanket-tucked-over-teddy-bear-202608220238.jpeg"
+    },
+    {
+      "review_index": 7,
+      "term": "have no shape",
+      "image_filename": "Blue_puddle_changing_shape_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Blue_puddle_changing_shape_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-006-blue-puddle-changing-shape-202608220238.jpeg"
+    },
+    {
+      "review_index": 8,
+      "term": "brought",
+      "image_filename": "Boy_carrying_gift_box_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Boy_carrying_gift_box_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-007-boy-carrying-gift-box-202608220239.jpeg"
+    },
+    {
+      "review_index": 9,
+      "term": "found",
+      "image_filename": "Boy_discovering_lost_toy_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Boy_discovering_lost_toy_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-008-boy-discovering-lost-toy-202608220239.jpeg"
+    },
+    {
+      "review_index": 10,
+      "term": "the Eastern Desert",
+      "image_filename": "Camel_in_desert_with_mountains_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Camel_in_desert_with_mountains_202608220239.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-009-camel-in-desert-with-mountains-202608220239.jpeg"
+    },
+    {
+      "review_index": 11,
+      "term": "healthcare",
+      "image_filename": "Caring_for_sick_person_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Caring_for_sick_person_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-010-caring-for-sick-person-202608220238.jpeg"
+    },
+    {
+      "review_index": 11,
+      "term": "illnesses",
+      "image_filename": "Caring_for_sick_person_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Caring_for_sick_person_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-010-caring-for-sick-person-202608220238.jpeg"
+    },
+    {
+      "review_index": 12,
+      "term": "super strong",
+      "image_filename": "Cartoon_ant_lifting_apple_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_ant_lifting_apple_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-011-cartoon-ant-lifting-apple-202608220238.jpeg"
+    },
+    {
+      "review_index": 13,
+      "term": "work for",
+      "image_filename": "Cartoon_ants_carrying_leaf_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_ants_carrying_leaf_202608220239.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-012-cartoon-ants-carrying-leaf-202608220239.jpeg"
+    },
+    {
+      "review_index": 13,
+      "term": "role",
+      "image_filename": "Cartoon_ants_carrying_leaf_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_ants_carrying_leaf_202608220239.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-012-cartoon-ants-carrying-leaf-202608220239.jpeg"
+    },
+    {
+      "review_index": 14,
+      "term": "upside down",
+      "image_filename": "Cartoon_bat_hanging_from_branch_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_bat_hanging_from_branch_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-013-cartoon-bat-hanging-from-branch-202608220239.jpeg"
+    },
+    {
+      "review_index": 15,
+      "term": "bothered",
+      "image_filename": "Cartoon_bunny_annoyed_by_alarm_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_bunny_annoyed_by_alarm_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-014-cartoon-bunny-annoyed-by-alarm-202608220238.jpeg"
+    },
+    {
+      "review_index": 16,
+      "term": "froze",
+      "image_filename": "Cartoon_character_frozen_in_ice_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_character_frozen_in_ice_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-015-cartoon-character-frozen-in-ice-202608220238.jpeg"
+    },
+    {
+      "review_index": 19,
+      "term": "It was hard to + inf.",
+      "image_filename": "Cartoon_character_pushing_boulder_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_character_pushing_boulder_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-016-cartoon-character-pushing-boulder-202608220239.jpeg"
+    },
+    {
+      "review_index": 20,
+      "term": "on the spot",
+      "image_filename": "Cartoon_character_standing_on_spot_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_character_standing_on_spot_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-017-cartoon-character-standing-on-spot-202608220239.jpeg"
+    },
+    {
+      "review_index": 21,
+      "term": "came",
+      "image_filename": "Cartoon_child_walking_through_door_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_child_walking_through_door_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-018-cartoon-child-walking-through-door-202608220239.jpeg"
+    },
+    {
+      "review_index": 22,
+      "term": "rush",
+      "image_filename": "Cartoon_clock_running_fast_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_clock_running_fast_202608220238.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-019-cartoon-clock-running-fast-202608220238.jpeg"
+    },
+    {
+      "review_index": 23,
+      "term": "mean",
+      "image_filename": "Cartoon_dictionary_explaining_wo…_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_dictionary_explaining_wo…_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-020-cartoon-dictionary-explaining-wo-202608220239.jpeg"
+    },
+    {
+      "review_index": 24,
+      "term": "strange",
+      "image_filename": "Cartoon_elephant_dancing_in_tutu_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Cartoon_elephant_dancing_in_tutu_202608220238.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-021-cartoon-elephant-dancing-in-tutu-202608220238.jpeg"
+    },
+    {
+      "review_index": 25,
+      "term": "swam",
+      "image_filename": "Cartoon_fish_swimming_in_water_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_fish_swimming_in_water_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-040-cartoon-fish-swimming-in-water-202608220239.jpeg"
+    },
+    {
+      "review_index": 26,
+      "term": "non-renewable",
+      "image_filename": "Cartoon_illustrating_non-renewab…_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_illustrating_non-renewab…_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-041-cartoon-illustrating-non-renewab-202608220238.jpeg"
+    },
+    {
+      "review_index": 27,
+      "term": "wild",
+      "image_filename": "Cartoon_lion_running_in_jungle_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_lion_running_in_jungle_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-042-cartoon-lion-running-in-jungle-202608220238.jpeg"
+    },
+    {
+      "review_index": 28,
+      "term": "dug",
+      "image_filename": "Cartoon_mole_digging_tunnel_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_mole_digging_tunnel_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-043-cartoon-mole-digging-tunnel-202608220239.jpeg"
+    },
+    {
+      "review_index": 28,
+      "term": "dig deep into the ground",
+      "image_filename": "Cartoon_mole_digging_tunnel_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_mole_digging_tunnel_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-043-cartoon-mole-digging-tunnel-202608220239.jpeg"
+    },
+    {
+      "review_index": 30,
+      "term": "give up",
+      "image_filename": "Cartoon_runner_waving_white_towel_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_runner_waving_white_towel_202608220238.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-044-cartoon-runner-waving-white-towel-202608220238.jpeg"
+    },
+    {
+      "review_index": 31,
+      "term": "take a long time",
+      "image_filename": "Cartoon_snail_crawling_on_ruler_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_snail_crawling_on_ruler_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-045-cartoon-snail-crawling-on-ruler-202608220238.jpeg"
+    },
+    {
+      "review_index": 32,
+      "term": "natural gas",
+      "image_filename": "Cartoon_stove_with_blue_flame_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_stove_with_blue_flame_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-046-cartoon-stove-with-blue-flame-202608220239.jpeg"
+    },
+    {
+      "review_index": 33,
+      "term": "damage",
+      "image_filename": "Cartoon_toy_car_damaged_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_toy_car_damaged_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-047-cartoon-toy-car-damaged-202608220239.jpeg"
+    },
+    {
+      "review_index": 34,
+      "term": "still",
+      "image_filename": "Cartoon_turtle_sitting_on_rock_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cartoon_turtle_sitting_on_rock_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-048-cartoon-turtle-sitting-on-rock-202608220238.jpeg"
+    },
+    {
+      "review_index": 35,
+      "term": "stared",
+      "image_filename": "Cat_looking_at_goldfish_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cat_looking_at_goldfish_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-049-cat-looking-at-goldfish-202608220238.jpeg"
+    },
+    {
+      "review_index": 36,
+      "term": "near the edge of",
+      "image_filename": "Cat_sitting_on_dock_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cat_sitting_on_dock_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-050-cat-sitting-on-dock-202608220239.jpeg"
+    },
+    {
+      "review_index": 37,
+      "term": "become",
+      "image_filename": "Caterpillar_turning_into_butterfly_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Caterpillar_turning_into_butterfly_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-051-caterpillar-turning-into-butterfly-202608220238.jpeg"
+    },
+    {
+      "review_index": 38,
+      "term": "decided",
+      "image_filename": "Character_choosing_ice_cream_fla…_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Character_choosing_ice_cream_fla…_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-052-character-choosing-ice-cream-fla-202608220239.jpeg"
+    },
+    {
+      "review_index": 39,
+      "term": "make a decision",
+      "image_filename": "Character_choosing_path_with_lig…_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Character_choosing_path_with_lig…_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-053-character-choosing-path-with-lig-202608220239.jpeg"
+    },
+    {
+      "review_index": 40,
+      "term": "doesn't matter",
+      "image_filename": "Character_shrugging_wearing_diff…_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Character_shrugging_wearing_diff…_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-054-character-shrugging-wearing-diff-202608220238.jpeg"
+    },
+    {
+      "review_index": 44,
+      "term": "destroyed",
+      "image_filename": "Child_holding_broken_toy_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_holding_broken_toy_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-055-child-holding-broken-toy-202608220238.jpeg"
+    },
+    {
+      "review_index": 45,
+      "term": "grateful",
+      "image_filename": "Child_hugging_teddy_bear_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_hugging_teddy_bear_202608220238.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-056-child-hugging-teddy-bear-202608220238.jpeg"
+    },
+    {
+      "review_index": 46,
+      "term": "lose",
+      "image_filename": "Child_looking_at_empty_hand_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_looking_at_empty_hand_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-057-child-looking-at-empty-hand-202608220238.jpeg"
+    },
+    {
+      "review_index": 49,
+      "term": "get",
+      "image_filename": "Child_reaching_for_star_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_reaching_for_star_202608220239.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-058-child-reaching-for-star-202608220239.jpeg"
+    },
+    {
+      "review_index": 49,
+      "term": "possible",
+      "image_filename": "Child_reaching_for_star_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_reaching_for_star_202608220239.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-058-child-reaching-for-star-202608220239.jpeg"
+    },
+    {
+      "review_index": 50,
+      "term": "easy to shape",
+      "image_filename": "Child_shaping_colorful_playdough_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_shaping_colorful_playdough_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-059-child-shaping-colorful-playdough-202608220239.jpeg"
+    },
+    {
+      "review_index": 51,
+      "term": "fell",
+      "image_filename": "Child_slips_on_banana_peel_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_slips_on_banana_peel_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-060-child-slips-on-banana-peel-202608220238.jpeg"
+    },
+    {
+      "review_index": 52,
+      "term": "use .... wisely",
+      "image_filename": "Child_turning_off_dripping_faucet_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_turning_off_dripping_faucet_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-061-child-turning-off-dripping-faucet-202608220238.jpeg"
+    },
+    {
+      "review_index": 53,
+      "term": "meant",
+      "image_filename": "Child_understanding_secret_code_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Child_understanding_secret_code_202608220238.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-062-child-understanding-secret-code-202608220238.jpeg"
+    },
+    {
+      "review_index": 54,
+      "term": "club",
+      "image_filename": "Children_sharing_storybooks_in_c…_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Children_sharing_storybooks_in_c…_202608220239.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-063-children-sharing-storybooks-in-c-202608220239.jpeg"
+    },
+    {
+      "review_index": 54,
+      "term": "part of",
+      "image_filename": "Children_sharing_storybooks_in_c…_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Children_sharing_storybooks_in_c…_202608220239.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-063-children-sharing-storybooks-in-c-202608220239.jpeg"
+    },
+    {
+      "review_index": 55,
+      "term": "any longer",
+      "image_filename": "Clock_with_stop_sign_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Clock_with_stop_sign_202608220239.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-064-clock-with-stop-sign-202608220239.jpeg"
+    },
+    {
+      "review_index": 56,
+      "term": "seemed",
+      "image_filename": "Cloud_resembling_toy_bear_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cloud_resembling_toy_bear_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-065-cloud-resembling-toy-bear-202608220239.jpeg"
+    },
+    {
+      "review_index": 58,
+      "term": "cheaper",
+      "image_filename": "Comparing_prices_with_gold_coins_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Comparing_prices_with_gold_coins_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-066-comparing-prices-with-gold-coins-202608220239.jpeg"
+    },
+    {
+      "review_index": 59,
+      "term": "lived",
+      "image_filename": "Cozy_house_with_smoking_chimney_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Cozy_house_with_smoking_chimney_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-067-cozy-house-with-smoking-chimney-202608220238.jpeg"
+    },
+    {
+      "review_index": 60,
+      "term": "materials",
+      "image_filename": "Craft_materials_on_workbench_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Craft_materials_on_workbench_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-068-craft-materials-on-workbench-202608220238.jpeg"
+    },
+    {
+      "review_index": 62,
+      "term": "hid",
+      "image_filename": "Eyes_peeking_from_under_blankets_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Eyes_peeking_from_under_blankets_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-069-eyes-peeking-from-under-blankets-202608220238.jpeg"
+    },
+    {
+      "review_index": 63,
+      "term": "bother",
+      "image_filename": "Fly_buzzing_around_reading_chara…_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Fly_buzzing_around_reading_chara…_202608220238.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-070-fly-buzzing-around-reading-chara-202608220238.jpeg"
+    },
+    {
+      "review_index": 64,
+      "term": "modern",
+      "image_filename": "Futuristic_building_with_flying_car_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Futuristic_building_with_flying_car_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-071-futuristic-building-with-flying-car-202608220239.jpeg"
+    },
+    {
+      "review_index": 65,
+      "term": "precious",
+      "image_filename": "Gemstone_sitting_on_velvet_pillow_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Gemstone_sitting_on_velvet_pillow_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-072-gemstone-sitting-on-velvet-pillow-202608220238.jpeg"
+    },
+    {
+      "review_index": 65,
+      "term": "rare",
+      "image_filename": "Gemstone_sitting_on_velvet_pillow_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Gemstone_sitting_on_velvet_pillow_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-072-gemstone-sitting-on-velvet-pillow-202608220238.jpeg"
+    },
+    {
+      "review_index": 66,
+      "term": "find",
+      "image_filename": "Girl_examining_butterfly_with_ma…_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Girl_examining_butterfly_with_ma…_202608220239.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-073-girl-examining-butterfly-with-ma-202608220239.jpeg"
+    },
+    {
+      "review_index": 67,
+      "term": "[be] able to",
+      "image_filename": "Girl_riding_bicycle_successfully_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Girl_riding_bicycle_successfully_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-074-girl-riding-bicycle-successfully-202608220239.jpeg"
+    },
+    {
+      "review_index": 68,
+      "term": "clear",
+      "image_filename": "Glass_of_water_with_lemon_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Glass_of_water_with_lemon_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-075-glass-of-water-with-lemon-202608220238.jpeg"
+    },
+    {
+      "review_index": 70,
+      "term": "the best way to",
+      "image_filename": "Golden_path_leading_to_goal_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Golden_path_leading_to_goal_202608220238.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-076-golden-path-leading-to-goal-202608220238.jpeg"
+    },
+    {
+      "review_index": 71,
+      "term": "absolutely",
+      "image_filename": "Green_checkmark_sparkling_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Green_checkmark_sparkling_202608220238.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-077-green-checkmark-sparkling-202608220238.jpeg"
+    },
+    {
+      "review_index": 73,
+      "term": "wasted",
+      "image_filename": "Ice_cream_melting_on_sidewalk_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Ice_cream_melting_on_sidewalk_202608220238.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-078-ice-cream-melting-on-sidewalk-202608220238.jpeg"
+    },
+    {
+      "review_index": 74,
+      "term": "freeze",
+      "image_filename": "Ice_skates_on_frozen_lake_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Ice_skates_on_frozen_lake_202608220238.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-079-ice-skates-on-frozen-lake-202608220238.jpeg"
+    },
+    {
+      "review_index": 75,
+      "term": "community center",
+      "image_filename": "Kids_painting_and_dancing_together_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Kids_painting_and_dancing_together_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-080-kids-painting-and-dancing-together-202608220239.jpeg"
+    },
+    {
+      "review_index": 75,
+      "term": "danced",
+      "image_filename": "Kids_painting_and_dancing_together_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Kids_painting_and_dancing_together_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-080-kids-painting-and-dancing-together-202608220239.jpeg"
+    },
+    {
+      "review_index": 76,
+      "term": "from the top",
+      "image_filename": "Mountain_peak_overlooking_green_…_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/2/Mountain_peak_overlooking_green_…_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-081-mountain-peak-overlooking-green-202608220239.jpeg"
+    },
+    {
+      "review_index": 77,
+      "term": "sail",
+      "image_filename": "Paper_boat_floating_on_puddle_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Paper_boat_floating_on_puddle_202608220238.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-022-paper-boat-floating-on-puddle-202608220238.jpeg"
+    },
+    {
+      "review_index": 78,
+      "term": "main square",
+      "image_filename": "People_walking_in_town_square_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/People_walking_in_town_square_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-023-people-walking-in-town-square-202608220239.jpeg"
+    },
+    {
+      "review_index": 79,
+      "term": "popular",
+      "image_filename": "People_waving_hello_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/People_waving_hello_202608220239.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-024-people-waving-hello-202608220239.jpeg"
+    },
+    {
+      "review_index": 79,
+      "term": "humans",
+      "image_filename": "People_waving_hello_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/People_waving_hello_202608220239.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-024-people-waving-hello-202608220239.jpeg"
+    },
+    {
+      "review_index": 81,
+      "term": "scary (adj)",
+      "image_filename": "Purple_monster_hiding_behind_cur…_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Purple_monster_hiding_behind_cur…_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-025-purple-monster-hiding-behind-cur-202608220238.jpeg"
+    },
+    {
+      "review_index": 82,
+      "term": "something went wrong",
+      "image_filename": "Puzzled_robot_with_loose_gear_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Puzzled_robot_with_loose_gear_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-026-puzzled-robot-with-loose-gear-202608220238.jpeg"
+    },
+    {
+      "review_index": 83,
+      "term": "change",
+      "image_filename": "Ripple_moving_paper_boat_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Ripple_moving_paper_boat_202608220239.jpeg",
+      "review_confidence": "medium",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-027-ripple-moving-paper-boat-202608220239.jpeg"
+    },
+    {
+      "review_index": 84,
+      "term": "cried",
+      "image_filename": "Sad_rain_cloud_dropping_raindrops_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Sad_rain_cloud_dropping_raindrops_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-028-sad-rain-cloud-dropping-raindrops-202608220238.jpeg"
+    },
+    {
+      "review_index": 84,
+      "term": "cry",
+      "image_filename": "Sad_rain_cloud_dropping_raindrops_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Sad_rain_cloud_dropping_raindrops_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-028-sad-rain-cloud-dropping-raindrops-202608220238.jpeg"
+    },
+    {
+      "review_index": 86,
+      "term": "prevent ... from",
+      "image_filename": "Shield_stopping_spilled_juice_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Shield_stopping_spilled_juice_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-029-shield-stopping-spilled-juice-202608220239.jpeg"
+    },
+    {
+      "review_index": 87,
+      "term": "ship",
+      "image_filename": "Ship_sailing_on_ocean_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Ship_sailing_on_ocean_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-030-ship-sailing-on-ocean-202608220238.jpeg"
+    },
+    {
+      "review_index": 88,
+      "term": "rich soil",
+      "image_filename": "Sprout_growing_in_rich_soil_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Sprout_growing_in_rich_soil_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-031-sprout-growing-in-rich-soil-202608220239.jpeg"
+    },
+    {
+      "review_index": 89,
+      "term": "appreciated",
+      "image_filename": "Student_giving_card_to_teacher_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Student_giving_card_to_teacher_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-032-student-giving-card-to-teacher-202608220238.jpeg"
+    },
+    {
+      "review_index": 90,
+      "term": "all day",
+      "image_filename": "Sun_moving_across_sky_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Sun_moving_across_sky_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-033-sun-moving-across-sky-202608220239.jpeg"
+    },
+    {
+      "review_index": 91,
+      "term": "increased",
+      "image_filename": "Toy_blocks_growing_taller_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Toy_blocks_growing_taller_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-034-toy-blocks-growing-taller-202608220238.jpeg"
+    },
+    {
+      "review_index": 92,
+      "term": "contained",
+      "image_filename": "Toy_box_filled_with_toys_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Toy_box_filled_with_toys_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-035-toy-box-filled-with-toys-202608220239.jpeg"
+    },
+    {
+      "review_index": 93,
+      "term": "at the bottom of",
+      "image_filename": "Treasure_chest_on_ocean_floor_202608220239.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Treasure_chest_on_ocean_floor_202608220239.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-036-treasure-chest-on-ocean-floor-202608220239.jpeg"
+    },
+    {
+      "review_index": 95,
+      "term": "sailed",
+      "image_filename": "Wooden_boat_sailing_on_ocean_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Wooden_boat_sailing_on_ocean_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-037-wooden-boat-sailing-on-ocean-202608220238.jpeg"
+    },
+    {
+      "review_index": 96,
+      "term": "prevented",
+      "image_filename": "Wooden_gate_stopping_ball_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Wooden_gate_stopping_ball_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-038-wooden-gate-stopping-ball-202608220238.jpeg"
+    },
+    {
+      "review_index": 98,
+      "term": "valuable",
+      "image_filename": "Wooden_treasure_chest_with_gold_202608220238.jpeg",
+      "source_path": "/home/ubuntu/webdev-static-assets/grade5-new-20260822/1/Wooden_treasure_chest_with_gold_202608220238.jpeg",
+      "review_confidence": "high",
+      "local_upload_path": "/home/ubuntu/webdev-static-assets/grade5-aug22-approved-upload/grade5-aug22-039-wooden-treasure-chest-with-gold-202608220238.jpeg"
+    }
+  ]
+}
