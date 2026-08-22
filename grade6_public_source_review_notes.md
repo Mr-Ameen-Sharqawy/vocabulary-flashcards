@@ -217,3 +217,15 @@ The Pixabay illustration `https://pixabay.com/illustrations/irrigation-irrigatio
 ## Mint candidate — rejected for blank transparent rendering
 
 The Pixabay illustration `https://pixabay.com/illustrations/peppermint-herb-leaves-mint-leaves-7948494/` was opened directly. Its intended mint-leaf artwork did not appear at all in the image area, which remained a blank transparent checkerboard. As the source file could not be visually inspected for a complete, colourful, text-free plant illustration, it was not downloaded or accepted for `mint`.
+
+## Parsley candidate — rejected for monochrome line-art style
+
+The Pixabay vector `https://pixabay.com/vectors/parsley-biology-plant-leaves-161635/` was opened directly. It is a complete parsley plant, but uses only thin black line-work on a transparent background. This is too visually sparse to meet the required colourful, child-friendly cartoon standard, so it was not downloaded or accepted for `parsley`.
+
+## Insects candidate — rejected for incomplete transparent rendering
+
+The Pixabay vector `https://pixabay.com/vectors/insects-bugs-cartoon-ant-bee-6809694/` was opened directly. Although its metadata describes a colourful group of cartoon insects, the image area rendered only as a cropped red insect fragment on a large transparent checkerboard. The incomplete rendering cannot be used for a Grade 6 card, so it was not downloaded or accepted for `insects`.
+
+## Heron public-domain candidate — not accepted pending retrievable original
+
+The Public Domain Vectors page `https://publicdomainvectors.org/en/free-clipart/Heron-color-graphics/34068.html` identifies a coloured long-legged heron vector as public domain, and its search thumbnail looks visually relevant. However, the page triggered a CAPTCHA and both the advertised PNG preview and SVG download endpoint returned `403` during retrieval. Without a full original file to inspect for final visual quality, it is not accepted or mapped to `heron`.
