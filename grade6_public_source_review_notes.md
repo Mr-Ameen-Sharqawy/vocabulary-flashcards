@@ -111,3 +111,7 @@ The Pixabay illustration `https://pixabay.com/illustrations/mechanic-car-repair-
 ## Accepted Pixabay wool candidate
 
 The Pixabay illustration `https://pixabay.com/illustrations/crochet-yarn-knitting-craft-hobby-7846455/` was saved as `pixabay-wool-yarn-7846455.jpg`. It is a clean, child-friendly cartoon showing a ball of yarn and an adult crocheting with yarn. No writing, logo, or watermark is visible, so it is accepted as a pedagogically close visual for the Grade 6 term `wool`.
+
+## Accepted Openclipart landscape candidate
+
+The Openclipart image `https://openclipart.org/detail/268296/colorful-rural-landscape` was saved as `openclipart-rural-landscape-268296.png`. It is a bright, clean cartoon rural landscape showing hills, mountains, a river, trees, a road, and small homes. No writing, logo, or watermark is visible, so it is accepted for the Grade 6 term `landscape`.
