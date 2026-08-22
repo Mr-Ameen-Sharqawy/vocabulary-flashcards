@@ -183,3 +183,5 @@ The accepted wind-turbine scene visibly shows several child-friendly white cloud
 The same review principle supports seven more close links: the wind-turbine scene for `electricity` and `energy`; the oasis scene for `desert`; the factory scene for `factories`; the crops scene for `farms`; the fisherman scene for singular `fisherman`; and the approved furniture-making scene for `furniture`. Each connection is limited to a visible subject or scene, rather than an unrelated decorative image.
 
 The existing cartoon gate is also a clear visual for `entrance`. The accepted crops scene visibly shows a planted field and growing corn, so it is mapped conservatively to `grain` and `good soil`. These additions similarly use only reviewed Grade 6 artwork.
+
+The reviewed bracelet image is also a clear instance of `jewelry`, while the cartoon lamp is a direct visual for `light`. The accepted suitcase is mapped to the synonym `luggage`; the wind-turbine scene to `make electricity`; and the crops scene to `harvest`. These five links retain the same asset-quality standard and do not add unreviewed sources.
