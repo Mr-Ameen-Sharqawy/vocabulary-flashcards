@@ -39,3 +39,19 @@ The Pixabay result `https://pixabay.com/illustrations/angelfish-coral-reef-cute-
 ## Wikimedia Commons retry — review outcome
 
 The collection script was retried with a three-second delay and returned eleven downloadable candidates from twenty-eight concrete terms. Several other requests still met rate limits, and the downloaded items were primarily photographs or text-bearing real-world objects (for example, a camera, ticket, fuel, and crops), rather than the consistent cartoon teaching style required by this platform. They remain only in the review folder with their license metadata in `grade6_wikimedia_candidates_batch01.json` and are **not accepted for Grade 6 cards**. This retry confirms that Wikimedia is useful for traceable reference imagery, but is not currently a suitable primary source for the project's clean cartoon visual standard.
+
+## Accepted Openclipart camera candidate
+
+The Openclipart detail page `https://openclipart.org/detail/189527/camera` provides a clear retro cartoon camera with direct PNG and SVG downloads, no login requirement, and no visible writing, logo, or watermark in the artwork. The local candidate `openclipart-camera-189527.png` is accepted for the Grade 6 term `camera`.
+
+## Solar-panel candidate — rejected for style
+
+The Pixabay asset `https://pixabay.com/illustrations/mountains-solar-panel-nature-8683296/` was downloaded as `pixabay-solar-panel-8683296.png`. It is clean and watermark-free, but its semi-photorealistic landscape style does not match the platform's consistent cartoon teaching style, so it is not accepted for Grade 6 cards.
+
+## Accepted Pixabay wind-turbine candidate
+
+The Pixabay page `https://pixabay.com/illustrations/wind-energy-wind-farm-wind-turbine-7107364/` provides the local file `pixabay-wind-turbine-7107364.jpg`. It is a clear flat cartoon scene of four wind turbines under clouds and the sun, with no visible text, logo, or watermark. It is accepted for the Grade 6 term `wind turbine`.
+
+## Fridge candidate — rejected for visual simplicity
+
+The Openclipart page `https://openclipart.org/detail/343499/simple-fridge` is a clean, text-free refrigerator icon, but it is only a black outline. It is too minimal to match the colourful cartoon teaching style used in the accepted Grade 6 assets, so it is not accepted.
