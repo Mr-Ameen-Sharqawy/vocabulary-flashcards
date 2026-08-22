@@ -36,6 +36,7 @@
     {"term": "snorkel", "source_type": "Pixabay", "source_url": "https://pixabay.com/vectors/scuba-diving-diver-diving-147683/", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/pixabay-snorkel-diver-147683.png", "review": "accepted", "match_type": "pedagogically close swimmer wearing a mask and visible breathing tube"},
     {"term": "factory", "source_type": "Pixabay", "source_url": "https://pixabay.com/illustrations/factory-industry-warehouse-3550551/", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/pixabay-factory-3550551.png", "review": "accepted"},
     {"term": "crops", "source_type": "Pixabay", "source_url": "https://pixabay.com/illustrations/cartoon-landscape-farm-river-nature-10119224/", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/pixabay-crops-farm-10119224.png", "review": "accepted"},
-    {"term": "computer", "source_type": "Pixabay", "source_url": "https://pixabay.com/vectors/cartoon-computer-tooned-in-2026805/", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/pixabay-computer-2026805.png", "review": "accepted"}
+    {"term": "computer", "source_type": "Pixabay", "source_url": "https://pixabay.com/vectors/cartoon-computer-tooned-in-2026805/", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/pixabay-computer-2026805.png", "review": "accepted"},
+    {"term": "fishermen", "source_type": "Pixabay", "source_url": "https://pixabay.com/vectors/fishing-man-water-fisherman-3635221/", "local_path": "/home/ubuntu/webdev-static-assets/grade6-public-candidates/pixabay-fisherman-3635221.png", "review": "accepted", "match_type": "pedagogically close single fisherman in a boat"}
   ]
 }

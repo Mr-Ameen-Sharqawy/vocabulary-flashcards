@@ -99,3 +99,7 @@ The Pixabay illustration `https://pixabay.com/illustrations/cartoon-landscape-fa
 ## Accepted Pixabay computer candidate
 
 The Pixabay vector `https://pixabay.com/vectors/cartoon-computer-tooned-in-2026805/` was saved as `pixabay-computer-2026805.png`. It is a simple, recognisable cartoon desktop computer with a screen, keyboard, and power cable. No writing, logo, or watermark is visible, so it is accepted for the Grade 6 term `computer`.
+
+## Accepted Pixabay fishermen candidate
+
+The Pixabay vector `https://pixabay.com/vectors/fishing-man-water-fisherman-3635221/` was saved as `pixabay-fisherman-3635221.png`. It is a clean cartoon scene showing a fisherman in a boat on the water with several visible fish below. No writing, logo, or watermark is visible, so it is accepted as a pedagogically close visual for the Grade 6 term `fishermen`.
