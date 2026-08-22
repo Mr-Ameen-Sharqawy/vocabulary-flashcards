@@ -1,0 +1,5 @@
+Visual review after palette refresh: the loading state appears clean but the actual grade selector did not render during two preview captures. The primary redesign direction is a bright study garden with deep navy, sky blue, lesson gold, mint, and coral reserved for alert emphasis. The reviewer recommends more visible notebook/learning motifs and stronger first-load branding.
+
+Browser review after the palette refinement: the Grade 4 and Grade 5 selector renders correctly. The warm ivory, sky, mint, school-blue, and lesson-gold surfaces are now consistent; the two grade paths are visually distinct while their blue/green actions remain legible. A restrained dotted journey mark was added to each grade card. The desktop selector fits without vertical scrolling.
+
+Mobile review at 375px: the top bar, title, large grade cards, and primary actions remain legible and comfortably spaced. The cards stack cleanly, use distinct but cohesive Grade 4 and Grade 5 surface colors, and retain clearly tappable primary buttons.

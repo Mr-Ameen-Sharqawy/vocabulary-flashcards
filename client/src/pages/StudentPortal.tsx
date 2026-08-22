@@ -65,7 +65,7 @@ export default function StudentPortal({ onTeacherAccess }: StudentPortalProps) {
   }
 
   if (studentQuery.isLoading) {
-    return <main className="sf-access-shell"><div className="sf-access-card sf-access-loading"><Loader2 className="animate-spin" /> جاري تجهيز رحلة التعلم...</div></main>;
+    return <main className="sf-access-shell" dir="rtl"><div className="sf-access-card sf-access-loading"><div className="sf-access-mark"><BookOpen size={27} /></div><div><p className="sf-access-overline" dir="ltr">VOCABULARY JOURNEY</p><strong>جاري تجهيز رحلة التعلم...</strong></div><Loader2 className="animate-spin" /></div></main>;
   }
 
   if (studentQuery.data) {

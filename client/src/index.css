@@ -1,24 +1,24 @@
-/* Design context: Sense Lab is a Modern Editorial Classroom—cobalt structure, lesson-gold cues, ivory paper texture, and a single focused flashcard interaction. */
+/* Design context: Bright Study Garden — a friendly, confident learning space with a balanced navy, sky, coral, mint, and sunshine palette. */
 @import "tailwindcss";
 @import "tw-animate-css";
 
-/* STYLE: دفتر رحلة دراسي عصري — ورق عاجي، حبر أزرق مدرسي، ذهب الدرس، وزخارف رسم يدوي هادئة لا تزاحم مفردات الطفل. */
+/* STYLE: حديقة تعلّم مشرقة — أسطح كريمية دافئة، حبر كحلي هادئ، ألوان مرحِة واضحة، وتباين مريح للأطفال. */
 
 :root {
-  --ink: #173a63;
-  --ink-deep: #0f2d4c;
-  --blue: #1e5fa8;
-  --blue-light: #e8f1fb;
-  --gold: #f4c84a;
-  --coral: #ef8a75;
-  --mint: #70c6b5;
-  --paper: #fbf8ef;
-  --paper-deep: #f1ebdd;
-  --line: #d9e1e9;
-  --muted: #66809a;
-  --success: #178465;
-  --danger: #c95f55;
-  --shadow: 0 16px 32px rgba(23, 58, 99, 0.12);
+  --ink: #1f3654;
+  --ink-deep: #142944;
+  --blue: #3978c6;
+  --blue-light: #e8f2ff;
+  --gold: #ffc857;
+  --coral: #c88a24;
+  --mint: #66c9ad;
+  --paper: #f8f6ef;
+  --paper-deep: #eee9dc;
+  --line: #d7e0e8;
+  --muted: #5f7792;
+  --success: #1c9b73;
+  --danger: #cf5f58;
+  --shadow: 0 18px 42px rgba(31, 54, 84, 0.14);
   --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
   --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
 }
@@ -28,9 +28,7 @@ html { background: var(--paper); }
 body {
   margin: 0;
   min-width: 320px;
-  background:
-    radial-gradient(circle at 1px 1px, rgba(23, 58, 99, 0.075) 1px, transparent 0) 0 0 / 18px 18px,
-    var(--paper);
+  background: var(--paper);
   color: var(--ink);
   font-family: "Noto Kufi Arabic", "Nunito Sans", sans-serif;
 }
@@ -368,4 +366,135 @@ button { -webkit-tap-highlight-color: transparent; }
 }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; }
+}
+
+/* 2026 visual refresh: shared surfaces, buttons, and a calm color rhythm across all student and teacher pages. */
+.sf-app {
+  background:
+    radial-gradient(circle at 92% 7%, rgba(255, 200, 87, .2) 0 150px, transparent 152px),
+    radial-gradient(circle at 5% 88%, rgba(102, 201, 173, .16) 0 180px, transparent 182px),
+    linear-gradient(135deg, #f7f7f2 0%, #eef6fb 48%, #f8f5ed 100%);
+}
+.sf-topbar {
+  min-height: 82px;
+  border-bottom-color: rgba(31, 54, 84, .1);
+  background: rgba(255, 255, 252, .88);
+  box-shadow: 0 7px 24px rgba(31, 54, 84, .06);
+}
+.sf-brand { gap: 11px; padding: 4px 12px 4px 4px; border-left-color: var(--coral); }
+.sf-brand-logo { border-color: rgba(102, 201, 173, .72); border-radius: 18px 8px 18px 8px; background: #f4fffb; box-shadow: 0 8px 16px rgba(31, 54, 84, .11); }
+.sf-brand-kicker, .sf-access-overline, .sf-grade-topbar span { color: #b77b1d; }
+.sf-brand-name { color: var(--ink-deep); }
+.sf-brand-name span { color: #4d88cf; }
+.sf-score-chip, .sf-student-chip, .sf-grade-public-note { border: 1px solid rgba(102, 201, 173, .3); border-radius: 999px; background: #f5fffb; box-shadow: 0 5px 14px rgba(31, 54, 84, .05); }
+.sf-score-chip { color: var(--ink-deep); }
+
+.sf-rail { background: linear-gradient(180deg, #173a63 0%, #172f4d 100%); box-shadow: 9px 0 28px rgba(20, 41, 68, .08); }
+.sf-lesson-marker { border-radius: 13px 13px 27px 13px; clip-path: none; box-shadow: 0 10px 0 rgba(0, 0, 0, .12); }
+.sf-section-link { border-radius: 10px; border-right-width: 4px; }
+.sf-section-link.is-active { background: rgba(255, 255, 255, .15); box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .08); }
+.sf-unit-quiz-button { border-radius: 8px; }
+
+.sf-workspace {
+  background:
+    linear-gradient(90deg, rgba(57, 120, 198, .035) 1px, transparent 1px) 0 0 / 34px 34px,
+    linear-gradient(0deg, rgba(57, 120, 198, .025) 1px, transparent 1px) 0 0 / 34px 34px,
+    linear-gradient(135deg, rgba(255,255,255,.6), rgba(248,246,239,.35));
+}
+.sf-workspace::before { border-color: rgba(102, 201, 173, .18); box-shadow: 48px 44px 0 -9px rgba(238, 128, 108, .11), 86px -30px 0 -22px rgba(255, 200, 87, .34); }
+.sf-hero { border: 1px solid rgba(57, 120, 198, .16); border-radius: 22px; box-shadow: 0 14px 30px rgba(31, 54, 84, .12); }
+.sf-hero::before { background: linear-gradient(90deg, rgba(19, 46, 75, .08) 0%, rgba(248,246,239,.78) 48%, rgba(255,255,252,.96) 100%); }
+.sf-hero-content { padding-top: 23px; padding-bottom: 23px; }
+.sf-hero-label { color: #b77b1d; }
+.sf-hero h2 span { color: #3978c6; }
+.sf-hero-note { border: 1px solid rgba(57, 120, 198, .12); border-radius: 999px; background: rgba(255,255,255,.86); }
+.sf-progress-row { border: 1px solid rgba(57, 120, 198, .18); border-right-color: var(--gold); border-right-width: 6px; border-radius: 15px; background: rgba(255,255,252,.78); }
+.sf-progress-row::before { color: #b77b1d; background: #f7f7f2; }
+.sf-progress-track span { background: linear-gradient(90deg, #66c9ad, #8eddbf) !important; }
+
+.sf-flashcard { border: 1px solid rgba(57, 120, 198, .15); border-top: 7px solid var(--gold); border-radius: 24px; box-shadow: 0 22px 48px rgba(31, 54, 84, .16); }
+.sf-card-visual { background: #dcecf6; }
+.sf-flip-face { background: #dcecf6; }
+.sf-flip-front { background: linear-gradient(145deg, #fffefa 0%, #f3fbf8 100%); }
+.sf-guess-kicker { color: #b77b1d; }
+.sf-guess-word:hover { color: #3978c6; }
+.sf-guess-word.is-ready { color: #3978c6; text-decoration-color: var(--coral); }
+.sf-guess-count { width: 36px; height: 36px; display: grid; place-items: center; border-radius: 50%; background: #e9f5ff; color: #3978c6; }
+.sf-flip-back::before { border-radius: 999px; color: var(--ink-deep); background: #fff1bf; box-shadow: 0 5px 12px rgba(31, 54, 84, .13); }
+.sf-word-below-photo { border-top-color: var(--gold); background: #fffefa; }
+.sf-word-below-photo:hover { background: #f1fbf7; color: #3978c6; }
+.sf-card-content { background: linear-gradient(180deg, #ffffff 0%, #fbfdff 100%); }
+.sf-card-content::before { width: 96px; border-radius: 0 0 0 14px; background: var(--gold); }
+.sf-part-badge { color: #2d6baa; background: #e8f2ff; border-radius: 999px; }
+.sf-question-label { color: #b77b1d; }
+.sf-option { border-color: #d9e5f0; border-radius: 13px; background: #fff; }
+.sf-option:not(:disabled):hover { border-color: #66c9ad; box-shadow: 0 9px 18px rgba(57, 120, 198, .1); }
+.sf-option-letter { color: #3978c6; background: #eaf3ff; }
+.sf-option.is-correct { border-color: #83d9bc; background: #edfdf5; }
+.sf-option.is-wrong { border-color: #f0b4a9; background: #fff3ef; }
+.sf-control-button, .sf-arrow-button { border-color: rgba(57, 120, 198, .22) !important; border-radius: 12px; background: rgba(255,255,255,.75) !important; }
+.sf-next-button, .sf-access-submit { border-radius: 12px; background: linear-gradient(135deg, #3978c6, #245b9b) !important; box-shadow: 0 9px 18px rgba(36, 91, 155, .22); }
+.sf-next-button:hover:not(:disabled), .sf-access-submit:hover:not(:disabled) { background: linear-gradient(135deg, #2b69b4, #1f508a) !important; }
+
+.sf-access-shell {
+  position: relative;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 10% 9%, rgba(255, 200, 87, .32) 0 128px, transparent 130px),
+    radial-gradient(circle at 88% 88%, rgba(102, 201, 173, .24) 0 170px, transparent 172px),
+    linear-gradient(135deg, #f5f7f2 0%, #eaf5fb 54%, #fff8e9 100%);
+}
+.sf-access-shell::before, .sf-access-shell::after { content: ""; position: absolute; pointer-events: none; border-radius: 50%; }
+.sf-access-shell::before { width: 110px; height: 110px; right: 11%; top: 12%; border: 18px solid rgba(238,128,108,.16); }
+.sf-access-shell::after { width: 76px; height: 76px; left: 14%; bottom: 13%; border: 13px solid rgba(57,120,198,.12); }
+.sf-access-card { position: relative; z-index: 1; overflow: hidden; border: 1px solid rgba(57, 120, 198, .16); border-top: 7px solid var(--blue); border-radius: 24px; background: rgba(255,255,253,.95); box-shadow: 0 26px 60px rgba(31,54,84,.16); }
+.sf-access-card::before { content: ""; position: absolute; width: 110px; height: 110px; left: -57px; bottom: -58px; border-radius: 50%; background: rgba(102,201,173,.13); }
+.sf-access-mark { border-radius: 18px; background: linear-gradient(135deg, #ffd66f, #ffc857); box-shadow: 0 10px 20px rgba(255, 200, 87, .28); }
+.sf-access-copy { color: #58728d; }
+.sf-access-form input, .sf-teacher-panel input, .sf-reset-panel input, .sf-teacher-panel select, .sf-student-actions select { border-color: #d5e2ef; border-radius: 11px; background: #fbfdff; }
+.sf-access-form input:focus, .sf-teacher-panel input:focus, .sf-reset-panel input:focus { border-color: #66c9ad; box-shadow: 0 0 0 4px rgba(102,201,173,.16); }
+.sf-teacher-link { color: #2f73bc; }
+
+.sf-teacher-shell { min-height: 100vh; background: linear-gradient(135deg, #f4f8f7 0%, #edf5fb 55%, #fdf6e9 100%); }
+.sf-teacher-header { padding: 26px 28px; border: 1px solid rgba(57,120,198,.13); border-radius: 22px; background: rgba(255,255,253,.8); box-shadow: 0 13px 30px rgba(31,54,84,.07); }
+.sf-teacher-panel { border-color: rgba(57,120,198,.13); border-radius: 20px; background: rgba(255,255,253,.95); box-shadow: 0 15px 34px rgba(31,54,84,.08); }
+.sf-teacher-panel h2 { color: #245b9b; }
+.sf-student-row { border-bottom-color: #dbe7ef; }
+.sf-grade-permissions, .sf-student-grade-actions { border-color: #d5e5e8; background: #f7fcfa; }
+
+.sf-grade-shell {
+  position: relative;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 9% 12%, rgba(255, 200, 87, .35) 0 112px, transparent 114px),
+    radial-gradient(circle at 90% 83%, rgba(102, 201, 173, .26) 0 145px, transparent 147px),
+    linear-gradient(135deg, #f7f7f2 0%, #eef8f7 48%, #eef5fb 100%);
+}
+.sf-grade-shell::before { content: ""; position: absolute; top: 24%; right: -24px; width: 108px; height: 108px; border: 18px solid rgba(57,120,198,.1); border-radius: 50%; }
+.sf-grade-topbar { position: relative; z-index: 1; padding: 12px 16px; border: 1px solid rgba(57,120,198,.11); border-radius: 18px; background: rgba(255,255,252,.62); backdrop-filter: blur(10px); }
+.sf-grade-intro { position: relative; z-index: 1; }
+.sf-grade-mark { border-radius: 21px 10px 21px 10px; background: linear-gradient(135deg, #ffd979, #ffc857); box-shadow: 0 13px 24px rgba(255,200,87,.26); }
+.sf-grade-intro > p { color: #b77b1d; }
+.sf-grade-intro h1 { color: var(--ink-deep); }
+.sf-grade-grid { position: relative; z-index: 1; max-width: 960px; gap: 24px; }
+.sf-grade-choice { display: flex; flex-direction: column; min-height: 330px; border: 1px solid rgba(57,120,198,.13); border-radius: 26px; box-shadow: 0 19px 40px rgba(31,54,84,.1); transition: transform 180ms var(--ease-out), box-shadow 180ms var(--ease-out), border-color 180ms var(--ease-out); }
+.sf-grade-choice::before { content: "✦  ·  ·  ·"; position: absolute; top: 22px; left: 26px; color: rgba(57,120,198,.36); font: 900 13px/1 "Nunito Sans", sans-serif; letter-spacing: .18em; }
+.sf-grade-choice:hover { transform: translateY(-7px); border-color: rgba(57,120,198,.28); box-shadow: 0 25px 50px rgba(31,54,84,.15); }
+.sf-grade-four { background: linear-gradient(145deg, #fffefa 0%, #fff6d8 100%); }
+.sf-grade-five { background: linear-gradient(145deg, #fbfffd 0%, #e6f8f1 100%); }
+.sf-grade-choice::after { left: auto; right: -71px; bottom: -78px; opacity: .55; }
+.sf-grade-four::after { background: #ffd26b; }.sf-grade-five::after { background: #7bd2b6; }
+.sf-grade-choice-icon { border-radius: 17px; box-shadow: 0 8px 16px rgba(31,54,84,.08); }
+.sf-grade-choice p { color: #b77b1d; }
+.sf-grade-choice h2 { color: var(--ink-deep); }
+.sf-grade-choice > span { color: #56718a; }
+.sf-grade-choice small { margin-top: auto; color: #4a8778; }
+.sf-grade-choice button { position: relative; right: auto; bottom: auto; align-self: flex-start; margin-top: 18px; border-radius: 13px; background: linear-gradient(135deg, #3978c6, #245b9b); box-shadow: 0 9px 16px rgba(36,91,155,.2); transition: transform 160ms var(--ease-out), box-shadow 160ms var(--ease-out); }
+.sf-grade-five button { background: linear-gradient(135deg, #258f7a, #147260); box-shadow: 0 9px 16px rgba(20,114,96,.2); }
+.sf-grade-choice button:hover { transform: translateY(-2px); box-shadow: 0 12px 20px rgba(31,54,84,.22); }
+
+@media (max-width: 650px) {
+  .sf-grade-topbar { padding: 10px 12px; }
+  .sf-grade-choice { min-height: 274px; padding: 25px; }
+  .sf-access-card { border-radius: 20px; }
 }
