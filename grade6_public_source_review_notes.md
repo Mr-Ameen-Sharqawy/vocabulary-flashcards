@@ -79,3 +79,7 @@ The Pixabay asset `https://pixabay.com/illustrations/woman-weaving-traditional-c
 ## Accepted Openclipart dolphins candidate
 
 The Openclipart detail page `https://openclipart.org/detail/216002/dolphin-blue-tandem` provides a direct PNG download with no account required. The saved candidate `openclipart-dolphins-216002.png` clearly depicts two blue dolphins jumping together above stylised water, without writing, logo, or watermark. It is accepted for the Grade 6 term `dolphins`.
+
+## Accepted Pixabay snorkel candidate
+
+The Pixabay vector page `https://pixabay.com/vectors/scuba-diving-diver-diving-147683/` provides the saved image `pixabay-snorkel-diver-147683.png`. It is a clear, clean cartoon of a swimmer wearing fins and a mask with a visible breathing tube; although it also includes an air tank, the snorkel equipment is prominent. No writing, logo, or watermark is visible, so it is accepted as a pedagogically close visual for the Grade 6 term `snorkel`.
