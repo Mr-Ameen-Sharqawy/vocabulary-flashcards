@@ -286,3 +286,7 @@ The Pixabay vector `https://pixabay.com/vectors/insects-bugs-cartoon-ant-bee-680
 ## Accepted Creazilla great-blue-heron candidate
 
 The Creazilla vector `https://creazilla.com/media/clipart/15568959/great-blue-heron` is indexed under the Creazilla Open License, permitting educational and commercial use without attribution. The reviewed 1667×1920 original shows one complete blue-grey heron standing in shallow water, with a long curved neck, yellow bill, yellow legs, and clear feather details. It has no visible writing, logos, watermarks, or colour artifacts, and is accepted as a direct visual for `heron`. This supersedes only the prior Public Domain Vectors candidate that could not be retrieved—not that prior rejection decision.
+
+## Accepted Creazilla compost-pit candidate for natural fertilizer
+
+The Creazilla vector `https://creazilla.com/media/clipart/7754655/compost-pit` is indexed under the Creazilla Open License, permitting educational and commercial use without attribution. The reviewed 800×489 original depicts a complete cross-section compost pit containing recognisable food scraps such as a banana peel, carrot, and eggshells. It has no visible words, logos, watermarks, or colour artifacts. It is accepted as a documented pedagogical close-match for `natural fertilizer` because compost is made from natural waste and used as a natural fertilizer.

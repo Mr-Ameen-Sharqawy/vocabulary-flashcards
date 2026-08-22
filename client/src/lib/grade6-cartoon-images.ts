@@ -77,6 +77,7 @@ export const grade6CartoonImages: Record<string, string> = {
   "irrigation": "/manus-storage/creazilla-watering-can-78561_eaa385ec.png",
   "insects": "/manus-storage/pixabay-insects-bugs-cartoon-6809694_b9170ffb.png",
   "heron": "/manus-storage/creazilla-great-blue-heron-15568959_4c174b3e.png",
+  "natural fertilizer": "/manus-storage/creazilla-compost-pit-7754655_4a40b1eb.png",
 };
 
 export function grade6CartoonImageForTerm(term: string, fallback: string) {
