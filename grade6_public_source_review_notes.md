@@ -83,3 +83,11 @@ The Openclipart detail page `https://openclipart.org/detail/216002/dolphin-blue-
 ## Accepted Pixabay snorkel candidate
 
 The Pixabay vector page `https://pixabay.com/vectors/scuba-diving-diver-diving-147683/` provides the saved image `pixabay-snorkel-diver-147683.png`. It is a clear, clean cartoon of a swimmer wearing fins and a mask with a visible breathing tube; although it also includes an air tank, the snorkel equipment is prominent. No writing, logo, or watermark is visible, so it is accepted as a pedagogically close visual for the Grade 6 term `snorkel`.
+
+## Carpet candidate — not accepted
+
+The Openclipart candidate `https://openclipart.org/detail/157969/colorful-carpet` was found in the public results, but its detail-page image did not render in the browser and the direct bitmap download did not complete. Since the artwork could not be visually checked for its teaching value or any visible mark, it is not accepted for Grade 6.
+
+## Accepted Pixabay factory candidate
+
+The Pixabay illustration `https://pixabay.com/illustrations/factory-industry-warehouse-3550551/` was saved as `pixabay-factory-3550551.png`. It is a clear flat-cartoon factory building with a chimney, warehouse roof, windows, and no visible writing, logo, or watermark. It is accepted for the Grade 6 term `factory`.
