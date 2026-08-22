@@ -306,3 +306,7 @@ The reviewed Pixabay potted-plants animation candidate shows three unrelated hou
 ## Red-perch CC0 candidate — rejected as too simplified for Nile perch
 
 The Creazilla vector `https://creazilla.com/media/clipart/77790/red-perch` is indexed as Public Domain (CC0), and its 800×317 original was reviewed. It is clean and has no writing, but the flat red fish with an oversized eye is overly simplistic and does not convey the form or colouring of a Nile perch. It was not accepted as either a direct or pedagogically close visual for `Nile perch`.
+
+## Creazilla alligator candidate — rejected for visible watermark
+
+The Creazilla vector `https://creazilla.com/media/clipart/3174549/alligator` appears initially as a clear, complete green cartoon alligator. However, a second in-context review after the card was revealed in the app showed the visible `PICTURE CLUB` mark at the top-left of the artwork. This violates the project’s strict no-watermark rule, so the asset was removed from the Grade 6 map and must not be used for `crocodile`.
