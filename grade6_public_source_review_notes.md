@@ -144,6 +144,20 @@ The Pixabay illustration `https://pixabay.com/illustrations/summer-beach-water-n
 
 The Pixabay illustration `https://pixabay.com/illustrations/carpenter-woodworking-hammer-9972760/` was downloaded as `pixabay-carpenter-woodworking-9972760.png`. Its central cartoon carpenter is visually relevant, but the transparent file contains extensive black, red, green, and grey horizontal rendering strips behind the subject. The artifact is highly visible against a flashcard background, so the image is not accepted.
 
+## Crocodile candidate — rejected for visible text
+
+The Pixabay vector `https://pixabay.com/vectors/crocodile-cartoon-crocodile-9893879/` was downloaded as `pixabay-crocodile-cartoon-9893879.png`. The crocodile itself is colourful and clear, but the top of the illustration prominently displays the word `CROCODILE`. This violates the no-visible-text rule for flashcard artwork, so it is not accepted.
+
+## Duck candidate — rejected for overly simple line-art style
+
+The Pixabay vector `https://pixabay.com/vectors/duck-swim-brown-gray-green-funny-307707/` depicts a recognisable duck and is clean of text and watermarks. However, its sparse black outlines, flat colouring, and very simple shape language do not match the richer, colourful cartoon treatment used by the accepted Grade 6 cards. It is not accepted.
+
+## Duckling candidate — rejected for rendering artifacts
+
+The Pixabay vector `https://pixabay.com/vectors/cute-duckling-winter-duck-10014141/` was downloaded as `pixabay-cute-duckling-10014141.png`. Its main character is colourful and text-free, but the transparent image contains pronounced black and multicolour horizontal strips around the duckling. This makes it unsuitable for the flashcard backgrounds, so it is not accepted.
+
 ## Approved pedagogical reuse of existing Grade 6 art
 
 The accepted wind-turbine scene visibly shows several child-friendly white clouds, so it is also mapped to `clouds`. The accepted beach scene visibly shows blue sea water, so it is also mapped to `water`. The accepted stacked-coins image is also a direct visual for `gold`, and the accepted bench scene clearly depicts a wooden bench, so it is also used for `wooden`. These four links reuse reviewed artwork only; no additional source asset was counted or accepted.
+
+The same review principle supports seven more close links: the wind-turbine scene for `electricity` and `energy`; the oasis scene for `desert`; the factory scene for `factories`; the crops scene for `farms`; the fisherman scene for singular `fisherman`; and the approved furniture-making scene for `furniture`. Each connection is limited to a visible subject or scene, rather than an unrelated decorative image.
