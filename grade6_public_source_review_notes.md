@@ -201,3 +201,7 @@ The Pixabay vector `https://pixabay.com/vectors/tropical-hibiscus-flower-nature-
 ## Jasmine candidate — rejected for incomplete and photographic rendering
 
 The Pixabay illustration `https://pixabay.com/illustrations/ai-generated-jasmine-white-flowers-8661848/` loaded as a tiny cropped sliver on a transparent background. Its source treatment is also photo-like rather than a colourful cartoon. It is therefore not accepted for `jasmine`.
+
+## Accepted Pixabay kingfisher candidate
+
+The Pixabay illustration `https://pixabay.com/illustrations/kingfisher-nature-branch-2393409/` was saved as `pixabay-kingfisher-nature-branch-2393409.png`. The reviewed transparent PNG clearly shows a full blue-and-gold kingfisher perched on a pale tree branch. It has no visible words, logos, watermarks, or colour-strip artifacts, and its direct colourful-cartoon treatment makes the bird recognisable for the Grade 6 term `kingfisher`.
