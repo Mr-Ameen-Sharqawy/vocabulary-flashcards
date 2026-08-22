@@ -282,3 +282,7 @@ The Creazilla asset `https://creazilla.com/media/clipart/3151438/herb` is indexe
 ## Accepted Pixabay insects candidate
 
 The Pixabay vector `https://pixabay.com/vectors/insects-bugs-cartoon-ant-bee-6809694/` was saved as `pixabay-insects-bugs-cartoon-6809694.png`. The reviewed 720×720 transparent PNG cleanly shows four complete, cheerful cartoon insects—an ant, bee, grasshopper, and cockroach—with no words, logos, watermarks, or colour artifacts. It provides a direct, varied visual representation for the Grade 6 term `insects` and is accepted.
+
+## Accepted Creazilla great-blue-heron candidate
+
+The Creazilla vector `https://creazilla.com/media/clipart/15568959/great-blue-heron` is indexed under the Creazilla Open License, permitting educational and commercial use without attribution. The reviewed 1667×1920 original shows one complete blue-grey heron standing in shallow water, with a long curved neck, yellow bill, yellow legs, and clear feather details. It has no visible writing, logos, watermarks, or colour artifacts, and is accepted as a direct visual for `heron`. This supersedes only the prior Public Domain Vectors candidate that could not be retrieved—not that prior rejection decision.
