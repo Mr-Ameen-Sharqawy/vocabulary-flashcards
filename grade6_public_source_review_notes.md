@@ -168,6 +168,10 @@ The Pixabay illustration `https://pixabay.com/illustrations/drought-cracked-eart
 
 The Pixabay vector `https://pixabay.com/vectors/garbage-container-recycling-trash-157110/` was downloaded as `pixabay-garbage-container-157110.png`. It shows four bright, recognisable waste containers and clear recycling symbols, with no written words, watermark, logo, or rendering artifact. It is accepted as a child-friendly, pedagogically close image for the Grade 6 term `garbage`.
 
+## Accepted Pixabay garbage-bags candidate
+
+The Pixabay vector `https://pixabay.com/vectors/waste-garbage-bag-trash-can-10207886/` was downloaded as `pixabay-garbage-bag-10207886.png`. It is a clean, colourful cartoon showing a tied black garbage bag being thrown into an open green waste bin. The reviewed artwork contains no visible writing, logo, watermark, or artifact. It is accepted as a direct educational visual for the Grade 6 term `garbage bags`.
+
 ## Approved pedagogical reuse of existing Grade 6 art
 
 The accepted wind-turbine scene visibly shows several child-friendly white clouds, so it is also mapped to `clouds`. The accepted beach scene visibly shows blue sea water, so it is also mapped to `water`. The accepted stacked-coins image is also a direct visual for `gold`, and the accepted bench scene clearly depicts a wooden bench, so it is also used for `wooden`. These four links reuse reviewed artwork only; no additional source asset was counted or accepted.
