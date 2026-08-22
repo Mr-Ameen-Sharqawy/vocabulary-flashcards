@@ -262,3 +262,11 @@ The Pixabay organic-compost search page was reviewed directly. Its only colourfu
 ## Accepted Creazilla peppermint-herb candidate
 
 The Creazilla page `https://creazilla.com/media/clipart/15795/peppermint-herb` is listed in the search index as Public Domain (CC0), allowing educational and commercial use without attribution. Its direct page was CAPTCHA-blocked, so it was not relied on for visual evaluation. The downloaded 800×742 original search asset was independently reviewed: it is a complete bright-green peppermint sprig with five veined leaves, no visible text, logos, watermarks, or colour artifacts. It is accepted as a direct educational visual for `mint`.
+
+## Parsley CC0 candidate — not accepted pending retrievable original
+
+The Creazilla page `https://creazilla.com/media/clipart/13368/parsley` is indexed as Public Domain (CC0), but its direct page was CAPTCHA-blocked. Two predictable media endpoints for the original returned `403` and `404`, respectively. As no full source file could be retrieved and reviewed, the candidate was not accepted or mapped to `parsley`.
+
+## Basil CC0 candidate — rejected as visually indistinguishable from mint
+
+The Creazilla asset `https://creazilla.com/media/clipart/15776/basil-herb-leaves` is indexed as Public Domain (CC0), and its downloaded 800×742 candidate is clean and complete. However, its five bright-green leaves are visually identical to the CC0 peppermint-herb asset already accepted for `mint`; it does not offer a reliable visual distinction for learners. To avoid teaching two different terms with the same artwork, it was not mapped to `basil`.
