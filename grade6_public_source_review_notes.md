@@ -205,3 +205,15 @@ The Pixabay illustration `https://pixabay.com/illustrations/ai-generated-jasmine
 ## Accepted Pixabay kingfisher candidate
 
 The Pixabay illustration `https://pixabay.com/illustrations/kingfisher-nature-branch-2393409/` was saved as `pixabay-kingfisher-nature-branch-2393409.png`. The reviewed transparent PNG clearly shows a full blue-and-gold kingfisher perched on a pale tree branch. It has no visible words, logos, watermarks, or colour-strip artifacts, and its direct colourful-cartoon treatment makes the bird recognisable for the Grade 6 term `kingfisher`.
+
+## Basil search — no accepted candidate
+
+The public Pixabay search `https://pixabay.com/images/search/basil%20leaves/` was inspected directly. Its visible non-sponsored results were photographs of real basil plants, leaves, or food; the top colourful leaf thumbnails were sponsored commercial images rather than eligible Pixabay assets. Since the project requires a colourful child-friendly cartoon rather than photography, no basil candidate was downloaded or accepted from this search.
+
+## Irrigation-system candidate — rejected for incomplete transparent rendering
+
+The Pixabay illustration `https://pixabay.com/illustrations/irrigation-irrigation-system-farm-8175987/` was opened directly. Its purported artwork did not render as a complete colourful scene; only a few black line fragments appeared over a large transparent checkerboard area. This makes the irrigation system unusable in the student-facing flashcard, so it was not downloaded or accepted.
+
+## Mint candidate — rejected for blank transparent rendering
+
+The Pixabay illustration `https://pixabay.com/illustrations/peppermint-herb-leaves-mint-leaves-7948494/` was opened directly. Its intended mint-leaf artwork did not appear at all in the image area, which remained a blank transparent checkerboard. As the source file could not be visually inspected for a complete, colourful, text-free plant illustration, it was not downloaded or accepted for `mint`.
