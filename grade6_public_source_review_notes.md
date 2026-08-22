@@ -115,3 +115,7 @@ The Pixabay illustration `https://pixabay.com/illustrations/crochet-yarn-knittin
 ## Accepted Openclipart landscape candidate
 
 The Openclipart image `https://openclipart.org/detail/268296/colorful-rural-landscape` was saved as `openclipart-rural-landscape-268296.png`. It is a bright, clean cartoon rural landscape showing hills, mountains, a river, trees, a road, and small homes. No writing, logo, or watermark is visible, so it is accepted for the Grade 6 term `landscape`.
+
+## National park candidate — not accepted
+
+The Openclipart candidate `https://openclipart.org/detail/189709/yellow-stone-park` describes a bear viewing a waterfall in Yellowstone National Park, but the associated bitmap download timed out before a visual review could be completed. It is therefore not accepted for Grade 6.
